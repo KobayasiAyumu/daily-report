@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-02-19T20:26:48.602033Z"
+    "last_updated": "2026-02-19T22:21:49.696459Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "【15分で追いつく！】今のClaude Codeができることをざっくり解説",
         "url": "https://qiita.com/kyuko/items/77e9e022860b57e4bd4d",
-        "likes": 287,
+        "likes": 292,
         "author": "kyuko",
         "avatar_url": "https://avatars1.githubusercontent.com/u/54434978?v=4",
         "tags": [
@@ -31,7 +31,7 @@
       {
         "title": "AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける",
         "url": "https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3",
-        "likes": 191,
+        "likes": 195,
         "author": "natume_nat",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/488226/profile-images/1738023065",
         "tags": [
@@ -107,7 +107,7 @@
         "name": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "stars": 211451,
+        "stars": 211660,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
@@ -115,7 +115,7 @@
         "name": "DigitalPlatDev/FreeDomain",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
-        "stars": 148141,
+        "stars": 148148,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126394654?v=4"
       },
@@ -123,7 +123,7 @@
         "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 115204,
+        "stars": 115218,
         "language": null,
         "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4"
       },
@@ -131,7 +131,7 @@
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 107068,
+        "stars": 107100,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
       },
