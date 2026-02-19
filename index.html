@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Trend Dashboard</title>
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- ヘッダー -->
+    <header class="header">
+        <div class="container header-content">
+            <h1 class="logo">
+                <i class="fa-solid fa-bolt" style="color: var(--accent-color);"></i>
+                Tech Trend Dashboard
+            </h1>
+            <div class="last-updated" id="last-updated">
+                <i class="fa-regular fa-clock"></i> 自動更新中...
+            </div>
+            <!-- GitHubへのリンク等があればここに配置 -->
+            <a href="https://github.com/" target="_blank" class="github-link" aria-label="View Source on GitHub">
+                <i class="fa-brands fa-github"></i>
+            </a>
+        </div>
+    </header>
+
+    <!-- メインコンテンツ -->
+    <main class="container main-content">
+        <!-- ヒーローセクション -->
+        <section class="hero">
+            <h2>日本の最新ITトレンドを毎朝お届け</h2>
+            <p>Qiita、Zenn、GitHubから集めた「今読まれている記事」「注目されているリポジトリ」を自動で収集・可視化しています。このページはGitHub Actionsによって毎日自動的に更新されます。</p>
+        </section>
+
+        <!-- ダッシュボード・グリッド -->
+        <div class="dashboard-grid">
+            
+            <!-- Zenn トレンド -->
+            <section class="trend-section zenn-section">
+                <div class="section-header zenn-header">
+                    <h3>
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="zenn-icon">
+                            <path d="M22 24H2L13.7846 12L2 0H22L10.2154 12L22 24Z" fill="currentColor"/>
+                        </svg>
+                        Zenn 注目記事
+                    </h3>
+                </div>
+                <div class="card-list" id="zenn-list">
+                    <!-- JSで動的に追加される -->
+                    <div class="loading-state"><i class="fa-solid fa-spinner fa-spin"></i> 取得中...</div>
+                </div>
+            </section>
+
+            <!-- Qiita トレンド -->
+            <section class="trend-section qiita-section">
+                <div class="section-header qiita-header">
+                    <h3>
+                        <img src="https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png" class="qiita-icon" alt="Qiita">
+                        Qiita 急上昇記事
+                    </h3>
+                </div>
+                <div class="card-list" id="qiita-list">
+                    <!-- JSで動的に追加される -->
+                    <div class="loading-state"><i class="fa-solid fa-spinner fa-spin"></i> 取得中...</div>
+                </div>
+            </section>
+
+            <!-- GitHub トレンド -->
+            <section class="trend-section github-section">
+                <div class="section-header github-header">
+                    <h3><i class="fa-brands fa-github"></i> GitHub トレンド</h3>
+                </div>
+                <div class="card-list" id="github-list">
+                    <!-- JSで動的に追加される -->
+                    <div class="loading-state"><i class="fa-solid fa-spinner fa-spin"></i> 取得中...</div>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- フッター -->
+    <footer class="footer">
+        <div class="container footer-content">
+            <p>&copy; <span id="year"></span> Tech Trend Dashboard</p>
+            <p class="footer-note">Built with Python, GitHub Actions & Vanilla JS.</p>
+        </div>
+    </footer>
+
+    <!-- スクリプト -->
+    <script src="app.js"></script>
+</body>
+</html>
