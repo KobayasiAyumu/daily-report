@@ -1,49 +1,37 @@
 {
   "metadata": {
-    "last_updated": "2026-03-01T22:14:34.807248Z"
+    "last_updated": "2026-03-02T22:19:14.498987Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する",
-        "url": "https://qiita.com/uno_ha07/items/5820d195510861b5be71",
-        "likes": 244,
-        "author": "uno_ha07",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3792784/52368217008684de0f3044a9d292155d79ab40e8/x_large.png?1771952525",
+        "title": "Claude Codeですべての日常業務を爆速化しよう！",
+        "url": "https://qiita.com/minorun365/items/114f53def8cb0db60f47",
+        "likes": 287,
+        "author": "minorun365",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1633856/c226bc34ac6c45a21f5e512d1c72a6f097494578/x_large.png?1699954976",
         "tags": [
           "AI",
-          "Claude",
+          "AIエージェント",
           "ClaudeCode"
         ]
       },
       {
-        "title": "プログラミングを15年やって、一番大事なのはプログラミングじゃないと気づいた",
-        "url": "https://qiita.com/hetare001/items/1c992f5e2a2d661900e2",
-        "likes": 228,
-        "author": "hetare001",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3311160/profile-images/1746102446",
-        "tags": [
-          "Excel",
-          "VBA",
-          "初心者"
-        ]
-      },
-      {
-        "title": "Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した",
-        "url": "https://qiita.com/emi_ndk/items/fb529b2ede94661e5287",
+        "title": "【初心者向け】プログラミング初心者が知っておきたい有名な原則・考え方 10選",
+        "url": "https://qiita.com/ktdatascience/items/8a159a81a9c5531c985c",
         "likes": 184,
-        "author": "emi_ndk",
-        "avatar_url": "https://avatars.githubusercontent.com/u/54173850?v=4",
+        "author": "ktdatascience",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
         "tags": [
-          "Security",
-          "AI",
-          "脆弱性診断"
+          "プログラミング",
+          "初心者",
+          "ポエム"
         ]
       },
       {
         "title": "Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った",
         "url": "https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b",
-        "likes": 174,
+        "likes": 181,
         "author": "nokonoko_1203",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/203944/profile-images/1720787142",
         "tags": [
@@ -55,7 +43,7 @@
       {
         "title": "【後編】「で、\"結局\"今どんな状況なの？」と言われたとき、あなたの報告はまだ“報告”になっていない",
         "url": "https://qiita.com/hitomin_poke/items/c66354eda2dbb749207f",
-        "likes": 163,
+        "likes": 168,
         "author": "hitomin_poke",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4031494/profile-images/1751384543",
         "tags": [
@@ -63,43 +51,55 @@
           "教育",
           "コミュニケーション"
         ]
+      },
+      {
+        "title": "個人開発でClaudeCodeに画面操作付きPR動画を生成させてXに自動投稿してる話",
+        "url": "https://qiita.com/akachiryo/items/2777af8e9912d6bbbbb3",
+        "likes": 165,
+        "author": "akachiryo",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1798471/profile-images/1712155705",
+        "tags": [
+          "個人開発",
+          "Next.js",
+          "GitHubActions"
+        ]
       }
     ],
     "zenn": [
       {
-        "title": "東京大学の入試数学とJulia言語",
-        "url": "https://zenn.dev/dannchu/books/u-tokyo-2026-julia",
-        "author": "清水団",
-        "date": "Sun, 01 Mar 2026 04:39:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--udw4u0VX--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mZDg2ZGNmNDZkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
+        "title": "あなたはEntra IDを理解できる",
+        "url": "https://zenn.dev/headwaters/articles/64e6aad7acdff9",
+        "author": "妹尾悠真",
+        "date": "Mon, 02 Mar 2026 01:02:43 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ykaLCtyG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25AFEntra%2520ID%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A6%25B9%25E5%25B0%25BE%25E6%2582%25A0%25E7%259C%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhOTNmNzAyMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "セキュリティって難しい",
-        "url": "https://zenn.dev/mizutani/articles/security-is-so-difficult",
-        "author": "Masayoshi MIZUTANI",
-        "date": "Sun, 01 Mar 2026 01:36:01 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--AKX8E0hm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25A3%25E3%2581%25A6%25E9%259B%25A3%25E3%2581%2597%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Masayoshi%2520MIZUTANI%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dfUFlFOTV5Z3JPdmpiM0ttajdSZnE0eDNWc1ZTLTVBaWJJMV9IVlE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "上場企業のメールセキュリティを調べてみた – DMARC・SPF設定の実態",
+        "url": "https://zenn.dev/ext0mmy/articles/700c30ca00b7f5",
+        "author": "ext0mmy",
+        "date": "Sun, 01 Mar 2026 23:00:01 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--nny8AEWy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%258A%25E5%25A0%25B4%25E4%25BC%2581%25E6%25A5%25AD%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2520%25E2%2580%2593%2520DMARC%25E3%2583%25BBSPF%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25AE%25E5%25AE%259F%25E6%2585%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ext0mmy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2YwNWI1ZWMwYTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "React Tokyo フェス2026 参加レポート",
-        "url": "https://zenn.dev/polipoli/articles/react-tokyo-fes-2026-report",
-        "author": "シュレック倉田",
-        "date": "Sat, 28 Feb 2026 13:49:57 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6D85QlEX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Tokyo%2520%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25B92026%2520%25E5%258F%2582%25E5%258A%25A0%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25B7%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E5%2580%2589%25E7%2594%25B0%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1OTY3NGY4ZWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEPoliPoli%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFmZGI1ZmJjNzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "もう.envにAPIキーを平文で置くのはやめた — macOS Keychain管理CLI「LLM Key Ring」",
+        "url": "https://zenn.dev/yottayoshida/articles/llm-key-ring-secure-api-key-management",
+        "author": "yotta",
+        "date": "Sun, 01 Mar 2026 09:05:14 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--LNc5tB-Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%2582%25E3%2581%2586.env%25E3%2581%25ABAPI%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2592%25E5%25B9%25B3%25E6%2596%2587%25E3%2581%25A7%25E7%25BD%25AE%25E3%2581%258F%25E3%2581%25AE%25E3%2581%25AF%25E3%2582%2584%25E3%2582%2581%25E3%2581%259F%2520%25E2%2580%2594%2520macOS%2520Keychain%25E7%25AE%25A1%25E7%2590%2586CLI%25E3%2580%258CLLM%2520Key%2520Ring%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yotta%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzNFeG9fM3BXaEhaNjFkN2RWMHhoY1MyemNpN1Z1VktzXzdhQzR2aVZiZXVhZGhKUFRLZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "例を増やしたらLLMの性能が下がる ── few-shot collapseの発見と検出方法",
-        "url": "https://zenn.dev/okuma/articles/few_shot_collapse",
-        "author": "shun",
-        "date": "Sat, 28 Feb 2026 12:29:00 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--86N2fD5e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BE%258B%25E3%2582%2592%25E5%25A2%2597%25E3%2582%2584%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589LLM%25E3%2581%25AE%25E6%2580%25A7%25E8%2583%25BD%25E3%2581%258C%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258B%2520%25E2%2594%2580%25E2%2594%2580%2520few-shot%2520collapse%25E3%2581%25AE%25E7%2599%25BA%25E8%25A6%258B%25E3%2581%25A8%25E6%25A4%259C%25E5%2587%25BA%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shun%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ViMTI4YmFhZGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Skillsで実現する軽量パーソナルRAG",
+        "url": "https://zenn.dev/karaage0703/articles/d7eaf62437185d",
+        "author": "からあげ",
+        "date": "Sun, 01 Mar 2026 08:17:28 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--0vhi5T-Q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Skills%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E8%25BB%25BD%25E9%2587%258F%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25BD%25E3%2583%258A%25E3%2583%25ABRAG%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "GoとRustのざっくり性能比較",
-        "url": "https://zenn.dev/ponyo877/articles/ae398e081464ff",
-        "author": "ponyo877",
-        "date": "Sat, 28 Feb 2026 10:57:53 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--4B-Vogqo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%25E3%2581%25A8Rust%25E3%2581%25AE%25E3%2581%2596%25E3%2581%25A3%25E3%2581%258F%25E3%2582%258A%25E6%2580%25A7%25E8%2583%25BD%25E6%25AF%2594%25E8%25BC%2583%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ponyo877%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZkMzM5MWQwY2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "壊れにくいUIテストの設計を考える（Playwright + Storybook + React + GitHub Actions）",
+        "url": "https://zenn.dev/ohimusdev46301/articles/be70f58bf82926",
+        "author": "Wataru Takiguchi",
+        "date": "Sun, 01 Mar 2026 04:51:21 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--7hpdG9pU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25AB%25E3%2581%258F%25E3%2581%2584UI%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%25EF%25BC%2588Playwright%2520%252B%2520Storybook%2520%252B%2520React%2520%252B%2520GitHub...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Wataru%2520Takiguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE4NjM4YTAxYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -107,7 +107,7 @@
         "name": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "stars": 242848,
+        "stars": 247537,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
@@ -115,7 +115,7 @@
         "name": "DigitalPlatDev/FreeDomain",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
-        "stars": 150073,
+        "stars": 150273,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126394654?v=4"
       },
@@ -123,7 +123,7 @@
         "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 126829,
+        "stars": 127237,
         "language": null,
         "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4"
       },
@@ -131,7 +131,7 @@
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 113549,
+        "stars": 114319,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
       },
@@ -139,7 +139,7 @@
         "name": "deepseek-ai/DeepSeek-V3",
         "description": null,
         "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-        "stars": 101813,
+        "stars": 101831,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       }
