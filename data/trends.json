@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-03-02T22:19:14.498987Z"
+    "last_updated": "2026-03-03T22:19:44.447716Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "Claude Codeですべての日常業務を爆速化しよう！",
         "url": "https://qiita.com/minorun365/items/114f53def8cb0db60f47",
-        "likes": 287,
+        "likes": 587,
         "author": "minorun365",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1633856/c226bc34ac6c45a21f5e512d1c72a6f097494578/x_large.png?1699954976",
         "tags": [
@@ -19,7 +19,7 @@
       {
         "title": "【初心者向け】プログラミング初心者が知っておきたい有名な原則・考え方 10選",
         "url": "https://qiita.com/ktdatascience/items/8a159a81a9c5531c985c",
-        "likes": 184,
+        "likes": 271,
         "author": "ktdatascience",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
         "tags": [
@@ -31,7 +31,7 @@
       {
         "title": "Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った",
         "url": "https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b",
-        "likes": 181,
+        "likes": 184,
         "author": "nokonoko_1203",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/203944/profile-images/1720787142",
         "tags": [
@@ -43,7 +43,7 @@
       {
         "title": "【後編】「で、\"結局\"今どんな状況なの？」と言われたとき、あなたの報告はまだ“報告”になっていない",
         "url": "https://qiita.com/hitomin_poke/items/c66354eda2dbb749207f",
-        "likes": 168,
+        "likes": 174,
         "author": "hitomin_poke",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4031494/profile-images/1751384543",
         "tags": [
@@ -53,53 +53,53 @@
         ]
       },
       {
-        "title": "個人開発でClaudeCodeに画面操作付きPR動画を生成させてXに自動投稿してる話",
-        "url": "https://qiita.com/akachiryo/items/2777af8e9912d6bbbbb3",
-        "likes": 165,
-        "author": "akachiryo",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1798471/profile-images/1712155705",
+        "title": "Claude Code 初学者ロードマップ",
+        "url": "https://qiita.com/marugame/items/8b870661f80d63499336",
+        "likes": 106,
+        "author": "marugame",
+        "avatar_url": "https://secure.gravatar.com/avatar/0f6798adb924958ec03294426e238012",
         "tags": [
-          "個人開発",
-          "Next.js",
-          "GitHubActions"
+          "ポエム",
+          "AI",
+          "業務自動化"
         ]
       }
     ],
     "zenn": [
       {
-        "title": "あなたはEntra IDを理解できる",
-        "url": "https://zenn.dev/headwaters/articles/64e6aad7acdff9",
-        "author": "妹尾悠真",
-        "date": "Mon, 02 Mar 2026 01:02:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ykaLCtyG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25AFEntra%2520ID%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A6%25B9%25E5%25B0%25BE%25E6%2582%25A0%25E7%259C%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhOTNmNzAyMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)",
+        "url": "https://zenn.dev/aeyesec/articles/417578718dcced",
+        "author": "はるぷ",
+        "date": "Tue, 03 Mar 2026 00:37:27 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--rlw0_ijC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PR%25E3%2582%2592%25E9%2580%2581%25E3%2582%258B%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2583%25AA%25E3%2583%259D%25E3%2582%25B8%25E3%2583%2588%25E3%2583%25AA%25E3%2582%2592%25E3%2580%258C%25E4%25B9%2597%25E3%2581%25A3%25E5%258F%2596%25E3%2582%258C%25E3%2582%258B%25E3%2580%258D%25EF%25BC%259FGitHub%2520Actions%25E3%2581%25AE%25E5%258D%25B1%25E3%2581%25AA%25E3%2581%2584%25E6%259B%25B8%25E3%2581%258D%25E6%2596%25B9%25E3%2582%2592%25E5%25AE%259F%25E9%259A%259B%25E3%2581%25AB%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2520%2528ha...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25AF%25E3%2582%258B%25E3%2581%25B7%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzliYzQ2MGNkMjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25A9%25E3%2583%259C%2520%25E9%2596%258B%25E7%2599%25BA%25E6%259C%25AC%25E9%2583%25A8%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2UyYzgyMzljMzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "上場企業のメールセキュリティを調べてみた – DMARC・SPF設定の実態",
-        "url": "https://zenn.dev/ext0mmy/articles/700c30ca00b7f5",
-        "author": "ext0mmy",
-        "date": "Sun, 01 Mar 2026 23:00:01 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--nny8AEWy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%258A%25E5%25A0%25B4%25E4%25BC%2581%25E6%25A5%25AD%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2520%25E2%2580%2593%2520DMARC%25E3%2583%25BBSPF%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25AE%25E5%25AE%259F%25E6%2585%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ext0mmy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2YwNWI1ZWMwYTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Async React時代の宣言的UI: デバウンスの例",
+        "url": "https://zenn.dev/uhyo/articles/async-react-debounce",
+        "author": "uhyo",
+        "date": "Mon, 02 Mar 2026 15:10:48 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--nsWa6jSJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Async%2520React%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E5%25AE%25A3%25E8%25A8%2580%25E7%259A%2584UI%253A%2520%25E3%2583%2587%25E3%2583%2590%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B9%25E3%2581%25AE%25E4%25BE%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "もう.envにAPIキーを平文で置くのはやめた — macOS Keychain管理CLI「LLM Key Ring」",
-        "url": "https://zenn.dev/yottayoshida/articles/llm-key-ring-secure-api-key-management",
-        "author": "yotta",
-        "date": "Sun, 01 Mar 2026 09:05:14 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--LNc5tB-Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%2582%25E3%2581%2586.env%25E3%2581%25ABAPI%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2592%25E5%25B9%25B3%25E6%2596%2587%25E3%2581%25A7%25E7%25BD%25AE%25E3%2581%258F%25E3%2581%25AE%25E3%2581%25AF%25E3%2582%2584%25E3%2582%2581%25E3%2581%259F%2520%25E2%2580%2594%2520macOS%2520Keychain%25E7%25AE%25A1%25E7%2590%2586CLI%25E3%2580%258CLLM%2520Key%2520Ring%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yotta%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzNFeG9fM3BXaEhaNjFkN2RWMHhoY1MyemNpN1Z1VktzXzdhQzR2aVZiZXVhZGhKUFRLZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "個人開発に無料の日本語全文検索を - Cloudflare D1 と Web Component でつくる検索 API",
+        "url": "https://zenn.dev/coji/articles/cloudflare-d1-fts5-japanese-search-api",
+        "author": "Coji Mizoguchi",
+        "date": "Mon, 02 Mar 2026 12:19:49 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--WRKm-J9G--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E7%2584%25A1%25E6%2596%2599%25E3%2581%25AE%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E5%2585%25A8%25E6%2596%2587%25E6%25A4%259C%25E7%25B4%25A2%25E3%2582%2592%2520-%2520Cloudflare%2520D1%2520%25E3%2581%25A8%2520Web%2520Component%2520%25E3%2581%25A7%25E3%2581%25A4%25E3%2581%258F%25E3%2582%258B%25E6%25A4%259C%25E7%25B4%25A2%2520API%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Coji%2520Mizoguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pWY2RrNjcwV2NIdGs0anBHa2FGTDAxcERVUVlIX0JYdWE5aDRVNVE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Skillsで実現する軽量パーソナルRAG",
-        "url": "https://zenn.dev/karaage0703/articles/d7eaf62437185d",
-        "author": "からあげ",
-        "date": "Sun, 01 Mar 2026 08:17:28 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--0vhi5T-Q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Skills%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E8%25BB%25BD%25E9%2587%258F%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25BD%25E3%2583%258A%25E3%2583%25ABRAG%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Contextを引数でバケツリレーするのはもう辞めよう",
+        "url": "https://zenn.dev/praha/articles/9aa56e6ca4ad40",
+        "author": "Karibash",
+        "date": "Mon, 02 Mar 2026 11:05:50 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1qzeqx5V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Context%25E3%2582%2592%25E5%25BC%2595%25E6%2595%25B0%25E3%2581%25A7%25E3%2583%2590%25E3%2582%25B1%25E3%2583%2584%25E3%2583%25AA%25E3%2583%25AC%25E3%2583%25BC%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AF%25E3%2582%2582%25E3%2581%2586%25E8%25BE%259E%25E3%2582%2581%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Karibash%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdiZDIyMmFjMTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PrAha%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dPMW45d0ZmU3FpV21hNW9HWlAzczc4YnRIN0VBUXE5aDdaOU5VZ3c9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "壊れにくいUIテストの設計を考える（Playwright + Storybook + React + GitHub Actions）",
-        "url": "https://zenn.dev/ohimusdev46301/articles/be70f58bf82926",
-        "author": "Wataru Takiguchi",
-        "date": "Sun, 01 Mar 2026 04:51:21 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--7hpdG9pU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25AB%25E3%2581%258F%25E3%2581%2584UI%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%25EF%25BC%2588Playwright%2520%252B%2520Storybook%2520%252B%2520React%2520%252B%2520GitHub...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Wataru%2520Takiguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE4NjM4YTAxYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Hono 上で最小構成の React Server Components を実現する",
+        "url": "https://zenn.dev/pepabo/articles/hono-minimal-rsc",
+        "author": "yoshikouki",
+        "date": "Mon, 02 Mar 2026 10:52:43 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--SzNeSTtP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Hono%2520%25E4%25B8%258A%25E3%2581%25A7%25E6%259C%2580%25E5%25B0%258F%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25AE%2520React%2520Server%2520Components%2520%25E3%2582%2592%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yoshikouki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA0ZTQxODhhYTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GMO%25E3%2583%259A%25E3%2583%2591%25E3%2583%259C%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I5YzZhMTdlMTIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -107,7 +107,7 @@
         "name": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "stars": 247537,
+        "stars": 253842,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
@@ -115,7 +115,7 @@
         "name": "DigitalPlatDev/FreeDomain",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
-        "stars": 150273,
+        "stars": 150478,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126394654?v=4"
       },
@@ -123,7 +123,7 @@
         "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 127237,
+        "stars": 127590,
         "language": null,
         "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4"
       },
@@ -131,7 +131,7 @@
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 114319,
+        "stars": 115099,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
       },
@@ -139,7 +139,7 @@
         "name": "deepseek-ai/DeepSeek-V3",
         "description": null,
         "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-        "stars": 101831,
+        "stars": 101863,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       }
