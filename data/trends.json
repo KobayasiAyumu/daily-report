@@ -1,25 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-03-11T22:19:17.043672Z"
+    "last_updated": "2026-03-12T22:16:03.132657Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "できるだけ無料でサービスを運用するための個人開発オススメデプロイ先",
-        "url": "https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b",
-        "likes": 229,
-        "author": "Hiru-ge",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3482722/profile-images/1745733331",
-        "tags": [
-          "Paas",
-          "個人開発",
-          "無料利用枠"
-        ]
-      },
-      {
         "title": "Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した",
         "url": "https://qiita.com/NF0000/items/66510f959b1c22f011a7",
-        "likes": 202,
+        "likes": 207,
         "author": "NF0000",
         "avatar_url": "https://avatars.githubusercontent.com/u/84976331?v=4",
         "tags": [
@@ -31,7 +19,7 @@
       {
         "title": "Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた",
         "url": "https://qiita.com/NF0000/items/6743216583b66168ec12",
-        "likes": 178,
+        "likes": 183,
         "author": "NF0000",
         "avatar_url": "https://avatars.githubusercontent.com/u/84976331?v=4",
         "tags": [
@@ -43,7 +31,7 @@
       {
         "title": "Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本",
         "url": "https://qiita.com/nogataka/items/fd00eff2cc08684fe77d",
-        "likes": 161,
+        "likes": 173,
         "author": "nogataka",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
         "tags": [
@@ -53,53 +41,65 @@
         ]
       },
       {
-        "title": "結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん",
-        "url": "https://qiita.com/renly/items/d6a7f12c2a472bef58bf",
-        "likes": 134,
-        "author": "renly",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/431979/profile-images/1739580061",
+        "title": "【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】",
+        "url": "https://qiita.com/Sicut_study/items/299a221088f5905332a4",
+        "likes": 128,
+        "author": "Sicut_study",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/810513/profile-images/1714917423",
         "tags": [
-          "Java",
-          "Python",
-          "オブジェクト指向"
+          "TypeScript",
+          "デザインパターン",
+          "React"
+        ]
+      },
+      {
+        "title": "BFF(Backend For Frontend)入門：なぜ中間にサーバーを置くのか？",
+        "url": "https://qiita.com/aki_number16/items/c4b0a91e1a6b5cf2041f",
+        "likes": 127,
+        "author": "aki_number16",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/605915/5431c53e42bb2b98c071f89aa0a0c87009b92f62/x_large.png?1584681506",
+        "tags": [
+          "初心者",
+          "設計",
+          "microservices"
         ]
       }
     ],
     "zenn": [
       {
-        "title": "Claude Codeを加速させる私の推しスキル・ツール・設定（Findyイベント登壇資料）",
-        "url": "https://zenn.dev/ubie_dev/articles/claude-code-tips-findy-2026",
-        "author": "鹿野 壮",
-        "date": "Wed, 11 Mar 2026 02:49:52 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_YeZPsdq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2592%25E5%258A%25A0%25E9%2580%259F%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E7%25A7%2581%25E3%2581%25AE%25E6%258E%25A8%25E3%2581%2597%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%25BB%25E8%25A8%25AD%25E5%25AE%259A%25EF%25BC%2588Findy%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E7%2599%25BB%25E5%25A3%2587%25E8%25B3%2587%25E6%2596%2599%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E9%25B9%25BF%25E9%2587%258E%2520%25E5%25A3%25AE%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hwRUMxbUtjVjZsX01lT2R6N1Nsejk1SXR4WUZoYjB2LTNOdzNjV3c9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Vibe-Codingでアプリを作ってみたけど、結局やめた話",
+        "url": "https://zenn.dev/mato/articles/65cf1b36537cca",
+        "author": "mato",
+        "date": "Wed, 11 Mar 2026 12:49:20 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--QY-LQ1VS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vibe-Coding%25E3%2581%25A7%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2581%2591%25E3%2581%25A9%25E3%2580%2581%25E7%25B5%2590%25E5%25B1%2580%25E3%2582%2584%25E3%2582%2581%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mato%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2h4YXlIQ1NRVXVMTnRZZHBVSDVhZUp4MlpTOXZhdHlFNmlsbTl0VDFBPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "なぜ私はゲーム開発で「疎結合」と「コンポーネント指向」に異常なほどこだわるのか",
-        "url": "https://zenn.dev/munimaru62o/articles/c6ed730c6e4c61",
-        "author": "むにまる",
-        "date": "Tue, 10 Mar 2026 12:35:36 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s---W_Q6ruD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E7%25A7%2581%25E3%2581%25AF%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A7%25E3%2580%258C%25E7%2596%258E%25E7%25B5%2590%25E5%2590%2588%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E6%258C%2587%25E5%2590%2591%25E3%2580%258D%25E3%2581%25AB%25E7%2595%25B0%25E5%25B8%25B8%25E3%2581%25AA%25E3%2581%25BB%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25A0%25E3%2582%258F%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2580%25E3%2581%25AB%25E3%2581%25BE%25E3%2582%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y4ZTQwOGE3YTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "なぜ Unity は C# を選び、Unreal は選ばなかったのかについての個人の考察",
+        "url": "https://zenn.dev/wuyukwi/articles/97b70df23bd792",
+        "author": "行方不知",
+        "date": "Wed, 11 Mar 2026 10:31:51 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zBrTO3ww--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%2520Unity%2520%25E3%2581%25AF%2520C%2523%2520%25E3%2582%2592%25E9%2581%25B8%25E3%2581%25B3%25E3%2580%2581Unreal%2520%25E3%2581%25AF%25E9%2581%25B8%25E3%2581%25B0%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25AE%25E5%2580%258B%25E4%25BA%25BA%25E3%2581%25AE%25E8%2580%2583%25E5%25AF%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E8%25A1%258C%25E6%2596%25B9%25E4%25B8%258D%25E7%259F%25A5%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTHlSa2k3RHZ2c2JjczRDQU9QN2o2RTdOQzhIS0ZVeWVlTW5IV01CaHNjaFRJRVF6az1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "【2026/3/9最新】Claude Code新機能『Code Review』、早速使ったら2つのPRで$100超かかった話",
-        "url": "https://zenn.dev/canly/articles/1535fde47ca866",
-        "author": "ryu fukuda",
-        "date": "Tue, 10 Mar 2026 11:17:46 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ukcT64aP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902026%252F3%252F9%25E6%259C%2580%25E6%2596%25B0%25E3%2580%2591Claude%2520Code%25E6%2596%25B0%25E6%25A9%259F%25E8%2583%25BD%25E3%2580%258ECode%2520Review%25E3%2580%258F%25E3%2580%2581%25E6%2597%25A9%25E9%2580%259F%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25892%25E3%2581%25A4%25E3%2581%25AEPR%25E3%2581%25A7%2524100%25E8%25B6%2585...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ryu%2520fukuda%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdmNWE3ZGIyYWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "MySQLが好きな私が、今はPostgreSQLを勧めたい理由",
+        "url": "https://zenn.dev/catatsuy/articles/f3721135c6f8f6",
+        "author": "catatsuy",
+        "date": "Wed, 11 Mar 2026 10:29:39 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--5QKmQb5X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MySQL%25E3%2581%258C%25E5%25A5%25BD%25E3%2581%258D%25E3%2581%25AA%25E7%25A7%2581%25E3%2581%258C%25E3%2580%2581%25E4%25BB%258A%25E3%2581%25AFPostgreSQL%25E3%2582%2592%25E5%258B%25A7%25E3%2582%2581%25E3%2581%259F%25E3%2581%2584%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:catatsuy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NiYTVlYjRjMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Claude Code の PR Review は「念の為」：念の為になるレビューと任せられるレビューの違いについて",
-        "url": "https://zenn.dev/nrs/articles/bf0e68a1ab75bd",
-        "author": "nrs",
-        "date": "Tue, 10 Mar 2026 10:54:38 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--qK0FJW9K--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%2520PR%2520Review%2520%25E3%2581%25AF%25E3%2580%258C%25E5%25BF%25B5%25E3%2581%25AE%25E7%2582%25BA%25E3%2580%258D%25EF%25BC%259A%25E5%25BF%25B5%25E3%2581%25AE%25E7%2582%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25A8%25E4%25BB%25BB%25E3%2581%259B%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Reactでsignalsは必要ない、Jotaiがあるから",
+        "url": "https://zenn.dev/dai_shi/articles/47c729ee33faa5",
+        "author": "daishi",
+        "date": "Wed, 11 Mar 2026 03:54:20 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--xeMrpiE7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2581%25A7signals%25E3%2581%25AF%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2581Jotai%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%25E3%2581%258B%25E3%2582%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:daishi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzcwZGNhM2E2Y2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Opus4.6でdraw.io図を生成したらもはやLLMの前提が崩れてた件",
-        "url": "https://zenn.dev/acntechjp/articles/4ab4491afd5a8b",
-        "author": "k.abe",
-        "date": "Tue, 10 Mar 2026 09:18:14 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--xcRFihrT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Opus4.6%25E3%2581%25A7draw.io%25E5%259B%25B3%25E3%2582%2592%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2582%2582%25E3%2581%25AF%25E3%2582%2584LLM%25E3%2581%25AE%25E5%2589%258D%25E6%258F%2590%25E3%2581%258C%25E5%25B4%25A9%25E3%2582%258C%25E3%2581%25A6%25E3%2581%259F%25E4%25BB%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:k.abe%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2xBSHVmRjZ5dUJqM0VyNXZkTnhPeTk3MXp1bnRJeHRRVXp4Si1RYjdMWUduOU1nPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "証券システムと、それを取り巻く世界",
+        "url": "https://zenn.dev/mi_01_24fu/books/securities-system-flow",
+        "author": "みふう",
+        "date": "Wed, 11 Mar 2026 03:28:32 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6lO1Re-N--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jNDE0ZTM0OTk0LmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -107,7 +107,7 @@
         "name": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "stars": 303683,
+        "stars": 307532,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
@@ -115,7 +115,7 @@
         "name": "DigitalPlatDev/FreeDomain",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
-        "stars": 151845,
+        "stars": 152029,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126394654?v=4"
       },
@@ -123,7 +123,7 @@
         "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 130260,
+        "stars": 130473,
         "language": null,
         "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4"
       },
@@ -131,7 +131,7 @@
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 120309,
+        "stars": 120939,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
       },
@@ -139,7 +139,7 @@
         "name": "deepseek-ai/DeepSeek-V3",
         "description": null,
         "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-        "stars": 102061,
+        "stars": 102104,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       }
