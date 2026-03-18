@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-03-17T22:23:36.026841Z"
+    "last_updated": "2026-03-18T22:24:05.136973Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "【入門記事】ClaudeCodeの中級者になりたい人は集合してください",
         "url": "https://qiita.com/K5K/items/72cc4282819ace823524",
-        "likes": 374,
+        "likes": 394,
         "author": "K5K",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/435280/profile-images/1699189463",
         "tags": [
@@ -19,7 +19,7 @@
       {
         "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
         "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
-        "likes": 256,
+        "likes": 268,
         "author": "miruky",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1772286959",
         "tags": [
@@ -29,33 +29,9 @@
         ]
       },
       {
-        "title": "[AI時代でも生き残る] シンプルに優秀な人がやっていること７選",
-        "url": "https://qiita.com/taka_xin/items/d6a9842f477f0aa0b89e",
-        "likes": 233,
-        "author": "taka_xin",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3921853/profile-images/1730181338",
-        "tags": [
-          "ポエム",
-          "仕事",
-          "AI"
-        ]
-      },
-      {
-        "title": "メモリ使用量40MBの衝撃。理想のMarkdownエディタを求めた結果、Tauriで自作が一番良かった",
-        "url": "https://qiita.com/ssaita/items/dd3ea7c8834c7bebebf9",
-        "likes": 184,
-        "author": "ssaita",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/72413/profile-images/1765169377",
-        "tags": [
-          "Markdown",
-          "Rust",
-          "React"
-        ]
-      },
-      {
         "title": "簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす",
         "url": "https://qiita.com/nogataka/items/5b5747f619e6eb745436",
-        "likes": 143,
+        "likes": 157,
         "author": "nogataka",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
         "tags": [
@@ -63,9 +39,54 @@
           "生産性向上",
           "プロンプトエンジニアリング"
         ]
+      },
+      {
+        "title": "Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで",
+        "url": "https://qiita.com/LostMyCode/items/7597edb999821efd2d8b",
+        "likes": 136,
+        "author": "LostMyCode",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/576748/8e062b54d6a7770c776ab8d73021809efc10b27d/x_large.png?1633144921",
+        "tags": [
+          "C++",
+          "game",
+          "WebAssembly"
+        ]
+      },
+      {
+        "title": "エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針",
+        "url": "https://qiita.com/masa20057/items/838bc1b59a84b16820a9",
+        "likes": 126,
+        "author": "masa20057",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
+        "tags": [
+          "初心者",
+          "エンジニア",
+          "初学者向け"
+        ]
       }
     ],
     "zenn": [
+      {
+        "title": "Claude Codeでのふるまいから隠れたSkillを見つける",
+        "url": "https://zenn.dev/chigichan24/articles/eed4a60d102997",
+        "author": "chigichan24",
+        "date": "Tue, 17 Mar 2026 19:23:43 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--r1cIDaps--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2581%25AE%25E3%2581%25B5%25E3%2582%258B%25E3%2581%25BE%25E3%2581%2584%25E3%2581%258B%25E3%2582%2589%25E9%259A%25A0%25E3%2582%258C%25E3%2581%259FSkill%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:chigichan24%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U1ODg0MTU2ODkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
+      {
+        "title": "DGX SparkでNemoClawをローカル実行",
+        "url": "https://zenn.dev/karaage0703/articles/8bf663501cd4bc",
+        "author": "からあげ",
+        "date": "Tue, 17 Mar 2026 14:11:41 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--JEWfthns--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DGX%2520Spark%25E3%2581%25A7NemoClaw%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E5%25AE%259F%25E8%25A1%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
+      {
+        "title": "「AIっぽい」の正体は文体じゃない — 全業務をAIエージェントで回して気づいたこと",
+        "url": "https://zenn.dev/omori432/articles/ai-likeness-not-about-writing-style",
+        "author": "RIO",
+        "date": "Tue, 17 Mar 2026 10:41:31 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--WaY-SUIw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CAI%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584%25E3%2580%258D%25E3%2581%25AE%25E6%25AD%25A3%25E4%25BD%2593%25E3%2581%25AF%25E6%2596%2587%25E4%25BD%2593%25E3%2581%2598%25E3%2582%2583%25E3%2581%25AA%25E3%2581%2584%2520%25E2%2580%2594%2520%25E5%2585%25A8%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%2592AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E5%259B%259E%25E3%2581%2597%25E3%2581%25A6%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%2584%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:RIO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiNGUwNDc5OTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
       {
         "title": "Vite+ の異常なタスクランナー: vite-task は如何にしてキャッシュの手動依存管理をなくしたか",
         "url": "https://zenn.dev/herp_inc/articles/strange-task-runner",
@@ -79,27 +100,6 @@
         "author": "msuto",
         "date": "Tue, 17 Mar 2026 06:00:17 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_8o-PaYb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25AC%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AA%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25A7%25E5%2586%258D%25E5%25B8%25B0%25E7%259A%2584%25E3%2581%25AA%2520features%2520%25E6%25A7%258B%25E6%2588%2590%25E3%2582%2592%25E6%258E%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:msuto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzI5N2YzYWIxYzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "システム設計における妥協案の作り方: 理想像の STEP1 として妥協案を設計する",
-        "url": "https://zenn.dev/knowledgework/articles/c3f2f5986a24a6",
-        "author": "mayah",
-        "date": "Tue, 17 Mar 2026 03:59:31 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--HoxZN8VC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E5%25A6%25A5%25E5%258D%2594%25E6%25A1%2588%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%253A%2520%25E7%2590%2586%25E6%2583%25B3%25E5%2583%258F%25E3%2581%25AE%2520STEP1%2520%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E5%25A6%25A5%25E5%258D%2594%25E6%25A1%2588%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:mayah%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4MWZhOWNhZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZHBLWi11cXl4S0RXdTNiNUxjaWM3TjBKVWRwRlNYeEc2NWl3OVI1SjA9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "GPTのReact習熟度も測る",
-        "url": "https://zenn.dev/uhyo/articles/react-profession-bench-2",
-        "author": "uhyo",
-        "date": "Tue, 17 Mar 2026 03:27:15 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--pZ5OdXzv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT%25E3%2581%25AEReact%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2582%2582%25E6%25B8%25AC%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "AIコードレビューを「単一責任の原則」で育てた話",
-        "url": "https://zenn.dev/globis/articles/d0c73d2b176ba5",
-        "author": "emi084",
-        "date": "Tue, 17 Mar 2026 00:42:42 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--lNV_XHIe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2592%25E3%2580%258C%25E5%258D%2598%25E4%25B8%2580%25E8%25B2%25AC%25E4%25BB%25BB%25E3%2581%25AE%25E5%258E%259F%25E5%2589%2587%25E3%2580%258D%25E3%2581%25A7%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:emi084%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJkZmVkY2VkZTAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GLOBIS%2520Tech%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMxMmEyZDhkNjAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -107,7 +107,7 @@
         "name": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "stars": 320227,
+        "stars": 322864,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
@@ -115,7 +115,7 @@
         "name": "DigitalPlatDev/FreeDomain",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
-        "stars": 152853,
+        "stars": 153028,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126394654?v=4"
       },
@@ -123,7 +123,7 @@
         "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 131721,
+        "stars": 131913,
         "language": null,
         "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4"
       },
@@ -131,7 +131,7 @@
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 124094,
+        "stars": 124748,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
       },
@@ -139,7 +139,7 @@
         "name": "Shubhamsaboo/awesome-llm-apps",
         "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "stars": 102582,
+        "stars": 102731,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/31396011?v=4"
       }
