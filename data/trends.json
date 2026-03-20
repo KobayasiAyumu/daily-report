@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-03-19T22:18:31.577400Z"
+    "last_updated": "2026-03-20T22:18:23.341976Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "【入門記事】ClaudeCodeの中級者になりたい人は集合してください",
         "url": "https://qiita.com/K5K/items/72cc4282819ace823524",
-        "likes": 413,
+        "likes": 431,
         "author": "K5K",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/435280/profile-images/1699189463",
         "tags": [
@@ -19,7 +19,7 @@
       {
         "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
         "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
-        "likes": 274,
+        "likes": 278,
         "author": "miruky",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1772286959",
         "tags": [
@@ -29,27 +29,27 @@
         ]
       },
       {
-        "title": "簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす",
-        "url": "https://qiita.com/nogataka/items/5b5747f619e6eb745436",
-        "likes": 164,
-        "author": "nogataka",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
-        "tags": [
-          "GitHub",
-          "生産性向上",
-          "プロンプトエンジニアリング"
-        ]
-      },
-      {
         "title": "エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針",
         "url": "https://qiita.com/masa20057/items/838bc1b59a84b16820a9",
-        "likes": 160,
+        "likes": 177,
         "author": "masa20057",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
         "tags": [
           "初心者",
           "エンジニア",
           "初学者向け"
+        ]
+      },
+      {
+        "title": "簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす",
+        "url": "https://qiita.com/nogataka/items/5b5747f619e6eb745436",
+        "likes": 169,
+        "author": "nogataka",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
+        "tags": [
+          "GitHub",
+          "生産性向上",
+          "プロンプトエンジニアリング"
         ]
       },
       {
@@ -67,39 +67,39 @@
     ],
     "zenn": [
       {
-        "title": "生成AI時代のドキュメント基盤",
-        "url": "https://zenn.dev/nuits_jp/articles/2026-03-19-genai-documentation-foundation",
-        "author": "Atsushi Nakamura",
-        "date": "Thu, 19 Mar 2026 03:34:48 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--YhgA9Aav--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E5%259F%25BA%25E7%259B%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Nakamura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2kxcWVVUGV3Z1lrYXhhaE1uWW1rQnRRT0RVLWtNemJiMEhfTHo4MkE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "React Native開発が変わる。RozeniteでCoding Agentに「目と手」を与えた話",
+        "url": "https://zenn.dev/tellernovel_inc/articles/bb27cd0f28f8cb",
+        "author": "kazutoyo@TellerNovel",
+        "date": "Thu, 19 Mar 2026 11:20:43 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6eqVkYrl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Native%25E9%2596%258B%25E7%2599%25BA%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2580%2582Rozenite%25E3%2581%25A7Coding%2520Agent%25E3%2581%25AB%25E3%2580%258C%25E7%259B%25AE%25E3%2581%25A8%25E6%2589%258B%25E3%2580%258D%25E3%2582%2592%25E4%25B8%258E%25E3%2581%2588%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kazutoyo%2540TellerNovel%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y2ZDBjOWE0YTEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2586%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ0OTFkZTE3MjUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "LLMをもっと賢くする：ナレッジグラフ実践入門",
-        "url": "https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide",
-        "author": "takanorisuzuki",
-        "date": "Thu, 19 Mar 2026 02:14:59 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--qyzZJeCP--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jZmJkZDkyYjMyLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
+        "title": "タスク管理もミーティングメモも Obsidian に自動で集まる仕組みを作った",
+        "url": "https://zenn.dev/fukurou_labo/articles/obsidian_google_calendar",
+        "author": "netooo",
+        "date": "Thu, 19 Mar 2026 09:00:02 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--CHU1s7T6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%2582%25E3%2583%259F%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A1%25E3%2583%25A2%25E3%2582%2582%2520Obsidian%2520%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2581%25A7%25E9%259B%2586%25E3%2581%25BE%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:netooo%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ3NGU4Mzc3ZTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2595%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A6%25E3%2583%25A9%25E3%2583%259C%2520%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzViZGE0NThmNDUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Reactをやめて MoonBit で50ページの業務システムを作った",
-        "url": "https://zenn.dev/lehti/articles/c4b813a9192701",
-        "author": "Lehti",
-        "date": "Wed, 18 Mar 2026 22:00:08 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--fPrH7vum--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2581%25A6%2520MoonBit%2520%25E3%2581%25A750%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2581%25AE%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Lehti%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSV9jQzdvVTUyd3ZsNlZxb2RSX3lMRFdjVy1fcXozdTNKZ3RDNXpPNjR2NkhMaTh0UT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "【Flutter】デバッグ画面のソースコード、ちゃんとリリースビルドから除外していますか？",
+        "url": "https://zenn.dev/chooyan/articles/ce5eafe02439c5",
+        "author": "中條 剛（ちゅーやん）",
+        "date": "Thu, 19 Mar 2026 08:27:37 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6e6j4cV_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Flutter%25E3%2580%2591%25E3%2583%2587%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E7%2594%25BB%25E9%259D%25A2%25E3%2581%25AE%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2580%2581%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25A8%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2581%258B%25E3%2582%2589%25E9%2599%25A4%25E5%25A4%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2599%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%25AD%25E6%25A2%259D%2520%25E5%2589%259B%25EF%25BC%2588%25E3%2581%25A1%25E3%2582%2585%25E3%2583%25BC%25E3%2582%2584%25E3%2582%2593%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ1Njc4ZmRiNzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Claude Codeをフル活用！本気で使える厳選Skills/Plugin 8選",
-        "url": "https://zenn.dev/itsuki_y/articles/0eb054f14523d7",
-        "author": "Itsuki (逸樹)",
-        "date": "Wed, 18 Mar 2026 06:39:42 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--oGnCldc7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2592%25E3%2583%2595%25E3%2583%25AB%25E6%25B4%25BB%25E7%2594%25A8%25EF%25BC%2581%25E6%259C%25AC%25E6%25B0%2597%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E5%258E%25B3%25E9%2581%25B8Skills%252FPlugin%25208%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Itsuki%2520%2528%25E9%2580%25B8%25E6%25A8%25B9%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzViODJlMmZlYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Java歴21年のエンジニアが同じAPIをJava・Go・Rust・Kotlinで実装して徹底比較した",
+        "url": "https://zenn.dev/netfishx/articles/4ee8f57d8a8ec7",
+        "author": "WANG WUPENG",
+        "date": "Thu, 19 Mar 2026 05:44:43 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--5PjRSZdz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Java%25E6%25AD%25B421%25E5%25B9%25B4%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%258C%25E5%2590%258C%25E3%2581%2598API%25E3%2582%2592Java%25E3%2583%25BBGo%25E3%2583%25BBRust%25E3%2583%25BBKotlin%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E5%25BE%25B9%25E5%25BA%2595%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:WANG%2520WUPENG%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWFuNW1wck9JYVIwMlNDNV9fZW5TU0NQd0xrTzVVTGVRR0QxQzlWVmVKMFdIT3hnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "LLM人格を14日運用して見えた設計パターン — 固定プロンプトの先へ",
-        "url": "https://zenn.dev/nabaaatee/articles/b4e90b7ef39026",
-        "author": "なばて / INANNA開発",
-        "date": "Wed, 18 Mar 2026 02:45:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--cIP_IySm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E4%25BA%25BA%25E6%25A0%25BC%25E3%2582%259214%25E6%2597%25A5%25E9%2581%258B%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F%25E8%25A8%25AD%25E8%25A8%2588%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%2520%25E2%2580%2594%2520%25E5%259B%25BA%25E5%25AE%259A%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%25AE%25E5%2585%2588%25E3%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AA%25E3%2581%25B0%25E3%2581%25A6%2520%252F%2520INANNA%25E9%2596%258B%25E7%2599%25BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FmMTE0YzQ4NzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Claude Code × GitHubでプロダクトマネジメントを再設計した話",
+        "url": "https://zenn.dev/tsubotax/articles/7fe5f02061ccb9",
+        "author": "tsubotax",
+        "date": "Thu, 19 Mar 2026 05:38:31 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--l-ENmG4_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25C3%2597%2520GitHub%25E3%2581%25A7%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E5%2586%258D%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tsubotax%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M1OTgxMTEwYzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -107,7 +107,7 @@
         "name": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "stars": 325143,
+        "stars": 327032,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
@@ -115,7 +115,7 @@
         "name": "DigitalPlatDev/FreeDomain",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
-        "stars": 153200,
+        "stars": 153371,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126394654?v=4"
       },
@@ -123,7 +123,7 @@
         "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 132192,
+        "stars": 132395,
         "language": null,
         "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4"
       },
@@ -131,7 +131,7 @@
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 125495,
+        "stars": 126333,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
       },
@@ -139,7 +139,7 @@
         "name": "Shubhamsaboo/awesome-llm-apps",
         "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "stars": 102869,
+        "stars": 102960,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/31396011?v=4"
       }
