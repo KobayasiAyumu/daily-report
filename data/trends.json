@@ -1,25 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-03-20T22:18:23.341976Z"
+    "last_updated": "2026-03-21T22:14:44.758417Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "【入門記事】ClaudeCodeの中級者になりたい人は集合してください",
-        "url": "https://qiita.com/K5K/items/72cc4282819ace823524",
-        "likes": 431,
-        "author": "K5K",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/435280/profile-images/1699189463",
-        "tags": [
-          "入門",
-          "Claude",
-          "ClaudeCode"
-        ]
-      },
-      {
         "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
         "url": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
-        "likes": 278,
+        "likes": 284,
         "author": "miruky",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1772286959",
         "tags": [
@@ -29,9 +17,21 @@
         ]
       },
       {
+        "title": "CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開",
+        "url": "https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0",
+        "likes": 193,
+        "author": "nogataka",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
+        "tags": [
+          "AI",
+          "開発効率化",
+          "生成AI"
+        ]
+      },
+      {
         "title": "エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針",
         "url": "https://qiita.com/masa20057/items/838bc1b59a84b16820a9",
-        "likes": 177,
+        "likes": 178,
         "author": "masa20057",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
         "tags": [
@@ -43,7 +43,7 @@
       {
         "title": "簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす",
         "url": "https://qiita.com/nogataka/items/5b5747f619e6eb745436",
-        "likes": 169,
+        "likes": 172,
         "author": "nogataka",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
         "tags": [
@@ -55,7 +55,7 @@
       {
         "title": "Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで",
         "url": "https://qiita.com/LostMyCode/items/7597edb999821efd2d8b",
-        "likes": 139,
+        "likes": 140,
         "author": "LostMyCode",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/576748/8e062b54d6a7770c776ab8d73021809efc10b27d/x_large.png?1633144921",
         "tags": [
@@ -67,39 +67,39 @@
     ],
     "zenn": [
       {
-        "title": "React Native開発が変わる。RozeniteでCoding Agentに「目と手」を与えた話",
-        "url": "https://zenn.dev/tellernovel_inc/articles/bb27cd0f28f8cb",
-        "author": "kazutoyo@TellerNovel",
-        "date": "Thu, 19 Mar 2026 11:20:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6eqVkYrl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Native%25E9%2596%258B%25E7%2599%25BA%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2580%2582Rozenite%25E3%2581%25A7Coding%2520Agent%25E3%2581%25AB%25E3%2580%258C%25E7%259B%25AE%25E3%2581%25A8%25E6%2589%258B%25E3%2580%258D%25E3%2582%2592%25E4%25B8%258E%25E3%2581%2588%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kazutoyo%2540TellerNovel%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y2ZDBjOWE0YTEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2586%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ0OTFkZTE3MjUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "codexでスパコンを壊してしまった話",
+        "url": "https://zenn.dev/chizuchizu/articles/a991c61ff0d073",
+        "author": "chizuchizu",
+        "date": "Sat, 21 Mar 2026 02:29:00 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--MHn2wP85--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:codex%25E3%2581%25A7%25E3%2582%25B9%25E3%2583%2591%25E3%2582%25B3%25E3%2583%25B3%25E3%2582%2592%25E5%25A3%258A%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2597%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:chizuchizu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2IyMDdjMWU0YzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "タスク管理もミーティングメモも Obsidian に自動で集まる仕組みを作った",
-        "url": "https://zenn.dev/fukurou_labo/articles/obsidian_google_calendar",
-        "author": "netooo",
-        "date": "Thu, 19 Mar 2026 09:00:02 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--CHU1s7T6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%2582%25E3%2583%259F%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25A1%25E3%2583%25A2%25E3%2582%2582%2520Obsidian%2520%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2581%25A7%25E9%259B%2586%25E3%2581%25BE%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:netooo%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ3NGU4Mzc3ZTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2595%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A6%25E3%2583%25A9%25E3%2583%259C%2520%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzViZGE0NThmNDUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "古いPCをChromeOS Flexで蘇らせる（ChromeOS FlexのちLinux開発環境の立ち上げ、時々Gemini CLI）",
+        "url": "https://zenn.dev/gidajun/articles/bf4d9b493d5e9a",
+        "author": "ぎだじゅん",
+        "date": "Fri, 20 Mar 2026 17:41:44 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--68RLUyua--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258F%25A4%25E3%2581%2584PC%25E3%2582%2592ChromeOS%2520Flex%25E3%2581%25A7%25E8%2598%2587%25E3%2582%2589%25E3%2581%259B%25E3%2582%258B%25EF%25BC%2588ChromeOS%2520Flex%25E3%2581%25AE%25E3%2581%25A1Linux%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AE%25E7%25AB%258B%25E3%2581%25A1%25E4%25B8%258A%25E3%2581%2592%25E3%2580%2581%25E6%2599%2582%25E3%2580%2585G...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258E%25E3%2581%25A0%25E3%2581%2598%25E3%2582%2585%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzI2ZjI0ZjQ5ZWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "【Flutter】デバッグ画面のソースコード、ちゃんとリリースビルドから除外していますか？",
-        "url": "https://zenn.dev/chooyan/articles/ce5eafe02439c5",
-        "author": "中條 剛（ちゅーやん）",
-        "date": "Thu, 19 Mar 2026 08:27:37 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6e6j4cV_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Flutter%25E3%2580%2591%25E3%2583%2587%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E7%2594%25BB%25E9%259D%25A2%25E3%2581%25AE%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2580%2581%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25A8%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2581%258B%25E3%2582%2589%25E9%2599%25A4%25E5%25A4%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2599%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%25AD%25E6%25A2%259D%2520%25E5%2589%259B%25EF%25BC%2588%25E3%2581%25A1%25E3%2582%2585%25E3%2583%25BC%25E3%2582%2584%25E3%2582%2593%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ1Njc4ZmRiNzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "方眼紙Excel→Markdown変換、結局LLMしか勝たん話【全手法比較】",
+        "url": "https://zenn.dev/ougotti/articles/houganshi-excel-to-markdown",
+        "author": "ごっち",
+        "date": "Fri, 20 Mar 2026 13:28:10 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--05inxpwx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%25B9%25E7%259C%25BC%25E7%25B4%2599Excel%25E2%2586%2592Markdown%25E5%25A4%2589%25E6%258F%259B%25E3%2580%2581%25E7%25B5%2590%25E5%25B1%2580LLM%25E3%2581%2597%25E3%2581%258B%25E5%258B%259D%25E3%2581%259F%25E3%2582%2593%25E8%25A9%25B1%25E3%2580%2590%25E5%2585%25A8%25E6%2589%258B%25E6%25B3%2595%25E6%25AF%2594%25E8%25BC%2583%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2594%25E3%2581%25A3%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVpOSGlIaTA4dTdTZS0wVEx1bDFIU2wyMmlYWmxLRnRtOE1MamtvYmlYaE5zY2hGWjBvdz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Java歴21年のエンジニアが同じAPIをJava・Go・Rust・Kotlinで実装して徹底比較した",
-        "url": "https://zenn.dev/netfishx/articles/4ee8f57d8a8ec7",
-        "author": "WANG WUPENG",
-        "date": "Thu, 19 Mar 2026 05:44:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--5PjRSZdz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Java%25E6%25AD%25B421%25E5%25B9%25B4%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%258C%25E5%2590%258C%25E3%2581%2598API%25E3%2582%2592Java%25E3%2583%25BBGo%25E3%2583%25BBRust%25E3%2583%25BBKotlin%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E5%25BE%25B9%25E5%25BA%2595%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:WANG%2520WUPENG%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWFuNW1wck9JYVIwMlNDNV9fZW5TU0NQd0xrTzVVTGVRR0QxQzlWVmVKMFdIT3hnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "個人開発サイトにBOTが大量アクセス → Cloudflare無料プランで撃退した話🛡️",
+        "url": "https://zenn.dev/ausssxi/articles/646f7078117847",
+        "author": "MotoHub",
+        "date": "Fri, 20 Mar 2026 08:06:19 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--kDZkU0MK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2581%25ABBOT%25E3%2581%258C%25E5%25A4%25A7%25E9%2587%258F%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%2520%25E2%2586%2592%2520Cloudflare%25E7%2584%25A1%25E6%2596%2599%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25B3%25E3%2581%25A7%25E6%2592%2583%25E9%2580%2580%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:MotoHub%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NlY2Y3MzViOWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Claude Code × GitHubでプロダクトマネジメントを再設計した話",
-        "url": "https://zenn.dev/tsubotax/articles/7fe5f02061ccb9",
-        "author": "tsubotax",
-        "date": "Thu, 19 Mar 2026 05:38:31 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--l-ENmG4_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25C3%2597%2520GitHub%25E3%2581%25A7%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E5%2586%258D%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tsubotax%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M1OTgxMTEwYzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "「技術のキャッチアップをやめる勇気」作りながら学び、届ける",
+        "url": "https://zenn.dev/perksh/articles/8698f63c956bbf",
+        "author": "shohei",
+        "date": "Fri, 20 Mar 2026 04:06:59 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--d5s8KcvF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E6%258A%2580%25E8%25A1%2593%25E3%2581%25AE%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2581%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2582%258B%25E5%258B%2587%25E6%25B0%2597%25E3%2580%258D%25E4%25BD%259C%25E3%2582%258A%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B3%25E3%2580%2581%25E5%25B1%258A%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shohei%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M2MGQ4YzEzYzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -107,7 +107,7 @@
         "name": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "stars": 327032,
+        "stars": 328545,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
@@ -115,7 +115,7 @@
         "name": "DigitalPlatDev/FreeDomain",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
-        "stars": 153371,
+        "stars": 153596,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126394654?v=4"
       },
@@ -123,7 +123,7 @@
         "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 132395,
+        "stars": 132523,
         "language": null,
         "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4"
       },
@@ -131,17 +131,17 @@
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 126333,
+        "stars": 127350,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
       },
       {
-        "name": "Shubhamsaboo/awesome-llm-apps",
-        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "stars": 102960,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/31396011?v=4"
+        "name": "obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers",
+        "stars": 103198,
+        "language": "Shell",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
       }
     ]
   }
