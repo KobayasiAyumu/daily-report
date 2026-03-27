@@ -289,15 +289,283 @@ a {
     .dashboard-grid {
         grid-template-columns: 1fr;
     }
-    
+
     .header-content {
         flex-direction: column;
         height: auto;
         padding: 16px 0;
         gap: 12px;
     }
-    
+
     .hero h2 {
         font-size: 1.8rem;
     }
 }
+
+/* =========================================================================
+   ライトモード
+========================================================================= */
+[data-theme="light"] {
+    --bg-color: #f6f8fa;
+    --surface-color: #ffffff;
+    --border-color: #d0d7de;
+    --text-primary: #1f2328;
+    --text-secondary: #57606a;
+    --zenn-color: #0d69d5;
+    --qiita-color: #1e8a00;
+    --github-color: #24292f;
+    --accent-color: #b08800;
+    --box-shadow: 0 4px 12px rgba(140,149,159,0.2);
+}
+
+[data-theme="light"] .header {
+    background-color: var(--surface-color);
+    box-shadow: 0 1px 8px rgba(140,149,159,0.15);
+}
+
+[data-theme="light"] .trend-card {
+    background-color: rgba(0, 0, 0, 0.02);
+}
+
+[data-theme="light"] .trend-card:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+    border-color: #8c959f;
+}
+
+[data-theme="light"] .last-updated {
+    background: rgba(0, 0, 0, 0.04);
+}
+
+/* =========================================================================
+   ヘッダーアクションボタン
+========================================================================= */
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.icon-btn {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: transparent;
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: color var(--transition), border-color var(--transition), background var(--transition);
+    font-family: inherit;
+    flex-shrink: 0;
+}
+
+.icon-btn:hover {
+    color: var(--text-primary);
+    border-color: var(--accent-color);
+    background: rgba(255, 255, 255, 0.06);
+}
+
+[data-theme="light"] .icon-btn:hover {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+/* =========================================================================
+   サマリー統計チップ
+========================================================================= */
+.summary-stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 36px;
+    animation: fadeIn 0.6s ease-out 0.2s both;
+}
+
+.stat-chip {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    background: var(--surface-color);
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+}
+
+.stat-chip strong {
+    color: var(--text-primary);
+    font-weight: 600;
+}
+
+/* =========================================================================
+   カードアニメーション（スタッガー）
+========================================================================= */
+.trend-card {
+    animation: cardFadeIn 0.4s ease-out var(--delay, 0ms) both;
+}
+
+@keyframes cardFadeIn {
+    from { opacity: 0; transform: translateY(12px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+/* =========================================================================
+   Zennサムネイル付きカード
+========================================================================= */
+.trend-card--image {
+    padding: 0;
+    overflow: hidden;
+}
+
+.card-thumb {
+    width: 100%;
+    aspect-ratio: 16 / 5;
+    object-fit: cover;
+    display: block;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.trend-card--image .card-body {
+    padding: 14px 16px 12px;
+}
+
+/* =========================================================================
+   タグチップ・フィルター
+========================================================================= */
+.card-tags {
+    margin-top: 10px;
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.tag-chip {
+    font-size: 0.72rem;
+    background: rgba(85, 197, 0, 0.1);
+    border: 1px solid rgba(85, 197, 0, 0.25);
+    color: var(--qiita-color);
+    padding: 2px 9px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background var(--transition), border-color var(--transition);
+}
+
+.tag-chip:hover {
+    background: rgba(85, 197, 0, 0.2);
+    border-color: var(--qiita-color);
+}
+
+.filter-badge {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 14px;
+    background: rgba(85, 197, 0, 0.1);
+    border: 1px solid var(--qiita-color);
+    border-radius: 8px;
+    font-size: 0.82rem;
+    color: var(--qiita-color);
+}
+
+.filter-clear {
+    background: transparent;
+    border: none;
+    color: var(--qiita-color);
+    cursor: pointer;
+    padding: 0 2px;
+    font-size: 0.9rem;
+    margin-left: auto;
+    opacity: 0.7;
+}
+
+.filter-clear:hover { opacity: 1; }
+
+/* =========================================================================
+   GitHubリポジトリ: アバター
+========================================================================= */
+.repo-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 6px;
+}
+
+.repo-avatar {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+    border: 1px solid var(--border-color);
+}
+
+.repo-header .card-title {
+    margin-bottom: 0;
+}
+
+/* 言語ドット */
+.lang-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+/* メタ内アバター */
+.meta-avatar {
+    border-radius: 50%;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
+/* =========================================================================
+   エラー状態
+========================================================================= */
+.error-state {
+    color: #f85149 !important;
+}
+
+/* =========================================================================
+   トースト通知
+========================================================================= */
+.toast-container {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    pointer-events: none;
+}
+
+.toast {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 11px 16px;
+    background: var(--surface-color);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    box-shadow: var(--box-shadow);
+    color: var(--text-primary);
+    font-size: 0.875rem;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.25s ease, transform 0.25s ease;
+    pointer-events: auto;
+    max-width: 300px;
+}
+
+.toast-show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.toast-success i { color: var(--qiita-color); }

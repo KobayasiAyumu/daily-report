@@ -23,10 +23,18 @@
             <div class="last-updated" id="last-updated">
                 <i class="fa-regular fa-clock"></i> 自動更新中...
             </div>
-            <!-- GitHubへのリンク等があればここに配置 -->
-            <a href="https://github.com/" target="_blank" class="github-link" aria-label="View Source on GitHub">
-                <i class="fa-brands fa-github"></i>
-            </a>
+            <!-- アクションボタン -->
+            <div class="header-actions">
+                <button class="icon-btn" id="btn-export" title="JSONエクスポート" aria-label="JSONエクスポート">
+                    <i class="fa-solid fa-download"></i>
+                </button>
+                <button class="icon-btn" id="btn-theme" aria-label="テーマ切替">
+                    <i class="fa-solid fa-moon"></i>
+                </button>
+                <a href="https://github.com/" target="_blank" class="icon-btn github-link" aria-label="View Source on GitHub">
+                    <i class="fa-brands fa-github"></i>
+                </a>
+            </div>
         </div>
     </header>
 
@@ -37,6 +45,9 @@
             <h2>日本の最新ITトレンドを毎朝お届け</h2>
             <p>Qiita、Zenn、GitHubから集めた「今読まれている記事」「注目されているリポジトリ」を自動で収集・可視化しています。このページはGitHub Actionsによって毎日自動的に更新されます。</p>
         </section>
+
+        <!-- サマリー統計 -->
+        <div class="summary-stats" id="summary-stats"></div>
 
         <!-- ダッシュボード・グリッド -->
         <div class="dashboard-grid">
@@ -92,6 +103,9 @@
             <p class="footer-note">Built with Python, GitHub Actions & Vanilla JS.</p>
         </div>
     </footer>
+
+    <!-- トースト通知 -->
+    <div class="toast-container" id="toast-container"></div>
 
     <!-- スクリプト -->
     <script src="app.js"></script>
