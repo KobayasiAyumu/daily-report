@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-03-27T22:22:22.362511Z"
+    "last_updated": "2026-03-28T22:18:56.848270Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
         "url": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad",
-        "likes": 284,
+        "likes": 292,
         "author": "emi_ndk",
         "avatar_url": "https://avatars.githubusercontent.com/u/54173850?v=4",
         "tags": [
@@ -19,7 +19,7 @@
       {
         "title": "【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する",
         "url": "https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9",
-        "likes": 210,
+        "likes": 215,
         "author": "yut-nagase",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/235774/profile-images/1594296973",
         "tags": [
@@ -31,7 +31,7 @@
       {
         "title": "【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド",
         "url": "https://qiita.com/yamamoto0/items/17817dc09a78078fa132",
-        "likes": 178,
+        "likes": 204,
         "author": "yamamoto0",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4351261/profile-images/1770177050",
         "tags": [
@@ -43,7 +43,7 @@
       {
         "title": "エンジニアなら自動化すべき「日常の定型タスク」10選まとめてみた【プロンプト付き】",
         "url": "https://qiita.com/kamome_susume/items/33729fdbbd54cdaac60e",
-        "likes": 132,
+        "likes": 147,
         "author": "kamome_susume",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1693248/d8e2e59cb05fcf7047d827fc49d400193e5947c9/x_large.png?1686318854",
         "tags": [
@@ -55,7 +55,7 @@
       {
         "title": "AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット",
         "url": "https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36",
-        "likes": 122,
+        "likes": 132,
         "author": "nogataka",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
         "tags": [
@@ -67,39 +67,39 @@
     ],
     "zenn": [
       {
-        "title": "ルーブリックに基づく主観的な判定を取り入れたGRPO学習",
-        "url": "https://zenn.dev/elyza/articles/84c897de6fb26d",
-        "author": "Akira Sasaki (hikomimo)",
-        "date": "Fri, 27 Mar 2026 00:07:44 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--eO7wDqIh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2596%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25AB%25E5%259F%25BA%25E3%2581%25A5%25E3%2581%258F%25E4%25B8%25BB%25E8%25A6%25B3%25E7%259A%2584%25E3%2581%25AA%25E5%2588%25A4%25E5%25AE%259A%25E3%2582%2592%25E5%258F%2596%25E3%2582%258A%25E5%2585%25A5%25E3%2582%258C%25E3%2581%259FGRPO%25E5%25AD%25A6%25E7%25BF%2592%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Akira%2520Sasaki%2520%2528hiko...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M1ODhkZWNjYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2520ELYZA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1NjkxOWZhODcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "電磁気学っぽい理論は電磁気学しかない？",
+        "url": "https://zenn.dev/phykm/articles/9b18faddcbe0f2",
+        "author": "phykm",
+        "date": "Fri, 27 Mar 2026 15:07:04 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--wDOpKe_Q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259B%25BB%25E7%25A3%2581%25E6%25B0%2597%25E5%25AD%25A6%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584%25E7%2590%2586%25E8%25AB%2596%25E3%2581%25AF%25E9%259B%25BB%25E7%25A3%2581%25E6%25B0%2597%25E5%25AD%25A6%25E3%2581%2597%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:phykm%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwN1pfQ1hHUkNZOWswd1h2R2NlSU9WRE9zSlV6MHl0bmpKRnBNVFRvQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "takt で Codex・Cursor・Claude Code を協調させてみた ― 5回 ABORT して気づいた設計の急所",
-        "url": "https://zenn.dev/coji/articles/takt-multi-agent-coding-experience",
-        "author": "Coji Mizoguchi",
-        "date": "Thu, 26 Mar 2026 13:05:36 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gWjSAGO9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:takt%2520%25E3%2581%25A7%2520Codex%25E3%2583%25BBCursor%25E3%2583%25BBClaude%2520Code%2520%25E3%2582%2592%25E5%258D%2594%25E8%25AA%25BF%25E3%2581%2595%25E3%2581%259B%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2520%25E2%2580%2595%25205%25E5%259B%259E%2520ABORT%2520%25E3%2581%2597%25E3%2581%25A6%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%2584...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Coji%2520Mizoguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pWY2RrNjcwV2NIdGs0anBHa2FGTDAxcERVUVlIX0JYdWE5aDRVNVE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "国産LLMは作れるのか？ - RakutenAI 3.0の炎上から考える",
+        "url": "https://zenn.dev/jun1013/articles/e2e331dea0c616",
+        "author": "Juna1013",
+        "date": "Fri, 27 Mar 2026 13:39:11 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--wg7KKO_I--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%259B%25BD%25E7%2594%25A3LLM%25E3%2581%25AF%25E4%25BD%259C%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2520-%2520RakutenAI%25203.0%25E3%2581%25AE%25E7%2582%258E%25E4%25B8%258A%25E3%2581%258B%25E3%2582%2589%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Juna1013%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1MjIwZWRmM2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "私のClaudeCodeによるアプリ実装方法の紹介",
-        "url": "https://zenn.dev/trkbt10/articles/a6618a35dd49f8",
-        "author": "trkbt10",
-        "date": "Thu, 26 Mar 2026 10:43:40 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ki_J5Ut5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A7%2581%25E3%2581%25AEClaudeCode%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E5%25AE%259F%25E8%25A3%2585%25E6%2596%25B9%25E6%25B3%2595%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:trkbt10%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU3ZTk3MDBmYTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "社内問い合わせをAIエージェント化して爆速で解決できるようにした",
+        "url": "https://zenn.dev/dinii/articles/18128bd1685e2a",
+        "author": "まりる",
+        "date": "Fri, 27 Mar 2026 07:11:20 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--JSiGOfDc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A4%25BE%25E5%2586%2585%25E5%2595%258F%25E3%2581%2584%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2582%2592AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E7%2588%2586%25E9%2580%259F%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BE%25E3%2582%258A%25E3%2582%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZhNTVhMGJiNDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Dinii%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzczNzEwZWYxNWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "【VS Code】GitHub Copilotのサブエージェント(.agent.md)でモデル指定が無視される問題と最新動向",
-        "url": "https://zenn.dev/headwaters/articles/b5d7d83a53b518",
-        "author": "妹尾悠真",
-        "date": "Thu, 26 Mar 2026 09:39:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1hFo4Dn9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590VS%2520Code%25E3%2580%2591GitHub%2520Copilot%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2528.agent.md%2529%25E3%2581%25A7%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E6%258C%2587%25E5%25AE%259A%25E3%2581%258C%25E7%2584%25A1%25E8%25A6%2596%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A6%25B9%25E5%25B0%25BE%25E6%2582%25A0%25E7%259C%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhOTNmNzAyMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "コーディングエージェントのサンドボックス技術を理解する",
+        "url": "https://zenn.dev/mkj/articles/3ec9d2d39f446b",
+        "author": "rw21",
+        "date": "Fri, 27 Mar 2026 03:10:50 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--f_R3A9nP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2589%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E6%258A%2580%25E8%25A1%2593%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:rw21%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzcxZTdmNTNlNmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "100ms以内で動作するVLAモデルの実車適用",
-        "url": "https://zenn.dev/turing_motors/articles/f5e44178d78153",
-        "author": "anonamename",
-        "date": "Thu, 26 Mar 2026 02:00:21 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--KLygoGe3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:100ms%25E4%25BB%25A5%25E5%2586%2585%25E3%2581%25A7%25E5%258B%2595%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258BVLA%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E5%25AE%259F%25E8%25BB%258A%25E9%2581%25A9%25E7%2594%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:anonamename%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VhNmQ4MDk1OGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Tech%2520Blog%2520-%2520Turing%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhZmMzZTc1MDcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "その帳票PDF、どう作る？ 3つの生成パターンとライブラリの選び方",
+        "url": "https://zenn.dev/nstock/articles/b0f91308f08096",
+        "author": "ryan5500",
+        "date": "Fri, 27 Mar 2026 01:02:26 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--iFyMP33j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%259D%25E3%2581%25AE%25E5%25B8%25B3%25E7%25A5%25A8PDF%25E3%2580%2581%25E3%2581%25A9%25E3%2581%2586%25E4%25BD%259C%25E3%2582%258B%25EF%25BC%259F%25203%25E3%2581%25A4%25E3%2581%25AE%25E7%2594%259F%25E6%2588%2590%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25A8%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2581%25AE%25E9%2581%25B8%25E3%2581%25B3%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ryan5500%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIxODViNGQ2YzguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Nstock%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzcwMzU1ZGQ0MzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -107,7 +107,7 @@
         "name": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "stars": 338569,
+        "stars": 339413,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
@@ -115,7 +115,7 @@
         "name": "DigitalPlatDev/FreeDomain",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
-        "stars": 154509,
+        "stars": 154660,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126394654?v=4"
       },
@@ -123,7 +123,7 @@
         "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 133465,
+        "stars": 133549,
         "language": null,
         "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4"
       },
@@ -131,7 +131,7 @@
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 131485,
+        "stars": 131922,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
       },
@@ -139,7 +139,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 118358,
+        "stars": 120605,
         "language": "Shell",
         "owner_avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
       }
