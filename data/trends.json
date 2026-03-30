@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-03-29T22:20:34.889543Z"
+    "last_updated": "2026-03-30T22:25:27.137297Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
         "url": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad",
-        "likes": 298,
+        "likes": 310,
         "author": "emi_ndk",
         "avatar_url": "https://avatars.githubusercontent.com/u/54173850?v=4",
         "tags": [
@@ -17,9 +17,21 @@
         ]
       },
       {
+        "title": "ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」",
+        "url": "https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179",
+        "likes": 253,
+        "author": "SatoRyota_zvc",
+        "avatar_url": "https://secure.gravatar.com/avatar/c2f91a319a5347202b71fee19e37ae90",
+        "tags": [
+          "AI",
+          "プロンプト",
+          "ChatGPT"
+        ]
+      },
+      {
         "title": "【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド",
         "url": "https://qiita.com/yamamoto0/items/17817dc09a78078fa132",
-        "likes": 209,
+        "likes": 217,
         "author": "yamamoto0",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4351261/profile-images/1770177050",
         "tags": [
@@ -29,21 +41,21 @@
         ]
       },
       {
-        "title": "エンジニアなら自動化すべき「日常の定型タスク」10選まとめてみた【プロンプト付き】",
-        "url": "https://qiita.com/kamome_susume/items/33729fdbbd54cdaac60e",
-        "likes": 159,
-        "author": "kamome_susume",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1693248/d8e2e59cb05fcf7047d827fc49d400193e5947c9/x_large.png?1686318854",
+        "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
+        "url": "https://qiita.com/N_H_tennis/items/48f13332305338720524",
+        "likes": 168,
+        "author": "N_H_tennis",
+        "avatar_url": "https://secure.gravatar.com/avatar/cef5e2c3b7fd20f24071bdd946413340",
         "tags": [
-          "自動化",
-          "タスク管理",
-          "プロンプト"
+          "ポエム",
+          "AI",
+          "AIエージェント"
         ]
       },
       {
         "title": "AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット",
         "url": "https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36",
-        "likes": 135,
+        "likes": 141,
         "author": "nogataka",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
         "tags": [
@@ -51,55 +63,43 @@
           "AI",
           "OSS"
         ]
-      },
-      {
-        "title": "ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」",
-        "url": "https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179",
-        "likes": 134,
-        "author": "SatoRyota_zvc",
-        "avatar_url": "https://secure.gravatar.com/avatar/c2f91a319a5347202b71fee19e37ae90",
-        "tags": [
-          "AI",
-          "プロンプト",
-          "ChatGPT"
-        ]
       }
     ],
     "zenn": [
       {
-        "title": "iOS26からSampleBufferへ安全なアクセスが可能に",
-        "url": "https://zenn.dev/noppe/articles/f6d41c3e87c433",
-        "author": "noppe",
-        "date": "Sun, 29 Mar 2026 09:05:47 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--IlKk22yb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:iOS26%25E3%2581%258B%25E3%2582%2589SampleBuffer%25E3%2581%25B8%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AA%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E3%2581%258C%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:noppe%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hLalhHWUstZUZoaXVYbEczblA0RlBzd3gtWFVpNEFnMlBoTXRMPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "AI時代におけるタスク管理を考える",
+        "url": "https://zenn.dev/mkj/articles/geminitask_20260325",
+        "author": "Taisei Ozaki",
+        "date": "Mon, 30 Mar 2026 02:50:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--EotQ5wc8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Taisei%2520Ozaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0Y1hKN2I4TjdPWHZzNV9JcnV2cjQzRDF3OVZxamVwUnN2ckNycVAxVndtbzlrPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Chromeの垂直タブ機能を有効化する",
-        "url": "https://zenn.dev/naopusyu/articles/f1381ed7341574",
-        "author": "なお",
-        "date": "Sun, 29 Mar 2026 01:30:00 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Cfgjy5C5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Chrome%25E3%2581%25AE%25E5%259E%2582%25E7%259B%25B4%25E3%2582%25BF%25E3%2583%2596%25E6%25A9%259F%25E8%2583%25BD%25E3%2582%2592%25E6%259C%2589%25E5%258A%25B9%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AA%25E3%2581%258A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE5NjJmMjM0NWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "定常業務を自動操縦にする — Claude Code スケジューラーの育て方",
+        "url": "https://zenn.dev/dely_jp/articles/cf19634b63015b",
+        "author": "funzin",
+        "date": "Mon, 30 Mar 2026 01:28:47 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--KG7Mq-wV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259A%25E5%25B8%25B8%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E6%2593%258D%25E7%25B8%25A6%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2520%25E2%2580%2594%2520Claude%2520Code%2520%25E3%2582%25B9%25E3%2582%25B1%25E3%2582%25B8%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E8%2582%25B2%25E3%2581%25A6%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:funzin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDMG04U205MTg2aXFZRExiSGpidjAtSzRhb3k3bTNlWGg4bm9YPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "ここんところのWeb界隈についての主観的記録",
-        "url": "https://zenn.dev/crayfisher_zari/articles/e3dfa8ca8a4a79",
-        "author": "にしはら",
-        "date": "Sat, 28 Mar 2026 23:30:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--nv51H4HG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2593%25E3%2581%2593%25E3%2582%2593%25E3%2581%25A8%25E3%2581%2593%25E3%2582%258D%25E3%2581%25AEWeb%25E7%2595%258C%25E9%259A%2588%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25AE%25E4%25B8%25BB%25E8%25A6%25B3%25E7%259A%2584%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25AF%25E3%2582%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FmN2I2NDVkZTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "よう若いの。Linuxってのはだな。",
+        "url": "https://zenn.dev/acntechjp/articles/20260329_linux",
+        "author": "Inoue, Takuya",
+        "date": "Sun, 29 Mar 2026 16:12:04 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gwHq-ACd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%2588%25E3%2581%2586%25E8%258B%25A5%25E3%2581%2584%25E3%2581%25AE%25E3%2580%2582Linux%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%25A0%25E3%2581%25AA%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Inoue%252C%2520Takuya%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGZLdG9HY1lxTVQtVWNWUzVtVHZ5ODJ2aTNaNmNXZUdjVzNFTlRxa092ZDB2ZTJocz1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた",
-        "url": "https://zenn.dev/nao_u/articles/92ac9436844a16",
-        "author": "Nao_u",
-        "date": "Sat, 28 Mar 2026 17:43:34 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1lfcHIsU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB20%25E5%25B9%25B4%25E5%2588%2586%25E3%2581%25AE%25E6%2597%25A5%25E8%25A8%2598%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BE%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E4%25BA%25BA%25E6%25A0%25BC%25E3%2581%258C%25E7%2594%259F%25E3%2581%25BE%25E3%2582%258C%25E3%2581%25A6%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nao_u%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUg5RTRXdTFjak80R2NVMHQxNF9TR0tZS3VKU1RGZDRERHRCZGtMZnpVakJSN213PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "React やだ 2026",
+        "url": "https://zenn.dev/mnonamer/articles/react-yada-2026",
+        "author": "名無し。",
+        "date": "Sun, 29 Mar 2026 13:30:11 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--EhCaaNaK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:React%2520%25E3%2582%2584%25E3%2581%25A0%25202026%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2590%258D%25E7%2584%25A1%25E3%2581%2597%25E3%2580%2582%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZmMjI1ZGZkZDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "BCE を意識して Go のコードを高速化する",
-        "url": "https://zenn.dev/mattn/articles/5860d73d292f32",
-        "author": "mattn",
-        "date": "Sat, 28 Mar 2026 16:26:47 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--GZPUeu5E--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:BCE%2520%25E3%2582%2592%25E6%2584%258F%25E8%25AD%2598%25E3%2581%2597%25E3%2581%25A6%2520Go%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E9%25AB%2598%25E9%2580%259F%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mattn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2IwYjA3ZWIzODAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "エージェントが払う仕組み — AIエージェント決済の6層構造",
+        "url": "https://zenn.dev/komlock_lab/articles/agent-payments-stack-2026",
+        "author": "Kobara Toi",
+        "date": "Sun, 29 Mar 2026 10:45:38 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--sxg9oiOv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E6%2589%2595%25E3%2581%2586%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2520%25E2%2580%2594%2520AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E6%25B1%25BA%25E6%25B8%2588%25E3%2581%25AE6%25E5%25B1%25A4%25E6%25A7%258B%25E9%2580%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kobara%2520Toi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U4MjYwMWZiMGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -107,7 +107,7 @@
         "name": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "stars": 340446,
+        "stars": 341748,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/252820863?v=4"
       },
@@ -115,7 +115,7 @@
         "name": "DigitalPlatDev/FreeDomain",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
-        "stars": 154822,
+        "stars": 154965,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126394654?v=4"
       },
@@ -123,7 +123,7 @@
         "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 133629,
+        "stars": 133737,
         "language": null,
         "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4"
       },
@@ -131,7 +131,7 @@
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 132351,
+        "stars": 132939,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
       },
@@ -139,7 +139,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 122722,
+        "stars": 125458,
         "language": "Shell",
         "owner_avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
       }
