@@ -1,71 +1,116 @@
 {
   "metadata": {
-    "last_updated": "2026-03-31T22:25:03.805525Z"
+    "last_updated": "2026-04-01T22:27:35Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
-        "url": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad",
-        "likes": 320,
-        "author": "emi_ndk",
-        "avatar_url": "https://avatars.githubusercontent.com/u/54173850?v=4",
-        "tags": [
-          "Python",
-          "Security",
-          "AI"
-        ]
-      },
-      {
         "title": "ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」",
         "url": "https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179",
-        "likes": 274,
+        "likes": 284,
         "author": "SatoRyota_zvc",
         "avatar_url": "https://secure.gravatar.com/avatar/c2f91a319a5347202b71fee19e37ae90",
         "tags": [
           "AI",
           "プロンプト",
-          "ChatGPT"
-        ]
+          "ChatGPT",
+          "AIエージェント"
+        ],
+        "created_at": "2026-03-27T16:24:29+09:00"
       },
       {
         "title": "【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド",
         "url": "https://qiita.com/yamamoto0/items/17817dc09a78078fa132",
-        "likes": 221,
+        "likes": 256,
         "author": "yamamoto0",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4351261/profile-images/1770177050",
         "tags": [
           "SKILLS",
           "開発者ツール",
-          "プロンプトエンジニアリング"
-        ]
+          "プロンプトエンジニアリング",
+          "AIエージェント"
+        ],
+        "created_at": "2026-03-25T15:03:23+09:00"
       },
       {
         "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
         "url": "https://qiita.com/N_H_tennis/items/48f13332305338720524",
-        "likes": 175,
+        "likes": 182,
         "author": "N_H_tennis",
         "avatar_url": "https://secure.gravatar.com/avatar/cef5e2c3b7fd20f24071bdd946413340",
         "tags": [
           "ポエム",
           "AI",
-          "AIエージェント"
-        ]
+          "AIエージェント",
+          "マルチエージェント"
+        ],
+        "created_at": "2026-03-27T21:23:35+09:00"
       },
       {
         "title": "実務1年目の僕に伝えたい。完璧主義を捨てて「プロ」になるための行動4選",
         "url": "https://qiita.com/masa20057/items/747faa3de771373a3e4f",
-        "likes": 128,
+        "likes": 137,
         "author": "masa20057",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
         "tags": [
           "初心者",
           "エンジニア",
-          "初学者向け"
-        ]
+          "初学者向け",
+          "未経験エンジニア"
+        ],
+        "created_at": "2026-03-26T11:06:27+09:00"
+      },
+      {
+        "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
+        "url": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
+        "likes": 118,
+        "author": "miruky",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1774445070",
+        "tags": [
+          "AWS",
+          "AI",
+          "生成AI",
+          "Anthropic"
+        ],
+        "created_at": "2026-03-26T00:01:52+09:00"
+      },
+      {
+        "title": "未経験から3年で感じたこれからのキャリアを築くための行動3選",
+        "url": "https://qiita.com/masa20057/items/ac1e447ba9996b5543da",
+        "likes": 111,
+        "author": "masa20057",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
+        "tags": [
+          "初心者",
+          "エンジニア",
+          "初学者向け",
+          "未経験エンジニア"
+        ],
+        "created_at": "2026-03-29T15:47:13+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "逆引き Rust Web API 開発: Axum で学ぶ実践パターン",
+        "url": "https://zenn.dev/sbk0716/books/70b401fac4005d",
+        "author": "shibatoki",
+        "date": "Tue, 31 Mar 2026 18:54:31 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--PKwqO_TN--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mMzk1NzZjOGMyLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
+      },
+      {
+        "title": "サプライチェーン攻撃から身を守るために最低限設定しておきたいこと",
+        "url": "https://zenn.dev/dely_jp/articles/supply-chain-kowai",
+        "author": "ラク",
+        "date": "Tue, 31 Mar 2026 08:41:07 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Ggy8gqht--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E6%2594%25BB%25E6%2592%2583%25E3%2581%258B%25E3%2582%2589%25E8%25BA%25AB%25E3%2582%2592%25E5%25AE%2588%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E6%259C%2580%25E4%25BD%258E%25E9%2599%2590%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2597%25E3%2581%25A6%25E3%2581%258A%25E3%2581%258D%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%25A9%25E3%2582%25AF%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2YwODYxOWQxYzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
+      {
+        "title": "axiosにサプライチェーン攻撃が発生した話と、担当プロジェクトでやっていた備え",
+        "url": "https://zenn.dev/rescuenow/articles/880bf865235aaf",
+        "author": "しもち",
+        "date": "Tue, 31 Mar 2026 06:54:31 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--nLPNfLf1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:axios%25E3%2581%25AB%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E6%2594%25BB%25E6%2592%2583%25E3%2581%258C%25E7%2599%25BA%25E7%2594%259F%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%25E3%2581%25A8%25E3%2580%2581%25E6%258B%2585%25E5%25BD%2593%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25A7%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E5%2582%2599%25E3%2581%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2597%25E3%2582%2582%25E3%2581%25A1%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E0NWI1N2NlZmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258A%25E3%2582%25A6%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM2YWQyYWI1OTUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
       {
         "title": "あつあつ流！学生団体の組織論",
         "url": "https://zenn.dev/atsuatsu0120/books/132d3d1b3ca579",
@@ -74,74 +119,68 @@
         "image_url": ""
       },
       {
+        "title": "Claude Code を「何となく使っている」から抜け出す——『実践 Claude Code 入門』で得た気づき",
+        "url": "https://zenn.dev/nextbeat/articles/practical-claude-code-introduction",
+        "author": "Hama",
+        "date": "Tue, 31 Mar 2026 05:52:00 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s---PLuSVQN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2582%2592%25E3%2580%258C%25E4%25BD%2595%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%258F%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2580%258D%25E3%2581%258B%25E3%2582%2589%25E6%258A%259C%25E3%2581%2591%25E5%2587%25BA%25E3%2581%2599%25E2%2580%2594%25E2%2580%2594%25E3%2580%258E%25E5%25AE%259F%25E8%25B7%25B5%2520Claude%2520Code%2520%25E5%2585%25A5%25E9%2596%2580%25E3%2580%258F%25E3%2581%25A7%25E5%25BE%2597%25E3%2581%259F%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hama%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q3MzM5NTFkZmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:nextbeat%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NmMTFjYWNkY2UuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
+      {
         "title": "【緊急】axios がサプライチェーン攻撃 2026.03.31",
         "url": "https://zenn.dev/gunta/articles/0152eadf05d173",
         "author": "Gunther Brunner",
         "date": "Tue, 31 Mar 2026 04:06:25 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--mBaevINe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E7%25B7%258A%25E6%2580%25A5%25E3%2580%2591axios%2520%25E3%2581%258C%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E6%2594%25BB%25E6%2592%2583%25202026.03.31%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Gunther%2520Brunner%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lCOWhzUlhhNW5lUXlhNF81U2RyRnNDUWkxcll3WDB4RTlDRjB4eGc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "Ubieにおける一年間のセキュリティ分析AIエージェントの運用",
-        "url": "https://zenn.dev/ubie_dev/articles/ai-sec-alert-ops",
-        "author": "Masayoshi MIZUTANI",
-        "date": "Mon, 30 Mar 2026 22:35:49 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_MVjFhiq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ubie%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E4%25B8%2580%25E5%25B9%25B4%25E9%2596%2593%25E3%2581%25AE%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E5%2588%2586%25E6%259E%2590AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E9%2581%258B%25E7%2594%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Masayoshi%2520MIZUTANI%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dfUFlFOTV5Z3JPdmpiM0ttajdSZnE0eDNWc1ZTLTVBaWJJMV9IVlE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "Kiroの仕様駆動開発を2案件回して辿り着いた運用設計",
-        "url": "https://zenn.dev/fusic/articles/ae90127245999a",
-        "author": "もり",
-        "date": "Mon, 30 Mar 2026 11:04:36 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--rSJW1TLZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kiro%25E3%2581%25AE%25E4%25BB%2595%25E6%25A7%2598%25E9%25A7%2586%25E5%258B%2595%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25922%25E6%25A1%2588%25E4%25BB%25B6%25E5%259B%259E%25E3%2581%2597%25E3%2581%25A6%25E8%25BE%25BF%25E3%2582%258A%25E7%259D%2580%25E3%2581%2584%25E3%2581%259F%25E9%2581%258B%25E7%2594%25A8%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%2582%25E3%2582%258A%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NTk2MzE3ZmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "ClaudeCodeと弱者の戦略",
-        "url": "https://zenn.dev/akatuki_me/articles/43eb4604d0675d",
-        "author": "暁",
-        "date": "Mon, 30 Mar 2026 10:00:06 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--GYmAXpzG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ClaudeCode%25E3%2581%25A8%25E5%25BC%25B1%25E8%2580%2585%25E3%2581%25AE%25E6%2588%25A6%25E7%2595%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%259A%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnFwcXRla0Y0RFZoWnhxdXFSMkw4ODlBdzRvNVdObWZxOEhZR0JvUjBOTml1SFczaz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
       {
-        "name": "openclaw/openclaw",
-        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-        "url": "https://github.com/openclaw/openclaw",
-        "stars": 343124,
+        "name": "instructkr/claw-code",
+        "description": "The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.",
+        "url": "https://github.com/instructkr/claw-code",
+        "stars": 117384,
+        "language": "Rust",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/164172344?v=4"
+      },
+      {
+        "name": "karpathy/autoresearch",
+        "description": "AI agents running research on single-GPU nanochat training automatically",
+        "url": "https://github.com/karpathy/autoresearch",
+        "stars": 63425,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/241138?v=4"
+      },
+      {
+        "name": "garrytan/gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "url": "https://github.com/garrytan/gstack",
+        "stars": 60764,
         "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/252820863?v=4"
+        "owner_avatar": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
       {
-        "name": "DigitalPlatDev/FreeDomain",
-        "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-        "url": "https://github.com/DigitalPlatDev/FreeDomain",
-        "stars": 155117,
-        "language": "HTML",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/126394654?v=4"
-      },
-      {
-        "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-        "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 133878,
-        "language": null,
-        "owner_avatar": "https://avatars.githubusercontent.com/u/185671340?v=4"
-      },
-      {
-        "name": "anomalyco/opencode",
-        "description": "The open source coding agent.",
-        "url": "https://github.com/anomalyco/opencode",
-        "stars": 133699,
+        "name": "chenglou/pretext",
+        "description": null,
+        "url": "https://github.com/chenglou/pretext",
+        "stars": 30667,
         "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4"
+        "owner_avatar": "https://avatars.githubusercontent.com/u/1909539?v=4"
       },
       {
-        "name": "obra/superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers",
-        "stars": 128007,
-        "language": "Shell",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
+        "name": "HKUDS/CLI-Anything",
+        "description": "CLI-Anything: Making ALL Software Agent-Native",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "stars": 26144,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4"
+      },
+      {
+        "name": "NVIDIA/NemoClaw",
+        "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+        "url": "https://github.com/NVIDIA/NemoClaw",
+        "stars": 18098,
+        "language": "JavaScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/1728152?v=4"
       }
     ]
   }
