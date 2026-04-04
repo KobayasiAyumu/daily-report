@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-04-03T22:22:55Z"
+    "last_updated": "2026-04-04T22:19:17Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」",
         "url": "https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179",
-        "likes": 299,
+        "likes": 304,
         "author": "SatoRyota_zvc",
         "avatar_url": "https://secure.gravatar.com/avatar/c2f91a319a5347202b71fee19e37ae90",
         "tags": [
@@ -19,23 +19,9 @@
         "created_at": "2026-03-27T16:24:29+09:00"
       },
       {
-        "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
-        "url": "https://qiita.com/N_H_tennis/items/48f13332305338720524",
-        "likes": 187,
-        "author": "N_H_tennis",
-        "avatar_url": "https://secure.gravatar.com/avatar/cef5e2c3b7fd20f24071bdd946413340",
-        "tags": [
-          "ポエム",
-          "AI",
-          "AIエージェント",
-          "マルチエージェント"
-        ],
-        "created_at": "2026-03-27T21:23:35+09:00"
-      },
-      {
         "title": "100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化",
         "url": "https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c",
-        "likes": 182,
+        "likes": 194,
         "author": "nogataka",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
         "tags": [
@@ -47,9 +33,23 @@
         "created_at": "2026-03-31T09:18:35+09:00"
       },
       {
+        "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
+        "url": "https://qiita.com/N_H_tennis/items/48f13332305338720524",
+        "likes": 188,
+        "author": "N_H_tennis",
+        "avatar_url": "https://secure.gravatar.com/avatar/cef5e2c3b7fd20f24071bdd946413340",
+        "tags": [
+          "ポエム",
+          "AI",
+          "AIエージェント",
+          "マルチエージェント"
+        ],
+        "created_at": "2026-03-27T21:23:35+09:00"
+      },
+      {
         "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
         "url": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146",
-        "likes": 169,
+        "likes": 181,
         "author": "LostMyCode",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/576748/8e062b54d6a7770c776ab8d73021809efc10b27d/x_large.png?1633144921",
         "tags": [
@@ -61,9 +61,23 @@
         "created_at": "2026-04-01T07:50:49+09:00"
       },
       {
+        "title": "Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10",
+        "url": "https://qiita.com/nogataka/items/5e64037cc452c5d497fa",
+        "likes": 169,
+        "author": "nogataka",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
+        "tags": [
+          "CLI",
+          "AI",
+          "開発効率化",
+          "Claude"
+        ],
+        "created_at": "2026-04-02T12:17:55+09:00"
+      },
+      {
         "title": "未経験から3年で感じたこれからのキャリアを築くための行動3選",
         "url": "https://qiita.com/masa20057/items/ac1e447ba9996b5543da",
-        "likes": 115,
+        "likes": 117,
         "author": "masa20057",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
         "tags": [
@@ -73,72 +87,58 @@
           "未経験エンジニア"
         ],
         "created_at": "2026-03-29T15:47:13+09:00"
-      },
-      {
-        "title": "【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話",
-        "url": "https://qiita.com/yuyanz/items/5d2087dd5500d0689d7e",
-        "likes": 109,
-        "author": "yuyanz",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/248327/profile-images/1775041385",
-        "tags": [
-          "Microsoft",
-          "Teams",
-          "Microsoft365",
-          "copilot"
-        ],
-        "created_at": "2026-03-29T15:25:10+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "Ruby 4.0 にアップデートする前に Bundler 4.0 と Dependabot について深掘り調査してみた",
-        "url": "https://zenn.dev/leaner_dev/articles/deep-dive-bundler-4-0-and-dependabot",
-        "author": "sanfrecce_osaka(森塚 真年)",
-        "date": "Thu, 02 Apr 2026 23:35:52 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--OzR-unNF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ruby%25204.0%2520%25E3%2581%25AB%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%25E5%2589%258D%25E3%2581%25AB%2520Bundler%25204.0%2520%25E3%2581%25A8%2520Dependabot%2520%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25E8%25AA%25BF%25E6%259F%25BB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sanfrecce_osaka%2528%25E6%25A3%25AE%25E5%25A1%259A...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhNjFkZTAyMDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%258A%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2p4UjRWUGFUZ19VN1VUaVE5MEFxWGJMVjJYRTN1bVpCQzZIQU81Rmc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "GitHub Copilot CLI の /fleet が面白い",
+        "url": "https://zenn.dev/poipoionigiri/articles/73eb2b803b10d7",
+        "author": "tkym",
+        "date": "Sat, 04 Apr 2026 01:00:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--xeUQDJNt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%2520CLI%2520%25E3%2581%25AE%2520%252Ffleet%2520%25E3%2581%258C%25E9%259D%25A2%25E7%2599%25BD%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tkym%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdhODkzYmY4MmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "パラメータ4個で710M超えのFoundation Modelに勝った時系列予測手法FLAIRの全貌",
-        "url": "https://zenn.dev/t_honda/articles/flair-time-series-forecasting",
-        "author": "Takato Honda",
-        "date": "Thu, 02 Apr 2026 12:56:56 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--XhCkmO1X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF4%25E5%2580%258B%25E3%2581%25A7710M%25E8%25B6%2585%25E3%2581%2588%25E3%2581%25AEFoundation%2520Model%25E3%2581%25AB%25E5%258B%259D%25E3%2581%25A3%25E3%2581%259F%25E6%2599%2582%25E7%25B3%25BB%25E5%2588%2597%25E4%25BA%2588%25E6%25B8%25AC%25E6%2589%258B%25E6%25B3%2595FLAIR%25E3%2581%25AE%25E5%2585%25A8%25E8%25B2%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Takato%2520Honda%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzUwYjRmYzYyN2UuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "WinUI 3 の悪いところ",
+        "url": "https://zenn.dev/shinta0806/articles/winui3-disadvantages",
+        "author": "SHINTA",
+        "date": "Sat, 04 Apr 2026 00:12:46 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--mit0D-0a--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WinUI%25203%2520%25E3%2581%25AE%25E6%2582%25AA%25E3%2581%2584%25E3%2581%25A8%25E3%2581%2593%25E3%2582%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:SHINTA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YTVabUphNlFMbXhKY21nTC1rZ0RMQjQ5X25EMkxnT2dmQWxYMEY9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "よくわからないで使っていたPHPの復習",
-        "url": "https://zenn.dev/mima_ita/articles/7bfbab47e93860",
-        "author": "mima_ita",
-        "date": "Thu, 02 Apr 2026 11:52:34 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--W83scdw2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%2588%25E3%2581%258F%25E3%2582%258F%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259FPHP%25E3%2581%25AE%25E5%25BE%25A9%25E7%25BF%2592%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mima_ita%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pjcDFUQmpUT3lBUnl4aHM3aVk1MEg2b0JZZ3FrRzFjTTZVblJMPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "AIクローラーにだけ課金する。Hono + x402で実現するCloudflare Workers上のAIペイウォール",
+        "url": "https://zenn.dev/jphfa/articles/x402-ai-crawler-monetization",
+        "author": "jphfa",
+        "date": "Fri, 03 Apr 2026 13:17:22 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--aSTv0Tqk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AB%25E3%2581%25A0%25E3%2581%2591%25E8%25AA%25B2%25E9%2587%2591%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582Hono%2520%252B%2520x402%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258BCloudflare%2520Workers%25E4%25B8%258A%25E3%2581%25AEAI%25E3%2583%259A%25E3%2582%25A4%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jphfa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzlmMGQ1ZWNlNTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "ハーネスエンジニアリングの先へ — VSDD × CoDDで「実装品質」と「変更時の整合性」を両立させてみた",
-        "url": "https://zenn.dev/sc30gsw/articles/bbb8b3c2fff1f6",
-        "author": "kaito",
-        "date": "Thu, 02 Apr 2026 10:37:14 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--WDmfRb-o--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E5%2585%2588%25E3%2581%25B8%2520%25E2%2580%2594%2520VSDD%2520%25C3%2597%2520CoDD%25E3%2581%25A7%25E3%2580%258C%25E5%25AE%259F%25E8%25A3%2585%25E5%2593%2581%25E8%25B3%25AA%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E5%25A4%2589%25E6%259B%25B4%25E6%2599%2582%25E3%2581%25AE%25E6%2595%25B4%25E5%2590%2588%25E6%2580%25A7%25E3%2580%258D%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2595%25E3%2581%259B%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kaito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VmZDZhMGM5YWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "C#で設計原則をどこまで適用するか — 規模別の線引きガイド",
+        "url": "https://zenn.dev/jodycraft/articles/csharp-design-principles-scale-guide",
+        "author": "JodyCraft",
+        "date": "Fri, 03 Apr 2026 13:06:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--c1q8mw3v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%2523%25E3%2581%25A7%25E8%25A8%25AD%25E8%25A8%2588%25E5%258E%259F%25E5%2589%2587%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25BE%25E3%2581%25A7%25E9%2581%25A9%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25E3%2581%258B%2520%25E2%2580%2594%2520%25E8%25A6%258F%25E6%25A8%25A1%25E5%2588%25A5%25E3%2581%25AE%25E7%25B7%259A%25E5%25BC%2595%25E3%2581%258D%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:JodyCraft%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXdMa1VNVFFwTDF0eFJLblhPTGdmWEhveW52Vmp4UVUzUldWa1h3YUNxdkswdUpPdzlrZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Stitch × Figma Make × Claude Code で個人サイトがすんなり完成した話",
-        "url": "https://zenn.dev/sunagaku/articles/stitch-figmamake-design-flow",
-        "author": "スナガク",
-        "date": "Thu, 02 Apr 2026 09:47:35 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Pepf4ZcI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Stitch%2520%25C3%2597%2520Figma%2520Make%2520%25C3%2597%2520Claude%2520Code%2520%25E3%2581%25A7%25E5%2580%258B%25E4%25BA%25BA%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2581%258C%25E3%2581%2599%25E3%2582%2593%25E3%2581%25AA%25E3%2582%258A%25E5%25AE%258C%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B9%25E3%2583%258A%25E3%2582%25AC%25E3%2582%25AF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJkNDhmZDc4ZTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "AIが書いたコードをレビューするな",
+        "url": "https://zenn.dev/a_1ro/articles/4b0333e9d7b8f9",
+        "author": "Eiichiro Iriguchi",
+        "date": "Fri, 03 Apr 2026 09:30:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gQFMaeLc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Eiichiro%2520Iriguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y4ODI2ZGJlMzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "GitHub Copilot のカスタマイズに疲弊した人に: Copilot Chat のビルトイン スキルがすごい",
-        "url": "https://zenn.dev/microsoft/articles/88253e369ae8ea",
-        "author": "Junya Yamaguchi (openjny)",
-        "date": "Thu, 02 Apr 2026 09:36:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--vA7Qgyni--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%2520%25E3%2581%25AE%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25BA%25E3%2581%25AB%25E7%2596%25B2%25E5%25BC%258A%25E3%2581%2597%25E3%2581%259F%25E4%25BA%25BA%25E3%2581%25AB%253A%2520Copilot%2520Chat%2520%25E3%2581%25AE%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2588%25E3%2582%25A4%25E3%2583%25B3%2520%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2581%258C%25E3%2581%2599%25E3%2581%2594%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Junya%2520Yamaguchi%2520%2528o...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzgxNWZkZTM3NTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "自律的に深掘りするデータ分析エージェントの設計 〜並列処理による高速化アプローチ〜",
+        "url": "https://zenn.dev/nttdata_tech/articles/a902c2d5289f3f",
+        "author": "hanagi",
+        "date": "Fri, 03 Apr 2026 06:00:11 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_PwIEIrW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%25BE%258B%25E7%259A%2584%25E3%2581%25AB%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25E3%2581%2599%25E3%2582%258B%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%2588%2586%25E6%259E%2590%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%2520%25E3%2580%259C%25E4%25B8%25A6%25E5%2588%2597%25E5%2587%25A6%25E7%2590%2586%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%25AB%2598%25E9%2580%259F%25E5%258C%2596%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hanagi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvaC5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
       {
         "name": "ultraworkers/claw-code",
-        "description": "[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+        "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
         "url": "https://github.com/ultraworkers/claw-code",
-        "stars": 161819,
+        "stars": 166849,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/272961631?v=4"
       },
@@ -146,7 +146,7 @@
         "name": "karpathy/autoresearch",
         "description": "AI agents running research on single-GPU nanochat training automatically",
         "url": "https://github.com/karpathy/autoresearch",
-        "stars": 65015,
+        "stars": 65590,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/241138?v=4"
       },
@@ -154,7 +154,7 @@
         "name": "garrytan/gstack",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
         "url": "https://github.com/garrytan/gstack",
-        "stars": 63193,
+        "stars": 63951,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/19957?v=4"
       },
@@ -162,15 +162,15 @@
         "name": "chenglou/pretext",
         "description": null,
         "url": "https://github.com/chenglou/pretext",
-        "stars": 37271,
+        "stars": 38678,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1909539?v=4"
       },
       {
         "name": "HKUDS/CLI-Anything",
-        "description": "CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 27664,
+        "stars": 28025,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4"
       },
@@ -178,7 +178,7 @@
         "name": "NVIDIA/NemoClaw",
         "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
         "url": "https://github.com/NVIDIA/NemoClaw",
-        "stars": 18352,
+        "stars": 18449,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1728152?v=4"
       }
