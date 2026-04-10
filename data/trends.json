@@ -1,27 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-04-09T22:31:58Z"
+    "last_updated": "2026-04-10T22:27:01Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "「あいつには関わりたくない」と思われていた2年間の話をする",
-        "url": "https://qiita.com/kentawata/items/f1596bda2d07cdb2637d",
-        "likes": 424,
-        "author": "kentawata",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3982301/43b18b9023e3654a179228af38cfbb6935ca8914/x_large.png?1740617368",
-        "tags": [
-          "ポエム",
-          "新人教育",
-          "コミュニケーション",
-          "仕事術"
-        ],
-        "created_at": "2026-04-03T09:12:02+09:00"
-      },
-      {
         "title": "【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】",
         "url": "https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d",
-        "likes": 223,
+        "likes": 224,
         "author": "Sicut_study",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/810513/profile-images/1714917423",
         "tags": [
@@ -35,7 +21,7 @@
       {
         "title": "Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～",
         "url": "https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103",
-        "likes": 120,
+        "likes": 124,
         "author": "kotauchisunsun",
         "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/139643/profile-images/1473720967",
         "tags": [
@@ -47,18 +33,18 @@
         "created_at": "2026-04-04T00:17:52+09:00"
       },
       {
-        "title": "axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策",
-        "url": "https://qiita.com/nogataka/items/17c497375ed2c6c3d054",
+        "title": "自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された",
+        "url": "https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4",
         "likes": 110,
-        "author": "nogataka",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
+        "author": "kojin_dev_hub",
+        "avatar_url": "https://secure.gravatar.com/avatar/de9bd3bd0b3cc54249844a607df2d3d8",
         "tags": [
-          "JavaScript",
-          "Node.js",
+          "API",
           "Security",
-          "npm"
+          "Slack",
+          "短縮URL"
         ],
-        "created_at": "2026-04-03T12:28:33+09:00"
+        "created_at": "2026-04-07T22:05:43+09:00"
       },
       {
         "title": "【35歳未経験でも理解できた】HTTPクライアントとHTTPサーバー",
@@ -77,7 +63,7 @@
       {
         "title": "【35歳未経験でも理解できた】URLとHTTP",
         "url": "https://qiita.com/wata-sho/items/895d52879948d5bdb387",
-        "likes": 88,
+        "likes": 89,
         "author": "wata-sho",
         "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJpVuKYVUCsLt1ow9GiK3i7i46fcDZx5x_4yxyro220JsMubQ=s96-c",
         "tags": [
@@ -87,9 +73,30 @@
           "初心者向け"
         ],
         "created_at": "2026-04-07T10:25:05+09:00"
+      },
+      {
+        "title": "エンジニア未経験でも一目置かれるポートフォリオ。ビジネス視点で顧客に価値を届ける。",
+        "url": "https://qiita.com/masa20057/items/3237a14437fbaad63f46",
+        "likes": 84,
+        "author": "masa20057",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
+        "tags": [
+          "初心者",
+          "エンジニア",
+          "初学者向け",
+          "未経験エンジニア"
+        ],
+        "created_at": "2026-04-07T09:41:24+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "（スクショ大量付）謎のAgent 365×Gensparkを検証してみた（A365の仕組みもちょっと理解できた）",
+        "url": "https://zenn.dev/kasada/articles/6f1f264e7df58e",
+        "author": "Kaz Asada | しがない情シス",
+        "date": "Thu, 09 Apr 2026 14:42:43 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--jEZGA3Rd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25EF%25BC%2588%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E5%25A4%25A7%25E9%2587%258F%25E4%25BB%2598%25EF%25BC%2589%25E8%25AC%258E%25E3%2581%25AEAgent%2520365%25C3%2597Genspark%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2588A365%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2582%25E3%2581%25A1%25E3%2582%2587%25E3%2581%25A3%25E3%2581%25A8%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kaz%2520Asada%2520%257C%2520%25E3%2581%2597%25E3%2581%258C%25E3%2581%25AA%25E3%2581%2584%25E6%2583%2585%25E3%2582%25B7%25E3%2582%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM2YTgzZmM4NmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
       {
         "title": "Claude in Chromeの活用事例8選｜サブスク範囲でブラウザ自動化できるんやで",
         "url": "https://zenn.dev/masayan1126/books/claude-in-chrome-guide",
@@ -105,83 +112,27 @@
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1z7vMmqY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2522%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%258F%25E6%2594%25B9%25E5%2596%2584%2522%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E8%2584%25B1%25E5%258D%25B4%25E3%2580%2582Langfuse%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2580%2581%25E7%25B2%25BE%25E5%25BA%25A6%25E3%2582%2592%25E6%2594%25B9%25E5%2596%2584%25E3%2581%2597%25E7%25B6%259A%25E3%2581%2591%25E3%2582%2589%25E3%2582%258C%25E3%2582%258BAI%25E9%2596%258B%25E7%2599%25BA%25E5%259F%25BA%25E7%259B%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yata%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E2OTFlNjE4YzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:LayerX%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2d1S2NhVjV1T1Jkdk05N3JVZHBmZVR4S0gxRmt4aFFHNlduUklKPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
+        "title": "Playwright CLI + Claude Code で自律UI修正開発の提案",
+        "url": "https://zenn.dev/catatsumuri/articles/22227c79a94a86",
+        "author": "ﾓｯ",
+        "date": "Thu, 09 Apr 2026 09:53:08 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--IBf0HfPO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520CLI%2520%252B%2520Claude%2520Code%2520%25E3%2581%25A7%25E8%2587%25AA%25E5%25BE%258BUI%25E4%25BF%25AE%25E6%25AD%25A3%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E6%258F%2590%25E6%25A1%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25EF%25BE%2593%25EF%25BD%25AF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlMzM1YzM5ZjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
+      {
+        "title": "転職してエクセルファイルを読み解いてHTMLに変換する仕事をしていたが、悪役令嬢は出てこないし、勇者パーティーも追放されなかった話",
+        "url": "https://zenn.dev/aldagram_tech/articles/c472e358412864",
+        "author": "hiroyahorai",
+        "date": "Thu, 09 Apr 2026 09:00:13 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--0yhCFZye--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25BB%25A2%25E8%2581%25B7%25E3%2581%2597%25E3%2581%25A6%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25BB%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BF%25E8%25A7%25A3%25E3%2581%2584%25E3%2581%25A6HTML%25E3%2581%25AB%25E5%25A4%2589%25E6%258F%259B%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E4%25BA%258B%25E3%2582%2592%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2581%258C%25E3%2580%2581%25E6%2582%25AA%25E5%25BD%25B9%25E4%25BB%25A4%25E5%25AC%25A2%25E3%2581%25AF%25E5%2587%25BA%25E3%2581%25A6%25E3%2581%2593%25E3%2581%25AA%25E3%2581%2584%25E3%2581%2597%25E3%2580%2581%25E5%258B%2587%25E8%2580%2585%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%2582%25E8%25BF%25BD...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hiroyahorai%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiM2FkMDk1NzUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A0%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDctVHN3TkdnZ0hQVmthd0lGQzJNMk5IdmVsMDB5dTBFdTBqaS1aQkdNWl9XVWp3PXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
+      {
         "title": "S3 Filesで消えるアーキテクチャ層、生まれるアーキテクチャ",
         "url": "https://zenn.dev/genda_jp/articles/b6ff5ea33c7a71",
         "author": "ikenyal",
         "date": "Thu, 09 Apr 2026 06:00:10 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_kllfBVZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:S3%2520Files%25E3%2581%25A7%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E5%25B1%25A4%25E3%2580%2581%25E7%2594%259F%25E3%2581%25BE%25E3%2582%258C%25E3%2582%258B%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ikenyal%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I5MzI2NGQ4NzcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "grill-me スキルがめちゃ良いので布教したい",
-        "url": "https://zenn.dev/ryonakae/articles/8783c6b3ead2cb",
-        "author": "Ryo Nakae",
-        "date": "Wed, 08 Apr 2026 16:40:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--eYEbzH09--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:grill-me%2520%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2581%258C%25E3%2582%2581%25E3%2581%25A1%25E3%2582%2583%25E8%2589%25AF%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25A7%25E5%25B8%2583%25E6%2595%2599%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ryo%2520Nakae%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E3YjMxNzExNDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "Terraformを使わずにGitHubをコードで管理する",
-        "url": "https://zenn.dev/babarot/articles/github-as-code-with-gh-infra",
-        "author": "babarot",
-        "date": "Wed, 08 Apr 2026 11:51:11 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--s5eL23Ma--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Terraform%25E3%2582%2592%25E4%25BD%25BF%25E3%2582%258F%25E3%2581%259A%25E3%2581%25ABGitHub%25E3%2582%2592%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:babarot%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUZjTndjbUxlTHdLZklUSEV1UkdLX1FlbzFyaklGeUhCNnFadXZQUk96b29WR1prZjk9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "【2026年4月版】会社員が個人事業主になってApp Store・Google Playに組織アカウントで登録するまでの全記録",
-        "url": "https://zenn.dev/zawascript/articles/2026-04-store",
-        "author": "zawascript",
-        "date": "Wed, 08 Apr 2026 11:05:59 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FE7AFlrd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902026%25E5%25B9%25B44%25E6%259C%2588%25E7%2589%2588%25E3%2580%2591%25E4%25BC%259A%25E7%25A4%25BE%25E5%2593%25A1%25E3%2581%258C%25E5%2580%258B%25E4%25BA%25BA%25E4%25BA%258B%25E6%25A5%25AD%25E4%25B8%25BB%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6App%2520Store%25E3%2583%25BBGoogle%2520Play%25E3%2581%25AB%25E7%25B5%2584%25E7%25B9%2594%25E3%2582%25A2%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E7%2599%25BB%25E9%258C%25B2%25E3%2581%2599%25E3%2582%258B...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:zawascript%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNiODFmODNiZTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
-    "github": [
-      {
-        "name": "ultraworkers/claw-code",
-        "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
-        "url": "https://github.com/ultraworkers/claw-code",
-        "stars": 179670,
-        "language": "Rust",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/272961631?v=4"
-      },
-      {
-        "name": "garrytan/gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "url": "https://github.com/garrytan/gstack",
-        "stars": 68308,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/19957?v=4"
-      },
-      {
-        "name": "VoltAgent/awesome-design-md",
-        "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
-        "url": "https://github.com/VoltAgent/awesome-design-md",
-        "stars": 38174,
-        "language": "",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/201282378?v=4"
-      },
-      {
-        "name": "milla-jovovich/mempalace",
-        "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-        "url": "https://github.com/milla-jovovich/mempalace",
-        "stars": 35215,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/232237854?v=4"
-      },
-      {
-        "name": "santifer/career-ops",
-        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "url": "https://github.com/santifer/career-ops",
-        "stars": 27521,
-        "language": "JavaScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/256850418?v=4"
-      },
-      {
-        "name": "Gitlawb/openclaude",
-        "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
-        "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 20112,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/268502891?v=4"
-      }
-    ]
+    "github": []
   }
 }
