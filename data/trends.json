@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-04-25T22:26:25Z"
+    "last_updated": "2026-04-26T22:27:56Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
         "url": "https://qiita.com/ot12/items/06420caf41a34a910c53",
-        "likes": 173,
+        "likes": 238,
         "author": "ot12",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3356814/profile-images/1688812453",
         "tags": [
@@ -20,7 +20,7 @@
       {
         "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
         "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
-        "likes": 141,
+        "likes": 143,
         "author": "miruky",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1774445070",
         "tags": [
@@ -34,7 +34,7 @@
       {
         "title": "Claude Codeで開発を自動化するSkills 5選",
         "url": "https://qiita.com/kamome_susume/items/3b9b18e7e54f15721837",
-        "likes": 104,
+        "likes": 109,
         "author": "kamome_susume",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1693248/d8e2e59cb05fcf7047d827fc49d400193e5947c9/x_large.png?1686318854",
         "tags": [
@@ -44,20 +44,6 @@
           "ClaudeCode"
         ],
         "created_at": "2026-04-20T18:23:27+09:00"
-      },
-      {
-        "title": "一人で悩み続けてしまう新人エンジニアへ。その時間、無駄かもしれません。",
-        "url": "https://qiita.com/hitomin_poke/items/9d91ff5ad51001237a02",
-        "likes": 97,
-        "author": "hitomin_poke",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4031494/profile-images/1751384543",
-        "tags": [
-          "初心者",
-          "教育",
-          "エンジニア",
-          "未経験エンジニア"
-        ],
-        "created_at": "2026-04-18T22:29:48+09:00"
       },
       {
         "title": "【初心者エンジニア向け】開発を前に進めるための行動3選",
@@ -72,6 +58,20 @@
           "未経験エンジニア"
         ],
         "created_at": "2026-04-21T12:58:05+09:00"
+      },
+      {
+        "title": "【初心者必見】今から追いつくClaude Code 入門・徹底解説",
+        "url": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b",
+        "likes": 89,
+        "author": "i-inose",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2737055/2dafce372b5bb8bb5a1c9ec02ad742c20f9322b8/x_large.png?1751613826",
+        "tags": [
+          "初心者",
+          "入門",
+          "AI",
+          "AI駆動開発"
+        ],
+        "created_at": "2026-04-21T15:32:56+09:00"
       },
       {
         "title": "【前編】9割の新人エンジニアがやっている 「承知しました」の落とし穴",
@@ -90,46 +90,46 @@
     ],
     "zenn": [
       {
-        "title": "ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン",
-        "url": "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
-        "author": "momosuke | Ryosuke Hyakuta",
-        "date": "Sat, 25 Apr 2026 13:16:58 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9ybui8kx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E6%25A5%25BD%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2520Microsoft%2520%25E8%25A3%25BD%25E3%2581%25AE%25E6%2596%25B0%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258CAPM%25E3%2580%258D%25E3%2583%258F%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25AA%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:momosuke%2520%257C%2520Ryosuke...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q5ODc4NmI0NjguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Claude Code の設定を Codex にどう対応づけるか",
+        "url": "https://zenn.dev/ryok/articles/claude-code-to-codex-settings",
+        "author": "ryok",
+        "date": "Sat, 25 Apr 2026 20:11:29 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--XRXFYSCR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%25E8%25A8%25AD%25E5%25AE%259A%25E3%2582%2592%2520Codex%2520%25E3%2581%25AB%25E3%2581%25A9%25E3%2581%2586%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%25A5%25E3%2581%2591%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryok%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc3MjU0NDY4YzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Claude Code Hooks基礎編、活用事例と設定ぜんぶ見せるで",
-        "url": "https://zenn.dev/masayan1126/books/claude-code-hooks-basic",
-        "author": "まさやん",
-        "date": "Sat, 25 Apr 2026 07:23:53 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3j6T7f7h--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci82MjY4N2Y2Yzg1LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
+        "title": "GitHub のアップデートを、Youtube ショート感覚でダラダラ見られる動画にしてみた",
+        "url": "https://zenn.dev/microsoft/articles/github-update-movie-agent",
+        "author": "Ryusei Oya",
+        "date": "Sat, 25 Apr 2026 20:02:09 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ATP-YOHw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2592%25E3%2580%2581Youtube%2520%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25BC%25E3%2583%2588%25E6%2584%259F%25E8%25A6%259A%25E3%2581%25A7%25E3%2583%2580%25E3%2583%25A9%25E3%2583%2580%25E3%2583%25A9%25E8%25A6%258B%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E5%258B%2595%25E7%2594%25BB%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Ryusei%2520Oya%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlMDUxYjNhZWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "agents-cliの中身を見てみよう",
-        "url": "https://zenn.dev/makocchan/articles/whats_agents_cli",
-        "author": "Makoto Mase",
-        "date": "Sat, 25 Apr 2026 00:19:15 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--PDdhi51---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:agents-cli%25E3%2581%25AE%25E4%25B8%25AD%25E8%25BA%25AB%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Makoto%2520Mase%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdiNDEwMWNhNzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "2026年にCGIでWebアプリを作る",
+        "url": "https://zenn.dev/alarky/articles/cgi-modern-web-app-2026",
+        "author": "alarky",
+        "date": "Sat, 25 Apr 2026 18:32:08 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--iQnnWcMH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2026%25E5%25B9%25B4%25E3%2581%25ABCGI%25E3%2581%25A7Web%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:alarky%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmxYRk5SREl4T3lWWms2alFLU1NsQ3ZVTU9GZy1OY3pQeG5TXzNCdWZJWjgwQi1Kd2E9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "カスタムエージェントの呼び出し方で考える Copilot CLI と VS Code Agent Mode",
-        "url": "https://zenn.dev/tomokusaba/articles/31e31c57cb051d",
-        "author": "くさば",
-        "date": "Fri, 24 Apr 2026 22:20:46 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--2ptIM2SH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E5%2591%25BC%25E3%2581%25B3%25E5%2587%25BA%25E3%2581%2597%25E6%2596%25B9%25E3%2581%25A7%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2520Copilot%2520CLI%2520%25E3%2581%25A8%2520VS%2520Code%2520Agent%2520Mode%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258F%25E3%2581%2595%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4WUJDVlplMms4MC1qdlNsSzlTS3cwN21GdDU5aF91dmx5VDJ4NUVyQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "ルールベースでファイルや URL を届ける Rust 製ディスパッチャ todoke を作った",
+        "url": "https://zenn.dev/yukimemi/articles/2026-04-25-todoke",
+        "author": "yukimemi",
+        "date": "Sat, 25 Apr 2026 16:10:58 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--5SRdJe8s--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2584%2520URL%2520%25E3%2582%2592%25E5%25B1%258A%25E3%2581%2591%25E3%2582%258B%2520Rust%2520%25E8%25A3%25BD%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25B9%25E3%2583%2591%25E3%2583%2583%25E3%2583%2581%25E3%2583%25A3%2520todoke%2520%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yukimemi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pzeElfNVdLakZIWG1BUVZuX0RZbVFGdWxPVjMwNjZfYmVNM0JHTW1BPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "ターミナルで動く開発モニタをRustで作った — Ratatuiで実用TUIを作って見えた5つの設計課題とその解き方",
-        "url": "https://zenn.dev/okamyuji/articles/ratatui-real-world-tui-design-patterns",
-        "author": "okamyuji",
-        "date": "Fri, 24 Apr 2026 22:19:53 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FGkow3vr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25E9%2596%258B%25E7%2599%25BA%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2582%2592Rust%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2594%2520Ratatui%25E3%2581%25A7%25E5%25AE%259F%25E7%2594%25A8TUI%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F5%25E3%2581%25A4%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E8%25AA%25B2%25E9%25A1%258C%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E8%25A7%25A3%25E3%2581%258D%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:okamyuji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY5YjFmNDYyYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "探索的テストを進めてくれるAIエージェントを作った",
+        "url": "https://zenn.dev/k_sak/articles/b45763b0cb9434",
+        "author": "K-SAK",
+        "date": "Sat, 25 Apr 2026 15:05:59 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zwt-vwDj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%258E%25A2%25E7%25B4%25A2%25E7%259A%2584%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E9%2580%25B2%25E3%2582%2581%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258C%25E3%2582%258BAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:K-SAK%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2c4M05sUjdrbG9idlp6R0R6dUMwTmk0TVVQZzJLR0tLcjRmbXBRPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "AIレビューの「で、これ合ってんの？」を減らす",
-        "url": "https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer",
-        "author": "nkoji",
-        "date": "Fri, 24 Apr 2026 15:24:54 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--P32UsA4O--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25AE%25E3%2580%258C%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2593%25E3%2582%258C%25E5%2590%2588%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2593%25E3%2581%25AE%25EF%25BC%259F%25E3%2580%258D%25E3%2582%2592%25E6%25B8%259B%25E3%2582%2589%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nkoji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNmOGM3MWM5YTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "【UE5】NOVA Shaderをチェックしてみる！",
+        "url": "https://zenn.dev/kurie/articles/ace2155fe11215",
+        "author": "Kurie's VFX Knowledge",
+        "date": "Sat, 25 Apr 2026 15:00:25 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--APqFVesZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590UE5%25E3%2580%2591NOVA%2520Shader%25E3%2582%2592%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kurie%2527s%2520VFX%2520Knowledge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FiYmM5MGQxNDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -137,7 +137,7 @@
         "name": "ultraworkers/claw-code",
         "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
         "url": "https://github.com/ultraworkers/claw-code",
-        "stars": 188349,
+        "stars": 188571,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/272961631?v=4"
       },
@@ -145,7 +145,7 @@
         "name": "VoltAgent/awesome-design-md",
         "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
         "url": "https://github.com/VoltAgent/awesome-design-md",
-        "stars": 65385,
+        "stars": 65969,
         "language": "",
         "owner_avatar": "https://avatars.githubusercontent.com/u/201282378?v=4"
       },
@@ -153,7 +153,7 @@
         "name": "MemPalace/mempalace",
         "description": "The best-benchmarked open-source AI memory system. And it's free.",
         "url": "https://github.com/MemPalace/mempalace",
-        "stars": 49646,
+        "stars": 49804,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/275135684?v=4"
       },
@@ -161,7 +161,7 @@
         "name": "JuliusBrussee/caveman",
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
         "url": "https://github.com/JuliusBrussee/caveman",
-        "stars": 46492,
+        "stars": 47131,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4"
       },
@@ -169,7 +169,7 @@
         "name": "santifer/career-ops",
         "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
         "url": "https://github.com/santifer/career-ops",
-        "stars": 39618,
+        "stars": 39987,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/256850418?v=4"
       },
@@ -177,7 +177,7 @@
         "name": "safishamsi/graphify",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
         "url": "https://github.com/safishamsi/graphify",
-        "stars": 34806,
+        "stars": 35479,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/216348667?v=4"
       }
