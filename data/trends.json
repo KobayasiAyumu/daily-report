@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-04-30T22:41:31Z"
+    "last_updated": "2026-05-01T22:40:15Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
         "url": "https://qiita.com/ot12/items/06420caf41a34a910c53",
-        "likes": 461,
+        "likes": 481,
         "author": "ot12",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3356814/profile-images/1688812453",
         "tags": [
@@ -20,7 +20,7 @@
       {
         "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
         "url": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c",
-        "likes": 191,
+        "likes": 194,
         "author": "miruky",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1774445070",
         "tags": [
@@ -34,7 +34,7 @@
       {
         "title": "Claude CodeのVSCode拡張が使いやすいよ",
         "url": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04",
-        "likes": 166,
+        "likes": 171,
         "author": "moritalous",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/41574/8d1f3a36f25ffc106d1452cfe4f96279097ceb0a/x_large.png?1770637361",
         "tags": [
@@ -44,23 +44,9 @@
         "created_at": "2026-04-26T00:39:30+09:00"
       },
       {
-        "title": "【Claude Code入門】今から追いつくClaude Code 徹底解説",
-        "url": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b",
-        "likes": 141,
-        "author": "i-inose",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2737055/2dafce372b5bb8bb5a1c9ec02ad742c20f9322b8/x_large.png?1751613826",
-        "tags": [
-          "初心者",
-          "入門",
-          "AI",
-          "AI駆動開発"
-        ],
-        "created_at": "2026-04-21T15:32:56+09:00"
-      },
-      {
         "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
         "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
-        "likes": 137,
+        "likes": 147,
         "author": "miruky",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1774445070",
         "tags": [
@@ -74,7 +60,7 @@
       {
         "title": "AI駆動開発の手法は分岐するが、本質は一点に収束する ― 現場で6週間議論して辿り着いた結論",
         "url": "https://qiita.com/ko1-ino/items/ccc64ce6504c77100cfb",
-        "likes": 86,
+        "likes": 88,
         "author": "ko1-ino",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4151310/1e8fc9f1c31531d94da6abcd6b94887d5321581b/x_large.png?1777352098",
         "tags": [
@@ -84,50 +70,64 @@
           "AIエージェント"
         ],
         "created_at": "2026-04-23T21:23:32+09:00"
+      },
+      {
+        "title": "【初心者エンジニア向け】開発業務の視野を広げる運用のはなし",
+        "url": "https://qiita.com/masa20057/items/5144c0d01539ccd6a881",
+        "likes": 87,
+        "author": "masa20057",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
+        "tags": [
+          "初心者",
+          "エンジニア",
+          "初学者向け",
+          "未経験エンジニア"
+        ],
+        "created_at": "2026-04-23T12:31:49+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた",
-        "url": "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
-        "author": "はるぷ",
-        "date": "Thu, 30 Apr 2026 07:09:09 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9MKl1x7K--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Linux%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25AB%25E3%2581%25AE%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%25E3%2580%258CCopyFail%2520%2528CVE-2026-31431%2529%25E3%2580%258D%25E3%2582%2592EC2%25E3%2581%25AEUbuntu%252022.04...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25AF%25E3%2582%258B%25E3%2581%25B7%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzliYzQ2MGNkMjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25A9%25E3%2583%259C%2520%25E9%2596%258B%25E7%2599%25BA%25E6%259C%25AC%25E9%2583%25A8%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UyYzgyMzljMzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "マネーフォワードのGitHub不正アクセス事件をエンジニア視点で読み解く — なぜソースコードに本番カード情報と認証キーが入っていたのか",
+        "url": "https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak",
+        "author": "kou",
+        "date": "Fri, 01 May 2026 13:29:45 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--GLCNm6eT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AEGitHub%25E4%25B8%258D%25E6%25AD%25A3%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E4%25BA%258B%25E4%25BB%25B6%25E3%2582%2592%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E8%25A6%2596%25E7%2582%25B9%25E3%2581%25A7%25E8%25AA%25AD%25E3%2581%25BF%25E8%25A7%25A3%25E3%2581%258F%2520%25E2%2580%2594%2520%25E3%2581%25AA%25E3%2581%259C%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AB%25E6%259C%25AC%25E7%2595%25AA%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%25A8%25E8%25AA%258D...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kou%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUzMzk2ODE4YzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Vimの知見共有もできて盛り上がる「Vimペアプロ」を社内勉強会でやってみた",
-        "url": "https://zenn.dev/canary_techblog/articles/429cae3aaf06c7",
-        "author": "kyu08",
-        "date": "Thu, 30 Apr 2026 01:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--utw7EC4t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vim%25E3%2581%25AE%25E7%259F%25A5%25E8%25A6%258B%25E5%2585%25B1%25E6%259C%2589%25E3%2582%2582%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25A6%25E7%259B%259B%25E3%2582%258A%25E4%25B8%258A%25E3%2581%258C%25E3%2582%258B%25E3%2580%258CVim%25E3%2583%259A%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2580%258D%25E3%2582%2592%25E7%25A4%25BE%25E5%2586%2585%25E5%258B%2589%25E5%25BC%25B7%25E4%25BC%259A%25E3%2581%25A7%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kyu08%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U3NzUwZmNjMzUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Canary%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY4YmY0ZDYyN2MuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "5年間のRails開発者がDDDに出会って考えが変わった話",
+        "url": "https://zenn.dev/kazukiogushi/articles/b843fc78203295",
+        "author": "Kazuki Ogushi",
+        "date": "Fri, 01 May 2026 10:38:26 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Gg9arCmI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:5%25E5%25B9%25B4%25E9%2596%2593%25E3%2581%25AERails%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%258CDDD%25E3%2581%25AB%25E5%2587%25BA%25E4%25BC%259A%25E3%2581%25A3%25E3%2581%25A6%25E8%2580%2583%25E3%2581%2588%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kazuki%2520Ogushi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZmNTkwNmNmN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "高品質音楽生成AI【ACE-Step-1.5】で「破綻の微修正」に特化した新機能を提案する【Retake】",
-        "url": "https://zenn.dev/asap/articles/948526de2faa62",
-        "author": "asap",
-        "date": "Wed, 29 Apr 2026 17:11:45 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Nnbo0k6F--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25AB%2598%25E5%2593%2581%25E8%25B3%25AA%25E9%259F%25B3%25E6%25A5%25BD%25E7%2594%259F%25E6%2588%2590AI%25E3%2580%2590ACE-Step-1.5%25E3%2580%2591%25E3%2581%25A7%25E3%2580%258C%25E7%25A0%25B4%25E7%25B6%25BB%25E3%2581%25AE%25E5%25BE%25AE%25E4%25BF%25AE%25E6%25AD%25A3%25E3%2580%258D%25E3%2581%25AB%25E7%2589%25B9%25E5%258C%2596%25E3%2581%2597%25E3%2581%259F%25E6%2596%25B0%25E6%25A9%259F%25E8%2583%25BD%25E3%2582%2592%25E6%258F%2590%25E6%25A1%2588%25E3%2581%2599%25E3%2582%258B%25E3%2580%2590Retake%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:asap%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhYjVhYTQ1MTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "社内向けAIアシスタントを3か月間試験運用してみた",
+        "url": "https://zenn.dev/mkj/articles/87c3ce556cde90",
+        "author": "からあげ",
+        "date": "Fri, 01 May 2026 02:50:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--z3QyaXmI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A4%25BE%25E5%2586%2585%25E5%2590%2591%25E3%2581%2591AI%25E3%2582%25A2%25E3%2582%25B7%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25923%25E3%2581%258B%25E6%259C%2588%25E9%2596%2593%25E8%25A9%25A6%25E9%25A8%2593%25E9%2581%258B%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "1m精度の標高データを使って、全国の前方後円墳を探してみた",
-        "url": "https://zenn.dev/tasuku/articles/73bf8c7274208f",
-        "author": "Tasuku Suzuki",
-        "date": "Wed, 29 Apr 2026 10:02:35 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--fTmhPFNs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1m%25E7%25B2%25BE%25E5%25BA%25A6%25E3%2581%25AE%25E6%25A8%2599%25E9%25AB%2598%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581%25E5%2585%25A8%25E5%259B%25BD%25E3%2581%25AE%25E5%2589%258D%25E6%2596%25B9%25E5%25BE%258C%25E5%2586%2586%25E5%25A2%25B3%25E3%2582%2592%25E6%258E%25A2%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tasuku%2520Suzuki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2ozSVJ3SEJLNDl5elVFZTg2dy00bGpkWkRyUFBzSDlQZm5NU0JFelE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "自作MCPサーバーのトークン消費を9割削減するTips ── MCPの退避パターン",
+        "url": "https://zenn.dev/aircloset/articles/4c5f49f89db19f",
+        "author": "辻 亮佑",
+        "date": "Fri, 01 May 2026 01:10:07 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--QXN22zXz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E4%25BD%259CMCP%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E6%25B6%2588%25E8%25B2%25BB%25E3%2582%25929%25E5%2589%25B2%25E5%2589%258A%25E6%25B8%259B%25E3%2581%2599%25E3%2582%258BTips%2520%25E2%2594%2580%25E2%2594%2580%2520MCP%25E3%2581%25AE%25E9%2580%2580%25E9%2581%25BF%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%25BE%25BB%2520%25E4%25BA%25AE%25E4%25BD%2591%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZjY1NmYzNDQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EyNzdkMDFjYWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "\"array[i++] = null; は本当に GC を促進するのか — Node.js で実測して確かめる",
-        "url": "https://zenn.dev/wakame_atsushi/articles/e9b754160d1469",
-        "author": "わかめ",
-        "date": "Wed, 29 Apr 2026 06:30:14 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--YxFy_qBy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2522array%255Bi%252B%252B%255D%2520%253D%2520null%253B%2520%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%2520GC%2520%25E3%2582%2592%25E4%25BF%2583%25E9%2580%25B2%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2594%2520Node.js%2520%25E3%2581%25A7%25E5%25AE%259F%25E6%25B8%25AC%25E3%2581%2597%25E3%2581%25A6%25E7%25A2%25BA%25E3%2581%258B%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258F%25E3%2581%258B%25E3%2582%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI2NDI2MjM3MjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "TypeScript で実装したワークフローの「正しさ」を Lean とランダムテストで検証する",
+        "url": "https://zenn.dev/aishift/articles/a4bdf225a348e5",
+        "author": "amata1219",
+        "date": "Thu, 30 Apr 2026 14:00:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--dMeziMBm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TypeScript%2520%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%259F%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2581%25AE%25E3%2580%258C%25E6%25AD%25A3%25E3%2581%2597%25E3%2581%2595%25E3%2580%258D%25E3%2582%2592%2520Lean%2520%25E3%2581%25A8%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A7%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:amata1219%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDQwNmNlMGUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AI%2520Shift%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEzZTlmM2JjMTYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "UIの面倒、実はDBの問題だった ― Local-First と Instant が示す Web 開発の未来",
-        "url": "https://zenn.dev/sc30gsw/articles/a39bd748caa861",
-        "author": "kaito",
-        "date": "Wed, 29 Apr 2026 03:23:16 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Y4PVJlTe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:UI%25E3%2581%25AE%25E9%259D%25A2%25E5%2580%2592%25E3%2580%2581%25E5%25AE%259F%25E3%2581%25AFDB%25E3%2581%25AE%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2595%2520Local-First%2520%25E3%2581%25A8%2520Instant%2520%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2599%2520Web%2520%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E6%259C%25AA%25E6%259D%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kaito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VmZDZhMGM5YWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "S3 Files 性能評価",
+        "url": "https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27",
+        "author": "a2-ito",
+        "date": "Thu, 30 Apr 2026 12:33:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--R76wuZSd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:S3%2520Files%2520%25E6%2580%25A7%25E8%2583%25BD%25E8%25A9%2595%25E4%25BE%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:a2-ito%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkZWM5ZjExNTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:e-dash%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3ODkyNmJlMDEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -135,7 +135,7 @@
         "name": "JuliusBrussee/caveman",
         "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
         "url": "https://github.com/JuliusBrussee/caveman",
-        "stars": 51326,
+        "stars": 51989,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/104168679?v=4"
       },
@@ -143,7 +143,7 @@
         "name": "MemPalace/mempalace",
         "description": "The best-benchmarked open-source AI memory system. And it's free.",
         "url": "https://github.com/MemPalace/mempalace",
-        "stars": 50535,
+        "stars": 50659,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/275135684?v=4"
       },
@@ -151,33 +151,33 @@
         "name": "santifer/career-ops",
         "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
         "url": "https://github.com/santifer/career-ops",
-        "stars": 41257,
+        "stars": 41598,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/256850418?v=4"
       },
       {
         "name": "safishamsi/graphify",
-        "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
+        "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
         "url": "https://github.com/safishamsi/graphify",
-        "stars": 39015,
+        "stars": 39598,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/216348667?v=4"
-      },
-      {
-        "name": "Gitlawb/openclaude",
-        "description": "runs anywhere. uses anything",
-        "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 25222,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/268502891?v=4"
       },
       {
         "name": "alchaincyf/nuwa-skill",
         "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
         "url": "https://github.com/alchaincyf/nuwa-skill",
-        "stars": 16546,
+        "stars": 16704,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/127714341?v=4"
+      },
+      {
+        "name": "garrytan/gbrain",
+        "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+        "url": "https://github.com/garrytan/gbrain",
+        "stars": 12631,
+        "language": "TypeScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/19957?v=4"
       }
     ]
   }
