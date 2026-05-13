@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-05-12T22:52:05Z"
+    "last_updated": "2026-05-13T22:56:57Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "Git初心者の頃わからなかった「pullするな」の意味",
         "url": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406",
-        "likes": 245,
+        "likes": 257,
         "author": "shimitaro",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4223777/38d0eab26a2ea47f81b22b0a7e726a7a599a46f5/x_large.png?1761317589",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
         "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
-        "likes": 192,
+        "likes": 253,
         "author": "miruky",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1774445070",
         "tags": [
@@ -33,37 +33,23 @@
         "created_at": "2026-05-05T21:08:08+09:00"
       },
       {
-        "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-        "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298",
-        "likes": 112,
-        "author": "emi_ndk",
-        "avatar_url": "https://avatars.githubusercontent.com/u/54173850?v=4",
+        "title": "配色に悩む時間をゼロに。自然界モチーフのデザインシステム集「Morphos」を作りました",
+        "url": "https://qiita.com/Ameyanagi/items/fd31a46683bba8bf55b7",
+        "likes": 135,
+        "author": "Ameyanagi",
+        "avatar_url": "https://avatars.githubusercontent.com/u/77273474?v=4",
         "tags": [
-          "Git",
-          "Security",
-          "脆弱性",
-          "AI"
+          "Design",
+          "TypeScript",
+          "AI",
+          "shadcn"
         ],
-        "created_at": "2026-05-03T16:32:16+09:00"
-      },
-      {
-        "title": "【初学者向け】システム全体を理解するための5つの視点",
-        "url": "https://qiita.com/masa20057/items/f25a66f99edd5439f2ec",
-        "likes": 105,
-        "author": "masa20057",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
-        "tags": [
-          "初心者",
-          "エンジニア",
-          "初学者向け",
-          "未経験エンジニア"
-        ],
-        "created_at": "2026-05-07T10:14:24+09:00"
+        "created_at": "2026-05-06T04:04:51+09:00"
       },
       {
         "title": "先輩のコードが1行も理解できなくて泣きそうだった新人が、「読み方」を教わって世界が変わった話",
         "url": "https://qiita.com/fe1ix/items/cf13c7c70ae148146fd0",
-        "likes": 101,
+        "likes": 131,
         "author": "fe1ix",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4025790/ea098505b0e173679fefa40a378fd15152fc16ec/x_large.png?1772286239",
         "tags": [
@@ -75,19 +61,49 @@
         "created_at": "2026-05-04T11:52:56+09:00"
       },
       {
-        "title": "AWS MCPサーバー超進化してGAしたらしい",
-        "url": "https://qiita.com/Syoitu/items/5022be3615ecd8b5337c",
-        "likes": 97,
-        "author": "Syoitu",
-        "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/320164/profile-images/1543311752",
+        "title": "【初学者向け】システム全体を理解するための5つの視点",
+        "url": "https://qiita.com/masa20057/items/f25a66f99edd5439f2ec",
+        "likes": 121,
+        "author": "masa20057",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
         "tags": [
-          "AWS",
-          "MCP"
+          "初心者",
+          "エンジニア",
+          "初学者向け",
+          "未経験エンジニア"
         ],
-        "created_at": "2026-05-07T19:18:36+09:00"
+        "created_at": "2026-05-07T10:14:24+09:00"
+      },
+      {
+        "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
+        "url": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3",
+        "likes": 106,
+        "author": "TOMOSIA-HieuNT",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4240966/a70e820e079ba99e4bf30852e8ed65acf4529441/x_large.png?1772167168",
+        "tags": [
+          "CSS",
+          "JavaScript",
+          "UI",
+          "pattern"
+        ],
+        "created_at": "2026-05-11T12:55:14+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "Claude Codeキーボードショートカット17選、Tier別に全部教えたるで",
+        "url": "https://zenn.dev/masayan1126/books/claude-code-keyboard-shortcuts",
+        "author": "まさやん",
+        "date": "Wed, 13 May 2026 11:32:50 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--f48Jmgls--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9kNTJhYWQ3ODE5LmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
+      },
+      {
+        "title": "AIにQAエンジニアとして思考させるエージェントQA設計の思想",
+        "url": "https://zenn.dev/edash_tech_blog/articles/383410d9a1afba",
+        "author": "10mo8",
+        "date": "Wed, 13 May 2026 01:10:30 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--INLTbi6K--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25ABQA%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E6%2580%259D%25E8%2580%2583%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588QA%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25AE%25E6%2580%259D%25E6%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:10mo8%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkZWM5ZjExNTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:e-dash%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q2MTZiYzhlN2QuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
       {
         "title": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
         "url": "https://zenn.dev/todesking/articles/fba4cc93baf0a9",
@@ -96,39 +112,25 @@
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--kqU9r-OV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25A1%25E3%2582%2587%25E3%2581%25A3%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%2587%25E3%2582%25A2%25E3%2582%2592AI%25E3%2581%25A7%25E9%2595%25B7%25E6%2596%2587%25E8%25A8%2598%25E4%25BA%258B%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2582%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:todesking%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiNGY3OGYyOTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "コンパニオンAIの記憶を、普通のRAGじゃない設計にした話",
-        "url": "https://zenn.dev/haru0416/articles/843c6c29c04c7c",
-        "author": "Haru",
-        "date": "Tue, 12 May 2026 02:05:57 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--m0l4ZqbX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2583%258B%25E3%2582%25AA%25E3%2583%25B3AI%25E3%2581%25AE%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E3%2580%2581%25E6%2599%25AE%25E9%2580%259A%25E3%2581%25AERAG%25E3%2581%2598%25E3%2582%2583%25E3%2581%25AA%25E3%2581%2584%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Haru%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhMWMzZjlmNGMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "コードレビューのボトルネックを\"する側\"と\"される側\"の両面から解消する",
+        "url": "https://zenn.dev/atamaplus/articles/resolve-review-bottleneck",
+        "author": "yub0n",
+        "date": "Tue, 12 May 2026 04:30:52 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--0vJrwYia--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25AE%25E3%2583%259C%25E3%2583%2588%25E3%2583%25AB%25E3%2583%258D%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592%2522%25E3%2581%2599%25E3%2582%258B%25E5%2581%25B4%2522%25E3%2581%25A8%2522%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E5%2581%25B4%2522%25E3%2581%25AE%25E4%25B8%25A1%25E9%259D%25A2%25E3%2581%258B%25E3%2582%2589%25E8%25A7%25A3%25E6%25B6%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yub0n%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RjOTM3M2I1YWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:atama%2520plus%2520techblog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg2YjM3MGZkMjkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "AIのハーネスを徹底的に整えたら、レビューもシステム運用も自動化され、非エンジニアも開発に参加できるようになった話 ── 連載総論",
-        "url": "https://zenn.dev/aircloset/articles/d416342f46f16b",
-        "author": "辻 亮佑",
-        "date": "Tue, 12 May 2026 00:31:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_J2mjlhA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AE%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E7%259A%2584%25E3%2581%25AB%25E6%2595%25B4%25E3%2581%2588%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2582%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E9%2581%258B%25E7%2594%25A8%25E3%2582%2582%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2595%25E3%2582%258C%25E3%2580%2581%25E9%259D%259E%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2582%2582%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%25BE%25BB%2520%25E4%25BA%25AE%25E4%25BD%2591%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZjY1NmYzNDQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EyNzdkMDFjYWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "【RAG】「キーワード検索1回」だけで、精度を出す。",
+        "url": "https://zenn.dev/knowledgesense/articles/67370650799bc6",
+        "author": "Atsushi Kadowaki",
+        "date": "Tue, 12 May 2026 03:46:33 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--GBogi0wF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590RAG%25E3%2580%2591%25E3%2580%258C%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E6%25A4%259C%25E7%25B4%25A21%25E5%259B%259E%25E3%2580%258D%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2580%2581%25E7%25B2%25BE%25E5%25BA%25A6%25E3%2582%2592%25E5%2587%25BA%25E3%2581%2599%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Atsushi%2520Kadowaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%2520-%2520%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A8RAG%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlMjk5Y2IwN2IuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "大学システムのアーキテクチャを見直した話",
-        "url": "https://zenn.dev/xtm_blog/articles/91099d48d8f130",
-        "author": "msakieng",
-        "date": "Tue, 12 May 2026 00:04:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--TUs4BQhc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A4%25A7%25E5%25AD%25A6%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2582%2592%25E8%25A6%258B%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:msakieng%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzMDdmZjAyYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%2588%25E4%25BA%25AC%25E9%2583%25BD%25E8%258A%25B8%25E8%25A1%2593%25E5%25A4%25A7%25E5%25AD%25A6%25EF%25BC%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjZyX1h3bi1XbmpTVmJwNjBrNXFXakEzUWRZR05aZzdZcDR4Q2EwOFZhYXk5Q1JRPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "30日後にサービスをリリースして不労所得を得る開発者 (1日目) ― Claude Code 全活用で楽したい開発者の基盤構築",
-        "url": "https://zenn.dev/tempeso/articles/900ea8ade4c165",
-        "author": "てん",
-        "date": "Mon, 11 May 2026 23:50:57 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--riFBpr8A--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:30%25E6%2597%25A5%25E5%25BE%258C%25E3%2581%25AB%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2582%2592%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%2597%25E3%2581%25A6%25E4%25B8%258D%25E5%258A%25B4%25E6%2589%2580%25E5%25BE%2597%25E3%2582%2592%25E5%25BE%2597%25E3%2582%258B%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%2520%25281%25E6%2597%25A5%25E7%259B%25AE%2529%2520%25E2%2580%2595%2520Claude%2520Code%2520%25E5%2585%25A8%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%25A7%25E6%25A5%25BD%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25E9%2596%258B%25E7%2599%25BA...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A6%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0VZSG0yQ282emNNYUhTUW9UV0lzN0s0NEgtT01lRFJWblp6NVdKellhODd3QlphZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "Slack上でインフラのトラブルシューティングができるAgentの設計と実装",
-        "url": "https://zenn.dev/ubie_dev/articles/b712ec880ac038",
-        "author": "Teruya Ono",
-        "date": "Mon, 11 May 2026 09:55:53 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3j0Q6eEx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Slack%25E4%25B8%258A%25E3%2581%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%25E3%2581%25AE%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2596%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258BAgent%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A8%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Teruya%2520Ono%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk2MzZlNGRkZDcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Claude Code Routines で Issue の自動対応をチームで回している話",
+        "url": "https://zenn.dev/notahotel/articles/claude-routine-auto-fix-issue",
+        "author": "uji",
+        "date": "Tue, 12 May 2026 02:30:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1jXWSsEx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Routines%2520%25E3%2581%25A7%2520Issue%2520%25E3%2581%25AE%25E8%2587%25AA%25E5%258B%2595%25E5%25AF%25BE%25E5%25BF%259C%25E3%2582%2592%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25A7%25E5%259B%259E%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:uji%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxOGNjZTA4NTYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NOT%2520A%2520HOTEL%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pjOXNFeTZFWFJ6MV9femRzc2h0OENhei1XcjJ5NWVjNDhnQTluPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -136,7 +138,7 @@
         "name": "nexu-io/open-design",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "url": "https://github.com/nexu-io/open-design",
-        "stars": 38364,
+        "stars": 39319,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
@@ -144,7 +146,7 @@
         "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
         "description": "GPT-Image-2 API and Prompts",
         "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-        "stars": 14046,
+        "stars": 14155,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/253253881?v=4"
       },
@@ -152,7 +154,7 @@
         "name": "alchaincyf/huashu-design",
         "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
         "url": "https://github.com/alchaincyf/huashu-design",
-        "stars": 13406,
+        "stars": 13554,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
@@ -160,7 +162,7 @@
         "name": "kyegomez/OpenMythos",
         "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
         "url": "https://github.com/kyegomez/OpenMythos",
-        "stars": 12502,
+        "stars": 12554,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/98760976?v=4"
       },
@@ -168,17 +170,17 @@
         "name": "browser-use/browser-harness",
         "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
         "url": "https://github.com/browser-use/browser-harness",
-        "stars": 12308,
+        "stars": 12496,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
       {
-        "name": "h4ckf0r0day/obscura",
-        "description": "The headless browser for AI agents and web scraping",
-        "url": "https://github.com/h4ckf0r0day/obscura",
-        "stars": 11944,
-        "language": "Rust",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/271927676?v=4"
+        "name": "antirez/ds4",
+        "description": "DeepSeek 4 Flash local inference engine for Metal and CUDA",
+        "url": "https://github.com/antirez/ds4",
+        "stars": 8395,
+        "language": "C",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/65632?v=4"
       }
     ]
   }
