@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-05-15T22:43:57Z"
+    "last_updated": "2026-05-16T22:36:28Z"
   },
   "trends": {
     "qiita": [
@@ -21,7 +21,7 @@
       {
         "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
         "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5",
-        "likes": 218,
+        "likes": 225,
         "author": "miruky",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1774445070",
         "tags": [
@@ -35,7 +35,7 @@
       {
         "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
         "url": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3",
-        "likes": 151,
+        "likes": 159,
         "author": "TOMOSIA-HieuNT",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4240966/a70e820e079ba99e4bf30852e8ed65acf4529441/x_large.png?1772167168",
         "tags": [
@@ -47,18 +47,17 @@
         "created_at": "2026-05-11T12:55:14+09:00"
       },
       {
-        "title": "【初学者向け】システム全体を理解するための5つの視点",
-        "url": "https://qiita.com/masa20057/items/f25a66f99edd5439f2ec",
+        "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
+        "url": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329",
         "likes": 126,
-        "author": "masa20057",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
+        "author": "jinxin4869",
+        "avatar_url": "https://avatars.githubusercontent.com/u/166711124?v=4",
         "tags": [
-          "初心者",
-          "エンジニア",
-          "初学者向け",
-          "未経験エンジニア"
+          "ポエム",
+          "AI",
+          "エンジニア"
         ],
-        "created_at": "2026-05-07T10:14:24+09:00"
+        "created_at": "2026-05-14T08:06:19+09:00"
       },
       {
         "title": "エンジニアの成長を加速させる3つの考え方",
@@ -75,61 +74,60 @@
         "created_at": "2026-05-12T09:53:08+09:00"
       },
       {
-        "title": "【公式】レトロゲームエンジンPyxelが動く仕組み",
-        "url": "https://qiita.com/kitao/items/5361d45554872a39da92",
+        "title": "AWS MCPサーバー超進化してGAしたらしい",
+        "url": "https://qiita.com/Syoitu/items/5022be3615ecd8b5337c",
         "likes": 109,
-        "author": "kitao",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/13948/6fa9b7eb9fcc2f6993f78f4c25f8662a108c86e2/large.png?1730713203",
+        "author": "Syoitu",
+        "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/320164/profile-images/1543311752",
         "tags": [
-          "Python",
-          "ゲーム制作",
-          "Pyxel"
+          "AWS",
+          "MCP"
         ],
-        "created_at": "2026-05-06T16:20:14+09:00"
+        "created_at": "2026-05-07T19:18:36+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
-        "url": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
-        "author": "tsurubee",
-        "date": "Fri, 15 May 2026 00:14:18 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FWOGbjlO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Andrej%2520Karpathy%25E6%25B0%258F%25E3%2581%25AELLM%2520Wiki%25E3%2582%25921%25E3%2583%25B6%25E6%259C%2588%25E9%2581%258B%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2581LLM%25E3%2581%25AE%25E7%259F%25A5%25E8%25AD%2598%25E3%2582%2592%25E3%2580%258E%25E7%25B9%258B%25E3%2581%2592%25E3%2582%258B%25E5%258A%259B%25E3%2580%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tsurubee%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjlLMlZ2SXJ2SDZkUlp3SjdoUEx1Rjl0eGdJeHFQMXlCeXNJYldTVFFGZlZ4d3huaz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Rustで小さなリンカーを実装する",
+        "url": "https://zenn.dev/skanehira/books/writing-a-tiny-linker-in-rust",
+        "author": "ゴリラ",
+        "date": "Sat, 16 May 2026 12:26:54 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--IvipWLYn--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9lZTE4ZjA2ZDIyLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
       },
       {
-        "title": "熟達と設計原則 - 圧縮型や展開型をレッテルにしない",
-        "url": "https://zenn.dev/339/articles/e1d536aec1bf33",
-        "author": "さざんかぬふ",
-        "date": "Thu, 14 May 2026 23:25:04 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_pGwjRsB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2586%259F%25E9%2581%2594%25E3%2581%25A8%25E8%25A8%25AD%25E8%25A8%2588%25E5%258E%259F%25E5%2589%2587%2520-%2520%25E5%259C%25A7%25E7%25B8%25AE%25E5%259E%258B%25E3%2582%2584%25E5%25B1%2595%25E9%2596%258B%25E5%259E%258B%25E3%2582%2592%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2586%25E3%2583%25AB%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%2596%25E3%2582%2593%25E3%2581%258B%25E3%2581%25AC%25E3%2581%25B5%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVkN2UyNjU4ZjcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Elasticsearchでアイヌ語コーパスを作った",
+        "url": "https://zenn.dev/neet/articles/031d5499e68685",
+        "author": "Ryō Igarashi",
+        "date": "Fri, 15 May 2026 15:25:45 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Cj_i7bD---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Elasticsearch%25E3%2581%25A7%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%258C%25E8%25AA%259E%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2591%25E3%2582%25B9%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ry%25C5%258D%2520Igarashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNmY4MzRlMDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Agent Registry で動的に Harness (MCP/Skill) や A2A Agent を検索・実行する Agent の実装",
-        "url": "https://zenn.dev/aws_japan/articles/005-bedrock-agent-registry-dynamic-loading",
-        "author": "Renya Kujirada",
-        "date": "Thu, 14 May 2026 22:04:24 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--KHBT-qC0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Agent%2520Registry%2520%25E3%2581%25A7%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AB%2520Harness%2520%2528MCP%252FSkill%2529%2520%25E3%2582%2584%2520A2A%2520Agent%2520%25E3%2582%2592%25E6%25A4%259C%25E7%25B4%25A2%25E3%2583%25BB%25E5%25AE%259F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Renya%2520Kujirada%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBiMTA3YWQ1YTEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "WindowsでもCodexのMobileからCodex Appに接続する方法",
+        "url": "https://zenn.dev/acntechjp/articles/4b2af76beb46b3",
+        "author": "kyohei.DoAI",
+        "date": "Fri, 15 May 2026 14:36:57 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--WlgqLC7C--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Windows%25E3%2581%25A7%25E3%2582%2582Codex%25E3%2581%25AEMobile%25E3%2581%258B%25E3%2582%2589Codex%2520App%25E3%2581%25AB%25E6%258E%25A5%25E7%25B6%259A%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kyohei.DoAI%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EyZGJiNGFlNmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "Claudeに魂を吹き込む人 —Amanda Askellという哲学者の眼差し",
-        "url": "https://zenn.dev/noah33/articles/amanda-askell-claude-soul",
-        "author": "noah",
-        "date": "Thu, 14 May 2026 15:15:39 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--EUxpWyE2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2581%25AB%25E9%25AD%2582%25E3%2582%2592%25E5%2590%25B9%25E3%2581%258D%25E8%25BE%25BC%25E3%2582%2580%25E4%25BA%25BA%2520%25E2%2580%2594Amanda%2520Askell%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E5%2593%25B2%25E5%25AD%25A6%25E8%2580%2585%25E3%2581%25AE%25E7%259C%25BC%25E5%25B7%25AE%25E3%2581%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:noah%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RiMjNmNzc0ZDguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "自前キャッシュをTanStack Queryに移行したらコードが半分になった",
+        "url": "https://zenn.dev/hiroki0304/articles/tanstack-query-migration-custom-cache",
+        "author": "hiroki_omiya",
+        "date": "Fri, 15 May 2026 14:14:23 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--qKtuc2H2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%2589%258D%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%2592TanStack%2520Query%25E3%2581%25AB%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%258C%25E5%258D%258A%25E5%2588%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hiroki_omiya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxMjNjOTk2NjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "五反田式: スティグマジーを応用した自律型マルチエージェントシステム【日本語訳】",
-        "url": "https://zenn.dev/iroha1203/articles/93ee3d4c5d5174",
-        "author": "Hiroyuki Nakahata",
-        "date": "Thu, 14 May 2026 14:10:26 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--G-0PavMV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BA%2594%25E5%258F%258D%25E7%2594%25B0%25E5%25BC%258F%253A%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B0%25E3%2583%259E%25E3%2582%25B8%25E3%2583%25BC%25E3%2582%2592%25E5%25BF%259C%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259F%25E8%2587%25AA%25E5%25BE%258B%25E5%259E%258B%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2580%2590%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E8%25A8%25B3%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiroyuki%2520Nakahata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFFXUXgwU1pvMjdqSEhuYmRRalJIdjdES0lIZ1JpaHl4OTFXU0dENWJETHIxSXlWOGw9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "Nix使用時にGitHubのAPI Rate Limitを緩和する方法",
+        "url": "https://zenn.dev/ril/articles/13777ce701882c",
+        "author": "ril",
+        "date": "Fri, 15 May 2026 11:17:38 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--0ZsJAtFk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Nix%25E4%25BD%25BF%25E7%2594%25A8%25E6%2599%2582%25E3%2581%25ABGitHub%25E3%2581%25AEAPI%2520Rate%2520Limit%25E3%2582%2592%25E7%25B7%25A9%25E5%2592%258C%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ril%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM5MzExOWRlNDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "AI×Unityゲーム開発スターターキット",
-        "url": "https://zenn.dev/ohbashunsuke/books/unity-ai-starter-kit",
-        "author": "オオバ@破壊的スピード開発",
-        "date": "Thu, 14 May 2026 12:00:20 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--N8rc49Ol--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci81N2Q4OGNlMDE2LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
+        "title": "RAGナレッジベース作成を簡単にしたくてツールを作った",
+        "url": "https://zenn.dev/bathtimefish/articles/80a22a045795f0",
+        "author": "bathtimefish",
+        "date": "Fri, 15 May 2026 09:47:21 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--8J8sB18p--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RAG%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E4%25BD%259C%25E6%2588%2590%25E3%2582%2592%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2581%258F%25E3%2581%25A6%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:bathtimefish%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhiNjQyNThkN2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
@@ -137,7 +135,7 @@
         "name": "nexu-io/open-design",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "url": "https://github.com/nexu-io/open-design",
-        "stars": 41576,
+        "stars": 42459,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
@@ -145,7 +143,7 @@
         "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
         "description": "GPT-Image-2 API and Prompts",
         "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-        "stars": 14466,
+        "stars": 14693,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/253253881?v=4"
       },
@@ -153,7 +151,7 @@
         "name": "alchaincyf/huashu-design",
         "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
         "url": "https://github.com/alchaincyf/huashu-design",
-        "stars": 13857,
+        "stars": 13964,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/127714341?v=4"
       },
@@ -161,7 +159,7 @@
         "name": "kyegomez/OpenMythos",
         "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
         "url": "https://github.com/kyegomez/OpenMythos",
-        "stars": 12974,
+        "stars": 13039,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/98760976?v=4"
       },
@@ -169,7 +167,7 @@
         "name": "browser-use/browser-harness",
         "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
         "url": "https://github.com/browser-use/browser-harness",
-        "stars": 12803,
+        "stars": 12933,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
@@ -177,7 +175,7 @@
         "name": "antirez/ds4",
         "description": "DeepSeek 4 Flash local inference engine for Metal and CUDA",
         "url": "https://github.com/antirez/ds4",
-        "stars": 9703,
+        "stars": 10042,
         "language": "C",
         "owner_avatar": "https://avatars.githubusercontent.com/u/65632?v=4"
       }
