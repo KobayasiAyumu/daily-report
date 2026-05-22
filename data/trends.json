@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-05-21T22:57:30Z"
+    "last_updated": "2026-05-22T22:50:07Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
         "url": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329",
-        "likes": 232,
+        "likes": 238,
         "author": "jinxin4869",
         "avatar_url": "https://avatars.githubusercontent.com/u/166711124?v=4",
         "tags": [
@@ -20,7 +20,7 @@
       {
         "title": "パスワードの時代が終わる理由 - パスキーの仕組みを図解でわかりやすく整理する",
         "url": "https://qiita.com/ktdatascience/items/78212f9f851ffe97f3d9",
-        "likes": 229,
+        "likes": 237,
         "author": "ktdatascience",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
         "tags": [
@@ -34,7 +34,7 @@
       {
         "title": "専任情シスがいない20人規模の町工場で、自分たちでランサムウェア対策基盤を組む",
         "url": "https://qiita.com/masakai/items/d55a39ac35dca575b8ce",
-        "likes": 164,
+        "likes": 168,
         "author": "masakai",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/87948/24dd3a25edcd0123962baba48ecf3ef87971108b/x_large.png?1772982924",
         "tags": [
@@ -46,23 +46,22 @@
         "created_at": "2026-05-17T16:35:10+09:00"
       },
       {
-        "title": "1割の \"信頼される\" エンジニアが実行している 『止めないコミュニケーション』",
-        "url": "https://qiita.com/hitomin_poke/items/296886c435ebc79a667c",
-        "likes": 130,
-        "author": "hitomin_poke",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4031494/profile-images/1751384543",
+        "title": "Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル",
+        "url": "https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c",
+        "likes": 118,
+        "author": "dahatake",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/108143/profile-images/1559006398",
         "tags": [
-          "初心者",
-          "教育",
-          "エンジニア",
-          "未経験エンジニア"
+          "token",
+          "SKILLS",
+          "VibeCoding"
         ],
-        "created_at": "2026-05-13T13:42:28+09:00"
+        "created_at": "2026-05-14T11:03:58+09:00"
       },
       {
         "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編",
         "url": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56",
-        "likes": 115,
+        "likes": 117,
         "author": "sharu389no",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4388430/930d69938ff84013513ea6f632a4a7792819755d/x_large.png?1777738937",
         "tags": [
@@ -74,20 +73,49 @@
         "created_at": "2026-05-15T14:08:38+09:00"
       },
       {
-        "title": "Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル",
-        "url": "https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c",
-        "likes": 114,
-        "author": "dahatake",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/108143/profile-images/1559006398",
+        "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン",
+        "url": "https://qiita.com/ennagara128/items/aeaee3e64e75076503fe",
+        "likes": 106,
+        "author": "ennagara128",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4156578/a82b923531ddc21bfa1f808acd2239c9669df885/x_large.png?1776655051",
         "tags": [
-          "token",
-          "SKILLS",
-          "VibeCoding"
+          "Security",
+          "AI",
+          "AI駆動開発",
+          "ClaudeCode"
         ],
-        "created_at": "2026-05-14T11:03:58+09:00"
+        "created_at": "2026-05-17T12:40:01+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "あっという間に5月なので、振り返りとご報告",
+        "url": "https://zenn.dev/yuta_k0911/articles/a4bc30fea766f8",
+        "author": "yuta_k0911",
+        "date": "Fri, 22 May 2026 09:46:56 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--7MI10GyV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2582%25E3%2581%25A3%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E9%2596%2593%25E3%2581%25AB5%25E6%259C%2588%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%25E3%2581%25A8%25E3%2581%2594%25E5%25A0%25B1%25E5%2591%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yuta_k0911%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4WVhtUjlJaW9Yc0ZSam1DVGxxX2VLcG9MWHVOeVRheEZmUmtmbmhrQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
+      {
+        "title": "日々の開発で使っているClaude Code Skills",
+        "url": "https://zenn.dev/remitaid/articles/4f9dc787b6c191",
+        "author": "inari111",
+        "date": "Fri, 22 May 2026 03:39:24 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--UjpvpFmz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A5%25E3%2580%2585%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258BClaude%2520Code%2520Skills%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:inari111%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE2NDg4MWQyOGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:RemitAid%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVpUS3F4dzZrNWlWdFlkMWx1c2xROHViaWNPdEdFYTh6d2Rxd1VGOGR6LWxMTDhVcHY9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
+      {
+        "title": "Rustで自作可逆画像圧縮フォーマット「IVR」を実装したら、特定のVSCODEスクショでPNGの46%サイズになった!",
+        "url": "https://zenn.dev/mugideru/articles/35b209e934ba3e",
+        "author": "むぎでる",
+        "date": "Thu, 21 May 2026 12:50:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--T8_RMXVQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Rust%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E5%258F%25AF%25E9%2580%2586%25E7%2594%25BB%25E5%2583%258F%25E5%259C%25A7%25E7%25B8%25AE%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%259E%25E3%2583%2583%25E3%2583%2588%25E3%2580%258CIVR%25E3%2580%258D%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E7%2589%25B9%25E5%25AE%259A%25E3%2581%25AEVSCODE%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2581%25A7PNG%25E3%2581%25AE46%2525%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2521%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2580%25E3%2581%258E%25E3%2581%25A7%25E3%2582%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlROV3dyRTlGZFk5NFBwR1NyWE42RW5FX09vRVVqUW5sRk54a2xaRVlBTFM4LU9HQT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
+      {
+        "title": "Salesforceのセキュリティ強化に備えよう（確認・対応すべき項目ざっくりまとめ）",
+        "url": "https://zenn.dev/cariot_dev/articles/b86f16678bc31a",
+        "author": "t_endo",
+        "date": "Thu, 21 May 2026 08:32:52 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--BtELsaaf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Salesforce%25E3%2581%25AE%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E5%25BC%25B7%25E5%258C%2596%25E3%2581%25AB%25E5%2582%2599%25E3%2581%2588%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2588%25E7%25A2%25BA%25E8%25AA%258D%25E3%2583%25BB%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%2599%25E3%2581%25B9%25E3%2581%258D%25E9%25A0%2585%25E7%259B%25AE%25E3%2581%2596%25E3%2581%25A3%25E3%2581%258F%25E3%2582%258A%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:t_endo%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjMjE5NTM5MjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%2583%25E3%2583%2588%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRjMDRiZjE3ZDUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+      },
       {
         "title": "GoogleのModern Web Guidanceに学ぶ、モダンCSSのDos / Don'ts大全",
         "url": "https://zenn.dev/ubie_dev/articles/modern-css-dos-donts",
@@ -96,47 +124,19 @@
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--99dbMdAp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%25E3%2581%25AEModern%2520Web%2520Guidance%25E3%2581%25AB%25E5%25AD%25A6%25E3%2581%25B6%25E3%2580%2581%25E3%2583%25A2%25E3%2583%2580%25E3%2583%25B3CSS%25E3%2581%25AEDos%2520%252F%2520Don%2527ts%25E5%25A4%25A7%25E5%2585%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E9%25B9%25BF%25E9%2587%258E%2520%25E5%25A3%25AE%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hwRUMxbUtjVjZsX01lT2R6N1Nsejk1SXR4WUZoYjB2LTNOdzNjV3c9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       },
       {
-        "title": "【PDF圧縮】約40年続く業界標準Ghostscriptを、Rust 自前実装で抜いた話",
-        "url": "https://zenn.dev/ikora/articles/b50ca6275eddc9",
-        "author": "だいち",
-        "date": "Thu, 21 May 2026 05:50:24 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--dlK3sp5X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590PDF%25E5%259C%25A7%25E7%25B8%25AE%25E3%2580%2591%25E7%25B4%258440%25E5%25B9%25B4%25E7%25B6%259A%25E3%2581%258F%25E6%25A5%25AD%25E7%2595%258C%25E6%25A8%2599%25E6%25BA%2596Ghostscript%25E3%2582%2592%25E3%2580%2581Rust%2520%25E8%2587%25AA%25E5%2589%258D%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25A7%25E6%258A%259C%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A0%25E3%2581%2584%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyN2VkMjFjNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "Clojurianが出会ったsimple志向なJVM関数型言語Flix ——ファーストインプレッション",
-        "url": "https://zenn.dev/lagenorhynque/articles/fd102acdedea21",
-        "author": "lagénorhynque/カマイルカ",
-        "date": "Thu, 21 May 2026 04:21:40 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--BS143OCp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Clojurian%25E3%2581%258C%25E5%2587%25BA%25E4%25BC%259A%25E3%2581%25A3%25E3%2581%259Fsimple%25E5%25BF%2597%25E5%2590%2591%25E3%2581%25AAJVM%25E9%2596%25A2%25E6%2595%25B0%25E5%259E%258B%25E8%25A8%2580%25E8%25AA%259EFlix%2520%25E2%2580%2594%25E2%2580%2594%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:lag%25C3%25A9norhynque%252F%25E3%2582%25AB%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%25AB%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hxc1dqX3FBWDVBWkVadFl3MmJOdzJ1YUlYZE41cGxtZW1HYTg4NUE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "SaaS で AI Agent を提供するあなたへ贈る、Bedrock AgentCore マルチテナント実装 - Runtime 編",
-        "url": "https://zenn.dev/aws_japan/articles/6640624910acc3",
-        "author": "showish",
-        "date": "Wed, 20 May 2026 23:44:25 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--w2FbKcPj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SaaS%2520%25E3%2581%25A7%2520AI%2520Agent%2520%25E3%2582%2592%25E6%258F%2590%25E4%25BE%259B%25E3%2581%2599%25E3%2582%258B%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25B8%25E8%25B4%2588%25E3%2582%258B%25E3%2580%2581Bedrock%2520AgentCore%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%2586%25E3%2583%258A%25E3%2583%25B3%25E3%2583%2588%25E5%25AE%259F%25E8%25A3%2585%2520-...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:showish%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnRVNjBpSkV1OUV3R1NSdklLTE81eGhQLW50N0hYOGUwNWprNGFTVmd3NzBORHFBPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "Googleの新しいTUI Antigravity CLIを試してみた",
-        "url": "https://zenn.dev/hoki621/articles/how-to-agy-cli",
-        "author": "ほき",
-        "date": "Wed, 20 May 2026 22:00:06 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--fiHSukFA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%25E3%2581%25AE%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584TUI%2520Antigravity%2520CLI%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BB%25E3%2581%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg5N2JkMGUzODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-      },
-      {
-        "title": "複数集約を跨ぐ処理を1つのDBトランザクションで括る前に読む記事",
-        "url": "https://zenn.dev/j5ik2o/articles/59de072b6728ff",
-        "author": "j5ik2o",
-        "date": "Wed, 20 May 2026 16:20:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_3okAhWh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A4%2587%25E6%2595%25B0%25E9%259B%2586%25E7%25B4%2584%25E3%2582%2592%25E8%25B7%25A8%25E3%2581%2590%25E5%2587%25A6%25E7%2590%2586%25E3%2582%25921%25E3%2581%25A4%25E3%2581%25AEDB%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25B6%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25A7%25E6%258B%25AC%25E3%2582%258B%25E5%2589%258D%25E3%2581%25AB%25E8%25AA%25AD%25E3%2582%2580%25E8%25A8%2598%25E4%25BA%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:j5ik2o%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg1ZWRhZjJhNzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        "title": "既存サービスにMCPサーバーを組み込む際の設計ポイント",
+        "url": "https://zenn.dev/finatext/articles/b404032aec58c4",
+        "author": "あつし",
+        "date": "Thu, 21 May 2026 06:32:42 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--U-rd-6Tt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A2%25E5%25AD%2598%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25ABMCP%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%2592%25E7%25B5%2584%25E3%2581%25BF%25E8%25BE%25BC%25E3%2582%2580%25E9%259A%259B%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2582%25E3%2581%25A4%25E3%2581%2597%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3ZWFhMjk3ODMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
       }
     ],
     "github": [
       {
         "name": "nexu-io/open-design",
-        "description": "🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+        "description": "🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "url": "https://github.com/nexu-io/open-design",
-        "stars": 48883,
+        "stars": 49830,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
@@ -144,7 +144,7 @@
         "name": "antirez/ds4",
         "description": "DeepSeek 4 Flash local inference engine for Metal and CUDA",
         "url": "https://github.com/antirez/ds4",
-        "stars": 11169,
+        "stars": 11373,
         "language": "C",
         "owner_avatar": "https://avatars.githubusercontent.com/u/65632?v=4"
       },
@@ -152,7 +152,7 @@
         "name": "op7418/guizang-ppt-skill",
         "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
         "url": "https://github.com/op7418/guizang-ppt-skill",
-        "stars": 10953,
+        "stars": 11307,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13505770?v=4"
       },
@@ -160,7 +160,7 @@
         "name": "Yuan1z0825/nature-skills",
         "description": "符合nature论文学术表达和科研绘图的Skill",
         "url": "https://github.com/Yuan1z0825/nature-skills",
-        "stars": 10026,
+        "stars": 10577,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/140061814?v=4"
       },
@@ -168,7 +168,7 @@
         "name": "FULU-Foundation/OrcaSlicer-bambulab",
         "description": null,
         "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-        "stars": 6270,
+        "stars": 6328,
         "language": "C++",
         "owner_avatar": "https://avatars.githubusercontent.com/u/223959643?v=4"
       },
@@ -176,7 +176,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 5792,
+        "stars": 5860,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/43960064?v=4"
       }
