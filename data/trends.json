@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-06-06T22:54:57Z"
+    "last_updated": "2026-06-07T22:53:49Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "エンジニアの「コミュ力」って、たぶんそういう意味じゃない",
         "url": "https://qiita.com/ALeX_EXVS/items/f6f07d88478dd571f970",
-        "likes": 275,
+        "likes": 278,
         "author": "ALeX_EXVS",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3050746/profile-images/1780392978",
         "tags": [
@@ -17,23 +17,9 @@
         "created_at": "2026-06-01T14:55:06+09:00"
       },
       {
-        "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
-        "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd",
-        "likes": 205,
-        "author": "emi_ndk",
-        "avatar_url": "https://avatars.githubusercontent.com/u/54173850?v=4",
-        "tags": [
-          "Security",
-          "AI",
-          "owasp",
-          "LLM"
-        ],
-        "created_at": "2026-05-26T18:51:29+09:00"
-      },
-      {
         "title": "これを読めば分かるClaude Code 完全攻略ガイド",
         "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d",
-        "likes": 202,
+        "likes": 204,
         "author": "s-furuya-nri",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4436465/profile-images/1780121556",
         "tags": [
@@ -47,7 +33,7 @@
       {
         "title": "「コードを書く人」から「課題を解決するエンジニア」になるためには",
         "url": "https://qiita.com/masa20057/items/eaa2afeffa262687b892",
-        "likes": 178,
+        "likes": 180,
         "author": "masa20057",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
         "tags": [
@@ -61,13 +47,27 @@
       {
         "title": "17万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術",
         "url": "https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f",
-        "likes": 149,
+        "likes": 156,
         "author": "4q_sano",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/82835/profile-images/1722951712",
         "tags": [
           "ClaudeCode"
         ],
         "created_at": "2026-05-26T22:39:19+09:00"
+      },
+      {
+        "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
+        "url": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e",
+        "likes": 107,
+        "author": "shinkai_",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1203022/0b1100225e69fe7c5def1c1e45e7993c72541583/x_large.png?1670996932",
+        "tags": [
+          "初心者",
+          "AI",
+          "GitHubCopilot",
+          "生成AI"
+        ],
+        "created_at": "2026-06-05T07:06:07+09:00"
       },
       {
         "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
@@ -86,46 +86,46 @@
     ],
     "zenn": [
       {
-        "title": "自宅ルーターのポート443を開放したら、ISPによる遮断(推定)でインターネットが死んだ話",
-        "url": "https://zenn.dev/c4n4242/articles/5ab1f510d8c946",
-        "author": "カノン@Zenn",
-        "date": "Fri, 05 Jun 2026 17:41:29 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--0wjEqkty--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%25AE%2585%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AE%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588443%25E3%2582%2592%25E9%2596%258B%25E6%2594%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581ISP%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%2581%25AE%25E6%2596%25AD%2528%25E6%258E%25A8%25E5%25AE%259A%2529%25E3%2581%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2581%258C%25E6%25AD%25BB%25E3%2582%2593%25E3%2581%25A0%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AB%25E3%2583%258E%25E3%2583%25B3%2540Zenn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMyMTUxOTVhZWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【Snowflake Summit 2026】最新BIツールレポート",
+        "url": "https://zenn.dev/finatext/articles/snowflake-summit-2026-bi-tools-report",
+        "author": "てらにっしー",
+        "date": "Sat, 06 Jun 2026 21:33:00 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--cAuNoJrM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Snowflake%2520Summit%25202026%25E3%2580%2591%25E6%259C%2580%25E6%2596%25B0BI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%2589%25E3%2581%25AB%25E3%2581%25A3%25E3%2581%2597%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGZTeDY0Ty1sYTR0LWxrdUlGZGdMZ1RCOTFjcEV4QzRQclptem5ndVhKT250NzZ3PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Snowflake App Runtime 入門 - プロンプトひとつでデータの隣に本格Webアプリをデプロイする！",
-        "url": "https://zenn.dev/snowflakejp/articles/9e5b8fa393ccd8",
-        "author": "tsubasa",
-        "date": "Fri, 05 Jun 2026 09:31:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--86w7oASz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Snowflake%2520App%2520Runtime%2520%25E5%2585%25A5%25E9%2596%2580%2520-%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%25B2%25E3%2581%25A8%25E3%2581%25A4%25E3%2581%25A7%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E9%259A%25A3%25E3%2581%25AB%25E6%259C%25AC%25E6%25A0%25BCWeb%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tsubasa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0ZmE2OGQyM2YuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Snowflake%2520Japan%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RkODMzYmYwZDcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "結局どっち？ E2Eで私が「Chrome DevTools 中心・Playwright 限定」に落ち着いた理由",
+        "url": "https://zenn.dev/minewo/articles/playwright-vs-chrome-devtools-e2e",
+        "author": "mine_take",
+        "date": "Sat, 06 Jun 2026 17:04:07 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s---MhzhLPz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B5%2590%25E5%25B1%2580%25E3%2581%25A9%25E3%2581%25A3%25E3%2581%25A1%25EF%25BC%259F%2520E2E%25E3%2581%25A7%25E7%25A7%2581%25E3%2581%258C%25E3%2580%258CChrome%2520DevTools%2520%25E4%25B8%25AD%25E5%25BF%2583%25E3%2583%25BBPlaywright%2520%25E9%2599%2590%25E5%25AE%259A%25E3%2580%258D%25E3%2581%25AB%25E8%2590%25BD%25E3%2581%25A1%25E7%259D%2580%25E3%2581%2584%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mine_take%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY1MzhjNmMxN2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Claude を使って Gemini 議事録から必要な情報を抽出する仕組み",
-        "url": "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
-        "author": "しょーさん",
-        "date": "Fri, 05 Jun 2026 05:55:45 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Q_IycC6B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%2520Gemini%2520%25E8%25AD%25B0%25E4%25BA%258B%25E9%258C%25B2%25E3%2581%258B%25E3%2582%2589%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E6%258A%25BD%25E5%2587%25BA%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2597%25E3%2582%2587%25E3%2583%25BC%25E3%2581%2595%25E3%2582%2593%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkMzExMTE0OTcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "未経験から脆弱性診断員になるには — 私はネットワークエンジニアから来た",
+        "url": "https://zenn.dev/rudy_candy/articles/how-to-become-vulnerability-assessor",
+        "author": "rudy_candy",
+        "date": "Sat, 06 Jun 2026 14:31:23 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--jWDQXx1g--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%25AA%25E7%25B5%258C%25E9%25A8%2593%25E3%2581%258B%25E3%2582%2589%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%25E8%25A8%25BA%25E6%2596%25AD%25E5%2593%25A1%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AB%25E3%2581%25AF%2520%25E2%2580%2594%2520%25E7%25A7%2581%25E3%2581%25AF%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%258B%25E3%2582%2589%25E6%259D%25A5%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rudy_candy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M4NzY4ZWFkZTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "TanStack Query を完全にゼロから実装して理解する",
-        "url": "https://zenn.dev/ficilcom/articles/ff423b306afe18",
-        "author": "sofuejin0121",
-        "date": "Fri, 05 Jun 2026 05:41:21 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3oj8x4b3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TanStack%2520Query%2520%25E3%2582%2592%25E5%25AE%258C%25E5%2585%25A8%25E3%2581%25AB%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sofuejin0121%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE3MmFmNGJkODAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25B7%25E3%2583%25AB%25E3%2582%25B3%25E3%2583%25A0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlYjJmMTczNWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Rustでエラー原因をsourceとDisplayの両方に書いてはいけない理由",
+        "url": "https://zenn.dev/ultimatile/articles/rust-error-source-display-duplication",
+        "author": "ultimatile",
+        "date": "Sat, 06 Jun 2026 13:33:57 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--HAM-e3M8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Rust%25E3%2581%25A7%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E5%258E%259F%25E5%259B%25A0%25E3%2582%2592source%25E3%2581%25A8Display%25E3%2581%25AE%25E4%25B8%25A1%25E6%2596%25B9%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25AF%25E3%2581%2584%25E3%2581%2591%25E3%2581%25AA%25E3%2581%2584%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ultimatile%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwYzIwNmEzMGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "元オンプレ屋がAWS運用監視設計で最初に間違えたこと—「正常を定義する」が先だった",
-        "url": "https://zenn.dev/aa_taka/articles/e835abca466897",
-        "author": "aataka",
-        "date": "Thu, 04 Jun 2026 21:48:46 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--mPEGk8Zr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2585%2583%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E5%25B1%258B%25E3%2581%258CAWS%25E9%2581%258B%25E7%2594%25A8%25E7%259B%25A3%25E8%25A6%2596%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A7%25E6%259C%2580%25E5%2588%259D%25E3%2581%25AB%25E9%2596%2593%25E9%2581%2595%25E3%2581%2588%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%25E2%2580%2594%25E3%2580%258C%25E6%25AD%25A3%25E5%25B8%25B8%25E3%2582%2592%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%2599%25E3%2582%258B%25E3%2580%258D%25E3%2581%258C%25E5%2585%2588%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:aataka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM5MTFiNzgyMzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "現代の GPU アーキテクチャとシェーダー最適化の考え方",
+        "url": "https://zenn.dev/ruccho/articles/shader-optimization",
+        "author": "ruccho",
+        "date": "Sat, 06 Jun 2026 11:49:09 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--cNnU5KyP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%258F%25BE%25E4%25BB%25A3%25E3%2581%25AE%2520GPU%2520%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25A8%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2581%25AE%25E8%2580%2583%25E3%2581%2588%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ruccho%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgzODFiODMwMjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "PyTorchで理解する自動運転マルチカメラ統合の全体像",
-        "url": "https://zenn.dev/riita10069/articles/auto-e2e-multi-view-fusion-explained",
-        "author": "りいた",
-        "date": "Thu, 04 Jun 2026 18:47:57 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--G_LWpPPJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PyTorch%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E8%2587%25AA%25E5%258B%2595%25E9%2581%258B%25E8%25BB%25A2%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E7%25B5%25B1%25E5%2590%2588%25E3%2581%25AE%25E5%2585%25A8%25E4%25BD%2593%25E5%2583%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258A%25E3%2581%2584%25E3%2581%259F%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFlYThhYWM1ZDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "個人開発の Go × gRPC マイクロサービス群を docker compose 一発でローカル起動する",
+        "url": "https://zenn.dev/qkitzero/articles/go-grpc-multi-service-docker-compose",
+        "author": "qkitzero",
+        "date": "Sat, 06 Jun 2026 11:41:33 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Nhw0gx65--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%2520Go%2520%25C3%2597%2520gRPC%2520%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E7%25BE%25A4%25E3%2582%2592%2520docker%2520compose%2520%25E4%25B8%2580%25E7%2599%25BA%25E3%2581%25A7%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E8%25B5%25B7%25E5%258B%2595%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:qkitzero%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0diLXRLVk11ZUVVRExFSklsZldOVEtneGtSemVDODVuN1c1NUd1V00zNXdOUkhrWVM9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -133,7 +133,7 @@
         "name": "pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
         "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-        "stars": 58809,
+        "stars": 61525,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/229018391?v=4"
       },
@@ -141,7 +141,7 @@
         "name": "unicity-astrid/sdk-js",
         "description": "JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.",
         "url": "https://github.com/unicity-astrid/sdk-js",
-        "stars": 7640,
+        "stars": 7888,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
       },
@@ -149,7 +149,7 @@
         "name": "FULU-Foundation/OrcaSlicer-bambulab",
         "description": null,
         "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-        "stars": 6807,
+        "stars": 6822,
         "language": "C++",
         "owner_avatar": "https://avatars.githubusercontent.com/u/223959643?v=4"
       },
@@ -157,23 +157,23 @@
         "name": "nexu-io/html-anything",
         "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
         "url": "https://github.com/nexu-io/html-anything",
-        "stars": 6209,
+        "stars": 6263,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/263625318?v=4"
       },
       {
-        "name": "microsoft/SkillOpt",
-        "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
-        "url": "https://github.com/microsoft/SkillOpt",
-        "stars": 5182,
+        "name": "anthropics/defending-code-reference-harness",
+        "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
+        "url": "https://github.com/anthropics/defending-code-reference-harness",
+        "stars": 5089,
         "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4"
+        "owner_avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
       },
       {
         "name": "vercel-labs/zerolang",
         "description": "The programming language for agents",
         "url": "https://github.com/vercel-labs/zerolang",
-        "stars": 4905,
+        "stars": 4914,
         "language": "C",
         "owner_avatar": "https://avatars.githubusercontent.com/u/108547162?v=4"
       }
