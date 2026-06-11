@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-06-10T23:18:38Z"
+    "last_updated": "2026-06-11T23:14:01Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "エンジニアの「コミュ力」って、たぶんそういう意味じゃない",
         "url": "https://qiita.com/ALeX_EXVS/items/f6f07d88478dd571f970",
-        "likes": 450,
+        "likes": 478,
         "author": "ALeX_EXVS",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3050746/profile-images/1780392978",
         "tags": [
@@ -17,23 +17,9 @@
         "created_at": "2026-06-01T14:55:06+09:00"
       },
       {
-        "title": "これを読めば分かるClaude Code 完全攻略ガイド",
-        "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d",
-        "likes": 282,
-        "author": "s-furuya-nri",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4436465/profile-images/1780121556",
-        "tags": [
-          "Claude",
-          "AI駆動開発",
-          "AIエージェント",
-          "ClaudeCode"
-        ],
-        "created_at": "2026-05-30T15:45:08+09:00"
-      },
-      {
         "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する",
         "url": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073",
-        "likes": 237,
+        "likes": 242,
         "author": "ktdatascience",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
         "tags": [
@@ -47,7 +33,7 @@
       {
         "title": "「コードを書く人」から「課題を解決するエンジニア」になるためには",
         "url": "https://qiita.com/masa20057/items/eaa2afeffa262687b892",
-        "likes": 201,
+        "likes": 208,
         "author": "masa20057",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
         "tags": [
@@ -61,7 +47,7 @@
       {
         "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
         "url": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e",
-        "likes": 171,
+        "likes": 177,
         "author": "shinkai_",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1203022/0b1100225e69fe7c5def1c1e45e7993c72541583/x_large.png?1670996932",
         "tags": [
@@ -75,7 +61,7 @@
       {
         "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた",
         "url": "https://qiita.com/shinkai_/items/61b10d10c63db47a64e7",
-        "likes": 112,
+        "likes": 118,
         "author": "shinkai_",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1203022/0b1100225e69fe7c5def1c1e45e7993c72541583/x_large.png?1670996932",
         "tags": [
@@ -85,50 +71,64 @@
           "ClaudeCode"
         ],
         "created_at": "2026-06-03T09:19:10+09:00"
+      },
+      {
+        "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #1",
+        "url": "https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7",
+        "likes": 96,
+        "author": "hitomin_poke",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4031494/profile-images/1751384543",
+        "tags": [
+          "初心者",
+          "教育",
+          "エンジニア",
+          "未経験エンジニア"
+        ],
+        "created_at": "2026-06-03T13:15:28+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "新規事業を牽引する技術選定 〜フルスタックTypeScript開発の実践事例〜",
-        "url": "https://zenn.dev/katsumanarisawa/articles/c3dd3e8371d4d7",
-        "author": "Katsuma Narisawa",
-        "date": "Wed, 10 Jun 2026 01:46:27 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--7vAIJb5V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%25B0%25E8%25A6%258F%25E4%25BA%258B%25E6%25A5%25AD%25E3%2582%2592%25E7%2589%25BD%25E5%25BC%2595%25E3%2581%2599%25E3%2582%258B%25E6%258A%2580%25E8%25A1%2593%25E9%2581%25B8%25E5%25AE%259A%2520%25E3%2580%259C%25E3%2583%2595%25E3%2583%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2583%25E3%2582%25AFTypeScript%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E5%25AE%259F%25E8%25B7%25B5%25E4%25BA%258B%25E4%25BE%258B%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Katsuma%2520Narisawa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM5MDQwOWJjZGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "「Fable 5 は自分以上に信頼している」Claude Code 開発者に聞く【Code w/ Claude Tokyo現地参加レポート】",
+        "url": "https://zenn.dev/sompojapan_dx/articles/811ac0999e297b",
+        "author": "akira0g",
+        "date": "Thu, 11 Jun 2026 00:14:40 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--GdSaH_4z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CFable%25205%2520%25E3%2581%25AF%25E8%2587%25AA%25E5%2588%2586%25E4%25BB%25A5%25E4%25B8%258A%25E3%2581%25AB%25E4%25BF%25A1%25E9%25A0%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2580%258DClaude%2520Code%2520%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%25AB%25E8%2581%259E%25E3%2581%258F%25E3%2580%2590Code%2520w%252F%2520Claude%2520T...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:akira0g%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzYTI5MTRkMjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SOMPO%2520Digital%2520Lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSV9iOXNjZFJvdUw0UmxOZzRjM1BaVTBmNURZX2Z2LURXYTJMRjdCYnNyPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "ollama + qwenで、PDFを読み取る環境を構築",
-        "url": "https://zenn.dev/yuta_enginner/articles/4fb1d8b8d43923",
-        "author": "Yuta",
-        "date": "Tue, 09 Jun 2026 14:02:22 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--vlAne0nz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ollama%2520%252B%2520qwen%25E3%2581%25A7%25E3%2580%2581PDF%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BF%25E5%258F%2596%25E3%2582%258B%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuta%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA5Zjg0OWY4OWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Code with Claude Tokyoに参加して、AI時代に強い組織とは何かを考えさせられた",
+        "url": "https://zenn.dev/paraponera/articles/2026-06-11-code-with-claude-tokyo",
+        "author": "船長（せんちょう）",
+        "date": "Wed, 10 Jun 2026 17:21:51 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--prlWaf6_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Code%2520with%2520Claude%2520Tokyo%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E5%25BC%25B7%25E3%2581%2584%25E7%25B5%2584%25E7%25B9%2594%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2581%2595%25E3%2581%259B%25E3%2582%2589%25E3%2582%258C%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E8%2588%25B9%25E9%2595%25B7%25EF%25BC%2588%25E3%2581%259B%25E3%2582%2593%25E3%2581%25A1%25E3%2582%2587%25E3%2581%2586%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlZjI5NGM1MjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "ログラス5daysインターンシップ参加体験記：価値のあるエンジニアとは",
-        "url": "https://zenn.dev/maropook/articles/b9697fc676d3be",
-        "author": "maropook",
-        "date": "Tue, 09 Jun 2026 12:14:26 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--F2hnq07U--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B95days%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%2583%25E3%2583%2597%25E5%258F%2582%25E5%258A%25A0%25E4%25BD%2593%25E9%25A8%2593%25E8%25A8%2598%25EF%25BC%259A%25E4%25BE%25A1%25E5%2580%25A4%25E3%2581%25AE%25E3%2581%2582%25E3%2582%258B%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25A8%25E3%2581%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:maropook%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA4OGIyNzFkMmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "組み込み Linux のブート画面を黒フレームゼロで Qt アプリに繋ぐ",
+        "url": "https://zenn.dev/tasuku/articles/7bdcb880495a91",
+        "author": "Tasuku Suzuki",
+        "date": "Wed, 10 Jun 2026 16:25:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ys_bPBMf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B5%2584%25E3%2581%25BF%25E8%25BE%25BC%25E3%2581%25BF%2520Linux%2520%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25BC%25E3%2583%2588%25E7%2594%25BB%25E9%259D%25A2%25E3%2582%2592%25E9%25BB%2592%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25A7%2520Qt%2520%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AB%25E7%25B9%258B%25E3%2581%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tasuku%2520Suzuki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2ozSVJ3SEJLNDl5elVFZTg2dy00bGpkWkRyUFBzSDlQZm5NU0JFelE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "プロダクトより先に「自分の環境」を守る ─ 今日からできるセキュリティ対策",
-        "url": "https://zenn.dev/contrea/articles/87aaecea6e8ae2",
-        "author": "てるてる",
-        "date": "Tue, 09 Jun 2026 10:17:52 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--lFcgswqk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2588%25E3%2582%258A%25E5%2585%2588%25E3%2581%25AB%25E3%2580%258C%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%25E7%2592%25B0%25E5%25A2%2583%25E3%2580%258D%25E3%2582%2592%25E5%25AE%2588%25E3%2582%258B%2520%25E2%2594%2580%2520%25E4%25BB%258A%25E6%2597%25A5%25E3%2581%258B%25E3%2582%2589%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%258B%25E3%2581%25A6%25E3%2582%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzliZDgzNDU3ZjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Contrea%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYwNDE4ZGVmYWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Claude Fable 5レビュー：Opusの2倍の価格に見合う価値はあるか",
+        "url": "https://zenn.dev/yamato_snow/articles/d180340730d583",
+        "author": "やまと",
+        "date": "Wed, 10 Jun 2026 11:27:20 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--vqN6puYz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Fable%25205%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%259AOpus%25E3%2581%25AE2%25E5%2580%258D%25E3%2581%25AE%25E4%25BE%25A1%25E6%25A0%25BC%25E3%2581%25AB%25E8%25A6%258B%25E5%2590%2588%25E3%2581%2586%25E4%25BE%25A1%25E5%2580%25A4%25E3%2581%25AF%25E3%2581%2582%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2584%25E3%2581%25BE%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UxMTY0YzRhNDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "そのテスト、本当にバグを検出できますか？——Mutation Testingでテストの質を測る",
-        "url": "https://zenn.dev/explaza/articles/b04ad08bca46e1",
-        "author": "hyodo",
-        "date": "Tue, 09 Jun 2026 04:52:11 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--D5XH5BgU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%259D%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2580%2581%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E3%2583%2590%25E3%2582%25B0%25E3%2582%2592%25E6%25A4%259C%25E5%2587%25BA%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25BE%25E3%2581%2599%25E3%2581%258B%25EF%25BC%259F%25E2%2580%2594%25E2%2580%2594Mutation%2520Testing%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E8%25B3%25AA%25E3%2582%2592%25E6%25B8%25AC%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hyodo%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQzOWQzZGM0MGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B6%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTRrc09uN0ZqNExwTzJBMkdWWmhFOXNEVllSOVJySGZVTzJDLWtKTjg3MlNfNGVZOD1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "今からJavaを始めるなら僕ならこうする話",
+        "url": "https://zenn.dev/yamu_official/articles/0fa40fd448bce1",
+        "author": "やむぅ。｜8年目エンジニア",
+        "date": "Wed, 10 Jun 2026 09:10:48 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9UHWphdr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BB%258A%25E3%2581%258B%25E3%2582%2589Java%25E3%2582%2592%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%25E3%2581%25AA%25E3%2582%2589%25E5%2583%2595%25E3%2581%25AA%25E3%2582%2589%25E3%2581%2593%25E3%2581%2586%25E3%2581%2599%25E3%2582%258B%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2584%25E3%2582%2580%25E3%2581%2585%25E3%2580%2582%25EF%25BD%259C8%25E5%25B9%25B4%25E7%259B%25AE%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3YjllOTJiNTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Claude Managed Agents で社内データ・ログ・コードを横断調査する Slack bot を安定運用する方法",
-        "url": "https://zenn.dev/dinii/articles/1cfac1ca8b46c3",
-        "author": "まりる",
-        "date": "Tue, 09 Jun 2026 03:52:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--TMQFqXby--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Managed%2520Agents%2520%25E3%2581%25A7%25E7%25A4%25BE%25E5%2586%2585%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BB%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25BB%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%25A8%25AA%25E6%2596%25AD%25E8%25AA%25BF%25E6%259F%25BB%25E3%2581%2599%25E3%2582%258B%2520Slack%2520bot%2520%25E3%2582%2592%25E5%25AE%2589%25E5%25AE%259A%25E9%2581%258B...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BE%25E3%2582%258A%25E3%2582%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZhNTVhMGJiNDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Dinii%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzczNzEwZWYxNWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "新しく出たGemma4-E2B-QATを試してみる",
+        "url": "https://zenn.dev/aiforall/articles/f4a39bb9b8c672",
+        "author": "GamiSan",
+        "date": "Wed, 10 Jun 2026 08:28:41 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--JS4bheaS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%25B0%25E3%2581%2597%25E3%2581%258F%25E5%2587%25BA%25E3%2581%259FGemma4-E2B-QAT%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:GamiSan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA3ODlkYTQ2NWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BA%2520AI%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2591%25E3%2583%258B%25E3%2583%25BC%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjFsZXNvVkU5QVNhLXpXTFB0cG83MncyZ0U2TU9tUjlDal9HdVpOOXh5ZE5YZTB1R0g9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -136,7 +136,7 @@
         "name": "pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
         "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-        "stars": 67026,
+        "stars": 68362,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/229018391?v=4"
       },
@@ -144,7 +144,7 @@
         "name": "unicity-astrid/sdk-js",
         "description": "JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.",
         "url": "https://github.com/unicity-astrid/sdk-js",
-        "stars": 8254,
+        "stars": 8256,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
       },
@@ -152,7 +152,7 @@
         "name": "alibaba/open-code-review",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 6049,
+        "stars": 6237,
         "language": "Go",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4"
       },
@@ -160,25 +160,25 @@
         "name": "anthropics/defending-code-reference-harness",
         "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
         "url": "https://github.com/anthropics/defending-code-reference-harness",
-        "stars": 5675,
+        "stars": 5733,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
-      },
-      {
-        "name": "simplifaisoul/osiris",
-        "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative",
-        "url": "https://github.com/simplifaisoul/osiris",
-        "stars": 5201,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/241641249?v=4"
       },
       {
         "name": "vercel-labs/zerolang",
         "description": "The Programming Language for Agents",
         "url": "https://github.com/vercel-labs/zerolang",
-        "stars": 4969,
+        "stars": 4997,
         "language": "C++",
         "owner_avatar": "https://avatars.githubusercontent.com/u/108547162?v=4"
+      },
+      {
+        "name": "AprilNEA/OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "url": "https://github.com/AprilNEA/OpenLogi",
+        "stars": 4680,
+        "language": "Rust",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/37977109?v=4"
       }
     ]
   }
