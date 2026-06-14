@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-06-13T22:53:53Z"
+    "last_updated": "2026-06-14T22:58:41Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する",
         "url": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073",
-        "likes": 250,
+        "likes": 251,
         "author": "ktdatascience",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
         "tags": [
@@ -19,37 +19,9 @@
         "created_at": "2026-06-06T19:04:20+09:00"
       },
       {
-        "title": "「コードを書く人」から「課題を解決するエンジニア」になるためには",
-        "url": "https://qiita.com/masa20057/items/eaa2afeffa262687b892",
-        "likes": 214,
-        "author": "masa20057",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4366495/c9be06a7bb0eaaf5d5d757c22c9b5fdc661187ee/x_large.png?1773296817",
-        "tags": [
-          "キャリア",
-          "スキルアップ",
-          "エンジニア",
-          "成長"
-        ],
-        "created_at": "2026-06-02T11:28:48+09:00"
-      },
-      {
-        "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
-        "url": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e",
-        "likes": 187,
-        "author": "shinkai_",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1203022/0b1100225e69fe7c5def1c1e45e7993c72541583/x_large.png?1670996932",
-        "tags": [
-          "初心者",
-          "AI",
-          "GitHubCopilot",
-          "生成AI"
-        ],
-        "created_at": "2026-06-05T07:06:07+09:00"
-      },
-      {
         "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
         "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
-        "likes": 125,
+        "likes": 126,
         "author": "miruky",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1774445070",
         "tags": [
@@ -61,18 +33,18 @@
         "created_at": "2026-06-09T17:51:01+09:00"
       },
       {
-        "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた",
-        "url": "https://qiita.com/shinkai_/items/61b10d10c63db47a64e7",
-        "likes": 123,
-        "author": "shinkai_",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1203022/0b1100225e69fe7c5def1c1e45e7993c72541583/x_large.png?1670996932",
+        "title": "信頼されるエンジニアが実践する「聴く技術」4選",
+        "url": "https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b",
+        "likes": 105,
+        "author": "prum_hitomi",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
         "tags": [
-          "AI",
-          "LLM",
-          "AIエージェント",
-          "ClaudeCode"
+          "初心者",
+          "教育",
+          "エンジニア",
+          "未経験エンジニア"
         ],
-        "created_at": "2026-06-03T09:19:10+09:00"
+        "created_at": "2026-06-11T15:28:12+09:00"
       },
       {
         "title": "なぜBraveは拡張機能なしで広告を消せるのか？仕組みを5分でゆるく整理する",
@@ -87,50 +59,78 @@
           "プライバシー"
         ],
         "created_at": "2026-06-07T17:10:15+09:00"
+      },
+      {
+        "title": "Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった",
+        "url": "https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024",
+        "likes": 99,
+        "author": "ktdatascience",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
+        "tags": [
+          "初心者",
+          "生成AI",
+          "Claude",
+          "生成AI活用"
+        ],
+        "created_at": "2026-06-11T10:25:29+09:00"
+      },
+      {
+        "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #2",
+        "url": "https://qiita.com/hitomin_poke/items/ffcc67d985d4ab47631e",
+        "likes": 93,
+        "author": "hitomin_poke",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4031494/profile-images/1751384543",
+        "tags": [
+          "初心者",
+          "教育",
+          "エンジニア",
+          "未経験エンジニア"
+        ],
+        "created_at": "2026-06-08T01:47:52+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "Claude Fable 5が突然使えなくなった(輸出管理指令によるアクセス停止)",
-        "url": "https://zenn.dev/yamadatt/articles/20260613-fable5-access-suspended",
+        "title": "超精密インデックス「PageIndex」で実現する推論ベースRAG（JTC版）",
+        "url": "https://zenn.dev/snaga/articles/2026-06-14-doctools-with-pageindex",
+        "author": "snaga",
+        "date": "Sun, 14 Jun 2026 08:08:31 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--vFsMqXmR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25B6%2585%25E7%25B2%25BE%25E5%25AF%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2587%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2580%258CPageIndex%25E3%2580%258D%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E6%258E%25A8%25E8%25AB%2596%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9RAG%25EF%25BC%2588JTC%25E7%2589%2588%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:snaga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiMzFjYmEzNzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "JavaScriptのClass離れの歴史をたどる話",
+        "url": "https://zenn.dev/sjbworks/articles/41a5c76dce4b36",
+        "author": "sjbworks",
+        "date": "Sun, 14 Jun 2026 04:05:29 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--K5R58Un---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:JavaScript%25E3%2581%25AEClass%25E9%259B%25A2%25E3%2582%258C%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E3%2582%2592%25E3%2581%259F%25E3%2581%25A9%25E3%2582%258B%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sjbworks%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0YmU4ZDIzZDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "「生成AIで属人性を解消」には、違和感を感じる。",
+        "url": "https://zenn.dev/ncdc/articles/8f8f3bf16017f7",
+        "author": "いばらき",
+        "date": "Sun, 14 Jun 2026 04:00:08 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--XVWDfE99--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A7%25E5%25B1%259E%25E4%25BA%25BA%25E6%2580%25A7%25E3%2582%2592%25E8%25A7%25A3%25E6%25B6%2588%25E3%2580%258D%25E3%2581%25AB%25E3%2581%25AF%25E3%2580%2581%25E9%2581%2595%25E5%2592%258C%25E6%2584%259F%25E3%2582%2592%25E6%2584%259F%25E3%2581%2598%25E3%2582%258B%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2584%25E3%2581%25B0%25E3%2582%2589%25E3%2581%258D%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhODZhNDA5ZDMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NCDC%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lXRjZXeUJCMTBrRDZNaV9Fa0tLQi13WFJSUC04eFlJbDV5eWljPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "従量制になったGithub Copilotの代わりにOpenCode GoをCopilot Chatのカスタムプロバイダとして使う",
+        "url": "https://zenn.dev/kusuke/articles/82129236caa5f8",
+        "author": "Yusuke Kawabata",
+        "date": "Sun, 14 Jun 2026 01:07:01 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ryD7JZ6U--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BE%2593%25E9%2587%258F%25E5%2588%25B6%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259FGithub%2520Copilot%25E3%2581%25AE%25E4%25BB%25A3%25E3%2582%258F%25E3%2582%258A%25E3%2581%25ABOpenCode%2520Go%25E3%2582%2592Copilot%2520Chat%25E3%2581%25AE%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2583%2597%25E3%2583%25AD...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yusuke%2520Kawabata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFiNjBjMzBiZjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること",
+        "url": "https://zenn.dev/yun_bow/articles/6e6bcbf127072a",
+        "author": "ゆんぼう",
+        "date": "Sun, 14 Jun 2026 00:14:20 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3dkodF-C--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25AA%25B0%25E3%2582%2582%25E4%25BD%25BF%25E3%2582%258F%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25E2%2594%2580%25E2%2594%2580AI%25E3%2581%25A7%25E3%2580%258C%25E4%25BD%259C%25E3%2582%258B%25E5%25A3%2581%25E3%2580%258D%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2581%259F%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E5%25A4%25A7%25E4%25BA%258B%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2586%25E3%2582%2593%25E3%2581%25BC%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWVBX25PYnROdXlmNTBoVG5NbEtTaDRRdnBJbUNEajZudFAwMlB2VW1oak1kYmJKRT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Fable 5停止をきっかけにUbuntuでGemma 4 E2Bを動かした記録",
+        "url": "https://zenn.dev/yamadatt/articles/20260614-ubuntu-gemma4-ollama",
         "author": "yamadatt",
-        "date": "Sat, 13 Jun 2026 02:00:00 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--rCeBdMab--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Fable%25205%25E3%2581%258C%25E7%25AA%2581%25E7%2584%25B6%25E4%25BD%25BF%25E3%2581%2588%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2528%25E8%25BC%25B8%25E5%2587%25BA%25E7%25AE%25A1%25E7%2590%2586%25E6%258C%2587%25E4%25BB%25A4%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E5%2581%259C%25E6%25AD%25A2%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yamadatt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "散らばるAI開発ログを一か所へ：agentsviewで検索・コスト確認・振り返り",
-        "url": "https://zenn.dev/53able/articles/6514f44e72be7f",
-        "author": "53able",
-        "date": "Fri, 12 Jun 2026 17:36:49 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--wBENAkag--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2595%25A3%25E3%2582%2589%25E3%2581%25B0%25E3%2582%258BAI%25E9%2596%258B%25E7%2599%25BA%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%2592%25E4%25B8%2580%25E3%2581%258B%25E6%2589%2580%25E3%2581%25B8%25EF%25BC%259Aagentsview%25E3%2581%25A7%25E6%25A4%259C%25E7%25B4%25A2%25E3%2583%25BB%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E7%25A2%25BA%25E8%25AA%258D%25E3%2583%25BB%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:53able%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFiZWE2OGI5M2YuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "高性能モデルの使いどころは『実装者』でなく『レビュアー』 — Fable 5 実機評価",
-        "url": "https://zenn.dev/znet/articles/2026-stronger-model-as-reviewer",
-        "author": "Shiros",
-        "date": "Fri, 12 Jun 2026 09:56:30 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--aWc_IYDS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25AB%2598%25E6%2580%25A7%25E8%2583%25BD%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%25A9%25E3%2581%2593%25E3%2582%258D%25E3%2581%25AF%25E3%2580%258E%25E5%25AE%259F%25E8%25A3%2585%25E8%2580%2585%25E3%2580%258F%25E3%2581%25A7%25E3%2581%25AA%25E3%2581%258F%25E3%2580%258E%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%25BC%25E3%2580%258F%2520%25E2%2580%2594%2520Fable%25205%2520%25E5%25AE%259F%25E6%25A9%259F%25E8%25A9%2595%25E4%25BE%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shiros%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSm8wdmhXc2hoSTVWdGQtT2tneWJqLWFBbmNkaDlhMndTUnlFR2MwYmZfMjIwZFZYdVRHdz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "メイン環境をUbuntuにして2年経っての感想",
-        "url": "https://zenn.dev/paradoia/articles/312ff4e71b7f35",
-        "author": "パラドイア",
-        "date": "Fri, 12 Jun 2026 08:05:38 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--C14gQJYd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592Ubuntu%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A62%25E5%25B9%25B4%25E7%25B5%258C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AE%25E6%2584%259F%25E6%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2591%25E3%2583%25A9%25E3%2583%2589%25E3%2582%25A4%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXZyUFdLd0pNdDJXeGZhMENibVR0b1JXN1FSR2F2M0RaVzVtUUJhTnM5Unc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "別モデルによるクロスレビューは有効なのか？同一モデルの継続セッション・別セッションと比較する（React習熟度スコア基準）",
-        "url": "https://zenn.dev/imaimai17468/articles/c5440b98a6e766",
-        "author": "いまいまい",
-        "date": "Fri, 12 Jun 2026 06:24:29 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--id4YjhRa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2588%25A5%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25AF%25E6%259C%2589%25E5%258A%25B9%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E5%2590%258C%25E4%25B8%2580%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E7%25B6%2599%25E7%25B6%259A%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%25BB%25E5%2588%25A5%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25A8%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2588React%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2582%25B9%25E3%2582%25B3...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3ZmZmMTI1ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "インフラストラクチャTLDの歴史",
-        "url": "https://zenn.dev/yamaya/articles/845bed978f7120",
-        "author": "yamaya",
-        "date": "Fri, 12 Jun 2026 06:17:52 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--i6Kr5yCz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3TLD%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yamaya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKeXpaNXEwZXI1dzkzQ012dk0wcEpfOG1md1d5VVY3a3pYWVZIT2k9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "date": "Sun, 14 Jun 2026 00:00:12 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--JdSwmk26--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fable%25205%25E5%2581%259C%25E6%25AD%25A2%25E3%2582%2592%25E3%2581%258D%25E3%2581%25A3%25E3%2581%258B%25E3%2581%2591%25E3%2581%25ABUbuntu%25E3%2581%25A7Gemma%25204%2520E2B%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yamadatt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -138,31 +138,39 @@
         "name": "pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
         "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-        "stars": 70105,
+        "stars": 70945,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/229018391?v=4"
-      },
-      {
-        "name": "unicity-astrid/sdk-js",
-        "description": "JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.",
-        "url": "https://github.com/unicity-astrid/sdk-js",
-        "stars": 8256,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
       },
       {
         "name": "XiaomiMiMo/MiMo-Code",
         "description": null,
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "stars": 7900,
+        "stars": 8397,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/208276378?v=4"
+      },
+      {
+        "name": "unicity-astrid/sdk-js",
+        "description": "JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.",
+        "url": "https://github.com/unicity-astrid/sdk-js",
+        "stars": 8257,
+        "language": "TypeScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
+      },
+      {
+        "name": "DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "stars": 7732,
+        "language": "JavaScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4"
       },
       {
         "name": "alibaba/open-code-review",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 6628,
+        "stars": 6933,
         "language": "Go",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4"
       },
@@ -170,17 +178,9 @@
         "name": "anthropics/defending-code-reference-harness",
         "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
         "url": "https://github.com/anthropics/defending-code-reference-harness",
-        "stars": 5809,
+        "stars": 5850,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
-      },
-      {
-        "name": "vercel-labs/zerolang",
-        "description": "The Programming Language for Agents",
-        "url": "https://github.com/vercel-labs/zerolang",
-        "stars": 5031,
-        "language": "C++",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/108547162?v=4"
       }
     ]
   }
