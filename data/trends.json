@@ -1,27 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-06-16T23:17:09Z"
+    "last_updated": "2026-06-17T23:16:08Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する",
-        "url": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073",
-        "likes": 258,
-        "author": "ktdatascience",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
-        "tags": [
-          "初心者",
-          "mermaid",
-          "Gemini",
-          "生成AI"
-        ],
-        "created_at": "2026-06-06T19:04:20+09:00"
-      },
-      {
         "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
         "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe",
-        "likes": 128,
+        "likes": 165,
         "author": "miruky",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/profile-images/1774445070",
         "tags": [
@@ -35,7 +21,7 @@
       {
         "title": "3年間、AI要件定義に取り組んできた全記録",
         "url": "https://qiita.com/kumai_yu/items/831717856fd24981799d",
-        "likes": 127,
+        "likes": 156,
         "author": "kumai_yu",
         "avatar_url": "https://pbs.twimg.com/profile_images/1808189007299477504/Nnfl-sW0_bigger.jpg",
         "tags": [
@@ -49,7 +35,7 @@
       {
         "title": "Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった",
         "url": "https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024",
-        "likes": 127,
+        "likes": 141,
         "author": "ktdatascience",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
         "tags": [
@@ -63,7 +49,7 @@
       {
         "title": "信頼されるエンジニアが実践する「聴く技術」4選",
         "url": "https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b",
-        "likes": 110,
+        "likes": 121,
         "author": "prum_hitomi",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
         "tags": [
@@ -75,62 +61,75 @@
         "created_at": "2026-06-11T15:28:12+09:00"
       },
       {
-        "title": "会社で Microsoft 365 Copilot しか使えない人のための「エージェントビルダー」入門 ── 宣言型エージェントを最新版で作る",
-        "url": "https://qiita.com/sukimaengineer/items/15ddf5601ff29ef8d376",
-        "likes": 105,
-        "author": "sukimaengineer",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3976868/36b20c7a4f46975d831be7586e133c31904e16f9/large.png?1735897822",
+        "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話",
+        "url": "https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19",
+        "likes": 106,
+        "author": "Shiro_Shihi",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3194191/profile-images/1764477388",
         "tags": [
-          "Microsoft",
-          "Builder",
-          "Agent",
-          "365"
+          "正規表現",
+          "Unicode",
+          "ビット演算"
         ],
-        "created_at": "2026-06-09T07:56:36+09:00"
+        "created_at": "2026-06-14T17:08:05+09:00"
+      },
+      {
+        "title": "VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順",
+        "url": "https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636",
+        "likes": 57,
+        "author": "BrainDirection",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4445508/profile-images/1780987165",
+        "tags": [
+          "Security",
+          "cloudflare",
+          "zerotrust",
+          "ZTNA"
+        ],
+        "created_at": "2026-06-10T10:33:53+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "自己改善エージェントはなぜ前提を覆せないのか ― 局所最適とハーネスでの脱出",
+        "url": "https://zenn.dev/layerx/articles/b36ceffe6b5e20",
+        "author": "223",
+        "date": "Wed, 17 Jun 2026 02:00:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--85tthWqm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%25B7%25B1%25E6%2594%25B9%25E5%2596%2584%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E5%2589%258D%25E6%258F%2590%25E3%2582%2592%25E8%25A6%2586%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2595%2520%25E5%25B1%2580%25E6%2589%2580%25E6%259C%2580%25E9%2581%25A9%25E3%2581%25A8%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2581%25A7%25E3%2581%25AE%25E8%2584%25B1%25E5%2587%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:223%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2OTFlNjE4YzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:LayerX%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAwNjA5YTdlZmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
+        "url": "https://zenn.dev/ikora/articles/88f62861a953c1",
+        "author": "だいち",
+        "date": "Wed, 17 Jun 2026 01:34:53 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--4owZ2XT---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E8%2587%25AD%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2599Claude%2520Skills%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2588stop-ai-slop-jp%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A0%25E3%2581%2584%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyN2VkMjFjNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Data + AI Summit 2026 初日Keynote：Genie Ontology を現地スライドで読み解く",
+        "url": "https://zenn.dev/kazushi6/articles/3d58cfe511bcc3",
+        "author": "Kazushi",
+        "date": "Tue, 16 Jun 2026 19:53:36 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ERN_a7tu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Data%2520%252B%2520AI%2520Summit%25202026%2520%25E5%2588%259D%25E6%2597%25A5Keynote%25EF%25BC%259AGenie%2520Ontology%2520%25E3%2582%2592%25E7%258F%25BE%25E5%259C%25B0%25E3%2582%25B9%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2589%25E3%2581%25A7%25E8%25AA%25AD%25E3%2581%25BF%25E8%25A7%25A3%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kazushi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk5MjdhOTkwZDIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "「自分の PC では入るのに」── 同僚の pip install が C++ コンパイラで止まって、見えてなかった導入障壁に気づいた話",
+        "url": "https://zenn.dev/satoh_y_0323/articles/5f1a602cf200e1",
+        "author": "satoh-y-0323",
+        "date": "Tue, 16 Jun 2026 13:23:10 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--byF5I9su--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%2520PC%2520%25E3%2581%25A7%25E3%2581%25AF%25E5%2585%25A5%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AB%25E3%2580%258D%25E2%2594%2580%25E2%2594%2580%2520%25E5%2590%258C%25E5%2583%259A%25E3%2581%25AE%2520pip%2520install%2520%25E3%2581%258C%2520C%252B%252B%2520%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25A4%25E3%2583%25A9%25E3%2581%25A7%25E6%25AD%25A2%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581%25E8%25A6%258B%25E3%2581%2588%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:satoh-y-0323%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAwMDMzNjljMTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "バイブコーディングでできたこと・できなかったこと",
+        "url": "https://zenn.dev/baleenstudio/articles/928435eab25064",
+        "author": "tyoshida",
+        "date": "Tue, 16 Jun 2026 10:04:53 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1otUpcyW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2590%25E3%2582%25A4%25E3%2583%2596%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%25E3%2583%25BB%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tyoshida%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY0YjNjOTgwYTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEBALEEN%2520STUDIO%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlRDNjFkZHZ6eENwaWVQMXZLS015WlhEMEFXQVNXQnUtTFhXX3ZPdENPRmZ6cFNBPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
       {
         "title": "一般社団法人Gophers Japan 共同理事就任のご報告",
         "url": "https://zenn.dev/gophersjp/articles/gophersjapan-co-director-joined",
         "author": "luccafort",
         "date": "Tue, 16 Jun 2026 08:08:47 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--PCQHmcg_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%2580%25E8%2588%25AC%25E7%25A4%25BE%25E5%259B%25A3%25E6%25B3%2595%25E4%25BA%25BAGophers%2520Japan%2520%25E5%2585%25B1%25E5%2590%258C%25E7%2590%2586%25E4%25BA%258B%25E5%25B0%25B1%25E4%25BB%25BB%25E3%2581%25AE%25E3%2581%2594%25E5%25A0%25B1%25E5%2591%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:luccafort%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIwYTA4ZTU1NGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E4%25B8%2580%25E8%2588%25AC%25E7%25A4%25BE%25E5%259B%25A3%25E6%25B3%2595%25E4%25BA%25BAGophers%2520Japan%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAwMjJlNmE2MWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Claude CodeとCodex CLIのテレメトリーをGrafana Cloudで見る",
-        "url": "https://zenn.dev/ymotongpoo/articles/20260616-ai-cli-otel-grafana",
-        "author": "Yoshi Yamaguchi",
-        "date": "Tue, 16 Jun 2026 07:45:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Bm5X9kEU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A8Codex%2520CLI%25E3%2581%25AE%25E3%2583%2586%25E3%2583%25AC%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%2592Grafana%2520Cloud%25E3%2581%25A7%25E8%25A6%258B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshi%2520Yamaguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dMOUN2MU9tRlBwUUcwY0pWOHZUeW1SZ3ViT3VaWnplQ01HUTJjMHRnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "`cp`はディスク上ではデータをコピーしないことがある",
-        "url": "https://zenn.dev/satoru_takeuchi/articles/4bab372c6dae86",
-        "author": "sat",
-        "date": "Tue, 16 Jun 2026 06:49:52 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--WmW0MX2N--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2560cp%2560%25E3%2581%25AF%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25B9%25E3%2582%25AF%25E4%25B8%258A%25E3%2581%25A7%25E3%2581%25AF%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2581%2593%25E3%2581%25A8%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sat%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hjeVUzdFlLV3RJeXdsdjJhYm1ac2VpczZrUnp1ODc5ZFNwT0Vub3c9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Hono で API バックエンドを作るときの個人的ベストプラクティス",
-        "url": "https://zenn.dev/ashunar0/articles/1ba94a110d8622",
-        "author": "あさひ",
-        "date": "Tue, 16 Jun 2026 06:05:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--hEQOVHLm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Hono%2520%25E3%2581%25A7%2520API%2520%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E5%2580%258B%25E4%25BA%25BA%25E7%259A%2584%25E3%2583%2599%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2582%25E3%2581%2595%25E3%2581%25B2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZhN2JkYzMxMjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "2026年6月現在の Claude Code 開発フロー",
-        "url": "https://zenn.dev/arm_techblog/articles/7712cde19988c8",
-        "author": "umetsu",
-        "date": "Tue, 16 Jun 2026 00:59:01 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Bz5wmCt0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2026%25E5%25B9%25B46%25E6%259C%2588%25E7%258F%25BE%25E5%259C%25A8%25E3%2581%25AE%2520Claude%2520Code%2520%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:umetsu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U0NzFmZDg5NDEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:ARM%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2djX0llQnk4MWdXeVdpYk1BQUZBa1hVSmF2SVRIdnZ0cVFEWmNENXc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "AI の不時着 ~ コードの国を追われ、要求の国へ ~",
-        "url": "https://zenn.dev/layerx/articles/947ce6d31701cf",
-        "author": "su8",
-        "date": "Tue, 16 Jun 2026 00:55:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FKNU1xQ0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2581%25AE%25E4%25B8%258D%25E6%2599%2582%25E7%259D%2580%2520%7E%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AE%25E5%259B%25BD%25E3%2582%2592%25E8%25BF%25BD%25E3%2582%258F%25E3%2582%258C%25E3%2580%2581%25E8%25A6%2581%25E6%25B1%2582%25E3%2581%25AE%25E5%259B%25BD%25E3%2581%25B8%2520%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:su8%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2OTFlNjE4YzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:LayerX%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNHdDZWsxTUFjbzVXNlpLQUgtaGNiMGI1SDZrODRKdkd2ZGpoNDZQUT1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -138,7 +137,7 @@
         "name": "pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
         "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-        "stars": 72479,
+        "stars": 73057,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/229018391?v=4"
       },
@@ -146,41 +145,41 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 24487,
+        "stars": 31439,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4"
       },
       {
         "name": "XiaomiMiMo/MiMo-Code",
-        "description": null,
+        "description": "MiMo Code: Where Models and Agents Co-Evolve",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "stars": 9358,
+        "stars": 9580,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/208276378?v=4"
-      },
-      {
-        "name": "unicity-astrid/sdk-js",
-        "description": "JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.",
-        "url": "https://github.com/unicity-astrid/sdk-js",
-        "stars": 8256,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
-      },
-      {
-        "name": "alibaba/open-code-review",
-        "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "url": "https://github.com/alibaba/open-code-review",
-        "stars": 7390,
-        "language": "Go",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4"
       },
       {
         "name": "anthropics/defending-code-reference-harness",
         "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
         "url": "https://github.com/anthropics/defending-code-reference-harness",
-        "stars": 6031,
+        "stars": 6065,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+      },
+      {
+        "name": "shadcn/improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "url": "https://github.com/shadcn/improve",
+        "stars": 5201,
+        "language": "",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/124599?v=4"
+      },
+      {
+        "name": "AprilNEA/OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "url": "https://github.com/AprilNEA/OpenLogi",
+        "stars": 5050,
+        "language": "Rust",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/37977109?v=4"
       }
     ]
   }
