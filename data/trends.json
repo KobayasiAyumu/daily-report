@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-06-27T22:54:26Z"
+    "last_updated": "2026-06-28T22:54:04Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "正直に言う。お前のClaude Codeの使い方は間違っている",
         "url": "https://qiita.com/tehito/items/356e5f1dba112a075be1",
-        "likes": 247,
+        "likes": 374,
         "author": "tehito",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3801337/885b2088ecad97849e18d60a178491682151f83e/x_large.png?1781002921",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "入門から実践 -「🔁 ループエンジニアリング」",
         "url": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8",
-        "likes": 208,
+        "likes": 213,
         "author": "Syoitu",
         "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/320164/profile-images/1543311752",
         "tags": [
@@ -33,23 +33,9 @@
         "created_at": "2026-06-20T15:32:57+09:00"
       },
       {
-        "title": "ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説",
-        "url": "https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b",
-        "likes": 182,
-        "author": "Hashimoto-Noriaki",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1748789/profile-images/1768788257",
-        "tags": [
-          "Rails",
-          "設計",
-          "新人プログラマ応援",
-          "CleanArchitecture"
-        ],
-        "created_at": "2026-06-18T17:28:23+09:00"
-      },
-      {
         "title": "商業書籍の出版をCodexで爆速化するノウハウ",
         "url": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2",
-        "likes": 122,
+        "likes": 124,
         "author": "minorun365",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1633856/c226bc34ac6c45a21f5e512d1c72a6f097494578/x_large.png?1699954976",
         "tags": [
@@ -63,7 +49,7 @@
       {
         "title": "勉強が続かないのは、あなたの意志が弱いからじゃない。",
         "url": "https://qiita.com/hitomin_poke/items/7a69883e9e70fc5ad853",
-        "likes": 100,
+        "likes": 110,
         "author": "hitomin_poke",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4031494/profile-images/1751384543",
         "tags": [
@@ -77,7 +63,7 @@
       {
         "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
         "url": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a",
-        "likes": 88,
+        "likes": 94,
         "author": "yusuke_ando_vj",
         "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ2J-4WbfpkHEBPwJlmbbH9vz5j24A-9bCN-YDtYcnx-d1mA=s96-c",
         "tags": [
@@ -87,50 +73,64 @@
           "デザインシステム"
         ],
         "created_at": "2026-06-21T21:50:37+09:00"
+      },
+      {
+        "title": "バイブコーディングが「RPA問題」を再演している。属人化・重複・ブラックボックスを防ぐ最小ガバナンス設計",
+        "url": "https://qiita.com/hirashima-gmoconnect/items/cfe5ba40a56b3dbf6a4b",
+        "likes": 87,
+        "author": "hirashima-gmoconnect",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4202204/profile-images/1759196426",
+        "tags": [
+          "AI",
+          "RPA",
+          "ガバナンス",
+          "ClaudeCode"
+        ],
+        "created_at": "2026-06-22T12:12:13+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "Spring Boot で Claude API 呼び出しを OpenTelemetry で計測する",
-        "url": "https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability",
-        "author": "PROPAGANDIST CORPORATION",
-        "date": "Sat, 27 Jun 2026 08:43:31 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zXmeZdMt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Spring%2520Boot%2520%25E3%2581%25A7%2520Claude%2520API%2520%25E5%2591%25BC%25E3%2581%25B3%25E5%2587%25BA%25E3%2581%2597%25E3%2582%2592%2520OpenTelemetry%2520%25E3%2581%25A7%25E8%25A8%2588%25E6%25B8%25AC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:PROPAGANDIST%2520CORPO...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3YTYxNDM0MjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "ループエンジニアリングを takt exec で気軽に始めよう",
+        "url": "https://zenn.dev/nrs/articles/e4a2ae8a9fb785",
+        "author": "nrs",
+        "date": "Sun, 28 Jun 2026 07:35:50 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--CPKSZ13_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%2520takt%2520exec%2520%25E3%2581%25A7%25E6%25B0%2597%25E8%25BB%25BD%25E3%2581%25AB%25E5%25A7%258B%25E3%2582%2581%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "デュアルブート備忘録",
-        "url": "https://zenn.dev/qnighy/articles/09136afbf27bf3",
-        "author": "Masaki Hara",
-        "date": "Sat, 27 Jun 2026 08:25:23 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--q9cSqkDy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2596%25E3%2583%25BC%25E3%2583%2588%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Masaki%2520Hara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l3aEI4dTM5cFZyM09sWVFLcUU5Z1ozV2d3MHlsMS03cUZad0huYWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Claude Codeのセッションを見下ろし型オフィスとして可視化するツールを作った",
+        "url": "https://zenn.dev/breakbot/articles/53e7f1c6564f26",
+        "author": "breakbot",
+        "date": "Sat, 27 Jun 2026 21:11:42 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--z5RZxP1e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E8%25A6%258B%25E4%25B8%258B%25E3%2582%258D%25E3%2581%2597%25E5%259E%258B%25E3%2582%25AA%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25B9%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:breakbot%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "コードを書かずに、MulmoClaude で note 記事をアニメーション付き動画にする",
-        "url": "https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation",
-        "author": "Yasutaka Nishii",
-        "date": "Sat, 27 Jun 2026 06:23:06 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--PgQtYtzj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259A%25E3%2581%25AB%25E3%2580%2581MulmoClaude%2520%25E3%2581%25A7%2520note%2520%25E8%25A8%2598%25E4%25BA%258B%25E3%2582%2592%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E4%25BB%2598%25E3%2581%258D%25E5%258B%2595%25E7%2594%25BB%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yasutaka%2520Nishii%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiNjM5MTg4YzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25AE%25E3%2583%25A5%25E3%2583%25A9%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BB%25E3%2582%25BD%25E3%2582%25B5%25E3%2582%25A8%25E3%2583%2586%25E3%2582%25A3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M1ZGU2NjYyZDEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AIの日本語が「整いすぎて不自然」な正体は『カルク（訳語臭）』だった — 高品質な日本語文章を生成するスキルを作った",
+        "url": "https://zenn.dev/forest_project/articles/a62fc2f6ac85ff",
+        "author": "Forest-Project-Lab",
+        "date": "Sat, 27 Jun 2026 16:30:34 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--mazlp0Nm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AE%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2581%258C%25E3%2580%258C%25E6%2595%25B4%25E3%2581%2584%25E3%2581%2599%25E3%2581%258E%25E3%2581%25A6%25E4%25B8%258D%25E8%2587%25AA%25E7%2584%25B6%25E3%2580%258D%25E3%2581%25AA%25E6%25AD%25A3%25E4%25BD%2593%25E3%2581%25AF%25E3%2580%258E%25E3%2582%25AB%25E3%2583%25AB%25E3%2582%25AF%25EF%25BC%2588%25E8%25A8%25B3%25E8%25AA%259E%25E8%2587%25AD%25EF%25BC%2589%25E3%2580%258F%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2594%2520%25E9%25AB%2598%25E5%2593%2581%25E8%25B3%25AA%25E3%2581%25AA%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E6%2596%2587%25E7%25AB%25A0%25E3%2582%2592%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Forest-Project-Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGcwaVdzOXFOd3U1dms4TlpoSGVjT2pZRGRJb0FwaC1wY3hoOVlfNDZocjN4N3BRPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Windows EC2のWindows Update失敗から再構築を決めるまで",
-        "url": "https://zenn.dev/yamadatt/articles/20260627-windows-ec2-update-rebuild",
-        "author": "yamadatt",
-        "date": "Sat, 27 Jun 2026 01:00:00 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3n8AK6L8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Windows%2520EC2%25E3%2581%25AEWindows%2520Update%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%258B%25E3%2582%2589%25E5%2586%258D%25E6%25A7%258B%25E7%25AF%2589%25E3%2582%2592%25E6%25B1%25BA%25E3%2582%2581%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yamadatt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "RX 9070 XT 16GBでローカルLLMのAIコーディングエージェント環境を作る",
+        "url": "https://zenn.dev/masahide/articles/0d4016e8ea5a25",
+        "author": "Masahide YAMASAKI",
+        "date": "Sat, 27 Jun 2026 15:13:08 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--x0dggRJv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RX%25209070%2520XT%252016GB%25E3%2581%25A7%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25AEAI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Masahide%2520YAMASAKI%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzExYzk4NzZlOTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "明日から始める、コーディングエージェント時代のフルスタック開発 — AWS Blocks のソースコードを読む",
-        "url": "https://zenn.dev/aws_japan/articles/aws-blocks-source-reading",
-        "author": "いなりく / Riku Inada",
-        "date": "Fri, 26 Jun 2026 14:55:19 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3jELb3xw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2598%258E%25E6%2597%25A5%25E3%2581%258B%25E3%2582%2589%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%25E3%2580%2581%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2583%2595%25E3%2583%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2583%25E3%2582%25AF%25E9%2596%258B%25E7%2599%25BA%2520%25E2%2580%2594%2520AWS%2520Blocks%2520%25E3%2581%25AE%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2584%25E3%2581%25AA%25E3%2582%258A%25E3%2581%258F%2520%252F%2520Riku%2520Inada%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFB2am5INFd2dWRBT2p6Tm9JUEpQR3lNYmt4eWFuVlVXbEJZT3ZmVE1DRlFlTnh6Zz1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "hoge+fuga@example.com は「エイリアス」ではない",
+        "url": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
+        "author": "まい",
+        "date": "Sat, 27 Jun 2026 15:07:10 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--t7B7-WTu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:hoge%252Bfuga%2540example.com%2520%25E3%2581%25AF%25E3%2580%258C%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25B9%25E3%2580%258D%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2581%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdmNTEzN2E4NDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AWS Summit Japan 2026 6/25 基調講演＋セッションまとめ①",
-        "url": "https://zenn.dev/mortrainer/articles/6d6ad63b8501a7",
-        "author": "mortrainer_th",
-        "date": "Fri, 26 Jun 2026 13:16:09 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--2j3Yr-fg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%2520Summit%2520Japan%25202026%25206%252F25%2520%25E5%259F%25BA%25E8%25AA%25BF%25E8%25AC%259B%25E6%25BC%2594%25EF%25BC%258B%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E2%2591%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mortrainer_th%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRhYjkzNGRkMWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "スマホのみでWebアプリ開発。Codexで作って公開した話",
+        "url": "https://zenn.dev/bit_and_coffee/articles/gexam-practice-app",
+        "author": "Urapy",
+        "date": "Sat, 27 Jun 2026 14:08:03 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zL6kYOtn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%259E%25E3%2583%259B%25E3%2581%25AE%25E3%2581%25BF%25E3%2581%25A7Web%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E9%2596%258B%25E7%2599%25BA%25E3%2580%2582Codex%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Urapy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJmZDNhMWVmN2YuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -138,7 +138,7 @@
         "name": "pewdiepie-archdaemon/odysseus",
         "description": "Self-hosted AI workspace. ",
         "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-        "stars": 78565,
+        "stars": 78969,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/229018391?v=4"
       },
@@ -146,7 +146,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 61710,
+        "stars": 64257,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4"
       },
@@ -154,7 +154,7 @@
         "name": "baidu/Unlimited-OCR",
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
         "url": "https://github.com/baidu/Unlimited-OCR",
-        "stars": 11048,
+        "stars": 11522,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13245940?v=4"
       },
@@ -162,7 +162,7 @@
         "name": "XiaomiMiMo/MiMo-Code",
         "description": "MiMo Code: Where Models and Agents Co-Evolve",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "stars": 10934,
+        "stars": 10995,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/208276378?v=4"
       },
@@ -170,7 +170,7 @@
         "name": "unicity-astrid/book",
         "description": "The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.",
         "url": "https://github.com/unicity-astrid/book",
-        "stars": 7557,
+        "stars": 7547,
         "language": "Perl",
         "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
       },
@@ -178,7 +178,7 @@
         "name": "unicity-astrid/handbook",
         "description": "How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.",
         "url": "https://github.com/unicity-astrid/handbook",
-        "stars": 7506,
+        "stars": 7495,
         "language": "",
         "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
       }
