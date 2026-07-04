@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-07-03T22:54:21Z"
+    "last_updated": "2026-07-04T22:47:12Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "正直に言う。お前のClaude Codeの使い方は間違っている",
         "url": "https://qiita.com/tehito/items/356e5f1dba112a075be1",
-        "likes": 753,
+        "likes": 767,
         "author": "tehito",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3801337/885b2088ecad97849e18d60a178491682151f83e/x_large.png?1781002921",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "【永久0円】人間LLMのすすめ",
         "url": "https://qiita.com/Syuparn/items/0001f93221d4d7556271",
-        "likes": 402,
+        "likes": 411,
         "author": "Syuparn",
         "avatar_url": "https://avatars3.githubusercontent.com/u/36665200?v=4",
         "tags": [
@@ -35,7 +35,7 @@
       {
         "title": "Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ",
         "url": "https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd",
-        "likes": 154,
+        "likes": 155,
         "author": "YuukiYoshida",
         "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/354522/profile-images/1549243960",
         "tags": [
@@ -60,7 +60,7 @@
       {
         "title": "エンジニアがいつのまにか知っている知識・常識・文化 12本",
         "url": "https://qiita.com/ko-he-8/items/7ca90575c5fff758993e",
-        "likes": 145,
+        "likes": 147,
         "author": "ko-he-8",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/86684/0ddbab4d7474824d7410ae610314916f6f9e5bf2/x_large.png?1777277828",
         "tags": [
@@ -74,7 +74,7 @@
       {
         "title": "勉強が続かないのは、あなたの意志が弱いからじゃない。",
         "url": "https://qiita.com/hitomin_poke/items/7a69883e9e70fc5ad853",
-        "likes": 142,
+        "likes": 144,
         "author": "hitomin_poke",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4031494/profile-images/1751384543",
         "tags": [
@@ -88,11 +88,39 @@
     ],
     "zenn": [
       {
-        "title": "Snowflakeの開発にCoCo(旧Cortex Code)をおすすめする理由",
-        "url": "https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev",
-        "author": "ぺい(pei0804)",
-        "date": "Fri, 03 Jul 2026 05:22:27 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--NFZODYeG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Snowflake%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25ABCoCo%2528%25E6%2597%25A7Cortex%2520Code%2529%25E3%2582%2592%25E3%2581%258A%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BA%25E3%2581%2584%2528pei0804%2529%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxNDFkYTVlNTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Snowflake%2520Data%2520Heroes%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViZTM2ZTM2MTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Next.jsのpreloadが生成するHTTPヘッダーに日本語ファイル名が紛れて本番だけエラーが出た話",
+        "url": "https://zenn.dev/hidechannu/articles/20260703-japanese-filename-bytestring",
+        "author": "hidechannu",
+        "date": "Fri, 03 Jul 2026 13:13:37 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--p-hRUCNq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%25E3%2581%25AEpreload%25E3%2581%258C%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258BHTTP%25E3%2583%2598%25E3%2583%2583%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AB%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E5%2590%258D%25E3%2581%258C%25E7%25B4%259B%25E3%2582%258C%25E3%2581%25A6%25E6%259C%25AC%25E7%2595%25AA%25E3%2581%25A0%25E3%2581%2591%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%258C%25E5%2587%25BA%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hidechannu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjMzRlY2IwOWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "C++の謎めいたHello WorldをPythonで再実装して理解を深めよう",
+        "url": "https://zenn.dev/sirasagi62/articles/59db634940ba80",
+        "author": "Sirasagi62",
+        "date": "Fri, 03 Jul 2026 12:26:37 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--M1UglUjZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%252B%252B%25E3%2581%25AE%25E8%25AC%258E%25E3%2582%2581%25E3%2581%2584%25E3%2581%259FHello%2520World%25E3%2582%2592Python%25E3%2581%25A7%25E5%2586%258D%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E7%2590%2586%25E8%25A7%25A3%25E3%2582%2592%25E6%25B7%25B1%25E3%2582%2581%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sirasagi62%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QyYzk2MDQwZjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Generative UIとそれを実現するOpenUIのイメージを掴む！",
+        "url": "https://zenn.dev/peishim/articles/37ff4d894f8fbc",
+        "author": "peishim",
+        "date": "Fri, 03 Jul 2026 11:30:29 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--bhhHHEV0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Generative%2520UI%25E3%2581%25A8%25E3%2581%259D%25E3%2582%258C%25E3%2582%2592%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258BOpenUI%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592%25E6%258E%25B4%25E3%2582%2580%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:peishim%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdlNmIxNjYxMDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "とある部長のObsidian",
+        "url": "https://zenn.dev/canly/articles/173479ac3e9824",
+        "author": "ochisan",
+        "date": "Fri, 03 Jul 2026 06:28:32 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--jPFVDoeA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25A8%25E3%2581%2582%25E3%2582%258B%25E9%2583%25A8%25E9%2595%25B7%25E3%2581%25AEObsidian%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ochisan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc5NTRlMWRhOWYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "グラフニューラルネットワーク(GNN)の基礎から多層化を阻む「オーバースムージング」への対策を解説",
+        "url": "https://zenn.dev/dalab/articles/80ce9a10d507b8",
+        "author": "Hiroki Nakata",
+        "date": "Fri, 03 Jul 2026 01:45:57 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Ti0vJav8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2595%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%2528GNN%2529%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2581%258B%25E3%2582%2589%25E5%25A4%259A%25E5%25B1%25A4%25E5%258C%2596%25E3%2582%2592%25E9%2598%25BB%25E3%2582%2580%25E3%2580%258C%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%25A0%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25B3%25E3%2582%25B0%25E3%2580%258D%25E3%2581%25B8%25E3%2581%25AE%25E5%25AF%25BE%25E7%25AD%2596%25E3%2582%2592%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hiroki%2520Nakata%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y4MmEwNzVhNjAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DAL%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM0ZDYxOTljYTEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
         "title": "非同期処理のアーキテクチャに想いを馳せた",
@@ -100,34 +128,6 @@
         "author": "anizozina",
         "date": "Thu, 02 Jul 2026 22:45:49 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--dYId_9nI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259D%259E%25E5%2590%258C%25E6%259C%259F%25E5%2587%25A6%25E7%2590%2586%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25AB%25E6%2583%25B3%25E3%2581%2584%25E3%2582%2592%25E9%25A6%25B3%25E3%2581%259B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:anizozina%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRiOGMxZmU1MDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DRESS%2520CODE%2520TECH%2520BLOG%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lVMDVNNlFlVnBmZDNwRWVsRlQ1OW9XY21FWWN5VFJMT1pSdlZ0PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Claude Fable 5 が使えるうちに Agent SOP を導入して整備させる",
-        "url": "https://zenn.dev/ryu1maniwa25/articles/fable5-agent-sop-setup",
-        "author": "ryu1maniwa",
-        "date": "Thu, 02 Jul 2026 22:41:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zmzG7ZE7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Fable%25205%2520%25E3%2581%258C%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2581%2586%25E3%2581%25A1%25E3%2581%25AB%2520Agent%2520SOP%2520%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2597%25E3%2581%25A6%25E6%2595%25B4%25E5%2582%2599%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryu1maniwa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFiZjc2NTZiY2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用",
-        "url": "https://zenn.dev/yui/articles/740da24e9ee419",
-        "author": "yui",
-        "date": "Thu, 02 Jul 2026 22:24:25 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--RIKtd41h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fable%25205%25E3%2582%2592%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E7%25A0%25B4%25E7%2594%25A3%25E3%2581%2595%25E3%2581%259B%25E3%2581%259A%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%2584%25E5%2580%2592%25E3%2581%2599%2520%25E2%2580%2594%2520%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E5%25BE%25B9%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E9%2581%258B%25E7%2594%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yui%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjMGIyNzFhZWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "AgentCore で Agent をプロダクション利用する際の実装ノウハウ (AWS Summit Japan 2026)",
-        "url": "https://zenn.dev/aws_japan/articles/006-aws-specialist-agent",
-        "author": "Renya Kujirada",
-        "date": "Thu, 02 Jul 2026 22:21:57 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3sYH-g1d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AgentCore%2520%25E3%2581%25A7%2520Agent%2520%25E3%2582%2592%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E5%2588%25A9%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25E9%259A%259B%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%25E3%2583%258E%25E3%2582%25A6%25E3%2583%258F%25E3%2582%25A6%2520%2528AWS%2520Summit%2520Japan%2520...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Renya%2520Kujirada%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBiMTA3YWQ1YTEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "私が今DGX Sparkを購入した理由",
-        "url": "https://zenn.dev/asap/articles/1a267ec154c14d",
-        "author": "asap",
-        "date": "Thu, 02 Jul 2026 14:33:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--kjhH2U4B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A7%2581%25E3%2581%258C%25E4%25BB%258ADGX%2520Spark%25E3%2582%2592%25E8%25B3%25BC%25E5%2585%25A5%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:asap%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhYjVhYTQ1MTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +135,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 72961,
+        "stars": 73868,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4"
       },
@@ -143,7 +143,7 @@
         "name": "baidu/Unlimited-OCR",
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
         "url": "https://github.com/baidu/Unlimited-OCR",
-        "stars": 13172,
+        "stars": 13262,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13245940?v=4"
       },
@@ -151,7 +151,7 @@
         "name": "XiaomiMiMo/MiMo-Code",
         "description": "MiMo Code: Where Models and Agents Co-Evolve",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "stars": 11366,
+        "stars": 11418,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/208276378?v=4"
       },
@@ -159,7 +159,7 @@
         "name": "unicity-astrid/book",
         "description": "The canonical reference for Astrid OS: kernel, capsules, host ABI, the bus, and the security model.",
         "url": "https://github.com/unicity-astrid/book",
-        "stars": 7533,
+        "stars": 7534,
         "language": "Perl",
         "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
       },
@@ -175,7 +175,7 @@
         "name": "shadcn/improve",
         "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
         "url": "https://github.com/shadcn/improve",
-        "stars": 6744,
+        "stars": 6849,
         "language": "",
         "owner_avatar": "https://avatars.githubusercontent.com/u/124599?v=4"
       }
