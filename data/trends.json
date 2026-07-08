@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-07-07T22:51:11Z"
+    "last_updated": "2026-07-08T22:55:29Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "【永久0円】人間LLMのすすめ",
         "url": "https://qiita.com/Syuparn/items/0001f93221d4d7556271",
-        "likes": 427,
+        "likes": 520,
         "author": "Syuparn",
         "avatar_url": "https://avatars3.githubusercontent.com/u/36665200?v=4",
         "tags": [
@@ -19,9 +19,23 @@
         "created_at": "2026-06-29T18:53:19+09:00"
       },
       {
+        "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
+        "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e",
+        "likes": 309,
+        "author": "i-icc",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/52018660?v=4",
+        "tags": [
+          "初心者",
+          "ポエム",
+          "インフラ",
+          "ゲーム開発"
+        ],
+        "created_at": "2026-07-06T23:42:23+09:00"
+      },
+      {
         "title": "エンジニアがいつのまにか知っている知識・常識・文化 12本",
         "url": "https://qiita.com/ko-he-8/items/7ca90575c5fff758993e",
-        "likes": 168,
+        "likes": 194,
         "author": "ko-he-8",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/86684/0ddbab4d7474824d7410ae610314916f6f9e5bf2/x_large.png?1777277828",
         "tags": [
@@ -33,22 +47,9 @@
         "created_at": "2026-06-30T19:01:23+09:00"
       },
       {
-        "title": "Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ",
-        "url": "https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd",
-        "likes": 157,
-        "author": "YuukiYoshida",
-        "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/354522/profile-images/1549243960",
-        "tags": [
-          "Git",
-          "GitHub",
-          "初心者向け"
-        ],
-        "created_at": "2026-06-28T18:51:39+09:00"
-      },
-      {
         "title": "「日本企業風GitHub」のパロディに学ぶ、なぜJTC業務システムは「警告と文字」で埋め尽くされるのか",
         "url": "https://qiita.com/Shiro_Shihi/items/4928640d01c78480962b",
-        "likes": 142,
+        "likes": 148,
         "author": "Shiro_Shihi",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3194191/profile-images/1764477388",
         "tags": [
@@ -62,7 +63,7 @@
       {
         "title": "「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話",
         "url": "https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1",
-        "likes": 126,
+        "likes": 132,
         "author": "ntaka329",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4174180/d7039a1273d9d8ff9c917525cd9d9549f3c19bd2/x_large.png?1756274809",
         "tags": [
@@ -76,7 +77,7 @@
       {
         "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
         "url": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
-        "likes": 124,
+        "likes": 131,
         "author": "yutaka_kozuka",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4047389/b9d02b9ee1afab883e3b4f46e87d07f1d609c9d5/x_large.png?1743512594",
         "tags": [
@@ -90,46 +91,46 @@
     ],
     "zenn": [
       {
-        "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
-        "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
-        "author": "Atsushi Kadowaki",
-        "date": "Tue, 07 Jul 2026 01:00:08 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9iixo_p9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fable%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEAI%25E6%25B4%25BB%25E7%2594%25A8%25E6%25B3%2595%25E3%2582%2592%25E3%2580%2581Anthropic%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%258C%25E5%2585%25AC%25E9%2596%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Atsushi%2520Kadowaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%2520-%2520%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A8RAG%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlMjk5Y2IwN2IuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
+        "url": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab",
+        "author": "Shimpei TAKEDA",
+        "date": "Wed, 08 Jul 2026 09:30:40 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--JtqWAWyO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A8%25AD%25E8%25A8%2588%25E5%2588%25A4%25E6%2596%25AD%25E3%2582%2592%25E5%25B1%259E%25E4%25BA%25BA%25E5%258C%2596%25E3%2581%2595%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E3%2580%2581DDD%25E3%2581%25AE%25E5%2588%25A4%25E6%2596%25AD%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%2592Web%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shimpei%2520TAKEDA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5NjIzYjY5ZGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Vitestで始めるシンプルなVRT",
-        "url": "https://zenn.dev/cybozu_frontend/articles/vitest-simple-vrt",
-        "author": "nus3",
-        "date": "Tue, 07 Jul 2026 00:36:25 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--LTvrpoVs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vitest%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%25E3%2582%25B7%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E3%2581%25AAVRT%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nus3%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VjOTA1OThlNjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%259C%25E3%2582%25A6%25E3%2582%25BA%2520%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM3N2ExOTYzNzEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
+        "url": "https://zenn.dev/layerx/articles/9f25ec86a31730",
+        "author": "223",
+        "date": "Wed, 08 Jul 2026 08:00:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--E2g8BHeK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Agent%2520Skills%25E8%2587%25AA%25E5%258B%2595%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2581%25AE%25E7%25A0%2594%25E7%25A9%25B6%25E3%2580%2581%25E4%25B8%25AD%25E8%25BA%25AB%25E3%2581%25AF%25E3%2581%25BB%25E3%2581%25BC%25E6%25B7%25B1%25E5%25B1%25A4%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AE%25E8%25A8%2593%25E7%25B7%25B4%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:223%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2OTFlNjE4YzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:LayerX%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAwNjA5YTdlZmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AIエージェントの決済履歴は「戦略ログ」になる ─ 誰が誰に払ったかを隠す private x402 \"SubEtha\"を作った",
-        "url": "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
-        "author": "peaceandwhisky",
-        "date": "Tue, 07 Jul 2026 00:00:07 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--rkVjqDLK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E6%25B1%25BA%25E6%25B8%2588%25E5%25B1%25A5%25E6%25AD%25B4%25E3%2581%25AF%25E3%2580%258C%25E6%2588%25A6%25E7%2595%25A5%25E3%2583%25AD%25E3%2582%25B0%25E3%2580%258D%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%2520%25E2%2594%2580%2520%25E8%25AA%25B0%25E3%2581%258C%25E8%25AA%25B0%25E3%2581%25AB%25E6%2589%2595%25E3%2581%25A3%25E3%2581%259F%25E3%2581%258B%25E3%2582%2592%25E9%259A%25A0%25E3%2581%2599%2520private%2520x402%2520%2522SubEt...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:peaceandwhisky%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiZmExMTZjNzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Claude codeと論文書いたら良い論文“は”できた",
+        "url": "https://zenn.dev/mkj/articles/cco-paper_20260531",
+        "author": "Taisei Ozaki",
+        "date": "Wed, 08 Jul 2026 02:50:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--cDRlgOp1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520code%25E3%2581%25A8%25E8%25AB%2596%25E6%2596%2587%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E8%2589%25AF%25E3%2581%2584%25E8%25AB%2596%25E6%2596%2587%25E2%2580%259C%25E3%2581%25AF%25E2%2580%259D%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Taisei%2520Ozaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0Y1hKN2I4TjdPWHZzNV9JcnV2cjQzRDF3OVZxamVwUnN2ckNycVAxVndtbzlrPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AI時代のObservability設計 - アプリケーション / インフラ / CI / LLMすべてを監視する（設計編）",
-        "url": "https://zenn.dev/aircloset/articles/d4c32cff8cb230",
-        "author": "辻 亮佑",
-        "date": "Mon, 06 Jul 2026 23:44:32 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--NqaOx1uN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEObservability%25E8%25A8%25AD%25E8%25A8%2588%2520-%2520%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2520%252F%2520%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%2520%252F%2520CI%2520%252F%2520LLM%25E3%2581%2599%25E3%2581%25B9%25E3%2581%25A6%25E3%2582%2592%25E7%259B%25A3%25E8%25A6%2596%25E3%2581%2599%25E3%2582%258B...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%25BE%25BB%2520%25E4%25BA%25AE%25E4%25BD%2591%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZjY1NmYzNDQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EyNzdkMDFjYWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する",
+        "url": "https://zenn.dev/layerx/articles/797bb5b8935bf6",
+        "author": "uphy",
+        "date": "Wed, 08 Jul 2026 02:30:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1PXwpnY7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%2592%25E3%2580%258C%25E5%2588%25A4%25E6%2596%25AD%25E3%2581%25AF%25E4%25BA%25BA%25E9%2596%2593%25E3%2580%2581%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%25AF%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2580%2581%25E8%25A8%2588%25E7%25AE%2597%25E3%2581%25AF%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2588%25E3%2580%258D%25E3%2581%25A7%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:uphy%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2OTFlNjE4YzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:LayerX%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dlRHloQWt0cDJJek5JdXhFemVaNWJYOEhMNmppYkpBWXZNdlpILWxJPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
-        "url": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
-        "author": "yui",
-        "date": "Mon, 06 Jul 2026 21:38:40 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--h2iUqvcN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fable%25205%25E3%2581%258C%25E4%25BD%25BF%25E3%2581%2588%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%25E5%2589%258D%25E3%2581%25AB%25E3%2580%2581%25E3%2581%259D%25E3%2581%25AE%25E3%2580%258C%25E5%2583%258D%25E3%2581%258D%25E6%2596%25B9%25E3%2580%258D%25E3%2582%2592Opus%252FSonnet%25E3%2581%25AB%25E5%25BC%2595%25E3%2581%258D%25E7%25B6%2599%25E3%2581%258C%25E3%2581%259B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yui%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjMGIyNzFhZWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Unity 6時代のR3運用ルール：SubscribeAwait・EveryUpdate・禁止パターンを整理する",
+        "url": "https://zenn.dev/gamedev_toollab/articles/88cbe9d9110202",
+        "author": "GameDev Tool Lab",
+        "date": "Wed, 08 Jul 2026 01:00:09 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--L6rFtgq5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25206%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AER3%25E9%2581%258B%25E7%2594%25A8%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25EF%25BC%259ASubscribeAwait%25E3%2583%25BBEveryUpdate%25E3%2583%25BB%25E7%25A6%2581%25E6%25AD%25A2%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEh3ZHc0dlFfSHJUUmJ0R0JhN0V4aVg0am45MXJBYWw2eUdzaFV0am55RFY0cHVBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Git 感覚で AWS / Google Cloud / Azure のシークレットを管理できる CLI/GUI ツール「suve」を作った",
-        "url": "https://zenn.dev/yumemi_inc/articles/suve-git-like-secret-management",
-        "author": "mpyw",
-        "date": "Mon, 06 Jul 2026 21:38:15 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--8xVP0G6b--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Git%2520%25E6%2584%259F%25E8%25A6%259A%25E3%2581%25A7%2520AWS%2520%252F%2520Google%2520Cloud%2520%252F%2520Azure%2520%25E3%2581%25AE%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2588%25E3%2582%2592%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%2520CLI%252FGUI%2520...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:mpyw%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBjYzdlMWE1YzYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%2586%25E3%2582%2581%25E3%2581%25BF%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk0ZWM3OGU4NDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "アプリ層から低レイヤーを打ち抜く：WhatsApp GIF脆弱性(CVE-2019-11932)をGemini×Claudeで徹底検証",
+        "url": "https://zenn.dev/inlet_back/articles/2069cb693dd737",
+        "author": "Inlet_back",
+        "date": "Wed, 08 Jul 2026 00:00:07 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--BWv-hSbn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E5%25B1%25A4%25E3%2581%258B%25E3%2582%2589%25E4%25BD%258E%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A1%25E6%258A%259C%25E3%2581%258F%25EF%25BC%259AWhatsApp%2520GIF%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%2528CVE-2019-11932%2529%25E3%2582%2592Gemini%25C3%2597C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Inlet_back%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2NTcyN2M2YzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -137,7 +138,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 76880,
+        "stars": 77975,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4"
       },
@@ -145,7 +146,7 @@
         "name": "baidu/Unlimited-OCR",
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
         "url": "https://github.com/baidu/Unlimited-OCR",
-        "stars": 13617,
+        "stars": 13701,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13245940?v=4"
       },
@@ -153,7 +154,7 @@
         "name": "XiaomiMiMo/MiMo-Code",
         "description": "MiMo Code: Where Models and Agents Co-Evolve",
         "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "stars": 11586,
+        "stars": 11650,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/208276378?v=4"
       },
@@ -161,7 +162,7 @@
         "name": "langchain-ai/openwiki",
         "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
         "url": "https://github.com/langchain-ai/openwiki",
-        "stars": 8991,
+        "stars": 9759,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4"
       },
@@ -169,7 +170,7 @@
         "name": "shadcn/improve",
         "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
         "url": "https://github.com/shadcn/improve",
-        "stars": 7431,
+        "stars": 7507,
         "language": "",
         "owner_avatar": "https://avatars.githubusercontent.com/u/124599?v=4"
       },
@@ -177,7 +178,7 @@
         "name": "omnigent-ai/omnigent",
         "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
         "url": "https://github.com/omnigent-ai/omnigent",
-        "stars": 6632,
+        "stars": 6771,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/292215228?v=4"
       }
