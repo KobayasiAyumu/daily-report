@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-07-09T23:02:02Z"
+    "last_updated": "2026-07-10T22:50:19Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "【永久0円】人間LLMのすすめ",
         "url": "https://qiita.com/Syuparn/items/0001f93221d4d7556271",
-        "likes": 532,
+        "likes": 535,
         "author": "Syuparn",
         "avatar_url": "https://avatars3.githubusercontent.com/u/36665200?v=4",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
         "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e",
-        "likes": 387,
+        "likes": 396,
         "author": "i-icc",
         "avatar_url": "https://avatars0.githubusercontent.com/u/52018660?v=4",
         "tags": [
@@ -35,7 +35,7 @@
       {
         "title": "エンジニアがいつのまにか知っている知識・常識・文化 12本",
         "url": "https://qiita.com/ko-he-8/items/7ca90575c5fff758993e",
-        "likes": 199,
+        "likes": 200,
         "author": "ko-he-8",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/86684/0ddbab4d7474824d7410ae610314916f6f9e5bf2/x_large.png?1777277828",
         "tags": [
@@ -49,7 +49,7 @@
       {
         "title": "「日本企業風GitHub」のパロディに学ぶ、なぜJTC業務システムは「警告と文字」で埋め尽くされるのか",
         "url": "https://qiita.com/Shiro_Shihi/items/4928640d01c78480962b",
-        "likes": 150,
+        "likes": 152,
         "author": "Shiro_Shihi",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3194191/profile-images/1764477388",
         "tags": [
@@ -61,23 +61,9 @@
         "created_at": "2026-07-04T12:45:44+09:00"
       },
       {
-        "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
-        "url": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
-        "likes": 137,
-        "author": "yutaka_kozuka",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4047389/b9d02b9ee1afab883e3b4f46e87d07f1d609c9d5/x_large.png?1743512594",
-        "tags": [
-          "AWS",
-          "AI",
-          "個人開発",
-          "AI駆動開発"
-        ],
-        "created_at": "2026-07-03T12:06:16+09:00"
-      },
-      {
         "title": "「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話",
         "url": "https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1",
-        "likes": 137,
+        "likes": 139,
         "author": "ntaka329",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4174180/d7039a1273d9d8ff9c917525cd9d9549f3c19bd2/x_large.png?1756274809",
         "tags": [
@@ -87,50 +73,64 @@
           "TLS"
         ],
         "created_at": "2026-07-01T12:26:19+09:00"
+      },
+      {
+        "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
+        "url": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
+        "likes": 138,
+        "author": "yutaka_kozuka",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4047389/b9d02b9ee1afab883e3b4f46e87d07f1d609c9d5/x_large.png?1743512594",
+        "tags": [
+          "AWS",
+          "AI",
+          "個人開発",
+          "AI駆動開発"
+        ],
+        "created_at": "2026-07-03T12:06:16+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
+        "url": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
+        "author": "9m",
+        "date": "Fri, 10 Jul 2026 02:33:47 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--s4_9GMo5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E7%258B%25AC%25E8%2587%25AA%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592Gmail%25E3%2581%258B%25E3%2582%2589%25E9%2580%2581%25E5%258F%2597%25E4%25BF%25A1%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:9m%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dHQ3VDelZlZU90aTBlSmRwc1VqWGFsdHB1Tlc3VmUyV0QtS1FGZkE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "AI が自分の結論を正当化してくるので、デバイアスして自律的にFable 5 にセカンドオピニオンを聞くSkill を作った",
+        "url": "https://zenn.dev/atrae/articles/08f2b2c3f2217d",
+        "author": "Yusuke Aono",
+        "date": "Thu, 09 Jul 2026 22:15:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--UTfsA8fG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2581%258C%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%25E7%25B5%2590%25E8%25AB%2596%25E3%2582%2592%25E6%25AD%25A3%25E5%25BD%2593%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581%25E3%2583%2587%25E3%2583%2590%25E3%2582%25A4%25E3%2582%25A2%25E3%2582%25B9%25E3%2581%2597%25E3%2581%25A6%25E8%2587%25AA%25E5%25BE%258B%25E7%259A%2584%25E3%2581%25ABFable%25205%2520%25E3%2581%25AB%25E3%2582%25BB%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25AA%25E3%2583%2594%25E3%2583%258B%25E3%2582%25AA%25E3%2583%25B3%25E3%2582%2592%25E8%2581%259E%25E3%2581%258FSkill...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yusuke%2520Aono%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkNjlkZmQ0ZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Atrae%2520Tech%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "同じ React アプリで TypeScript 5.9 / 6.0 / 7.0 の型チェックを比べた",
+        "url": "https://zenn.dev/m2lab/articles/typescript-version-benchmark",
+        "author": "Masa0209",
+        "date": "Thu, 09 Jul 2026 13:49:39 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--VntO5ykQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2590%258C%25E3%2581%2598%2520React%2520%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25A7%2520TypeScript%25205.9%2520%252F%25206.0%2520%252F%25207.0%2520%25E3%2581%25AE%25E5%259E%258B%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Masa0209%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA4ZWJkMzI1Y2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "ミューテーションテストのススメ",
+        "url": "https://zenn.dev/xtm_blog/articles/9b7fa5f94eae28",
+        "author": "Radish",
+        "date": "Thu, 09 Jul 2026 12:51:51 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--MJyCMBL_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2586%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25B9%25E3%2583%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Radish%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzMDdmZjAyYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%2588%25E4%25BA%25AC%25E9%2583%25BD%25E8%258A%25B8%25E8%25A1%2593%25E5%25A4%25A7%25E5%25AD%25A6%25EF%25BC%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EzYzUzNjRhYmEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Claude Codeの/checkup(旧/doctor)コマンドで環境を診断・自動修正する",
+        "url": "https://zenn.dev/shirochan/articles/a24092cfebefa0",
+        "author": "しろちゃん",
+        "date": "Thu, 09 Jul 2026 10:06:44 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--nUeH_E8r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%252Fcheckup%2528%25E6%2597%25A7%252Fdoctor%2529%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25A7%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E8%25A8%25BA%25E6%2596%25AD%25E3%2583%25BB%25E8%2587%25AA%25E5%258B%2595%25E4%25BF%25AE%25E6%25AD%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%258D%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmdPdXkwaXpkYmFSWl90VWZQc2tlWWRFNWNiQjFZVzVSRDlyMk94QXNLcjAxd3IzSjI9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
       {
         "title": "HTML即公開！Cloudflare Drop が面白そう",
         "url": "https://zenn.dev/trans/articles/cc1c398e1f770c",
         "author": "Kombumori",
         "date": "Thu, 09 Jul 2026 05:20:33 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--4DtGEM3P--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:HTML%25E5%258D%25B3%25E5%2585%25AC%25E9%2596%258B%25EF%25BC%2581Cloudflare%2520Drop%2520%25E3%2581%258C%25E9%259D%25A2%25E7%2599%25BD%25E3%2581%259D%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kombumori%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzljZWZjN2VkYzQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TRANs%2520-%2520%25E7%2594%259F%25E5%25BE%2592%25E4%25BC%259A%25E6%2583%2585%25E5%25A0%25B1%25E6%25A9%259F%25E6%25A7%258B%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxMGIwNjhlYzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "クラウドから IoT デバイスへ直接メッセージを送れる AWS IoT Core の Direct Messaging を試してみた",
-        "url": "https://zenn.dev/aws_japan/articles/8d7fbd2c819324",
-        "author": "Yuta Okubo",
-        "date": "Thu, 09 Jul 2026 04:06:42 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--l3gHnv1N--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2581%258B%25E3%2582%2589%2520IoT%2520%25E3%2583%2587%25E3%2583%2590%25E3%2582%25A4%25E3%2582%25B9%25E3%2581%25B8%25E7%259B%25B4%25E6%258E%25A5%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25BB%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592%25E9%2580%2581%25E3%2582%258C%25E3%2582%258B%2520AWS%2520IoT%2520Core%2520%25E3%2581%25AE%2520Direct%2520Messagi...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yuta%2520Okubo%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E0ZDZmZmU0ZjcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "要件定義を整理する3つの手法（イベントストーミング／RDRA／ICONIX）",
-        "url": "https://zenn.dev/tan_go238/articles/976ea64887569d",
-        "author": "tan_go238",
-        "date": "Thu, 09 Jul 2026 02:41:40 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--yKD6tX0o--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A6%2581%25E4%25BB%25B6%25E5%25AE%259A%25E7%25BE%25A9%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B3%25E3%2581%25A4%25E3%2581%25AE%25E6%2589%258B%25E6%25B3%2595%25EF%25BC%2588%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25EF%25BC%258FRDRA%25EF%25BC%258FICONIX%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tan_go238%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hLYjNjZ2QyQllZb09MOURJNEJHVzl6SE9MOVJEUFFVbjRHckZQOTZnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Apple containerでmacOSにLinuxコンテナ環境を作る（ハンズオン）",
-        "url": "https://zenn.dev/var/articles/apple-container-macos-hands-on",
-        "author": "RareTECH（レアテック）| 希少型エンジニア育成専門ITスクール",
-        "date": "Thu, 09 Jul 2026 01:50:50 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--0lAYQc-v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Apple%2520container%25E3%2581%25A7macOS%25E3%2581%25ABLinux%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25EF%25BC%2588%25E3%2583%258F%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25AA%25E3%2583%25B3%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:RareTECH%25EF%25BC%2588%25E3%2583%25AC%25E3%2582%25A2%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25EF%25BC%2589%257C%2520%25E5%25B8%258C...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiZjAxOWJkY2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Next.js 16.3でTurbopackのメモリ使用量を劇的に減らした話",
-        "url": "https://zenn.dev/branbran/articles/2f9538ef0301c7",
-        "author": "Atsuki02",
-        "date": "Thu, 09 Jul 2026 00:30:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FaJefwX2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%252016.3%25E3%2581%25A7Turbopack%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E4%25BD%25BF%25E7%2594%25A8%25E9%2587%258F%25E3%2582%2592%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E6%25B8%259B%25E3%2582%2589%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsuki02%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxZjg2ZTA4ZDIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "フロントエンドのコードはどこで動く？",
-        "url": "https://zenn.dev/natsu06/articles/8ed7455b6e148a",
-        "author": "natsu06",
-        "date": "Wed, 08 Jul 2026 14:01:25 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--s6uJx_YV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:natsu06%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWVjd2VySGtqU1N0WW9TbWZFWnhpYkRvVkJVZFFNN0J1S2lIOVNzY00wc0pybmdMND1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -138,7 +138,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 79164,
+        "stars": 80127,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/137048761?v=4"
       },
@@ -146,41 +146,41 @@
         "name": "baidu/Unlimited-OCR",
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
         "url": "https://github.com/baidu/Unlimited-OCR",
-        "stars": 13821,
+        "stars": 13928,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13245940?v=4"
       },
       {
-        "name": "XiaomiMiMo/MiMo-Code",
-        "description": "MiMo Code: Where Models and Agents Co-Evolve",
-        "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-        "stars": 11705,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/208276378?v=4"
-      },
-      {
         "name": "langchain-ai/openwiki",
-        "description": "OpenWiki is a CLI that writes and maintains agent wikis for codebases or purpose memory.",
+        "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
         "url": "https://github.com/langchain-ai/openwiki",
-        "stars": 10086,
+        "stars": 10323,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4"
-      },
-      {
-        "name": "shadcn/improve",
-        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "url": "https://github.com/shadcn/improve",
-        "stars": 7563,
-        "language": "",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/124599?v=4"
       },
       {
         "name": "omnigent-ai/omnigent",
         "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
         "url": "https://github.com/omnigent-ai/omnigent",
-        "stars": 6924,
+        "stars": 7003,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/292215228?v=4"
+      },
+      {
+        "name": "deepseek-ai/DeepSpec",
+        "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+        "url": "https://github.com/deepseek-ai/DeepSpec",
+        "stars": 6524,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
+      },
+      {
+        "name": "elder-plinius/T3MP3ST",
+        "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+        "url": "https://github.com/elder-plinius/T3MP3ST",
+        "stars": 4320,
+        "language": "TypeScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/133052465?v=4"
       }
     ]
   }
