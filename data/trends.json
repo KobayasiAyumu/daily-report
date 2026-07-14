@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-07-13T22:44:29Z"
+    "last_updated": "2026-07-14T22:46:17Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
         "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e",
-        "likes": 409,
+        "likes": 418,
         "author": "i-icc",
         "avatar_url": "https://avatars0.githubusercontent.com/u/52018660?v=4",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "「日本企業風GitHub」のパロディに学ぶ、なぜJTC業務システムは「警告と文字」で埋め尽くされるのか",
         "url": "https://qiita.com/Shiro_Shihi/items/4928640d01c78480962b",
-        "likes": 158,
+        "likes": 162,
         "author": "Shiro_Shihi",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3194191/profile-images/1764477388",
         "tags": [
@@ -33,37 +33,23 @@
         "created_at": "2026-07-04T12:45:44+09:00"
       },
       {
-        "title": "「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話",
-        "url": "https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1",
-        "likes": 144,
-        "author": "ntaka329",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4174180/d7039a1273d9d8ff9c917525cd9d9549f3c19bd2/x_large.png?1756274809",
+        "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
+        "url": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90",
+        "likes": 145,
+        "author": "ZiYuCai1984",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64200196?v=4",
         "tags": [
-          "AWS",
           "Security",
-          "vpc",
-          "TLS"
-        ],
-        "created_at": "2026-07-01T12:26:19+09:00"
-      },
-      {
-        "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
-        "url": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
-        "likes": 142,
-        "author": "yutaka_kozuka",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4047389/b9d02b9ee1afab883e3b4f46e87d07f1d609c9d5/x_large.png?1743512594",
-        "tags": [
-          "AWS",
           "AI",
-          "個人開発",
-          "AI駆動開発"
+          "生成AI",
+          "ChatGPT"
         ],
-        "created_at": "2026-07-03T12:06:16+09:00"
+        "created_at": "2026-07-12T16:15:00+09:00"
       },
       {
         "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません",
         "url": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564",
-        "likes": 137,
+        "likes": 138,
         "author": "kenimo49",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4360021/0ba1880054061d81b9af6fab7aaca6bdfc3d5f24/x_large.png?1771288362",
         "tags": [
@@ -77,7 +63,7 @@
       {
         "title": "新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる",
         "url": "https://qiita.com/maaaashi/items/6eefccb7361f64607865",
-        "likes": 129,
+        "likes": 133,
         "author": "maaaashi",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2985550/6528cb551ba394c700da26cb135be1fc3f2928b5/x_large.png?1669290275",
         "tags": [
@@ -87,50 +73,64 @@
           "Hono"
         ],
         "created_at": "2026-07-03T20:58:39+09:00"
+      },
+      {
+        "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版）",
+        "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a",
+        "likes": 126,
+        "author": "fuyunoki",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4057897/f9dd5317def01b1f9c2e7e676298a9cba290ff5d/x_large.png?1761647941",
+        "tags": [
+          "AI",
+          "新卒エンジニア",
+          "Claude",
+          "AI活用"
+        ],
+        "created_at": "2026-07-11T19:39:54+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "Cursorに「不要なブランチを整理して」と頼んだら、Dドライブが消えた話",
-        "url": "https://zenn.dev/iwaken71/articles/cursor-agent-d-drive-deleted",
-        "author": "イワケン",
-        "date": "Sun, 12 Jul 2026 18:23:18 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zIPO8G1I--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%25E3%2581%25AB%25E3%2580%258C%25E4%25B8%258D%25E8%25A6%2581%25E3%2581%25AA%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2581%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2581%25A8%25E9%25A0%25BC%25E3%2582%2593%25E3%2581%25A0%25E3%2582%2589%25E3%2580%2581D%25E3%2583%2589%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A4%25E3%2583%25AF%25E3%2582%25B1%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2o1a21aaFVLcWdLa1pQWnlrWXVmWU44Z0loRGQ5cWpHX1ZiUWZaaFE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "ローカル LLM を構築した",
+        "url": "https://zenn.dev/neet/articles/11bafab8645995",
+        "author": "Ryō Igarashi",
+        "date": "Tue, 14 Jul 2026 08:13:16 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_ldBwQuz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%2520LLM%2520%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ry%25C5%258D%2520Igarashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNmY4MzRlMDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "開発現場のAIセキュリティを見直す",
-        "url": "https://zenn.dev/nenene01/articles/ai-security-2026",
-        "author": "ねねね",
-        "date": "Sun, 12 Jul 2026 14:13:10 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--YIKnbSYA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2596%258B%25E7%2599%25BA%25E7%258F%25BE%25E5%25A0%25B4%25E3%2581%25AEAI%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%2592%25E8%25A6%258B%25E7%259B%25B4%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AD%25E3%2581%25AD%25E3%2581%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M1NTNmZWJlODYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "NotebookLMが作成したスライドを編集可能なスライドにする方法の検証",
+        "url": "https://zenn.dev/hirata_infosys/articles/81bc35da78fa1d",
+        "author": "中野",
+        "date": "Tue, 14 Jul 2026 05:15:25 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9X2U4VKm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:NotebookLM%25E3%2581%258C%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F%25E3%2582%25B9%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2589%25E3%2582%2592%25E7%25B7%25A8%25E9%259B%2586%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AA%25E3%2582%25B9%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2589%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%25E3%2581%25AE%25E6%25A4%259C%25E8%25A8%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E4%25B8%25AD%25E9%2587%258E%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdlMDlmNDgwZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E5%25B9%25B3%25E7%2594%25B0%25E6%25A9%259F%25E5%25B7%25A5%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2520%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYS5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "オンチェーン金融って、結局なんだろう──政府の構想から考える",
-        "url": "https://zenn.dev/komlock_lab/articles/what-is-onchain-finance-2026",
-        "author": "Kobara Toi",
-        "date": "Sun, 12 Jul 2026 13:07:36 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ND66NdX0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E9%2587%2591%25E8%259E%258D%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581%25E7%25B5%2590%25E5%25B1%2580%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A0%25E3%2582%258D%25E3%2581%2586%25E2%2594%2580%25E2%2594%2580%25E6%2594%25BF%25E5%25BA%259C%25E3%2581%25AE%25E6%25A7%258B%25E6%2583%25B3%25E3%2581%258B%25E3%2582%2589%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kobara%2520Toi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U4MjYwMWZiMGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "バラバラだった staleTime を、データの性質で選ぶ4プリセットに集約した",
+        "url": "https://zenn.dev/dress_code/articles/78ce46997dfe96",
+        "author": "ぷーじ",
+        "date": "Tue, 14 Jul 2026 03:00:13 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zCfWfUmN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2590%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25A9%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2520staleTime%2520%25E3%2582%2592%25E3%2580%2581%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E6%2580%25A7%25E8%25B3%25AA%25E3%2581%25A7%25E9%2581%25B8%25E3%2581%25B64%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AB%25E9%259B%2586%25E7%25B4%2584%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B7%25E3%2583%25BC%25E3%2581%2598%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRiOGMxZmU1MDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DRESS%2520CODE%2520TECH%2520BLOG%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I4ZmVmZWJhYjcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Goの並列処理を理解する ── Go Memory Modelとsync.Mutex/Onceの内部実装（第4回）",
-        "url": "https://zenn.dev/wakame_atsushi/articles/0c512954a1698b",
-        "author": "わかめ",
-        "date": "Sun, 12 Jul 2026 12:05:50 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FM4nh-pI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%25E3%2581%25AE%25E4%25B8%25A6%25E5%2588%2597%25E5%2587%25A6%25E7%2590%2586%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2520%25E2%2594%2580%25E2%2594%2580%2520Go%2520Memory%2520Model%25E3%2581%25A8sync.Mutex%252FOnce%25E3%2581%25AE%25E5%2586%2585%25E9%2583%25A8%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%2588%25E7%25AC%25AC4%25E5%259B%259E%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258F%25E3%2581%258B%25E3%2582%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBiMjdmYjliMmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Claude Codeでレガシーシステムの刷新を進めた方法",
+        "url": "https://zenn.dev/knowledgesense/articles/67c61463d9c664",
+        "author": "sasakuna",
+        "date": "Tue, 14 Jul 2026 01:04:12 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gsSTFS3R--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2583%25AC%25E3%2582%25AC%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25AE%25E5%2588%25B7%25E6%2596%25B0%25E3%2582%2592%25E9%2580%25B2%25E3%2582%2581%25E3%2581%259F%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sasakuna%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%2520-%2520%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A8RAG%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkMzU2MDA4YWUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Unityのエディタ拡張から共有メモリに書き込みを行い、ランタイム側で読み込みを行う",
-        "url": "https://zenn.dev/sion_pn/articles/8677bcac5b443e",
-        "author": "Mimaki SiON",
-        "date": "Sun, 12 Jul 2026 09:47:48 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s---vrFphKV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BF%25E6%258B%25A1%25E5%25BC%25B5%25E3%2581%258B%25E3%2582%2589%25E5%2585%25B1%25E6%259C%2589%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258D%25E8%25BE%25BC%25E3%2581%25BF%25E3%2582%2592%25E8%25A1%258C%25E3%2581%2584%25E3%2580%2581%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E5%2581%25B4%25E3%2581%25A7%25E8%25AA%25AD%25E3%2581%25BF%25E8%25BE%25BC%25E3%2581%25BF%25E3%2582%2592%25E8%25A1%258C%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Mimaki%2520SiON%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNXBpNXV1TDJvZUNVYlBqU2FPTUtYb0wwQzNFbXByeEZ0OGxIVnM9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
+        "url": "https://zenn.dev/aircloset/articles/3b8e60fcaab4b7",
+        "author": "辻 亮佑",
+        "date": "Mon, 13 Jul 2026 23:51:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tksGZeB4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEObservability%25E8%25A8%25AD%25E8%25A8%2588%2520-%2520PII%25E3%2581%25A8AI%25E3%2581%25AE%25E6%25A4%259C%25E7%25B4%25A2%25E6%2580%25A7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2595%25E3%2581%259B%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E4%25BF%25AE%25E5%25BE%25A9%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2588%25E5%25AE%259F%25E8%25B7%25B5%25E7%25B7%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%25BE%25BB%2520%25E4%25BA%25AE%25E4%25BD%2591%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZjY1NmYzNDQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EyNzdkMDFjYWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "ハーネスエンジニアリングとループエンジニアリングの違いとは？ aws aidlc workflow kitから整理する",
-        "url": "https://zenn.dev/tacky_exception/articles/4d77fef5a36e42",
-        "author": "ただのエンジニア　けい",
-        "date": "Sun, 12 Jul 2026 05:19:16 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--2zVC99FK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A8%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%2520aws%2520aidlc%2520workflow%2520kit%25E3%2581%258B%25E3%2582%2589%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A0%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2580%2580%25E3%2581%2591%25E3%2581%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0MDhiMWEwYzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AIにルールファイルを数ヶ月自動更新させ続けたら、ルールは\"良く\"育ったのか",
+        "url": "https://zenn.dev/r_kaga/articles/c9fcb75f1ff284",
+        "author": "r.kagaya",
+        "date": "Mon, 13 Jul 2026 22:51:53 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--p_o-eZkM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25E6%2595%25B0%25E3%2583%25B6%25E6%259C%2588%25E8%2587%25AA%25E5%258B%2595%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%2595%25E3%2581%259B%25E7%25B6%259A%25E3%2581%2591%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AF%2522%25E8%2589%25AF%25E3%2581%258F%2522%25E8%2582%25B2%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:r.kagaya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlZTNjYzY3MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -138,31 +138,31 @@
         "name": "baidu/Unlimited-OCR",
         "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
         "url": "https://github.com/baidu/Unlimited-OCR",
-        "stars": 14178,
+        "stars": 14239,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13245940?v=4"
-      },
-      {
-        "name": "langchain-ai/openwiki",
-        "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-        "url": "https://github.com/langchain-ai/openwiki",
-        "stars": 10917,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4"
       },
       {
         "name": "JustVugg/colibri",
         "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "url": "https://github.com/JustVugg/colibri",
-        "stars": 9608,
+        "stars": 12465,
         "language": "C",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13022503?v=4"
+      },
+      {
+        "name": "langchain-ai/openwiki",
+        "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+        "url": "https://github.com/langchain-ai/openwiki",
+        "stars": 11205,
+        "language": "TypeScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4"
       },
       {
         "name": "deepseek-ai/DeepSpec",
         "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
         "url": "https://github.com/deepseek-ai/DeepSpec",
-        "stars": 6615,
+        "stars": 6642,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -170,7 +170,7 @@
         "name": "x4gKing/X4G",
         "description": null,
         "url": "https://github.com/x4gKing/X4G",
-        "stars": 5053,
+        "stars": 5275,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/298382259?v=4"
       },
@@ -178,7 +178,7 @@
         "name": "elder-plinius/T3MP3ST",
         "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
         "url": "https://github.com/elder-plinius/T3MP3ST",
-        "stars": 4630,
+        "stars": 4715,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/133052465?v=4"
       }
