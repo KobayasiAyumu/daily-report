@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-07-17T22:38:14Z"
+    "last_updated": "2026-07-18T22:38:13Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
         "url": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90",
-        "likes": 233,
+        "likes": 242,
         "author": "ZiYuCai1984",
         "avatar_url": "https://avatars.githubusercontent.com/u/64200196?v=4",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "あなたの技術ブログの「AI臭さ」を抜くスキル公開します",
         "url": "https://qiita.com/minorun365/items/699e89544da8b0de300d",
-        "likes": 197,
+        "likes": 200,
         "author": "minorun365",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1633856/c226bc34ac6c45a21f5e512d1c72a6f097494578/x_large.png?1699954976",
         "tags": [
@@ -32,7 +32,7 @@
       {
         "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版）",
         "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a",
-        "likes": 142,
+        "likes": 144,
         "author": "fuyunoki",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4057897/f9dd5317def01b1f9c2e7e676298a9cba290ff5d/x_large.png?1761647941",
         "tags": [
@@ -46,7 +46,7 @@
       {
         "title": "「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法",
         "url": "https://qiita.com/Nao52/items/ced302095c8ddd3c8213",
-        "likes": 106,
+        "likes": 124,
         "author": "Nao52",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2321592/profile-images/1638518050",
         "tags": [
@@ -60,7 +60,7 @@
       {
         "title": "15年前の『アジャイルサムライ』、AI時代に古びたのは\"作るコスト\"の教えだけだった",
         "url": "https://qiita.com/tatsuya582/items/88508215a8e22b169166",
-        "likes": 72,
+        "likes": 73,
         "author": "tatsuya582",
         "avatar_url": "https://avatars.githubusercontent.com/u/145332193?v=4",
         "tags": [
@@ -72,21 +72,49 @@
         "created_at": "2026-07-10T09:58:51+09:00"
       },
       {
-        "title": "そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた",
-        "url": "https://qiita.com/Syoitu/items/78d45bee1160d059c972",
-        "likes": 61,
-        "author": "Syoitu",
-        "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/320164/profile-images/1543311752",
+        "title": "AI人材は２つに分かれる。あなたが目指すべきはどっち？",
+        "url": "https://qiita.com/sumomoo/items/b7bfe27efae0231a09af",
+        "likes": 66,
+        "author": "sumomoo",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
         "tags": [
+          "初心者",
           "AI",
-          "SKILLS",
-          "スキル",
-          "ClaudeCode"
+          "未経験エンジニア",
+          "新人プログラマ応援"
         ],
-        "created_at": "2026-07-09T16:17:51+09:00"
+        "created_at": "2026-07-15T16:47:14+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "個人開発のLaravelサイトにOpenTelemetry+Grafanaで可観測性基盤を作った（Docker無し・systemd運用）",
+        "url": "https://zenn.dev/shim_03248/articles/5094579401a468",
+        "author": "shim",
+        "date": "Sat, 18 Jul 2026 04:26:35 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--jPiaiFHo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AELaravel%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2581%25ABOpenTelemetry%252BGrafana%25E3%2581%25A7%25E5%258F%25AF%25E8%25A6%25B3%25E6%25B8%25AC%25E6%2580%25A7%25E5%259F%25BA%25E7%259B%25A4%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2588Docker%25E7%2584%25A1%25E3%2581%2597...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shim%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU0ODc3MDgxN2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "オープンLLMをLambdaで動かしてみる",
+        "url": "https://zenn.dev/edash_tech_blog/articles/528ab6bd044c35",
+        "author": "a2-ito",
+        "date": "Sat, 18 Jul 2026 03:00:52 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--c6vnI1uC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3LLM%25E3%2582%2592Lambda%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:a2-ito%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkZWM5ZjExNTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:e-dash%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3ODkyNmJlMDEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "SvelteKitでToDoアプリを作りながら基本を学ぶ 〜React/Next.jsとの違いも見てみる〜",
+        "url": "https://zenn.dev/yunaka354/articles/e87bda1345950a",
+        "author": "yunaka354",
+        "date": "Sat, 18 Jul 2026 02:20:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--jXg33qYR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SvelteKit%25E3%2581%25A7ToDo%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E5%259F%25BA%25E6%259C%25AC%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B6%2520%25E3%2580%259CReact%252FNext.js%25E3%2581%25A8%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2582%2582%25E8%25A6%258B%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yunaka354%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y3ZGExYWRmYzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Claude Codeのスキル×サブエージェントで開発ワークフローを丸ごと自動化したらデリバリー速度が3倍になった",
+        "url": "https://zenn.dev/arufian/articles/4676070054c347",
+        "author": "Alfian Busyro （アルフィアン ビュスロ)",
+        "date": "Fri, 17 Jul 2026 06:54:45 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9-ozVlHy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25C3%2597%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E9%2596%258B%25E7%2599%25BA%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%2592%25E4%25B8%25B8%25E3%2581%2594%25E3%2581%25A8%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2583%2587%25E3%2583%25AA%25E3%2583%2590%25E3%2583%25AA%25E3%2583%25BC%25E9%2580%259F%25E5%25BA%25A6%25E3%2581%258C3%25E5%2580%258D%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Alfian%2520Busyro%2520%25EF%25BC%2588%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2595...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzczMzhhNTE5MzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
       {
         "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
         "url": "https://zenn.dev/loglass/articles/6aa18c80496ec6",
@@ -95,39 +123,11 @@
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s---aO5m0K2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E3%2580%258C%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2581%25AF%25E3%2582%2582%25E3%2581%2586%25E5%258F%25A4%25E3%2581%2584%25EF%25BC%259F%25E3%2580%258C%25E6%2595%25B5%25E5%25AF%25BE%25E7%259A%2584%25E6%25A4%259C%25E8%25A8%25BC%25E3%2580%258D%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:little_hands%2528%25E6%259D%25BE%25E5%25B2%25A1%2540Lo...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxNjQwZGFkNjEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "OpenTelemetryのConsistent Probability Samplingを理解する",
-        "url": "https://zenn.dev/ymotongpoo/articles/20260717-cps",
-        "author": "Yoshi Yamaguchi",
-        "date": "Fri, 17 Jul 2026 05:20:31 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--b05ftD6H--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenTelemetry%25E3%2581%25AEConsistent%2520Probability%2520Sampling%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshi%2520Yamaguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dMOUN2MU9tRlBwUUcwY0pWOHZUeW1SZ3ViT3VaWnplQ01HUTJjMHRnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Fable 5はeffort=lowでも“使える”のか？　React習熟度ベンチマーク",
-        "url": "https://zenn.dev/uhyo/articles/react-profession-bench-13",
-        "author": "uhyo",
-        "date": "Fri, 17 Jul 2026 00:53:45 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Q5Lx33bZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fable%25205%25E3%2581%25AFeffort%253Dlow%25E3%2581%25A7%25E3%2582%2582%25E2%2580%259C%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E2%2580%259D%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E3%2580%2580React%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "\"LLMに「読み進められる説明文」を書かせる設計：cognitive-rhythm-writingの構造を読む\"",
-        "url": "https://zenn.dev/nobmake/articles/394d8b42da48a1",
-        "author": "のぶさん",
-        "date": "Thu, 16 Jul 2026 22:38:53 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--OJEZQ_QN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2522LLM%25E3%2581%25AB%25E3%2580%258C%25E8%25AA%25AD%25E3%2581%25BF%25E9%2580%25B2%25E3%2582%2581%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E8%25AA%25AC%25E6%2598%258E%25E6%2596%2587%25E3%2580%258D%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25E8%25A8%25AD%25E8%25A8%2588%25EF%25BC%259Acognitive-rhythm-writing%25E3%2581%25AE%25E6%25A7%258B%25E9%2580%25A0%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%2522%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AE%25E3%2581%25B6%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RlZjhlMWQ5YTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "頂上決戦！　effort=max同士の対決でGPT-5.6はClaudeに勝てるのか（React習熟度ベンチマーク）",
-        "url": "https://zenn.dev/uhyo/articles/react-profession-bench-12",
-        "author": "uhyo",
-        "date": "Thu, 16 Jul 2026 15:02:58 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FFnEnUpT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A0%2582%25E4%25B8%258A%25E6%25B1%25BA%25E6%2588%25A6%25EF%25BC%2581%25E3%2580%2580effort%253Dmax%25E5%2590%258C%25E5%25A3%25AB%25E3%2581%25AE%25E5%25AF%25BE%25E6%25B1%25BA%25E3%2581%25A7GPT-5.6%25E3%2581%25AFClaude%25E3%2581%25AB%25E5%258B%259D%25E3%2581%25A6%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%2588React%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AF%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Claude Code の Plan モードをループエンジニアリングで楽にする",
-        "url": "https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop",
-        "author": "Yoshiya",
-        "date": "Thu, 16 Jul 2026 07:40:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--yYwQSoYv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%2520Plan%2520%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E6%25A5%25BD%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshiya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y5YzEzOTQ2ZTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "GitHub Release 作成をパッケージリリースのトリガーにするな！",
+        "url": "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
+        "author": "mpyw",
+        "date": "Fri, 17 Jul 2026 05:22:08 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Bx_MalUM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Release%2520%25E4%25BD%259C%25E6%2588%2590%25E3%2582%2592%25E3%2583%2591%25E3%2583%2583%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25AE%25E3%2583%2588%25E3%2583%25AA%25E3%2582%25AC%25E3%2583%25BC%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AA%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:mpyw%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBjYzdlMWE1YzYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%2586%25E3%2582%2581%25E3%2581%25BF%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk0ZWM3OGU4NDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +135,7 @@
         "name": "xai-org/grok-build",
         "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
         "url": "https://github.com/xai-org/grok-build",
-        "stars": 16295,
+        "stars": 18677,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/130314967?v=4"
       },
@@ -143,23 +143,15 @@
         "name": "JustVugg/colibri",
         "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "url": "https://github.com/JustVugg/colibri",
-        "stars": 15616,
+        "stars": 16088,
         "language": "C",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13022503?v=4"
-      },
-      {
-        "name": "baidu/Unlimited-OCR",
-        "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-        "url": "https://github.com/baidu/Unlimited-OCR",
-        "stars": 14392,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/13245940?v=4"
       },
       {
         "name": "langchain-ai/openwiki",
         "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
         "url": "https://github.com/langchain-ai/openwiki",
-        "stars": 12135,
+        "stars": 12290,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4"
       },
@@ -167,7 +159,7 @@
         "name": "Fei-Away/Codex-Dream-Skin",
         "description": "Codex Dream Skin",
         "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-        "stars": 8644,
+        "stars": 9726,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/100042407?v=4"
       },
@@ -175,9 +167,17 @@
         "name": "deepseek-ai/DeepSpec",
         "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
         "url": "https://github.com/deepseek-ai/DeepSpec",
-        "stars": 6687,
+        "stars": 6689,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
+      },
+      {
+        "name": "x4gKing/X4G",
+        "description": null,
+        "url": "https://github.com/x4gKing/X4G",
+        "stars": 5755,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/298382259?v=4"
       }
     ]
   }
