@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-07-25T22:42:50Z"
+    "last_updated": "2026-07-26T22:50:07Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "セキュリティの勉強になるサイト138選(2026年版)",
         "url": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00",
-        "likes": 324,
+        "likes": 329,
         "author": "Nakanishi_RareTECH",
         "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIaES9YU5T-wmuHvd7JpqI7Bmfswqp0NuRf1BHtVYZHJ28opg=s96-c",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法",
         "url": "https://qiita.com/Nao52/items/ced302095c8ddd3c8213",
-        "likes": 172,
+        "likes": 175,
         "author": "Nao52",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2321592/profile-images/1638518050",
         "tags": [
@@ -35,7 +35,7 @@
       {
         "title": "マルチエージェントに関する論文を40本再実装してみて分かったこと",
         "url": "https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9",
-        "likes": 139,
+        "likes": 140,
         "author": "Koukyosyumei",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2959953/36c4ee113027133d31a42234afa81815a5172109/x_large.png?1782688765",
         "tags": [
@@ -49,7 +49,7 @@
       {
         "title": "面接相手に「未来」を想像させる。未経験でも信用される伝え方",
         "url": "https://qiita.com/sumomoo/items/c1a219a3156a4214828d",
-        "likes": 91,
+        "likes": 92,
         "author": "sumomoo",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
         "tags": [
@@ -63,7 +63,7 @@
       {
         "title": "CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート",
         "url": "https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66",
-        "likes": 89,
+        "likes": 91,
         "author": "hikariclaude01",
         "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLi5iQ8Ozb19TzY9CtZTkZVJnzvWlQ1jdhvQ4cL3GNv3KEn1Q=s96-c",
         "tags": [
@@ -77,7 +77,7 @@
       {
         "title": "個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想",
         "url": "https://qiita.com/sumomoo/items/700e37b3240717217b37",
-        "likes": 82,
+        "likes": 83,
         "author": "sumomoo",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
         "tags": [
@@ -91,11 +91,32 @@
     ],
     "zenn": [
       {
+        "title": "Opus5が思考が浅いように感じる問題への対策",
+        "url": "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
+        "author": "Yuichi Uemura",
+        "date": "Sun, 26 Jul 2026 03:01:36 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--SEL4lWhY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Opus5%25E3%2581%258C%25E6%2580%259D%25E8%2580%2583%25E3%2581%258C%25E6%25B5%2585%25E3%2581%2584%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E6%2584%259F%25E3%2581%2598%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25B8%25E3%2581%25AE%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2520Uemura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwM2U1NDBiMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "放置していた旧環境で見つけたReact2Shell攻撃の実態",
+        "url": "https://zenn.dev/munenick/articles/b507a9848b6fdd",
+        "author": "MuNeNiCK",
+        "date": "Sat, 25 Jul 2026 08:27:52 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--F5_yiuTF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2594%25BE%25E7%25BD%25AE%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E6%2597%25A7%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25A7%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2581%259FReact2Shell%25E6%2594%25BB%25E6%2592%2583%25E3%2581%25AE%25E5%25AE%259F%25E6%2585%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:MuNeNiCK%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
         "title": "クオンツはテクニカル分析を寄与度分解の中で見ている",
         "url": "https://zenn.dev/gamella/articles/7e1af53f19d94d",
         "author": "Tomoya Kitayama | AlpacaTech",
         "date": "Sat, 25 Jul 2026 01:46:14 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--z47-iSBC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2584%25E3%2581%25AF%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258B%25E3%2582%25AB%25E3%2583%25AB%25E5%2588%2586%25E6%259E%2590%25E3%2582%2592%25E5%25AF%2584%25E4%25B8%258E%25E5%25BA%25A6%25E5%2588%2586%25E8%25A7%25A3%25E3%2581%25AE%25E4%25B8%25AD%25E3%2581%25A7%25E8%25A6%258B%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tomoya%2520Kitayama%2520%257C%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0MTFiOWQ1NzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "ドメイン駆動設計から、ドメイン駆動開発プロセスの時代へ",
+        "url": "https://zenn.dev/manalink_dev/articles/domain-driven-development-process",
+        "author": "meijin",
+        "date": "Fri, 24 Jul 2026 09:45:31 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--cCfSCZ-Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E9%25A7%2586%25E5%258B%2595%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E9%25A7%2586%25E5%258B%2595%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:meijin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FmZjliMGZlZjIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%259E%25E3%2583%258A%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25AF%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pPWmtyWk1nS3djRXl5a2w1X2lVTFZFVmtVVUpkNzkzcjlfejhERjRzPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
         "title": "AI時代のエンジニアリングマネージャーのあり方｜外部品質編 〜品質の可視化を、現場と経営をつなぐ形にするまで〜",
@@ -110,27 +131,6 @@
         "author": "wfukatsu",
         "date": "Fri, 24 Jul 2026 01:05:30 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--a34O7Mu9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Terraform%2520%252F%2520Kubernetes%2520%25E3%2581%25AE%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%25A7%25E3%2580%2581%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%258C%25E3%2582%2588%25E3%2581%258F%25E6%258C%2587%25E6%2591%2598%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:wfukatsu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIyYWQ5MTcyZjMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Scalar%2520Solution%2520Engi...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBhZjQwOTk3NDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話",
-        "url": "https://zenn.dev/singularity/articles/diy-terminal-500-commits",
-        "author": "Isamu",
-        "date": "Thu, 23 Jul 2026 20:55:48 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--2gsY97eV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E3%2582%2592%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%25811%25E6%2597%25A5%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2583%2588%25E6%2595%25B0%25E3%2581%258C500%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2581%25A6%25E3%2580%2581%25E7%2594%259F%25E7%2594%25A3%25E6%2580%25A7%25E3%2581%258C%25E3%2583%2590%25E3%2582%25B0%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Isamu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiNjM5MTg4YzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25AE%25E3%2583%25A5%25E3%2583%25A9%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BB%25E3%2582%25BD%25E3%2582%25B5%25E3%2582%25A8%25E3%2583%2586%25E3%2582%25A3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2g3ODg4Mk5lcU4xYUxYZWxhbjZ5TDYzUVBVdGs3MjQ0aGs0QjdBdWc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Astroで日英ブログを作って分かった5つの実装パターン",
-        "url": "https://zenn.dev/akari1106/articles/ea85f0a245bb8b",
-        "author": "灯里(akari)",
-        "date": "Thu, 23 Jul 2026 14:15:58 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--f3ywNqkC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Astro%25E3%2581%25A7%25E6%2597%25A5%25E8%258B%25B1%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E5%2588%2586%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F5%25E3%2581%25A4%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%2581%25AF%25E9%2587%258C%2528akari%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZTcxYTI4M2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "2bitに量子化したKimi K2.7 CodeにMac Studio 1台で$69,875を稼いでもらった",
-        "url": "https://zenn.dev/hellohazime/articles/kimi_k27_code_swelancer_local",
-        "author": "hellohazime",
-        "date": "Thu, 23 Jul 2026 12:35:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--77FggNox--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2bit%25E3%2581%25AB%25E9%2587%258F%25E5%25AD%2590%25E5%258C%2596%25E3%2581%2597%25E3%2581%259FKimi%2520K2.7%2520Code%25E3%2581%25ABMac%2520Studio%25201%25E5%258F%25B0%25E3%2581%25A7%252469%252C875%25E3%2582%2592%25E7%25A8%25BC%25E3%2581%2584%25E3%2581%25A7%25E3%2582%2582%25E3%2582%2589%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hellohazime%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JkOGFiYTM1M2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -138,7 +138,7 @@
         "name": "xai-org/grok-build",
         "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
         "url": "https://github.com/xai-org/grok-build",
-        "stars": 22505,
+        "stars": 22744,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/130314967?v=4"
       },
@@ -146,7 +146,7 @@
         "name": "JustVugg/colibri",
         "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "url": "https://github.com/JustVugg/colibri",
-        "stars": 19012,
+        "stars": 19605,
         "language": "C",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13022503?v=4"
       },
@@ -154,7 +154,7 @@
         "name": "Fei-Away/Codex-Dream-Skin",
         "description": "Codex Dream Skin",
         "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-        "stars": 12296,
+        "stars": 12351,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/100042407?v=4"
       },
@@ -162,25 +162,25 @@
         "name": "unicity-aos/aos-ce",
         "description": "AOS Community Edition: the open agent operating system.",
         "url": "https://github.com/unicity-aos/aos-ce",
-        "stars": 7274,
+        "stars": 7401,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
-      },
-      {
-        "name": "deepseek-ai/DeepSpec",
-        "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-        "url": "https://github.com/deepseek-ai/DeepSpec",
-        "stars": 6768,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
       {
         "name": "x4gKing/X4G",
         "description": null,
         "url": "https://github.com/x4gKing/X4G",
-        "stars": 6697,
+        "stars": 6809,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/298382259?v=4"
+      },
+      {
+        "name": "andrewyng/openworker",
+        "description": null,
+        "url": "https://github.com/andrewyng/openworker",
+        "stars": 6604,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/3710007?v=4"
       }
     ]
   }
