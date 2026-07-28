@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-07-27T22:51:32Z"
+    "last_updated": "2026-07-28T22:50:54Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "セキュリティの勉強になるサイト138選(2026年版)",
         "url": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00",
-        "likes": 334,
+        "likes": 339,
         "author": "Nakanishi_RareTECH",
         "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIaES9YU5T-wmuHvd7JpqI7Bmfswqp0NuRf1BHtVYZHJ28opg=s96-c",
         "tags": [
@@ -47,35 +47,9 @@
         "created_at": "2026-07-22T17:16:40+09:00"
       },
       {
-        "title": "開発効率が上がったCLIツール・コマンド10選",
-        "url": "https://qiita.com/NekoByte/items/efa81aaa8a61d3478568",
-        "likes": 68,
-        "author": "NekoByte",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4373011/97d6cf312640c089b21325de1642bcbc2ef977b1/x_large.png?1772668435",
-        "tags": [
-          "Qiita",
-          "プログラミング"
-        ],
-        "created_at": "2026-07-26T01:56:11+09:00"
-      },
-      {
-        "title": " AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」",
-        "url": "https://qiita.com/sumomoo/items/d8c22cb512d9ba036154",
-        "likes": 61,
-        "author": "sumomoo",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
-        "tags": [
-          "未経験エンジニア",
-          "新人プログラマ応援",
-          "初心者",
-          "コミュニケーション"
-        ],
-        "created_at": "2026-07-24T17:14:32+09:00"
-      },
-      {
         "title": "ひとことで、言え。～スライドをAIで作り直したらわかりにくくなった話～",
         "url": "https://qiita.com/WdknWdkn/items/ba228da40b5d2fd1b612",
-        "likes": 58,
+        "likes": 82,
         "author": "WdknWdkn",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/215128/cd71934f318b00f0dd4957b5850bc980c92104ed/x_large.png?1638755863",
         "tags": [
@@ -85,50 +59,76 @@
           "AI"
         ],
         "created_at": "2026-07-25T20:22:16+09:00"
+      },
+      {
+        "title": "AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった",
+        "url": "https://qiita.com/watany/items/11358e8e8966d5e48a09",
+        "likes": 71,
+        "author": "watany",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/528454/1971f60fa13e9c0e5967de15cf45acfc5da263bb/x_large.png?1572997746",
+        "tags": [
+          "AI",
+          "生成AI",
+          "LLM",
+          "ClaudeCode"
+        ],
+        "created_at": "2026-07-25T15:46:06+09:00"
+      },
+      {
+        "title": "開発効率が上がったCLIツール・コマンド10選",
+        "url": "https://qiita.com/NekoByte/items/efa81aaa8a61d3478568",
+        "likes": 69,
+        "author": "NekoByte",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4373011/97d6cf312640c089b21325de1642bcbc2ef977b1/x_large.png?1772668435",
+        "tags": [
+          "Qiita",
+          "プログラミング"
+        ],
+        "created_at": "2026-07-26T01:56:11+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
-        "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
-        "author": "Isamu",
-        "date": "Sun, 26 Jul 2026 20:06:28 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--q7p3qyXb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1%25E6%2597%25A5500%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AF%25E3%2580%2581%25E3%2582%2582%25E3%2581%2586%25E8%25AA%25AD%25E3%2582%2581%25E3%2581%25AA%25E3%2581%2584%2520%25E2%2594%2580%25E2%2594%2580%2520%25E3%2581%25A0%25E3%2581%258B%25E3%2582%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Isamu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiNjM5MTg4YzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25AE%25E3%2583%25A5%25E3%2583%25A9%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BB%25E3%2582%25BD%25E3%2582%25B5%25E3%2582%25A8%25E3%2583%2586%25E3%2582%25A3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2g3ODg4Mk5lcU4xYUxYZWxhbjZ5TDYzUVBVdGs3MjQ0aGs0QjdBdWc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【決着】Claude CodeとCodexの設定ファイルを同期させる (みんな仲良く)",
+        "url": "https://zenn.dev/explaza/articles/20f7f41cff8428",
+        "author": "Kanta",
+        "date": "Tue, 28 Jul 2026 04:40:29 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1vWCjHEi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E6%25B1%25BA%25E7%259D%2580%25E3%2580%2591Claude%2520Code%25E3%2581%25A8Codex%25E3%2581%25AE%25E8%25A8%25AD%25E5%25AE%259A%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25E5%2590%258C%25E6%259C%259F%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%2520%2528%25E3%2581%25BF%25E3%2582%2593%25E3%2581%25AA%25E4%25BB%25B2%25E8%2589%25AF%25E3%2581%258F%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kanta%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQzOWQzZGM0MGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B6%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFhM2QzMzA4YjIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "スマホでつくるセカンドブレイン（Android・Obsidian・Termux・Claude・ChatGPTによる知識管理）",
-        "url": "https://zenn.dev/szgk/articles/76f54d039d9a30",
-        "author": "shibe",
-        "date": "Sun, 26 Jul 2026 16:36:23 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--LS8U7t2e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%259E%25E3%2583%259B%25E3%2581%25A7%25E3%2581%25A4%25E3%2581%258F%25E3%2582%258B%25E3%2582%25BB%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%25B3%25EF%25BC%2588Android%25E3%2583%25BBObsidian%25E3%2583%25BBTermux%25E3%2583%25BBClaude%25E3%2583%25BBChatGPT%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shibe%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBjYTYxMTYxYzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Microsoft APM を試してみる　(npmと対比しながら）",
+        "url": "https://zenn.dev/xtm_blog/articles/f016695e2839ee",
+        "author": "ksdev",
+        "date": "Tue, 28 Jul 2026 04:31:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--BfrX_whR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Microsoft%2520APM%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%25E3%2580%2580%2528npm%25E3%2581%25A8%25E5%25AF%25BE%25E6%25AF%2594%25E3%2581%2597%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ksdev%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzMDdmZjAyYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%2588%25E4%25BA%25AC%25E9%2583%25BD%25E8%258A%25B8%25E8%25A1%2593%25E5%25A4%25A7%25E5%25AD%25A6%25EF%25BC%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RmZGFmNGQwYTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "【速報】Opus 5、React習熟度ベンチマークで余裕のFable 5超え",
-        "url": "https://zenn.dev/uhyo/articles/react-profession-bench-14",
-        "author": "uhyo",
-        "date": "Sun, 26 Jul 2026 09:19:46 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--VNdxrMYx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E9%2580%259F%25E5%25A0%25B1%25E3%2580%2591Opus%25205%25E3%2580%2581React%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25A7%25E4%25BD%2599%25E8%25A3%2595%25E3%2581%25AEFable%25205%25E8%25B6%2585%25E3%2581%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",
+        "url": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
+        "author": "junko.dohi",
+        "date": "Mon, 27 Jul 2026 23:19:53 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZntJNLtt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E9%2580%259F%25E5%25A0%25B1%25E3%2580%2591Kimi-K3%2520%25E3%2582%2592%2520Day0%2520%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2580%25822.8T%2520%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AF%2520NVIDIA%2520B300%2520x8%2520%25E3%2581%25AE%25201%2520%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:junko.dohi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M4YTI5OTEwMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fixstars%2520Tech%2520Blog%2520%252F...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4ZGRiZDdhYjguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "「ソフトウェアアーキテクチャの基礎」を読んで設計判断の引き出しが増えた",
-        "url": "https://zenn.dev/raamenwakamatu/articles/software-architecture-fundamentals-review",
-        "author": "raamenwakamatu",
-        "date": "Sun, 26 Jul 2026 03:47:06 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--cQExVsA_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2580%258D%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E8%25A8%25AD%25E8%25A8%2588%25E5%2588%25A4%25E6%2596%25AD%25E3%2581%25AE%25E5%25BC%2595%25E3%2581%258D%25E5%2587%25BA%25E3%2581%2597%25E3%2581%258C%25E5%25A2%2597%25E3%2581%2588%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:raamenwakamatu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YzYjk2OWFkNzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Agentic RLではtool callを含むtrajectoryをどう学習するのか",
+        "url": "https://zenn.dev/takkuhiro/articles/agentic-rl-trajectory-mechanics",
+        "author": "Hirotaka",
+        "date": "Mon, 27 Jul 2026 22:00:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Y3k-M4uF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Agentic%2520RL%25E3%2581%25A7%25E3%2581%25AFtool%2520call%25E3%2582%2592%25E5%2590%25AB%25E3%2582%2580trajectory%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hirotaka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTVjMWlIS0g2Z1dlUzU0UnREY2hJQk5QbDc5NWhKbmVvdjRDTHpkV2xrMkxCbWZTRT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Opus 5では今までのプロンプトが逆効果に。「検証して」を消して「簡潔に」と書くべし。公式プロンプトガイドを読み解く",
-        "url": "https://zenn.dev/little_hand_s/articles/72646a09f49d2a",
-        "author": "little_hands(松岡@Loglass)",
-        "date": "Sun, 26 Jul 2026 03:40:03 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--xKfm7-hR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Opus%25205%25E3%2581%25A7%25E3%2581%25AF%25E4%25BB%258A%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%258C%25E9%2580%2586%25E5%258A%25B9%25E6%259E%259C%25E3%2581%25AB%25E3%2580%2582%25E3%2580%258C%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258C%25E7%25B0%25A1%25E6%25BD%2594%25E3%2581%25AB%25E3%2580%258D%25E3%2581%25A8%25E6%259B%25B8%25E3%2581%258F%25E3%2581%25B9%25E3%2581%2597%25E3%2580%2582%25E5%2585%25AC%25E5%25BC%258F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BF%25E8%25A7%25A3%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:little_hands%2528%25E6%259D%25BE%25E5%25B2%25A1%2540Lo...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxNjQwZGFkNjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "ステージング環境をセルフサービス化しチームの開発速度を向上させた方法",
+        "url": "https://zenn.dev/fusic/articles/83c6b9a1e7c7d0",
+        "author": "Takeguchi",
+        "date": "Mon, 27 Jul 2026 09:46:14 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--hdTlkWL0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25B3%25E3%2582%25B0%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E3%2582%25BB%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E5%258C%2596%25E3%2581%2597%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E9%2580%259F%25E5%25BA%25A6%25E3%2582%2592%25E5%2590%2591%25E4%25B8%258A%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Takeguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRhZTI3YWE0ZGYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Opus5が思考が浅いように感じる問題への対策",
-        "url": "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
-        "author": "Yuichi Uemura",
-        "date": "Sun, 26 Jul 2026 03:01:36 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--SEL4lWhY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Opus5%25E3%2581%258C%25E6%2580%259D%25E8%2580%2583%25E3%2581%258C%25E6%25B5%2585%25E3%2581%2584%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E6%2584%259F%25E3%2581%2598%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25B8%25E3%2581%25AE%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2520Uemura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwM2U1NDBiMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "「Simple Made Easy」の観点から、UI/UXはどうあるべきか",
+        "url": "https://zenn.dev/pksha/articles/6cdf19e5fe8065",
+        "author": "Hyuga Yamaguchi",
+        "date": "Mon, 27 Jul 2026 07:22:43 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tDlJEObj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CSimple%2520Made%2520Easy%25E3%2580%258D%25E3%2581%25AE%25E8%25A6%25B3%25E7%2582%25B9%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581UI%252FUX%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E3%2581%2582%25E3%2582%258B%25E3%2581%25B9%25E3%2581%258D%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hyuga%2520Yamaguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTHdyc2FKNWpfVG5yTXMzQVU2MDk5X2J4Y0JMNW5udkxGSHJ0MTRnUk55blBESnB3PXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -136,7 +136,7 @@
         "name": "xai-org/grok-build",
         "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
         "url": "https://github.com/xai-org/grok-build",
-        "stars": 22995,
+        "stars": 23231,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/130314967?v=4"
       },
@@ -144,7 +144,7 @@
         "name": "JustVugg/colibri",
         "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "url": "https://github.com/JustVugg/colibri",
-        "stars": 20149,
+        "stars": 20593,
         "language": "C",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13022503?v=4"
       },
@@ -152,7 +152,7 @@
         "name": "Fei-Away/Codex-Dream-Skin",
         "description": "Codex Dream Skin",
         "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-        "stars": 12444,
+        "stars": 12569,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/100042407?v=4"
       },
@@ -160,7 +160,7 @@
         "name": "andrewyng/openworker",
         "description": null,
         "url": "https://github.com/andrewyng/openworker",
-        "stars": 8608,
+        "stars": 9970,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/3710007?v=4"
       },
@@ -168,17 +168,17 @@
         "name": "unicity-aos/aos-ce",
         "description": "AOS Community Edition: the open agent operating system.",
         "url": "https://github.com/unicity-aos/aos-ce",
-        "stars": 7609,
+        "stars": 7709,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
       },
       {
-        "name": "x4gKing/X4G",
-        "description": null,
-        "url": "https://github.com/x4gKing/X4G",
-        "stars": 6893,
+        "name": "img2threejs/img2threejs",
+        "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+        "url": "https://github.com/img2threejs/img2threejs",
+        "stars": 7566,
         "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/298382259?v=4"
+        "owner_avatar": "https://avatars.githubusercontent.com/u/309001690?v=4"
       }
     ]
   }
