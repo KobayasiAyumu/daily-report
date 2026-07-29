@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-07-28T22:50:54Z"
+    "last_updated": "2026-07-29T22:49:53Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "セキュリティの勉強になるサイト138選(2026年版)",
         "url": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00",
-        "likes": 339,
+        "likes": 416,
         "author": "Nakanishi_RareTECH",
         "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIaES9YU5T-wmuHvd7JpqI7Bmfswqp0NuRf1BHtVYZHJ28opg=s96-c",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート",
         "url": "https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66",
-        "likes": 94,
+        "likes": 162,
         "author": "hikariclaude01",
         "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLi5iQ8Ozb19TzY9CtZTkZVJnzvWlQ1jdhvQ4cL3GNv3KEn1Q=s96-c",
         "tags": [
@@ -35,7 +35,7 @@
       {
         "title": "個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想",
         "url": "https://qiita.com/sumomoo/items/700e37b3240717217b37",
-        "likes": 85,
+        "likes": 97,
         "author": "sumomoo",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
         "tags": [
@@ -49,7 +49,7 @@
       {
         "title": "ひとことで、言え。～スライドをAIで作り直したらわかりにくくなった話～",
         "url": "https://qiita.com/WdknWdkn/items/ba228da40b5d2fd1b612",
-        "likes": 82,
+        "likes": 83,
         "author": "WdknWdkn",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/215128/cd71934f318b00f0dd4957b5850bc980c92104ed/x_large.png?1638755863",
         "tags": [
@@ -61,74 +61,75 @@
         "created_at": "2026-07-25T20:22:16+09:00"
       },
       {
-        "title": "AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった",
-        "url": "https://qiita.com/watany/items/11358e8e8966d5e48a09",
-        "likes": 71,
-        "author": "watany",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/528454/1971f60fa13e9c0e5967de15cf45acfc5da263bb/x_large.png?1572997746",
+        "title": "先輩の「なぜこうしたの？」に毎回パニックになってたけど、整理するだけで上手に話せるようになった",
+        "url": "https://qiita.com/prumnn/items/0fe99e9afff2c9f79fcd",
+        "likes": 83,
+        "author": "prumnn",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4458573/f7b785438856102cf19e0a6404d1431c1c86cca4/x_large.png?1783310920",
         "tags": [
-          "AI",
-          "生成AI",
-          "LLM",
-          "ClaudeCode"
+          "未経験エンジニア",
+          "新人プログラマ応援",
+          "初心者",
+          "コミュニケーション"
         ],
-        "created_at": "2026-07-25T15:46:06+09:00"
+        "created_at": "2026-07-22T17:01:40+09:00"
       },
       {
-        "title": "開発効率が上がったCLIツール・コマンド10選",
-        "url": "https://qiita.com/NekoByte/items/efa81aaa8a61d3478568",
-        "likes": 69,
-        "author": "NekoByte",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4373011/97d6cf312640c089b21325de1642bcbc2ef977b1/x_large.png?1772668435",
+        "title": "白って1600色あんねん！",
+        "url": "https://qiita.com/ishi720/items/3e4597bc50695fa9bf79",
+        "likes": 83,
+        "author": "ishi720",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/26811527?v=4",
         "tags": [
-          "Qiita",
-          "プログラミング"
+          "JavaScript",
+          "ユークリッド距離",
+          "rgb"
         ],
-        "created_at": "2026-07-26T01:56:11+09:00"
+        "created_at": "2026-07-19T09:02:52+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "【決着】Claude CodeとCodexの設定ファイルを同期させる (みんな仲良く)",
-        "url": "https://zenn.dev/explaza/articles/20f7f41cff8428",
-        "author": "Kanta",
-        "date": "Tue, 28 Jul 2026 04:40:29 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1vWCjHEi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E6%25B1%25BA%25E7%259D%2580%25E3%2580%2591Claude%2520Code%25E3%2581%25A8Codex%25E3%2581%25AE%25E8%25A8%25AD%25E5%25AE%259A%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25E5%2590%258C%25E6%259C%259F%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%2520%2528%25E3%2581%25BF%25E3%2582%2593%25E3%2581%25AA%25E4%25BB%25B2%25E8%2589%25AF%25E3%2581%258F%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kanta%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQzOWQzZGM0MGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B6%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFhM2QzMzA4YjIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "[gamification] DIVER OSINT CTF 2026 Writeup",
+        "url": "https://zenn.dev/syurenuko/articles/7c1834466efd8a",
+        "author": "syurenuko",
+        "date": "Wed, 29 Jul 2026 11:34:02 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--iycmC-FS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255Bgamification%255D%2520DIVER%2520OSINT%2520CTF%25202026%2520Writeup%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:syurenuko%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY5ODMxZThmYjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Microsoft APM を試してみる　(npmと対比しながら）",
-        "url": "https://zenn.dev/xtm_blog/articles/f016695e2839ee",
-        "author": "ksdev",
-        "date": "Tue, 28 Jul 2026 04:31:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--BfrX_whR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Microsoft%2520APM%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%25E3%2580%2580%2528npm%25E3%2581%25A8%25E5%25AF%25BE%25E6%25AF%2594%25E3%2581%2597%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ksdev%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzMDdmZjAyYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%2588%25E4%25BA%25AC%25E9%2583%25BD%25E8%258A%25B8%25E8%25A1%2593%25E5%25A4%25A7%25E5%25AD%25A6%25EF%25BC%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RmZGFmNGQwYTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "GPT-5.6とBlender MCPで、多少マシな3Dモデリングをさせるまで",
+        "url": "https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling",
+        "author": "ぷらむらいす(PlumRice)",
+        "date": "Wed, 29 Jul 2026 00:57:38 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--DT_2Hrt2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT-5.6%25E3%2581%25A8Blender%2520MCP%25E3%2581%25A7%25E3%2580%2581%25E5%25A4%259A%25E5%25B0%2591%25E3%2583%259E%25E3%2582%25B7%25E3%2581%25AA3D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B7%25E3%2582%2589%25E3%2582%2580%25E3%2582%2589%25E3%2581%2584%25E3%2581%2599%2528PlumRice%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiZTA0ODE1OTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",
-        "url": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
-        "author": "junko.dohi",
-        "date": "Mon, 27 Jul 2026 23:19:53 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZntJNLtt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E9%2580%259F%25E5%25A0%25B1%25E3%2580%2591Kimi-K3%2520%25E3%2582%2592%2520Day0%2520%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2580%25822.8T%2520%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AF%2520NVIDIA%2520B300%2520x8%2520%25E3%2581%25AE%25201%2520%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:junko.dohi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M4YTI5OTEwMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fixstars%2520Tech%2520Blog%2520%252F...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4ZGRiZDdhYjguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【Claude Code】planモードはもう使っていない",
+        "url": "https://zenn.dev/notahotel/articles/0c28638945aa32",
+        "author": "haru067",
+        "date": "Wed, 29 Jul 2026 00:37:17 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--nyxB80Vc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Claude%2520Code%25E3%2580%2591plan%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AF%25E3%2582%2582%25E3%2581%2586%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:haru067%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxOGNjZTA4NTYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NOT%2520A%2520HOTEL%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZWZiZWIxYTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Agentic RLではtool callを含むtrajectoryをどう学習するのか",
-        "url": "https://zenn.dev/takkuhiro/articles/agentic-rl-trajectory-mechanics",
-        "author": "Hirotaka",
-        "date": "Mon, 27 Jul 2026 22:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Y3k-M4uF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Agentic%2520RL%25E3%2581%25A7%25E3%2581%25AFtool%2520call%25E3%2582%2592%25E5%2590%25AB%25E3%2582%2580trajectory%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hirotaka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTVjMWlIS0g2Z1dlUzU0UnREY2hJQk5QbDc5NWhKbmVvdjRDTHpkV2xrMkxCbWZTRT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "自分で作るクラウド競技",
+        "url": "https://zenn.dev/bull/books/cloud-competition",
+        "author": "bull",
+        "date": "Wed, 29 Jul 2026 00:15:14 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--CEMlvg7X--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8zYjkyYjBhZWZmLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
       },
       {
-        "title": "ステージング環境をセルフサービス化しチームの開発速度を向上させた方法",
-        "url": "https://zenn.dev/fusic/articles/83c6b9a1e7c7d0",
-        "author": "Takeguchi",
-        "date": "Mon, 27 Jul 2026 09:46:14 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--hdTlkWL0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25B3%25E3%2582%25B0%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E3%2582%25BB%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E5%258C%2596%25E3%2581%2597%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E9%2580%259F%25E5%25BA%25A6%25E3%2582%2592%25E5%2590%2591%25E4%25B8%258A%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Takeguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRhZTI3YWE0ZGYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "自作APIをChatGPTからアクセス可能にする「Super MCP」",
+        "url": "https://zenn.dev/reizt/articles/super-mcp-chatgpt",
+        "author": "Reiju Takahashi",
+        "date": "Wed, 29 Jul 2026 00:00:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--nhdSuHaK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E4%25BD%259CAPI%25E3%2582%2592ChatGPT%25E3%2581%258B%25E3%2582%2589%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2580%258CSuper%2520MCP%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Reiju%2520Takahashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhMWJjMTZlYTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "「Simple Made Easy」の観点から、UI/UXはどうあるべきか",
-        "url": "https://zenn.dev/pksha/articles/6cdf19e5fe8065",
-        "author": "Hyuga Yamaguchi",
-        "date": "Mon, 27 Jul 2026 07:22:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tDlJEObj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CSimple%2520Made%2520Easy%25E3%2580%258D%25E3%2581%25AE%25E8%25A6%25B3%25E7%2582%25B9%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581UI%252FUX%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E3%2581%2582%25E3%2582%258B%25E3%2581%25B9%25E3%2581%258D%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hyuga%2520Yamaguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTHdyc2FKNWpfVG5yTXMzQVU2MDk5X2J4Y0JMNW5udkxGSHJ0MTRnUk55blBESnB3PXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "NVIDIA DGX Spark でソフトウェア開発に最適な Gemma 4 モデルを検証する (31B vs 26B)",
+        "url": "https://zenn.dev/st_little/articles/gemma4-benchmark-dgx-spark",
+        "author": "little method",
+        "date": "Tue, 28 Jul 2026 13:56:04 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--XNok1lo5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:NVIDIA%2520DGX%2520Spark%2520%25E3%2581%25A7%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E6%259C%2580%25E9%2581%25A9%25E3%2581%25AA%2520Gemma%25204%2520%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2520%252831B%2520vs%252026B%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:little%2520method%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1MzFRX0lpMkZWUVdwclRKOUluaXJPN092TlI2WkV6c1A3WGRRMTU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -136,7 +137,7 @@
         "name": "xai-org/grok-build",
         "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
         "url": "https://github.com/xai-org/grok-build",
-        "stars": 23231,
+        "stars": 23416,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/130314967?v=4"
       },
@@ -144,7 +145,7 @@
         "name": "JustVugg/colibri",
         "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "url": "https://github.com/JustVugg/colibri",
-        "stars": 20593,
+        "stars": 20984,
         "language": "C",
         "owner_avatar": "https://avatars.githubusercontent.com/u/13022503?v=4"
       },
@@ -152,7 +153,7 @@
         "name": "Fei-Away/Codex-Dream-Skin",
         "description": "Codex Dream Skin",
         "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-        "stars": 12569,
+        "stars": 12686,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/100042407?v=4"
       },
@@ -160,25 +161,25 @@
         "name": "andrewyng/openworker",
         "description": null,
         "url": "https://github.com/andrewyng/openworker",
-        "stars": 9970,
+        "stars": 10588,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/3710007?v=4"
-      },
-      {
-        "name": "unicity-aos/aos-ce",
-        "description": "AOS Community Edition: the open agent operating system.",
-        "url": "https://github.com/unicity-aos/aos-ce",
-        "stars": 7709,
-        "language": "Rust",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
       },
       {
         "name": "img2threejs/img2threejs",
         "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
         "url": "https://github.com/img2threejs/img2threejs",
-        "stars": 7566,
+        "stars": 8119,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/309001690?v=4"
+      },
+      {
+        "name": "unicity-aos/aos-ce",
+        "description": "AOS Community Edition: the open agent operating system.",
+        "url": "https://github.com/unicity-aos/aos-ce",
+        "stars": 7822,
+        "language": "Rust",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
       }
     ]
   }
