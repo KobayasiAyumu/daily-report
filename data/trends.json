@@ -1,27 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-07-30T22:55:35Z"
+    "last_updated": "2026-07-31T22:51:09Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート",
-        "url": "https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66",
-        "likes": 174,
-        "author": "hikariclaude01",
-        "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLi5iQ8Ozb19TzY9CtZTkZVJnzvWlQ1jdhvQ4cL3GNv3KEn1Q=s96-c",
-        "tags": [
-          "ClaudeCode",
-          "AI",
-          "開発環境",
-          "プロンプトエンジニアリング"
-        ],
-        "created_at": "2026-07-20T10:01:57+09:00"
-      },
-      {
         "title": "Mac mini（M4 Pro / 48GB）で「完全ローカル」のLLM + RAG環境を構築してみた",
         "url": "https://qiita.com/y-okayama-tb/items/0127a7c5203f44507474",
-        "likes": 100,
+        "likes": 103,
         "author": "y-okayama-tb",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4105422/c8a9ea6777220941f3ade9f37458536a886a6f02/x_large.png?1756275205",
         "tags": [
@@ -34,7 +20,7 @@
       {
         "title": "個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想",
         "url": "https://qiita.com/sumomoo/items/700e37b3240717217b37",
-        "likes": 99,
+        "likes": 100,
         "author": "sumomoo",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
         "tags": [
@@ -86,15 +72,43 @@
           "ClaudeCode"
         ],
         "created_at": "2026-07-25T15:46:06+09:00"
+      },
+      {
+        "title": "新人のうちは、わからないことを早くいったほうが得という話",
+        "url": "https://qiita.com/sumomoo/items/2d70dc11cab7a580321b",
+        "likes": 71,
+        "author": "sumomoo",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
+        "tags": [
+          "未経験エンジニア",
+          "初心者",
+          "新人プログラマ応援",
+          "コミュニケーション"
+        ],
+        "created_at": "2026-07-21T16:59:43+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "メテオフォール開発",
+        "url": "https://zenn.dev/hisaju01/books/meteorfall-development",
+        "author": "ひさじゅ",
+        "date": "Fri, 31 Jul 2026 06:16:08 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9PxzUX3I--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9jZDEwMzYwMzM0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
+      },
       {
         "title": "生成AIにおけるHTML/画像出力の必要性と改善案としてのRHW(reviewable-html-workbench)の紹介",
         "url": "https://zenn.dev/u1/articles/rhw-reviewable-html-workbench",
         "author": "Yuichi Uemura",
         "date": "Thu, 30 Jul 2026 12:16:48 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--R5gIqEJI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BHTML%252F%25E7%2594%25BB%25E5%2583%258F%25E5%2587%25BA%25E5%258A%259B%25E3%2581%25AE%25E5%25BF%2585%25E8%25A6%2581%25E6%2580%25A7%25E3%2581%25A8%25E6%2594%25B9%25E5%2596%2584%25E6%25A1%2588%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25AERHW%2528reviewable-html-workbenc...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2520Uemura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwM2U1NDBiMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "0.5くらいから始めるPersonal Knowledge Base 構築実践",
+        "url": "https://zenn.dev/mkj/articles/claudian-orchestra-build_20260720",
+        "author": "Taisei Ozaki",
+        "date": "Thu, 30 Jul 2026 08:00:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--SVY2_SDp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:0.5%25E3%2581%258F%25E3%2582%2589%25E3%2581%2584%25E3%2581%258B%25E3%2582%2589%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258BPersonal%2520Knowledge%2520Base%2520%25E6%25A7%258B%25E7%25AF%2589%25E5%25AE%259F%25E8%25B7%25B5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Taisei%2520Ozaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0Y1hKN2I4TjdPWHZzNV9JcnV2cjQzRDF3OVZxamVwUnN2ckNycVAxVndtbzlrPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
         "title": "リリース前チェックをAIで行う「プロダクトリリースハーネス」のつくり方",
@@ -116,20 +130,6 @@
         "author": "Kobara Toi",
         "date": "Wed, 29 Jul 2026 14:05:30 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--uHAALmRu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MCP%25E3%2581%25AE%25E5%25A4%25A7%25E5%259E%258B%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588%25EF%25BC%25882026-07-28%25EF%25BC%2589%25E3%2581%25A7%25E4%25BD%2595%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E3%2581%258B%2520%25E2%2580%2594%25E2%2580%2594%2520TypeScript%2520SDK%2520v2%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kobara%2520Toi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U4MjYwMWZiMGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "agent-browserはもう古い？ Web調査をコマンドに変えるOpenCLI",
-        "url": "https://zenn.dev/nasubikun/articles/opencli-web-research",
-        "author": "jomatsu",
-        "date": "Wed, 29 Jul 2026 09:40:25 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--jVMyFLM3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:agent-browser%25E3%2581%25AF%25E3%2582%2582%25E3%2581%2586%25E5%258F%25A4%25E3%2581%2584%25EF%25BC%259F%2520Web%25E8%25AA%25BF%25E6%259F%25BB%25E3%2582%2592%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258BOpenCLI%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jomatsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4ZGMxNjg2NDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "GPT-5.6とBlender MCPで、多少マシな3Dモデリングをさせるまで",
-        "url": "https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling",
-        "author": "ぷらむらいす(PlumRice)",
-        "date": "Wed, 29 Jul 2026 00:57:38 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--DT_2Hrt2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT-5.6%25E3%2581%25A8Blender%2520MCP%25E3%2581%25A7%25E3%2580%2581%25E5%25A4%259A%25E5%25B0%2591%25E3%2583%259E%25E3%2582%25B7%25E3%2581%25AA3D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B7%25E3%2582%2589%25E3%2582%2580%25E3%2582%2589%25E3%2581%2584%25E3%2581%2599%2528PlumRice%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiZTA0ODE1OTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -137,23 +137,15 @@
         "name": "xai-org/grok-build",
         "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
         "url": "https://github.com/xai-org/grok-build",
-        "stars": 23557,
+        "stars": 23696,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/130314967?v=4"
-      },
-      {
-        "name": "JustVugg/colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "url": "https://github.com/JustVugg/colibri",
-        "stars": 21224,
-        "language": "C",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/13022503?v=4"
       },
       {
         "name": "Fei-Away/Codex-Dream-Skin",
         "description": "Codex Dream Skin",
         "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-        "stars": 12780,
+        "stars": 12890,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/100042407?v=4"
       },
@@ -161,7 +153,7 @@
         "name": "andrewyng/openworker",
         "description": null,
         "url": "https://github.com/andrewyng/openworker",
-        "stars": 10976,
+        "stars": 11320,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/3710007?v=4"
       },
@@ -169,7 +161,7 @@
         "name": "img2threejs/img2threejs",
         "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
         "url": "https://github.com/img2threejs/img2threejs",
-        "stars": 8534,
+        "stars": 8776,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/309001690?v=4"
       },
@@ -177,9 +169,17 @@
         "name": "unicity-aos/aos-ce",
         "description": "AOS Community Edition: the open agent operating system.",
         "url": "https://github.com/unicity-aos/aos-ce",
-        "stars": 8064,
+        "stars": 8575,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/261740341?v=4"
+      },
+      {
+        "name": "openai/codex-security",
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "url": "https://github.com/openai/codex-security",
+        "stars": 7798,
+        "language": "TypeScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4"
       }
     ]
   }
