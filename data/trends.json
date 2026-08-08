@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-08-07T22:24:35Z"
+    "last_updated": "2026-08-08T22:17:46Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理",
         "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384",
-        "likes": 118,
+        "likes": 122,
         "author": "Y-Y-dev",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4201421/9c04a94a035d9f811e39484fb5f7454d398832f0/large.png?1761788207",
         "tags": [
@@ -15,6 +15,34 @@
           "codex"
         ],
         "created_at": "2026-08-02T08:38:39+09:00"
+      },
+      {
+        "title": "Web API設計の現在地2026",
+        "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
+        "likes": 95,
+        "author": "tatsuya582",
+        "avatar_url": "https://avatars.githubusercontent.com/u/145332193?v=4",
+        "tags": [
+          "WebAPI",
+          "API",
+          "設計",
+          "Web"
+        ],
+        "created_at": "2026-08-07T12:06:02+09:00"
+      },
+      {
+        "title": "コードベースのナレッジ化なら、LLM Wikiで十分かもしれない",
+        "url": "https://qiita.com/Syoitu/items/ff38655fed51a2920910",
+        "likes": 83,
+        "author": "Syoitu",
+        "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/320164/profile-images/1543311752",
+        "tags": [
+          "Agent",
+          "bedrock",
+          "agentwiki",
+          "rag"
+        ],
+        "created_at": "2026-07-30T15:24:02+09:00"
       },
       {
         "title": "50音を全部作って繋いだのに、（　´∀｀）になった話",
@@ -29,20 +57,6 @@
           "音声処理"
         ],
         "created_at": "2026-08-04T10:11:44+09:00"
-      },
-      {
-        "title": "コードベースのナレッジ化なら、LLM Wikiで十分かもしれない",
-        "url": "https://qiita.com/Syoitu/items/ff38655fed51a2920910",
-        "likes": 81,
-        "author": "Syoitu",
-        "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/320164/profile-images/1543311752",
-        "tags": [
-          "Agent",
-          "bedrock",
-          "agentwiki",
-          "rag"
-        ],
-        "created_at": "2026-07-30T15:24:02+09:00"
       },
       {
         "title": "「経験がないから」を言い訳にしなくていい時代になった",
@@ -61,29 +75,44 @@
       {
         "title": "社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと",
         "url": "https://qiita.com/rira__/items/dab9765ffd6aae8f0c07",
-        "likes": 70,
+        "likes": 72,
         "author": "rira__",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4351995/profile-images/1773803751",
         "tags": [
           "社内SE"
         ],
         "created_at": "2026-07-31T20:28:10+09:00"
-      },
-      {
-        "title": "Claude Code「/config」設定の教科書 ― 全42項目を1つずつ解説＋おすすめ設定（v2.1.220対応）",
-        "url": "https://qiita.com/f_uto/items/438336db3684cf662321",
-        "likes": 67,
-        "author": "f_uto",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/84965/profile-images/1712099025",
-        "tags": [
-          "ClaudeCode",
-          "Config",
-          "Claude"
-        ],
-        "created_at": "2026-07-27T22:21:33+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "Redditのヘッジファンド、クオンツトピックをGrokタスクで毎週自動収集する",
+        "url": "https://zenn.dev/gamella/articles/1fc2949daf99de",
+        "author": "Tomoya Kitayama | AlpacaTech",
+        "date": "Sat, 08 Aug 2026 01:45:28 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--2sxN9GG_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Reddit%25E3%2581%25AE%25E3%2583%2598%25E3%2583%2583%25E3%2582%25B8%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2589%25E3%2580%2581%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2584%25E3%2583%2588%25E3%2583%2594%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592Grok%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E3%2581%25A7%25E6%25AF%258E%25E9%2580%25B1%25E8%2587%25AA%25E5%258B%2595%25E5%258F%258E%25E9%259B%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tomoya%2520Kitayama%2520%257C%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0MTFiOWQ1NzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "ウルトラ gpt-5.5-sol high の供養記事",
+        "url": "https://zenn.dev/microsoft/articles/agent-framework-ultra-soul-memorial",
+        "author": "Kazuki Ota",
+        "date": "Fri, 07 Aug 2026 04:42:45 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1XK4n_h_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A6%25E3%2583%25AB%25E3%2583%2588%25E3%2583%25A9%2520gpt-5.5-sol%2520high%2520%25E3%2581%25AE%25E4%25BE%259B%25E9%25A4%258A%25E8%25A8%2598%25E4%25BA%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kazuki%2520Ota%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmNzg3NDJjNDQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "楽観ロックの実装でおさえたいポイントと、よくあるしくじり",
+        "url": "https://zenn.dev/levtech/articles/how-to-concrete-optimistic-lock",
+        "author": "もりた",
+        "date": "Fri, 07 Aug 2026 03:03:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--j2PcvzvB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A5%25BD%25E8%25A6%25B3%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25A7%25E3%2581%258A%25E3%2581%2595%25E3%2581%2588%25E3%2581%259F%25E3%2581%2584%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A8%25E3%2580%2581%25E3%2582%2588%25E3%2581%258F%25E3%2581%2582%25E3%2582%258B%25E3%2581%2597%25E3%2581%258F%25E3%2581%2598%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%2582%25E3%2582%258A%25E3%2581%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY1YzcxZDY5NDkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AC%25E3%2583%2590%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E9%2596%258B%25E7%2599%25BA%25E9%2583%25A8%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmduNmRjWi1heEt6c1JkLXQ4UmxGcmRJMi1VV0tnTUpiamZISmQ5T0hqdmI4PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "自作BIツール × DWHで挑むデータの民主化",
+        "url": "https://zenn.dev/finatext/articles/crest-bi-dwh-data-democratization",
+        "author": "bigmegaphone",
+        "date": "Fri, 07 Aug 2026 02:00:39 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6CoWtp1c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E4%25BD%259CBI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2520%25C3%2597%2520DWH%25E3%2581%25A7%25E6%258C%2591%25E3%2582%2580%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E6%25B0%2591%25E4%25B8%25BB%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:bigmegaphone%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4WWN1SHZDWWwwUkxXU2NYLXh3eXRMblVMamVMSzNFV2YtWHlSNkJKQT1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
       {
         "title": "手を動かしてStacked pull requestのgh stackを理解してみた",
         "url": "https://zenn.dev/kesin11/articles/20260806_stacked_pr",
@@ -92,39 +121,11 @@
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--nlgPfQ9f--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2589%258B%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6Stacked%2520pull%2520request%25E3%2581%25AEgh%2520stack%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kesin11%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l5YnpxY196Y2VPbEhIWlJGajNaSDdYWlM0OXVCNzdFZVZjV2xrbXc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Kaggle ROGIIコンペ振り返りー192nd Place Solution",
-        "url": "https://zenn.dev/fusic/articles/240bd206835c53",
-        "author": "xthixsl_ml@レオナ",
-        "date": "Thu, 06 Aug 2026 22:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--GwiKNSCb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%2520ROGII%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%25E3%2583%25BC192nd%2520Place%2520Solution%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:xthixsl_ml%2540%25E3%2583%25AC%25E3%2582%25AA%25E3%2583%258A%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzOGE3MzVjMDIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
         "title": "58% の Pull Request を AI が承認するようになった",
         "url": "https://zenn.dev/she_techblog/articles/937836550dfdf3",
         "author": "qsona",
         "date": "Thu, 06 Aug 2026 21:10:44 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--pO2ry0vy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:58%2525%2520%25E3%2581%25AE%2520Pull%2520Request%2520%25E3%2582%2592%2520AI%2520%25E3%2581%258C%25E6%2589%25BF%25E8%25AA%258D%25E3%2581%2599%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:qsona%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YyZjVjMWE4NWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SHE%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2ctNEdEcmdOOW80SFFEbjVsaENxT29lOHVwYzMyRkRySlZsREVOPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "面白くない自作パズルをAIに8,000回プレイさせたら原因がわかった！",
-        "url": "https://zenn.dev/xtone/articles/masshiro-ai-playtest",
-        "author": "canecco",
-        "date": "Thu, 06 Aug 2026 10:27:14 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--EFGMQoka--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259D%25A2%25E7%2599%25BD%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25E8%2587%25AA%25E4%25BD%259C%25E3%2583%2591%25E3%2582%25BA%25E3%2583%25AB%25E3%2582%2592AI%25E3%2581%25AB8%252C000%25E5%259B%259E%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E5%258E%259F%25E5%259B%25A0%25E3%2581%258C%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:canecco%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjYmIwM2VhZTQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:xtone%2520tech%2520blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg3Yzk4NDcxNDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "LLM Wikiパターンの標準化 OKF(Open Knowledge Format)",
-        "url": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
-        "author": "NemoS",
-        "date": "Thu, 06 Aug 2026 02:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Vk6HlSkB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%2520Wiki%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25AE%25E6%25A8%2599%25E6%25BA%2596%25E5%258C%2596%2520OKF%2528Open%2520Knowledge%2520Format%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:NemoS%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ1ZThiZDc0OTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた",
-        "url": "https://zenn.dev/ait/articles/google-design-md-measured",
-        "author": "aito",
-        "date": "Wed, 05 Aug 2026 18:49:06 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--jMnkgfHm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DESIGN.md%2520%25E3%2582%2592%25E7%25BD%25AE%25E3%2581%258F%25E3%2581%25A8%25E3%2580%2581%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25BE%25E3%2581%25A7%25E3%2580%258C%25E3%2581%2584%25E3%2581%2584%25E6%2584%259F%25E3%2581%2598%25E3%2580%258D%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2594%252074%25E4%25BB%25B6%25E3%2582%2592%25E6%25B8%25AC%25E3%2581%25A3%25E3%2581%25A6%25E7%25A2%25BA%25E3%2581%258B%25E3%2582%2581%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:aito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZlNzFlNDU3YjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -132,7 +133,7 @@
         "name": "xai-org/grok-build",
         "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
         "url": "https://github.com/xai-org/grok-build",
-        "stars": 24391,
+        "stars": 24473,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/130314967?v=4"
       },
@@ -140,7 +141,7 @@
         "name": "andrewyng/openworker",
         "description": null,
         "url": "https://github.com/andrewyng/openworker",
-        "stars": 13563,
+        "stars": 13798,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/3710007?v=4"
       },
@@ -148,7 +149,7 @@
         "name": "Fei-Away/Codex-Dream-Skin",
         "description": "Codex Dream Skin",
         "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-        "stars": 13394,
+        "stars": 13430,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/100042407?v=4"
       },
@@ -156,7 +157,7 @@
         "name": "yc-software/qm",
         "description": "Multiplayer agent harness for work",
         "url": "https://github.com/yc-software/qm",
-        "stars": 12275,
+        "stars": 12527,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/153323858?v=4"
       },
@@ -164,7 +165,7 @@
         "name": "firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
         "url": "https://github.com/firecrawl/anydoc",
-        "stars": 10888,
+        "stars": 12062,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4"
       },
@@ -172,7 +173,7 @@
         "name": "img2threejs/img2threejs",
         "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
         "url": "https://github.com/img2threejs/img2threejs",
-        "stars": 10167,
+        "stars": 10243,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/309001690?v=4"
       }
