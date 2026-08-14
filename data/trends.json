@@ -1,13 +1,27 @@
 {
   "metadata": {
-    "last_updated": "2026-08-13T22:30:08Z"
+    "last_updated": "2026-08-14T22:11:54Z"
   },
   "trends": {
     "qiita": [
       {
+        "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証",
+        "url": "https://qiita.com/y0us91/items/2feffd2cc6c672717973",
+        "likes": 324,
+        "author": "y0us91",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/169095/6b9e3068277ba050145709776d5eda7ddc2d20e8/x_large.png?1779943777",
+        "tags": [
+          "AIエージェント",
+          "生成AI",
+          "ソフトウェアテスト",
+          "テスト自動化"
+        ],
+        "created_at": "2026-08-11T19:42:07+09:00"
+      },
+      {
         "title": "Web API設計の現在地2026",
         "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
-        "likes": 271,
+        "likes": 277,
         "author": "tatsuya582",
         "avatar_url": "https://avatars.githubusercontent.com/u/145332193?v=4",
         "tags": [
@@ -21,7 +35,7 @@
       {
         "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理",
         "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384",
-        "likes": 211,
+        "likes": 217,
         "author": "Y-Y-dev",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4201421/9c04a94a035d9f811e39484fb5f7454d398832f0/large.png?1761788207",
         "tags": [
@@ -31,23 +45,9 @@
         "created_at": "2026-08-02T08:38:39+09:00"
       },
       {
-        "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証",
-        "url": "https://qiita.com/y0us91/items/2feffd2cc6c672717973",
-        "likes": 168,
-        "author": "y0us91",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/169095/6b9e3068277ba050145709776d5eda7ddc2d20e8/x_large.png?1779943777",
-        "tags": [
-          "AIエージェント",
-          "生成AI",
-          "ソフトウェアテスト",
-          "テスト自動化"
-        ],
-        "created_at": "2026-08-11T19:42:07+09:00"
-      },
-      {
         "title": "わかるようでわからないssh接続について",
         "url": "https://qiita.com/hrfm1623/items/91115760e4bd66f7995a",
-        "likes": 153,
+        "likes": 155,
         "author": "hrfm1623",
         "avatar_url": "https://avatars.githubusercontent.com/u/152576985?v=4",
         "tags": [
@@ -60,7 +60,7 @@
       {
         "title": "【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表",
         "url": "https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8",
-        "likes": 137,
+        "likes": 144,
         "author": "Tadataka_Takahashi",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2648069/8eccc5249d47bbac3f963322df4150e2cafb4ece/x_large.png?1764862615",
         "tags": [
@@ -74,7 +74,7 @@
       {
         "title": "50音を全部作って繋いだのに、（　´∀｀）になった話",
         "url": "https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770",
-        "likes": 102,
+        "likes": 103,
         "author": "taguchi_sapeet",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4445497/d5d41d0d83ea3f573ad555e808a08d19c35bb660/large.png?1780986106",
         "tags": [
@@ -87,6 +87,13 @@
       }
     ],
     "zenn": [
+      {
+        "title": "Oxc Minifierの変数マングル仕組み",
+        "url": "https://zenn.dev/sapphi_red/articles/636d34f84494fb",
+        "author": "翠",
+        "date": "Thu, 13 Aug 2026 09:19:11 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--o_N0Ig_W--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Oxc%2520Minifier%25E3%2581%25AE%25E5%25A4%2589%25E6%2595%25B0%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25AB%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%25BF%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUFrSkNJZ1Buek1kODJiQ2F4cU01YVFFSXJDdjA4YVFMbUMwTWVPcVl1a2gzM0pEST1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
       {
         "title": "AIエージェントと進めるソフトウェア開発",
         "url": "https://zenn.dev/hako_hako/books/nexus-product-new-development",
@@ -109,25 +116,18 @@
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--YrTF6KBw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2590%258C%25E3%2581%2598Rust%25E8%25A3%25BD%25E3%2581%25AEBiome%25E3%2581%25A8Oxlint%25E3%2581%25A7%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E9%2580%259F%25E5%25BA%25A6%25E5%25B7%25AE%25E3%2581%258C%25E5%25A4%25A7%25E3%2581%258D%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yamarin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwYzZlODUxOGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:estie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcwNmQ0NzRmOGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
+        "title": "なぜAI時代にGoが最適な言語なのか",
+        "url": "https://zenn.dev/iwatsukayura/articles/google-go-ai",
+        "author": "IwatsukaYura",
+        "date": "Wed, 12 Aug 2026 13:05:44 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Fj-TDWBT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259CAI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25ABGo%25E3%2581%258C%25E6%259C%2580%25E9%2581%25A9%25E3%2581%25AA%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:IwatsukaYura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I2Y2Y1MzQ4MzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
         "title": "Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた",
         "url": "https://zenn.dev/hellorusk/articles/3328866ca9e922",
         "author": "Kaito Sugimoto",
         "date": "Wed, 12 Aug 2026 08:52:20 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--BQ6yKX4L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520%25E3%2581%258C%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E9%259B%25BB%25E5%25AD%2590%25E9%2580%258F%25E3%2581%258B%25E3%2581%2597%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581LLM%2520%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kaito%2520Sugimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxMTZhZmU1YmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化",
-        "url": "https://zenn.dev/knowledgework/articles/2114d46c201da3",
-        "author": "tettan",
-        "date": "Wed, 12 Aug 2026 02:50:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9dQELnrA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BAI%25E6%25B4%25BB%25E7%2594%25A8%25E3%2582%2592%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259FQA%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tettan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E4MWZhOWNhZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFpFSTRwaU9EY0pwTFo3bWVsRm1vMGRrZlZNbDhaX21aRkt3bzlyOGFuSGMybndVY1A9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "【Go】Dockerfile に air は不要？ Use Compose Watch を前提にしたコンテナ構築",
-        "url": "https://zenn.dev/otakakot/articles/693a8367fd5f01",
-        "author": "おーたかこーたろー",
-        "date": "Wed, 12 Aug 2026 01:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--npAeFqkq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Dockerfile%2520%25E3%2581%25AB%2520air%2520%25E3%2581%25AF%25E4%25B8%258D%25E8%25A6%2581%25EF%25BC%259F%2520Use%2520Compose%2520Watch%2520%25E3%2582%2592%25E5%2589%258D%25E6%258F%2590%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2583%25BC%25E3%2581%259F%25E3%2581%258B%25E3%2581%2593%25E3%2583%25BC%25E3%2581%259F%25E3%2582%258D%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlODRhZTM5M2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +135,7 @@
         "name": "deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 38900,
+        "stars": 94822,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -143,7 +143,7 @@
         "name": "firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
         "url": "https://github.com/firecrawl/anydoc",
-        "stars": 15651,
+        "stars": 16079,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4"
       },
@@ -151,33 +151,33 @@
         "name": "andrewyng/openworker",
         "description": null,
         "url": "https://github.com/andrewyng/openworker",
-        "stars": 14406,
+        "stars": 14503,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/3710007?v=4"
-      },
-      {
-        "name": "Fei-Away/Codex-Dream-Skin",
-        "description": "Codex Dream Skin",
-        "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-        "stars": 13662,
-        "language": "JavaScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/100042407?v=4"
       },
       {
         "name": "yc-software/qm",
         "description": "Multiplayer agent harness for work.",
         "url": "https://github.com/yc-software/qm",
-        "stars": 13445,
+        "stars": 13549,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/153323858?v=4"
       },
       {
-        "name": "img2threejs/img2threejs",
-        "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-        "url": "https://github.com/img2threejs/img2threejs",
-        "stars": 11583,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/309001690?v=4"
+        "name": "MoonshotAI/Kimi-K3",
+        "description": "Open Frontier Intelligence",
+        "url": "https://github.com/MoonshotAI/Kimi-K3",
+        "stars": 8443,
+        "language": "",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/129152888?v=4"
+      },
+      {
+        "name": "trycompai/crm",
+        "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+        "url": "https://github.com/trycompai/crm",
+        "stars": 8440,
+        "language": "TypeScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/195194844?v=4"
       }
     ]
   }
