@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-08-14T22:11:54Z"
+    "last_updated": "2026-08-15T22:10:02Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証",
         "url": "https://qiita.com/y0us91/items/2feffd2cc6c672717973",
-        "likes": 324,
+        "likes": 363,
         "author": "y0us91",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/169095/6b9e3068277ba050145709776d5eda7ddc2d20e8/x_large.png?1779943777",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "Web API設計の現在地2026",
         "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
-        "likes": 277,
+        "likes": 280,
         "author": "tatsuya582",
         "avatar_url": "https://avatars.githubusercontent.com/u/145332193?v=4",
         "tags": [
@@ -33,21 +33,9 @@
         "created_at": "2026-08-07T12:06:02+09:00"
       },
       {
-        "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理",
-        "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384",
-        "likes": 217,
-        "author": "Y-Y-dev",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4201421/9c04a94a035d9f811e39484fb5f7454d398832f0/large.png?1761788207",
-        "tags": [
-          "Claude",
-          "codex"
-        ],
-        "created_at": "2026-08-02T08:38:39+09:00"
-      },
-      {
         "title": "わかるようでわからないssh接続について",
         "url": "https://qiita.com/hrfm1623/items/91115760e4bd66f7995a",
-        "likes": 155,
+        "likes": 157,
         "author": "hrfm1623",
         "avatar_url": "https://avatars.githubusercontent.com/u/152576985?v=4",
         "tags": [
@@ -60,7 +48,7 @@
       {
         "title": "【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表",
         "url": "https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8",
-        "likes": 144,
+        "likes": 146,
         "author": "Tadataka_Takahashi",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2648069/8eccc5249d47bbac3f963322df4150e2cafb4ece/x_large.png?1764862615",
         "tags": [
@@ -84,15 +72,57 @@
           "音声処理"
         ],
         "created_at": "2026-08-04T10:11:44+09:00"
+      },
+      {
+        "title": "技術力より先に、信頼を積む人がやっている地味な行動",
+        "url": "https://qiita.com/sumomoo/items/4e57aa62c090cf9d9979",
+        "likes": 88,
+        "author": "sumomoo",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
+        "tags": [
+          "未経験エンジニア",
+          "初心者",
+          "初心者向け",
+          "リモートワーク"
+        ],
+        "created_at": "2026-08-12T17:16:04+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "Oxc Minifierの変数マングル仕組み",
-        "url": "https://zenn.dev/sapphi_red/articles/636d34f84494fb",
-        "author": "翠",
-        "date": "Thu, 13 Aug 2026 09:19:11 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--o_N0Ig_W--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Oxc%2520Minifier%25E3%2581%25AE%25E5%25A4%2589%25E6%2595%25B0%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25AB%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%25BF%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUFrSkNJZ1Buek1kODJiQ2F4cU01YVFFSXJDdjA4YVFMbUMwTWVPcVl1a2gzM0pEST1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか",
+        "url": "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
+        "author": "榊原昌彦",
+        "date": "Fri, 14 Aug 2026 20:40:24 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--UZmGfH8x--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2588%2591%25E3%2580%2585%25E3%2581%25AF%25E5%25AF%258C%25E8%25B1%25AA%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2580%2582Cloudflare%2520Workers%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A6%258A%25E5%258E%259F%25E6%2598%258C%25E5%25BD%25A6%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hPaXJOMUlrUWZNc0J2Vlljc1NzOGRGYW9USjV1TnZNTHF5TUp4cWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "概念設計が、その後のコードの命運を左右する",
+        "url": "https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be",
+        "author": "takeshi-teshima",
+        "date": "Fri, 14 Aug 2026 13:00:27 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zKBK8tWh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A6%2582%25E5%25BF%25B5%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%258C%25E3%2580%2581%25E3%2581%259D%25E3%2581%25AE%25E5%25BE%258C%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AE%25E5%2591%25BD%25E9%2581%258B%25E3%2582%2592%25E5%25B7%25A6%25E5%258F%25B3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:takeshi-teshima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FGZFp1Y3BsaU5HLTh5aDRSV2hZRmVBamtqQ1QydFNZbFlfTFhvUlVlQ01qQ0E9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "5ヶ月育てたClaude CodeのCLAUDE.md/skills/rulesをOpus 5向けにClaude自身に棚卸しさせた",
+        "url": "https://zenn.dev/koki_n22/articles/986f61d16989cb",
+        "author": "koki_n22",
+        "date": "Fri, 14 Aug 2026 10:51:20 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--pIKKARP---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:5%25E3%2583%25B6%25E6%259C%2588%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%259FClaude%2520Code%25E3%2581%25AECLAUDE.md%252Fskills%252Frules%25E3%2582%2592Opus%25205%25E5%2590%2591%25E3%2581%2591%25E3%2581%25ABClaude%25E8%2587%25AA...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:koki_n22%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKdzJOTE9mR0hiLTctLUlPODdCTWxucHBQMG16NFNfUGpTazBrMEU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築",
+        "url": "https://zenn.dev/colum2131/articles/46b5560dce0e3a",
+        "author": "colum2131",
+        "date": "Fri, 14 Aug 2026 09:00:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--8ZEATJ96--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Databricks%2520%25E3%2581%25AE%2520Declarative%2520Automation%2520Bundles%2520%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%259F%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25BB%25E3%2583%2583...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:colum2131%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RhZDZiMjhmMmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "同じ Sonnet 5 でも Claude Code と GitHub Copilot では使い方が違った（オトナの自由研究 #35）",
+        "url": "https://zenn.dev/nnakapa/articles/lab-35-claude-copilot-sonnet5-qcd",
+        "author": "Nori",
+        "date": "Fri, 14 Aug 2026 01:43:21 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--fsTyFwiP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2590%258C%25E3%2581%2598%2520Sonnet%25205%2520%25E3%2581%25A7%25E3%2582%2582%2520Claude%2520Code%2520%25E3%2581%25A8%2520GitHub%2520Copilot%2520%25E3%2581%25A7%25E3%2581%25AF%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%25E3%2581%258C%25E9%2581%2595%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2588%25E3%2582%25AA%25E3%2583%2588%25E3%2583%258A...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk5ZjY5OWZmYmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
         "title": "AIエージェントと進めるソフトウェア開発",
@@ -100,34 +130,6 @@
         "author": "hako@札幌",
         "date": "Thu, 13 Aug 2026 08:10:07 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--APLJpRfA--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8xYzhhM2QyYTljLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
-      },
-      {
-        "title": "続・貧者のアークテクチャ：Next.js + Cloudflare Workers + Turso 本番運用で踏んだ罠ぜんぶ",
-        "url": "https://zenn.dev/nabettu/articles/a964f988e7cc75",
-        "author": "nabettu",
-        "date": "Thu, 13 Aug 2026 05:44:16 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gOf_8mau--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B6%259A%25E3%2583%25BB%25E8%25B2%25A7%25E8%2580%2585%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25EF%25BC%259ANext.js%2520%252B%2520Cloudflare%2520Workers%2520%252B%2520Turso%2520%25E6%259C%25AC%25E7%2595%25AA%25E9%2581%258B%25E7%2594%25A8%25E3%2581%25A7%25E8%25B8%258F%25E3%2582%2593...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nabettu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dGQjhua01PWHQySDdRUnJ2Y2JpMW01cndwOUhGNjJqaVVUZE44VEo4PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "同じRust製のBiomeとOxlintで、なぜ速度差が大きいのか",
-        "url": "https://zenn.dev/estie/articles/64b80da2fbf175",
-        "author": "yamarin",
-        "date": "Thu, 13 Aug 2026 03:00:09 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--YrTF6KBw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2590%258C%25E3%2581%2598Rust%25E8%25A3%25BD%25E3%2581%25AEBiome%25E3%2581%25A8Oxlint%25E3%2581%25A7%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E9%2580%259F%25E5%25BA%25A6%25E5%25B7%25AE%25E3%2581%258C%25E5%25A4%25A7%25E3%2581%258D%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yamarin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwYzZlODUxOGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:estie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcwNmQ0NzRmOGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "なぜAI時代にGoが最適な言語なのか",
-        "url": "https://zenn.dev/iwatsukayura/articles/google-go-ai",
-        "author": "IwatsukaYura",
-        "date": "Wed, 12 Aug 2026 13:05:44 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Fj-TDWBT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259CAI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25ABGo%25E3%2581%258C%25E6%259C%2580%25E9%2581%25A9%25E3%2581%25AA%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:IwatsukaYura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I2Y2Y1MzQ4MzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた",
-        "url": "https://zenn.dev/hellorusk/articles/3328866ca9e922",
-        "author": "Kaito Sugimoto",
-        "date": "Wed, 12 Aug 2026 08:52:20 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--BQ6yKX4L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520%25E3%2581%258C%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E9%259B%25BB%25E5%25AD%2590%25E9%2580%258F%25E3%2581%258B%25E3%2581%2597%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581LLM%2520%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kaito%2520Sugimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxMTZhZmU1YmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +137,7 @@
         "name": "deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 94822,
+        "stars": 114566,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -143,7 +145,7 @@
         "name": "firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
         "url": "https://github.com/firecrawl/anydoc",
-        "stars": 16079,
+        "stars": 16268,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4"
       },
@@ -151,7 +153,7 @@
         "name": "andrewyng/openworker",
         "description": null,
         "url": "https://github.com/andrewyng/openworker",
-        "stars": 14503,
+        "stars": 14550,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/3710007?v=4"
       },
@@ -159,23 +161,23 @@
         "name": "yc-software/qm",
         "description": "Multiplayer agent harness for work.",
         "url": "https://github.com/yc-software/qm",
-        "stars": 13549,
+        "stars": 13621,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/153323858?v=4"
       },
       {
-        "name": "MoonshotAI/Kimi-K3",
-        "description": "Open Frontier Intelligence",
-        "url": "https://github.com/MoonshotAI/Kimi-K3",
-        "stars": 8443,
-        "language": "",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/129152888?v=4"
+        "name": "guillaumemeyer/watermarks-remover",
+        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+        "url": "https://github.com/guillaumemeyer/watermarks-remover",
+        "stars": 9657,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
       },
       {
         "name": "trycompai/crm",
         "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
         "url": "https://github.com/trycompai/crm",
-        "stars": 8440,
+        "stars": 8481,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/195194844?v=4"
       }
