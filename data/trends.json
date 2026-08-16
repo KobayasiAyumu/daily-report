@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-08-15T22:10:02Z"
+    "last_updated": "2026-08-16T22:10:13Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証",
         "url": "https://qiita.com/y0us91/items/2feffd2cc6c672717973",
-        "likes": 363,
+        "likes": 377,
         "author": "y0us91",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/169095/6b9e3068277ba050145709776d5eda7ddc2d20e8/x_large.png?1779943777",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "Web API設計の現在地2026",
         "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
-        "likes": 280,
+        "likes": 286,
         "author": "tatsuya582",
         "avatar_url": "https://avatars.githubusercontent.com/u/145332193?v=4",
         "tags": [
@@ -35,7 +35,7 @@
       {
         "title": "わかるようでわからないssh接続について",
         "url": "https://qiita.com/hrfm1623/items/91115760e4bd66f7995a",
-        "likes": 157,
+        "likes": 159,
         "author": "hrfm1623",
         "avatar_url": "https://avatars.githubusercontent.com/u/152576985?v=4",
         "tags": [
@@ -48,7 +48,7 @@
       {
         "title": "【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表",
         "url": "https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8",
-        "likes": 146,
+        "likes": 149,
         "author": "Tadataka_Takahashi",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2648069/8eccc5249d47bbac3f963322df4150e2cafb4ece/x_large.png?1764862615",
         "tags": [
@@ -60,23 +60,23 @@
         "created_at": "2026-08-09T23:39:40+09:00"
       },
       {
-        "title": "50音を全部作って繋いだのに、（　´∀｀）になった話",
-        "url": "https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770",
-        "likes": 103,
-        "author": "taguchi_sapeet",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4445497/d5d41d0d83ea3f573ad555e808a08d19c35bb660/large.png?1780986106",
+        "title": "エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした",
+        "url": "https://qiita.com/jksoft/items/65f7824679ddf171a93d",
+        "likes": 141,
+        "author": "jksoft",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/109992/ad6e8a85fb3cc1bc5351e5a503c67d6d3b3b8205/large.png?1633562324",
         "tags": [
-          "Python",
-          "TTS",
-          "音声合成",
-          "音声処理"
+          "ポエム",
+          "OrcaRouter",
+          "enebular",
+          "LLM"
         ],
-        "created_at": "2026-08-04T10:11:44+09:00"
+        "created_at": "2026-08-13T20:02:49+09:00"
       },
       {
         "title": "技術力より先に、信頼を積む人がやっている地味な行動",
         "url": "https://qiita.com/sumomoo/items/4e57aa62c090cf9d9979",
-        "likes": 88,
+        "likes": 89,
         "author": "sumomoo",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
         "tags": [
@@ -89,6 +89,27 @@
       }
     ],
     "zenn": [
+      {
+        "title": "botterのためのKaggle金融予測コンペの設計史",
+        "url": "https://zenn.dev/gamella/articles/f5e6bddab37c8d",
+        "author": "Tomoya Kitayama | AlpacaTech",
+        "date": "Sun, 16 Aug 2026 04:43:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gkTYfjKk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:botter%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AEKaggle%25E9%2587%2591%25E8%259E%258D%25E4%25BA%2588%25E6%25B8%25AC%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E5%258F%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tomoya%2520Kitayama%2520%257C%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0MTFiOWQ1NzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "RaycastのSlack Extensionでチャンネル移動が快適に。",
+        "url": "https://zenn.dev/seeiji/articles/d9ab5f08b08005",
+        "author": "Seiji",
+        "date": "Sat, 15 Aug 2026 13:18:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--MEZVYNpA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Raycast%25E3%2581%25AESlack%2520Extension%25E3%2581%25A7%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%258D%25E3%2583%25AB%25E7%25A7%25BB%25E5%258B%2595%25E3%2581%258C%25E5%25BF%25AB%25E9%2581%25A9%25E3%2581%25AB%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Seiji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZGM5ZGIzODIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "デスクトップUIフレームワーク15種のメモリ使用量計測",
+        "url": "https://zenn.dev/mizugeeks/articles/1019cf2353d343",
+        "author": "mizugeek",
+        "date": "Sat, 15 Aug 2026 03:10:07 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--SgEzPB2H--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2583%25E3%2583%2597UI%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF15%25E7%25A8%25AE%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E4%25BD%25BF%25E7%2594%25A8%25E9%2587%258F%25E8%25A8%2588%25E6%25B8%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizugeek%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSV9XbUNPZHcteDN5RjJGNDBiSTJEM2YyX1FLQjFpX1FHdkFTRFkzZ3FBZy1IbS0xOD1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
       {
         "title": "我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか",
         "url": "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
@@ -109,27 +130,6 @@
         "author": "koki_n22",
         "date": "Fri, 14 Aug 2026 10:51:20 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--pIKKARP---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:5%25E3%2583%25B6%25E6%259C%2588%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%259FClaude%2520Code%25E3%2581%25AECLAUDE.md%252Fskills%252Frules%25E3%2582%2592Opus%25205%25E5%2590%2591%25E3%2581%2591%25E3%2581%25ABClaude%25E8%2587%25AA...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:koki_n22%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKdzJOTE9mR0hiLTctLUlPODdCTWxucHBQMG16NFNfUGpTazBrMEU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築",
-        "url": "https://zenn.dev/colum2131/articles/46b5560dce0e3a",
-        "author": "colum2131",
-        "date": "Fri, 14 Aug 2026 09:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--8ZEATJ96--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Databricks%2520%25E3%2581%25AE%2520Declarative%2520Automation%2520Bundles%2520%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%259F%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25BB%25E3%2583%2583...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:colum2131%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RhZDZiMjhmMmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "同じ Sonnet 5 でも Claude Code と GitHub Copilot では使い方が違った（オトナの自由研究 #35）",
-        "url": "https://zenn.dev/nnakapa/articles/lab-35-claude-copilot-sonnet5-qcd",
-        "author": "Nori",
-        "date": "Fri, 14 Aug 2026 01:43:21 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--fsTyFwiP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2590%258C%25E3%2581%2598%2520Sonnet%25205%2520%25E3%2581%25A7%25E3%2582%2582%2520Claude%2520Code%2520%25E3%2581%25A8%2520GitHub%2520Copilot%2520%25E3%2581%25A7%25E3%2581%25AF%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%25E3%2581%258C%25E9%2581%2595%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2588%25E3%2582%25AA%25E3%2583%2588%25E3%2583%258A...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk5ZjY5OWZmYmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "AIエージェントと進めるソフトウェア開発",
-        "url": "https://zenn.dev/hako_hako/books/nexus-product-new-development",
-        "author": "hako@札幌",
-        "date": "Thu, 13 Aug 2026 08:10:07 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--APLJpRfA--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8xYzhhM2QyYTljLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -137,7 +137,7 @@
         "name": "deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 114566,
+        "stars": 130721,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -145,7 +145,7 @@
         "name": "firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
         "url": "https://github.com/firecrawl/anydoc",
-        "stars": 16268,
+        "stars": 16440,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4"
       },
@@ -153,7 +153,7 @@
         "name": "andrewyng/openworker",
         "description": null,
         "url": "https://github.com/andrewyng/openworker",
-        "stars": 14550,
+        "stars": 14651,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/3710007?v=4"
       },
@@ -161,7 +161,7 @@
         "name": "yc-software/qm",
         "description": "Multiplayer agent harness for work.",
         "url": "https://github.com/yc-software/qm",
-        "stars": 13621,
+        "stars": 13697,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/153323858?v=4"
       },
@@ -169,17 +169,17 @@
         "name": "guillaumemeyer/watermarks-remover",
         "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
         "url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "stars": 9657,
+        "stars": 11233,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
       },
       {
-        "name": "trycompai/crm",
-        "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-        "url": "https://github.com/trycompai/crm",
-        "stars": 8481,
+        "name": "anywhere-labs/deepseek-harness-desktop",
+        "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+        "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+        "stars": 8825,
         "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/195194844?v=4"
+        "owner_avatar": "https://avatars.githubusercontent.com/u/286827603?v=4"
       }
     ]
   }
