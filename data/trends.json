@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-08-19T22:14:02Z"
+    "last_updated": "2026-08-20T22:15:57Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証",
         "url": "https://qiita.com/y0us91/items/2feffd2cc6c672717973",
-        "likes": 487,
+        "likes": 510,
         "author": "y0us91",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/169095/6b9e3068277ba050145709776d5eda7ddc2d20e8/x_large.png?1779943777",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした",
         "url": "https://qiita.com/jksoft/items/65f7824679ddf171a93d",
-        "likes": 364,
+        "likes": 382,
         "author": "jksoft",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/109992/ad6e8a85fb3cc1bc5351e5a503c67d6d3b3b8205/large.png?1633562324",
         "tags": [
@@ -33,23 +33,9 @@
         "created_at": "2026-08-13T20:02:49+09:00"
       },
       {
-        "title": "【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表",
-        "url": "https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8",
-        "likes": 168,
-        "author": "Tadataka_Takahashi",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2648069/8eccc5249d47bbac3f963322df4150e2cafb4ece/x_large.png?1764862615",
-        "tags": [
-          "Markdown",
-          "WBS",
-          "プロジェクト管理",
-          "生成AI"
-        ],
-        "created_at": "2026-08-09T23:39:40+09:00"
-      },
-      {
         "title": "技術力より先に、信頼を積む人がやっている地味な行動",
         "url": "https://qiita.com/sumomoo/items/4e57aa62c090cf9d9979",
-        "likes": 114,
+        "likes": 116,
         "author": "sumomoo",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
         "tags": [
@@ -63,7 +49,7 @@
       {
         "title": "【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた",
         "url": "https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe",
-        "likes": 112,
+        "likes": 113,
         "author": "claudecat",
         "avatar_url": "https://secure.gravatar.com/avatar/b3c9b5336f03c321bcbcd572bfaac04f",
         "tags": [
@@ -77,7 +63,7 @@
       {
         "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証",
         "url": "https://qiita.com/gts/items/8d3c14dabff88d8f1901",
-        "likes": 105,
+        "likes": 108,
         "author": "gts",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/613127/profile-images/1711894700",
         "tags": [
@@ -87,50 +73,64 @@
           "基礎知識"
         ],
         "created_at": "2026-08-13T07:10:37+09:00"
+      },
+      {
+        "title": "新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）",
+        "url": "https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166",
+        "likes": 96,
+        "author": "WdknWdkn",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/215128/cd71934f318b00f0dd4957b5850bc980c92104ed/x_large.png?1638755863",
+        "tags": [
+          "生成AI",
+          "ClaudeCode",
+          "新人プログラマ応援",
+          "AI"
+        ],
+        "created_at": "2026-08-19T23:48:07+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "ローカルLLM編成が単独のフロンティアAIを超えた日",
-        "url": "https://zenn.dev/nrs/articles/b920540a64e1a1",
-        "author": "nrs",
-        "date": "Tue, 18 Aug 2026 11:42:49 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--86dSWgiU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E7%25B7%25A8%25E6%2588%2590%25E3%2581%258C%25E5%258D%2598%25E7%258B%25AC%25E3%2581%25AE%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25A2AI%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2581%259F%25E6%2597%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "首掛け型ウェアラブル THINKLET と OpenAI Realtime API で「目の前を一緒に見ながら相談できる相方」を作る",
+        "url": "https://zenn.dev/yujif/articles/90696ac3f098e2",
+        "author": "yujif",
+        "date": "Wed, 19 Aug 2026 18:13:11 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_TKMrJGc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A6%2596%25E6%258E%259B%25E3%2581%2591%25E5%259E%258B%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%25A9%25E3%2583%2596%25E3%2583%25AB%2520THINKLET%2520%25E3%2581%25A8%2520OpenAI%2520Realtime%2520API%2520%25E3%2581%25A7%25E3%2580%258C%25E7%259B%25AE%25E3%2581%25AE%25E5%2589%258D%25E3%2582%2592%25E4%25B8%2580%25E7%25B7%2592%25E3%2581%25AB%25E8%25A6%258B%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E7%259B%25B8%25E8%25AB%2587...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yujif%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwMGNiNjczN2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AWS の新ポリシー言語 Dogwood を試す",
-        "url": "https://zenn.dev/exwzd/articles/20260813-dogwood-agent-policy",
-        "author": "伊賀 裕展",
-        "date": "Tue, 18 Aug 2026 04:07:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_T2w-Jkn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%2520%25E3%2581%25AE%25E6%2596%25B0%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B7%25E3%2583%25BC%25E8%25A8%2580%25E8%25AA%259E%2520Dogwood%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E4%25BC%258A%25E8%25B3%2580%2520%25E8%25A3%2595%25E5%25B1%2595%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA5NTQ0OTVhMzYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B5%25E3%2582%25A6%25E3%2582%25A3%25E3%2582%25B6%25E3%2583%25BC%25E3%2582%25BA%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkNDhjYTg3ZjcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Structured Playwright —— 継続性から設計するE2Eテストの4層構造とハーネス",
+        "url": "https://zenn.dev/mov_ish/articles/structured-playwright-e2e",
+        "author": "Ray-Ish (@movrish )",
+        "date": "Wed, 19 Aug 2026 09:20:53 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_uPy8NOw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Structured%2520Playwright%2520%25E2%2580%2594%25E2%2580%2594%2520%25E7%25B6%2599%25E7%25B6%259A%25E6%2580%25A7%25E3%2581%258B%25E3%2582%2589%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258BE2E%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE4%25E5%25B1%25A4%25E6%25A7%258B%25E9%2580%25A0%25E3%2581%25A8%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ray-Ish%2520%2528%2540movrish%2520%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA0MzAzODZjNjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Claude Codeに見せない技術: AIに入力できないデータを分析する",
-        "url": "https://zenn.dev/green_tea/articles/a994964786cb4f",
-        "author": "redtea",
-        "date": "Tue, 18 Aug 2026 02:55:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9wAIZ6Z1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E8%25A6%258B%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%25E6%258A%2580%25E8%25A1%2593%253A%2520AI%25E3%2581%25AB%25E5%2585%25A5%25E5%258A%259B%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E5%2588%2586%25E6%259E%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:redtea%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzM2I4MmRkNzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "時相論理の形式仕様の Quint を使って、denoland/celld の二重 writer バグを見つけた",
+        "url": "https://zenn.dev/mizchi/articles/quint-application-modeling",
+        "author": "mizchi",
+        "date": "Wed, 19 Aug 2026 07:44:30 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--XBpfMOJt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2599%2582%25E7%259B%25B8%25E8%25AB%2596%25E7%2590%2586%25E3%2581%25AE%25E5%25BD%25A2%25E5%25BC%258F%25E4%25BB%2595%25E6%25A7%2598%25E3%2581%25AE%2520Quint%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581denoland%252Fcelld%2520%25E3%2581%25AE%25E4%25BA%258C%25E9%2587%258D%2520writer%2520%25E3%2583%2590%25E3%2582%25B0%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "コーディングエージェントが実装するUIの品質を上げるためにやったこと",
-        "url": "https://zenn.dev/moshjp/articles/39972d023f0440",
-        "author": "dachi",
-        "date": "Tue, 18 Aug 2026 01:00:20 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--SZfpl_yf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258BUI%25E3%2581%25AE%25E5%2593%2581%25E8%25B3%25AA%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E3%2582%2584%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:dachi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRkYzRiMzQ0MTEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:MOSH%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgyOWI4MDZhMTQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "NGワードリストに「死ね」が入っていなかったので自分で作った",
+        "url": "https://zenn.dev/zentaroimai/articles/9d6e786a2e6eec",
+        "author": "Zentaro",
+        "date": "Wed, 19 Aug 2026 07:38:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ethYyiVq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:NG%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E3%2580%258C%25E6%25AD%25BB%25E3%2581%25AD%25E3%2580%258D%25E3%2581%258C%25E5%2585%25A5%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Zentaro%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwN2ZmMWRjODMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "YAML 1枚で開発エージェントチームを動かす — 開発基盤に Docker Agent を採用した話",
-        "url": "https://zenn.dev/xtm_blog/articles/b9993fe1d72b17",
-        "author": "kitadesign",
-        "date": "Tue, 18 Aug 2026 01:00:06 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--WIZhLIpU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:YAML%25201%25E6%259E%259A%25E3%2581%25A7%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%2520%25E2%2580%2594%2520%25E9%2596%258B%25E7%2599%25BA%25E5%259F%25BA%25E7%259B%25A4%25E3%2581%25AB%2520Docker%2520Agent%2520%25E3%2582%2592%25E6%258E%25A1%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kitadesign%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzMDdmZjAyYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%2588%25E4%25BA%25AC%25E9%2583%25BD%25E8%258A%25B8%25E8%25A1%2593%25E5%25A4%25A7%25E5%25AD%25A6%25EF%25BC%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZE9yblhRWi1fTzU1b0Ntem4wcGdFY19ub0RZaExyOFBMbWE3M1h4QT1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "YANS2026 参加報告",
+        "url": "https://zenn.dev/aishift/articles/78612006a494ca",
+        "author": "u-hyszk",
+        "date": "Wed, 19 Aug 2026 07:08:31 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tK32ugwe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:YANS2026%2520%25E5%258F%2582%25E5%258A%25A0%25E5%25A0%25B1%25E5%2591%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:u-hyszk%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDQwNmNlMGUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AI%2520Shift%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYyYjFjZTJjZGEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "DMARC 集計レポートを Claude Code で分解して p=reject に到達するまで",
-        "url": "https://zenn.dev/finatext/articles/0d1e6dd99ec34d",
-        "author": "s4ichi",
-        "date": "Tue, 18 Aug 2026 00:29:01 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--if5SGVNY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DMARC%2520%25E9%259B%2586%25E8%25A8%2588%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2592%2520Claude%2520Code%2520%25E3%2581%25A7%25E5%2588%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%2520p%253Dreject%2520%25E3%2581%25AB%25E5%2588%25B0%25E9%2581%2594%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:s4ichi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NlZDFkMGVkOTguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "ゆっくりと学ぶ TanStack Start",
+        "url": "https://zenn.dev/417/books/tanstack-start-principles",
+        "author": "MAAAAAAAAAAA",
+        "date": "Wed, 19 Aug 2026 05:18:13 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--K9PZWxfT--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci85MDI4MjJiNGE5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -138,7 +138,7 @@
         "name": "deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 166954,
+        "stars": 174045,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -146,31 +146,31 @@
         "name": "firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
         "url": "https://github.com/firecrawl/anydoc",
-        "stars": 17225,
+        "stars": 17501,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4"
-      },
-      {
-        "name": "guillaumemeyer/watermarks-remover",
-        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-        "url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "stars": 15274,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
       },
       {
         "name": "anywhere-labs/deepseek-harness-desktop",
         "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
         "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-        "stars": 15109,
+        "stars": 16428,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/286827603?v=4"
+      },
+      {
+        "name": "guillaumemeyer/watermarks-remover",
+        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+        "url": "https://github.com/guillaumemeyer/watermarks-remover",
+        "stars": 16015,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
       },
       {
         "name": "yc-software/qm",
         "description": "Multiplayer agent harness for work.",
         "url": "https://github.com/yc-software/qm",
-        "stars": 13941,
+        "stars": 14004,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/153323858?v=4"
       },
@@ -178,7 +178,7 @@
         "name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
         "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-        "stars": 10028,
+        "stars": 10626,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/316603077?v=4"
       }
