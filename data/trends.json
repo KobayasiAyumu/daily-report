@@ -1,27 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-08-23T22:11:16Z"
+    "last_updated": "2026-08-24T22:15:02Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした",
-        "url": "https://qiita.com/jksoft/items/65f7824679ddf171a93d",
-        "likes": 412,
-        "author": "jksoft",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/109992/ad6e8a85fb3cc1bc5351e5a503c67d6d3b3b8205/large.png?1633562324",
-        "tags": [
-          "ポエム",
-          "OrcaRouter",
-          "enebular",
-          "LLM"
-        ],
-        "created_at": "2026-08-13T20:02:49+09:00"
-      },
-      {
         "title": "新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）",
         "url": "https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166",
-        "likes": 180,
+        "likes": 189,
         "author": "WdknWdkn",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/215128/cd71934f318b00f0dd4957b5850bc980c92104ed/x_large.png?1638755863",
         "tags": [
@@ -35,7 +21,7 @@
       {
         "title": "【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた",
         "url": "https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe",
-        "likes": 118,
+        "likes": 122,
         "author": "claudecat",
         "avatar_url": "https://secure.gravatar.com/avatar/b3c9b5336f03c321bcbcd572bfaac04f",
         "tags": [
@@ -49,7 +35,7 @@
       {
         "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
         "url": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13",
-        "likes": 96,
+        "likes": 98,
         "author": "minorun365",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1633856/c226bc34ac6c45a21f5e512d1c72a6f097494578/x_large.png?1699954976",
         "tags": [
@@ -61,9 +47,23 @@
         "created_at": "2026-08-16T02:41:46+09:00"
       },
       {
+        "title": "真似で伸びる人は、コードではなく判断基準を写し取っている",
+        "url": "https://qiita.com/sumomoo/items/eed2707e22d8ba940871",
+        "likes": 95,
+        "author": "sumomoo",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
+        "tags": [
+          "新人プログラマ応援",
+          "新人エンジニア",
+          "初心者応援",
+          "初心者向け"
+        ],
+        "created_at": "2026-08-21T16:48:56+09:00"
+      },
+      {
         "title": "AWSでYouTube的サービスを検証してたら、電気通信事業法と著作権法の壁にぶつかった話",
         "url": "https://qiita.com/yama3133/items/e60cb25d3b10d7a2f316",
-        "likes": 80,
+        "likes": 90,
         "author": "yama3133",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4223081/133766ff1852bcb8e4ae07f568918fcb378cfa88/x_large.png?1785807274",
         "tags": [
@@ -75,113 +75,63 @@
         "created_at": "2026-08-18T13:10:47+09:00"
       },
       {
-        "title": "真似で伸びる人は、コードではなく判断基準を写し取っている",
-        "url": "https://qiita.com/sumomoo/items/eed2707e22d8ba940871",
-        "likes": 71,
-        "author": "sumomoo",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
+        "title": "個人開発をiOSアプリで半年やって「勝てない」と悟った話",
+        "url": "https://qiita.com/gts/items/8c94ac8b76d7caa1b530",
+        "likes": 66,
+        "author": "gts",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/613127/profile-images/1711894700",
         "tags": [
-          "新人プログラマ応援",
-          "新人エンジニア",
-          "初心者応援",
-          "初心者向け"
+          "個人開発",
+          "iOSアプリ開発",
+          "ポエム"
         ],
-        "created_at": "2026-08-21T16:48:56+09:00"
+        "created_at": "2026-08-22T17:28:15+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "AIでイベントカタログを279件自動生成し、成果物の検証を設計した話",
+        "url": "https://zenn.dev/tribeau/articles/d7cd180e53f719",
+        "author": "shihochan",
+        "date": "Mon, 24 Aug 2026 02:50:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FjYqsOvG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25AB%25E3%2582%25BF%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%2592279%25E4%25BB%25B6%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2580%2581%25E6%2588%2590%25E6%259E%259C%25E7%2589%25A9%25E3%2581%25AE%25E6%25A4%259C%25E8%25A8%25BC%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shihochan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M2MmIxMmJjY2YuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TRIBEAU%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFlGUW9tVWJSTExISUhoQTk0cWt3cFJuZkpVdWxqdXVFZ3pWalRLY0hNVHB3S1Z1WXc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "デザイナーが作る仕様駆動型デザインシステム",
+        "url": "https://zenn.dev/katsumata/articles/014affaeb272d00aeae6",
+        "author": "Katsumata",
+        "date": "Mon, 24 Aug 2026 01:39:09 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--R_ed5ma2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%258A%25E3%2583%25BC%25E3%2581%258C%25E4%25BD%259C%25E3%2582%258B%25E4%25BB%2595%25E6%25A7%2598%25E9%25A7%2586%25E5%258B%2595%25E5%259E%258B%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Katsumata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JjMzJkMjVkOWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Ctrl+C でプログラムが止まる仕組みを調べた",
+        "url": "https://zenn.dev/wakame_atsushi/articles/05a74885eb963d",
+        "author": "わかめ",
+        "date": "Sun, 23 Aug 2026 12:34:45 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZXV6sZfT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ctrl%252BC%2520%25E3%2581%25A7%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A0%25E3%2581%258C%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258F%25E3%2581%258B%25E3%2582%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBiMjdmYjliMmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Goのポインタに抵抗を感じていた理由",
+        "url": "https://zenn.dev/ncdc/articles/661804f1bb2f95",
+        "author": "r-3110",
+        "date": "Sun, 23 Aug 2026 06:51:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s---uTgd-Iu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%25E3%2581%25AE%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2581%25AB%25E6%258A%25B5%25E6%258A%2597%25E3%2582%2592%25E6%2584%259F%25E3%2581%2598%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:r-3110%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhODZhNDA5ZDMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NCDC%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YVQ0NUN4VmhkcC1ISXE4QURTWk13WUFVSVNXSHh0amlmZnEtaXM9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "家族で使うAIエージェントのDiscord運用",
+        "url": "https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord",
+        "author": "木村 駿介 / Shunsuke KIMURA",
+        "date": "Sat, 22 Aug 2026 22:28:03 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZV3VGnuB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%25B6%25E6%2597%258F%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AEDiscord%25E9%2581%258B%25E7%2594%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%259C%25A8%25E6%259D%2591%2520%25E9%25A7%25BF%25E4%25BB%258B%2520%252F%2520Shunsuke%2520K...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VjZWFjYzFhNTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
       {
         "title": "オーバーナイトプレミアムに関連した価格ドライバー特徴量の話",
         "url": "https://zenn.dev/gamella/articles/8e2f9873169db6",
         "author": "Tomoya Kitayama | AlpacaTech",
         "date": "Sat, 22 Aug 2026 11:39:58 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--xjSeJwCT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2583%258A%25E3%2582%25A4%25E3%2583%2588%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AB%25E9%2596%25A2%25E9%2580%25A3%25E3%2581%2597%25E3%2581%259F%25E4%25BE%25A1%25E6%25A0%25BC%25E3%2583%2589%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC%25E7%2589%25B9%25E5%25BE%25B4%25E9%2587%258F%25E3%2581%25AE%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tomoya%2520Kitayama%2520%257C%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0MTFiOWQ1NzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "RTX 5090でFreeTokenを試してみた。35Bでは不要、120B級MoEでは話が変わる",
-        "url": "https://zenn.dev/holy_fox/articles/53b82eed45f956",
-        "author": "ほーりーふぉっくす",
-        "date": "Sat, 22 Aug 2026 07:44:27 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--AGs6k9Vn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RTX%25205090%25E3%2581%25A7FreeToken%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2580%258235B%25E3%2581%25A7%25E3%2581%25AF%25E4%25B8%258D%25E8%25A6%2581%25E3%2580%2581120B%25E7%25B4%259AMoE%25E3%2581%25A7%25E3%2581%25AF%25E8%25A9%25B1%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BB%25E3%2583%25BC%25E3%2582%258A%25E3%2583%25BC%25E3%2581%25B5%25E3%2581%2589%25E3%2581%25A3%25E3%2581%258F%25E3%2581%2599%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZlMmM2MjU5ZmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Go 1.27のhttptest.NewTestServerをAPIクライアントのテストで使ってみて分かったこと",
-        "url": "https://zenn.dev/catatsuy/articles/8e8dbf6afd1196",
-        "author": "catatsuy",
-        "date": "Sat, 22 Aug 2026 05:43:56 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_ZXwSFK9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%25201.27%25E3%2581%25AEhttptest.NewTestServer%25E3%2582%2592API%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25A2%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%25A6%25E5%2588%2586%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:catatsuy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NiYTVlYjRjMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "React 19.3 browser() APIの使いみち～FUNSTACK Routerの場合～",
-        "url": "https://zenn.dev/uhyo/articles/react-use-browser-usage",
-        "author": "uhyo",
-        "date": "Fri, 21 Aug 2026 13:52:58 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--DACqLs1c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%252019.3%2520browser%2528%2529%2520API%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%25BF%25E3%2581%25A1%25EF%25BD%259EFUNSTACK%2520Router%25E3%2581%25AE%25E5%25A0%25B4%25E5%2590%2588%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "或るログ研究者",
-        "url": "https://zenn.dev/dmikurube/articles/a-logresearch-er",
-        "author": "Dai MIKURUBE",
-        "date": "Fri, 21 Aug 2026 10:04:23 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--7T0vt7aL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2588%2596%25E3%2582%258B%25E3%2583%25AD%25E3%2582%25B0%25E7%25A0%2594%25E7%25A9%25B6%25E8%2580%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Dai%2520MIKURUBE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2d2QnpTU015TnEwVExYTm1VVU5YcUc4b0hNaS1ScGdNZWUtSmptTVJvPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Microsoft Entra ID アプリケーション開発入門",
-        "url": "https://zenn.dev/karamem0/books/505df6779ec89a",
-        "author": "karamem0",
-        "date": "Fri, 21 Aug 2026 09:39:00 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s---HNk5CGb--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci83YjY2OGRlZGNkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
       }
     ],
-    "github": [
-      {
-        "name": "deepseek-ai/deepseek-harness",
-        "description": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 187828,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      },
-      {
-        "name": "anywhere-labs/deepseek-harness-desktop",
-        "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-        "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-        "stars": 18908,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/286827603?v=4"
-      },
-      {
-        "name": "firecrawl/anydoc",
-        "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-        "url": "https://github.com/firecrawl/anydoc",
-        "stars": 18065,
-        "language": "Rust",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4"
-      },
-      {
-        "name": "guillaumemeyer/watermarks-remover",
-        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-        "url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "stars": 17417,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
-      },
-      {
-        "name": "yc-software/qm",
-        "description": "Multiplayer agent harness for work.",
-        "url": "https://github.com/yc-software/qm",
-        "stars": 14104,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/153323858?v=4"
-      },
-      {
-        "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-        "stars": 11861,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/316603077?v=4"
-      }
-    ]
+    "github": []
   }
 }
