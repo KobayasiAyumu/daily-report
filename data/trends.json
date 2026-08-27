@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-08-25T22:15:32Z"
+    "last_updated": "2026-08-27T02:24:32Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）",
         "url": "https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166",
-        "likes": 195,
+        "likes": 266,
         "author": "WdknWdkn",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/215128/cd71934f318b00f0dd4957b5850bc980c92104ed/x_large.png?1638755863",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "AWSでYouTube的サービスを検証してたら、電気通信事業法と著作権法の壁にぶつかった話",
         "url": "https://qiita.com/yama3133/items/e60cb25d3b10d7a2f316",
-        "likes": 97,
+        "likes": 112,
         "author": "yama3133",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4223081/133766ff1852bcb8e4ae07f568918fcb378cfa88/x_large.png?1785807274",
         "tags": [
@@ -35,7 +35,7 @@
       {
         "title": "真似で伸びる人は、コードではなく判断基準を写し取っている",
         "url": "https://qiita.com/sumomoo/items/eed2707e22d8ba940871",
-        "likes": 96,
+        "likes": 101,
         "author": "sumomoo",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4138952/ca2816980608dfcd9ca6fb2fe8c085cc0c23ef20/x_large.png?1773383941",
         "tags": [
@@ -49,7 +49,7 @@
       {
         "title": "個人開発をiOSアプリで半年やって「勝てない」と悟った話",
         "url": "https://qiita.com/gts/items/8c94ac8b76d7caa1b530",
-        "likes": 94,
+        "likes": 97,
         "author": "gts",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/613127/profile-images/1711894700",
         "tags": [
@@ -62,7 +62,7 @@
       {
         "title": "元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル",
         "url": "https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a",
-        "likes": 72,
+        "likes": 94,
         "author": "ryoheiiwamoto",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/668950/ec914c43f52fa8ef2c5d63ef6d266ce2011322c5/x_large.png?1738549714",
         "tags": [
@@ -73,62 +73,62 @@
         "created_at": "2026-08-24T16:31:36+09:00"
       },
       {
-        "title": "AIセキュリティ何から勉強すりゃええの？",
-        "url": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
-        "likes": 58,
-        "author": "mikihitooooo",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/845887/profile-images/1787105156",
+        "title": "【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）",
+        "url": "https://qiita.com/h-nabata/items/b80484406e839ee6507b",
+        "likes": 88,
+        "author": "h-nabata",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/64454988?v=4",
         "tags": [
-          "AI",
-          "初心者",
-          "Security",
-          "備忘録"
+          "GPU",
+          "ローカルLLM",
+          "LLM",
+          "LLM-jp"
         ],
-        "created_at": "2026-08-19T00:03:47+09:00"
+        "created_at": "2026-08-24T02:34:14+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
-        "url": "https://zenn.dev/layerx/articles/e01465a15e79c2",
-        "author": "tkmt",
-        "date": "Tue, 25 Aug 2026 05:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--xosk1rXY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E9%2596%2593%25E3%2581%25AE%25E8%25AA%258D%25E5%258F%25AF%25E4%25BC%259D%25E6%2590%25AC%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E8%25A7%25A3%25E3%2581%258F%25E3%2581%258B%25EF%25BC%259F%25E7%258B%25AC%25E8%2587%25AA%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25A8%2520IETF%2520Transaction%2520Tokens%2520%25E3%2582%2592%25E8%25A6%258B%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tkmt%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2OTFlNjE4YzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:LayerX%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTHNWUTUyZWUxQ1poMDl5aGlkUlRWSklFa3BHZlkzWmZsQmdobTNMbVFtS3BJem9TUT1zMjUwLWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "DMM Sprint Go に参加してきました🌟",
+        "url": "https://zenn.dev/s0nmy/articles/85761a4d31c8c2",
+        "author": "Miyu",
+        "date": "Wed, 26 Aug 2026 12:38:01 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--O-8ePLpY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DMM%2520Sprint%2520Go%2520%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25A6%25E3%2581%258D%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Miyu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhkZWQyYzdjZTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "状態空間モデルにおけるFilteringとSmoothingの違いを理解する",
-        "url": "https://zenn.dev/ca_kagglers/articles/ssm-filtering-smoothing",
-        "author": "ihiratch",
-        "date": "Tue, 25 Aug 2026 02:04:16 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FzQwYocZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%258A%25B6%25E6%2585%258B%25E7%25A9%25BA%25E9%2596%2593%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BFiltering%25E3%2581%25A8Smoothing%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ihiratch%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q3MDk0ZDk5ZTguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:CA%2520Kaggle%25E3%2582%25BC%25E3%2583%259F%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzMWM2MTViOGEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話",
+        "url": "https://zenn.dev/sc30gsw/articles/953334f11df507",
+        "author": "kaito",
+        "date": "Wed, 26 Aug 2026 11:58:18 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Rs1PhDB_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2581%25A7%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2582%2584%25E3%2582%2581%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593%25E3%2581%258B%25EF%25BC%259FClaude%2520Code%2520%252F%2520Cursor%25E3%2581%25A7%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE8%25E5%2589%25B2%25E3%2582%2592%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2581%25AB%25E7%25A7%25BB%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kaito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VmZDZhMGM5YWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "オンコール手当の相場を50社分調べて、1社も見つからなかった話",
-        "url": "https://zenn.dev/cscloud_blog/articles/e0ea529d061906",
-        "author": "yuta_k0911",
-        "date": "Tue, 25 Aug 2026 01:27:28 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--spkaHt4e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25B3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%25AB%25E6%2589%258B%25E5%25BD%2593%25E3%2581%25AE%25E7%259B%25B8%25E5%25A0%25B4%25E3%2582%259250%25E7%25A4%25BE%25E5%2588%2586%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%25A6%25E3%2580%25811%25E7%25A4%25BE%25E3%2582%2582%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yuta_k0911%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q0ZTRhMzgzMmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2580%2580%25E3%2583%2586...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4WVhtUjlJaW9Yc0ZSam1DVGxxX2VLcG9MWHVOeVRheEZmUmtmbmhrQT1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Secrets Managerのシークレットはどんな粒度で分けるべき？",
+        "url": "https://zenn.dev/genda_jp/articles/e7e831636a769d",
+        "author": "なみき",
+        "date": "Wed, 26 Aug 2026 03:34:37 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZhiBbwAJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Secrets%2520Manager%25E3%2581%25AE%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AF%25E3%2581%25A9%25E3%2582%2593%25E3%2581%25AA%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25A7%25E5%2588%2586%25E3%2581%2591%25E3%2582%258B%25E3%2581%25B9%25E3%2581%258D%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25AA%25E3%2581%25BF%25E3%2581%258D%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIxNTM5Y2NmMzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "TanStack Start + Hono + oRPC + Cloudflare Workersで社内ERPを作った設計と学び",
-        "url": "https://zenn.dev/yosashusaku/articles/enterprise-erp-tanstack-hono-orpc",
-        "author": "よさ",
-        "date": "Tue, 25 Aug 2026 00:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--AynAkr3G--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TanStack%2520Start%2520%252B%2520Hono%2520%252B%2520oRPC%2520%252B%2520Cloudflare%2520Workers%25E3%2581%25A7%25E7%25A4%25BE%25E5%2586%2585ERP%25E3%2582%2592%25E4%25BD%259C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2581%2595%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM5MGI3NGZiN2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "CAPMの決算ギャンブルへの応用",
+        "url": "https://zenn.dev/ageonsen/articles/1c4bec2a12ecc1",
+        "author": "pegion_HOLE",
+        "date": "Tue, 25 Aug 2026 22:55:57 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--rZr56Tb2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CAPM%25E3%2581%25AE%25E6%25B1%25BA%25E7%25AE%2597%25E3%2582%25AE%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AB%25E3%2581%25B8%25E3%2581%25AE%25E5%25BF%259C%25E7%2594%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pegion_HOLE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEzZWUwMzc3ZjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Bitgetの異常価格で1800万損したが、fableと共闘して取り戻せた話",
-        "url": "https://zenn.dev/kobao/articles/0638f3976c6ef8",
-        "author": "shiokara_botter",
-        "date": "Mon, 24 Aug 2026 23:42:53 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--swnTDJdY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Bitget%25E3%2581%25AE%25E7%2595%25B0%25E5%25B8%25B8%25E4%25BE%25A1%25E6%25A0%25BC%25E3%2581%25A71800%25E4%25B8%2587%25E6%2590%258D%25E3%2581%2597%25E3%2581%259F%25E3%2581%258C%25E3%2580%2581fable%25E3%2581%25A8%25E5%2585%25B1%25E9%2597%2598%25E3%2581%2597%25E3%2581%25A6%25E5%258F%2596%25E3%2582%258A%25E6%2588%25BB%25E3%2581%259B%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shiokara_botter%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q2MDI1ZGNmNjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
+        "url": "https://zenn.dev/yui/articles/97597aa13b9802",
+        "author": "yui",
+        "date": "Tue, 25 Aug 2026 14:43:40 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--P0EAMNNP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E8%25A6%258F%25E5%25BE%258B%25E3%2582%2592hook%25E3%2581%25AB%25E9%2599%258D%25E3%2582%258D%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Haiku%25E3%2581%25A7%25E3%2582%2582%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yui%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjMGIyNzFhZWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "ターミナルを閉じてもClaude Codeが動き続ける理由、supervisorデーモンとAgent viewについて",
-        "url": "https://zenn.dev/uehaj/articles/claude-code-supervisor-agent-view",
-        "author": "Junji Uehara",
-        "date": "Mon, 24 Aug 2026 13:09:36 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--aV6MAJnp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E3%2582%2592%25E9%2596%2589%25E3%2581%2598%25E3%2581%25A6%25E3%2582%2582Claude%2520Code%25E3%2581%258C%25E5%258B%2595%25E3%2581%258D%25E7%25B6%259A%25E3%2581%2591%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2580%2581supervisor%25E3%2583%2587%25E3%2583%25BC%25E3%2583%25A2%25E3%2583%25B3%25E3%2581%25A8Agent%2520view%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Junji%2520Uehara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pxNHd0RGFSTVNVZHhYUHk1dmVfYWpnOWlqUkhyOHlwT2hEUUREPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "メッシュグラデーションをSVGで「真面目に」近似する",
+        "url": "https://zenn.dev/yayo1/articles/ffd14050214f52",
+        "author": "やよい",
+        "date": "Tue, 25 Aug 2026 09:11:34 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--OdVhe7Ng--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592SVG%25E3%2581%25A7%25E3%2580%258C%25E7%259C%259F%25E9%259D%25A2%25E7%259B%25AE%25E3%2581%25AB%25E3%2580%258D%25E8%25BF%2591%25E4%25BC%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2584%25E3%2582%2588%25E3%2581%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhNTY5ZmExMzYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -136,7 +136,7 @@
         "name": "deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 195147,
+        "stars": 198199,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -144,7 +144,7 @@
         "name": "anywhere-labs/dsh-desktop",
         "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
         "url": "https://github.com/anywhere-labs/dsh-desktop",
-        "stars": 20177,
+        "stars": 20780,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/286827603?v=4"
       },
@@ -152,7 +152,7 @@
         "name": "firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
         "url": "https://github.com/firecrawl/anydoc",
-        "stars": 18439,
+        "stars": 18574,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4"
       },
@@ -160,7 +160,7 @@
         "name": "guillaumemeyer/watermarks-remover",
         "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
         "url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "stars": 18257,
+        "stars": 18551,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
       },
@@ -168,7 +168,7 @@
         "name": "yc-software/qm",
         "description": "Multiplayer agent harness for work.",
         "url": "https://github.com/yc-software/qm",
-        "stars": 14192,
+        "stars": 14240,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/153323858?v=4"
       },
@@ -176,7 +176,7 @@
         "name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
         "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-        "stars": 12642,
+        "stars": 12970,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/316603077?v=4"
       }
