@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-08-28T05:52:09Z"
+    "last_updated": "2026-08-29T03:24:58Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）",
         "url": "https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166",
-        "likes": 276,
+        "likes": 278,
         "author": "WdknWdkn",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/215128/cd71934f318b00f0dd4957b5850bc980c92104ed/x_large.png?1638755863",
         "tags": [
@@ -61,7 +61,7 @@
       {
         "title": "【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）",
         "url": "https://qiita.com/h-nabata/items/b80484406e839ee6507b",
-        "likes": 94,
+        "likes": 95,
         "author": "h-nabata",
         "avatar_url": "https://avatars2.githubusercontent.com/u/64454988?v=4",
         "tags": [
@@ -75,7 +75,7 @@
       {
         "title": "※この記事は人の手で書かれています",
         "url": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449",
-        "likes": 86,
+        "likes": 90,
         "author": "kyuko",
         "avatar_url": "https://avatars1.githubusercontent.com/u/54434978?v=4",
         "tags": [
@@ -88,18 +88,32 @@
     ],
     "zenn": [
       {
+        "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+        "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+        "author": "keitakn",
+        "date": "Fri, 28 Aug 2026 05:55:30 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--MxwGY3_9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E4%25B8%25B8%25E6%258A%2595%25E3%2581%2592%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AEAI%25E9%2596%258B%25E7%2599%25BA%25E6%2589%258B%25E6%25B3%2595%25EF%25BC%25882026%25E5%25B9%25B48%25E6%259C%2588%25E7%258F%25BE%25E5%259C%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:keitakn%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EzODU4NDlkY2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AVA%2520Intelligence%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I4YWRiOTY3ZDIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "「Enterで送信」は滅びよ ~ IME誤爆に疲れたので、チャットの送信に修飾キーを必須にした ~",
+        "url": "https://zenn.dev/safie_inc/articles/ee72b837e4a5f1",
+        "author": "naoto",
+        "date": "Fri, 28 Aug 2026 04:23:26 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Q4xRX5CR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CEnter%25E3%2581%25A7%25E9%2580%2581%25E4%25BF%25A1%25E3%2580%258D%25E3%2581%25AF%25E6%25BB%2585%25E3%2581%25B3%25E3%2582%2588%2520%7E%2520IME%25E8%25AA%25A4%25E7%2588%2586%25E3%2581%25AB%25E7%2596%25B2%25E3%2582%258C%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AE%25E9%2580%2581%25E4%25BF%25A1%25E3%2581%25AB%25E4%25BF%25AE%25E9%25A3%25BE%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2592%25E5%25BF%2585%25E9%25A0%2588%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2520%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:naoto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FiNDcxZDczYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25BC%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTENxTXVPdkk4LXA5Tm9WWHNwNEtzeVhfYXdvYkZVU005ZV9LQWNXSm5NcGRDcz1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "ICFPC 2026における人間とAIの共闘",
+        "url": "https://zenn.dev/estie/articles/a6d1e78e8e41d5",
+        "author": "Fumiya Suto",
+        "date": "Fri, 28 Aug 2026 03:11:50 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--KIY7OMHz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ICFPC%25202026%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25A8AI%25E3%2581%25AE%25E5%2585%25B1%25E9%2597%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Fumiya%2520Suto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwYzZlODUxOGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:estie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGV1WHpyOWduSFR0czhNNFMxUFFlSDJPYktxTFVzMThDS0ExQlNMeW5YSzhJY1RBMD1zMjUwLWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
         "title": "MacBook Pro 128GB でローカル LLM がついに実用になった ─ Qwen3.8 Flash Next 実測",
         "url": "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
         "author": "tomohisa",
         "date": "Thu, 27 Aug 2026 20:06:17 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6D_NxkVO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MacBook%2520Pro%2520128GB%2520%25E3%2581%25A7%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%2520LLM%2520%25E3%2581%258C%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25AB%25E5%25AE%259F%25E7%2594%25A8%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2594%2580%2520Qwen3.8%2520Flash%2520Ne...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tomohisa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E0YzA4MzFkMDkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dUY1NlSXBBM09KME83a1ZzWG1WUjhvYWpqN3RHVVV2QTJDZ2hKS2c9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Kaggler流のプロダクト開発入門！",
-        "url": "https://zenn.dev/elith/articles/609498a4109ad2",
-        "author": "ねぼすけAI",
-        "date": "Thu, 27 Aug 2026 09:00:06 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zzPTheTV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggler%25E6%25B5%2581%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25AD%25E3%2581%25BC%25E3%2581%2599%25E3%2581%2591AI%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk2YjJhYjcyOWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEElith%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E4YzkxZDI4YzguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
         "title": "RTX 5090 + RAM 128GBでQwen3.8-Flash-Nextをllama.cppで動かしてみた",
@@ -114,20 +128,6 @@
         "author": "iwaide",
         "date": "Thu, 27 Aug 2026 01:00:01 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--pF9CyBiH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%25E6%2589%25BF%25E8%25AA%258D%25E5%25BE%2585%25E3%2581%25A1%25E3%2582%2592%25E8%25A6%258B%25E9%2580%2583%25E3%2581%2595%25E3%2581%25AA%25E3%2581%2584%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E3%2580%2581%25E5%2585%2589%25E3%2582%258B%2520Clawd%2520%25E3%2582%2592%25E6%259C%25BA%25E3%2581%25AB%25E7%25BD%25AE%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:iwaide%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdkNzA3MDZjNTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Linc%2527well%252C%2520inc.%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiNmVkNzFlMWUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "ローカル AWS エミュレータで Terraform を検証する",
-        "url": "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
-        "author": "a2-ito",
-        "date": "Thu, 27 Aug 2026 00:03:42 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--z415O56R--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%2520AWS%2520%25E3%2582%25A8%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25A7%2520Terraform%2520%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:a2-ito%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkZWM5ZjExNTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:e-dash%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3ODkyNmJlMDEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "並行開発に Orca がめちゃ便利",
-        "url": "https://zenn.dev/rhosokawa/articles/d0a958c17c2820",
-        "author": "HosokowaR",
-        "date": "Wed, 26 Aug 2026 15:39:54 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--5nVoloY8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%25A6%25E8%25A1%258C%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%2520Orca%2520%25E3%2581%258C%25E3%2582%2581%25E3%2581%25A1%25E3%2582%2583%25E4%25BE%25BF%25E5%2588%25A9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:HosokowaR%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjMzgzZjRjZTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +135,7 @@
         "name": "deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 200785,
+        "stars": 202206,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -143,31 +143,31 @@
         "name": "anywhere-labs/dsh-desktop",
         "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
         "url": "https://github.com/anywhere-labs/dsh-desktop",
-        "stars": 21283,
+        "stars": 21590,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/286827603?v=4"
-      },
-      {
-        "name": "guillaumemeyer/watermarks-remover",
-        "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-        "url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "stars": 18866,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
       },
       {
         "name": "firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
         "url": "https://github.com/firecrawl/anydoc",
-        "stars": 18849,
+        "stars": 19087,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4"
+      },
+      {
+        "name": "guillaumemeyer/watermarks-remover",
+        "description": "A privacy-first app that strips AI watermarks from content you own.",
+        "url": "https://github.com/guillaumemeyer/watermarks-remover",
+        "stars": 19080,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
       },
       {
         "name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
         "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-        "stars": 13259,
+        "stars": 13409,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/316603077?v=4"
       },
@@ -175,7 +175,7 @@
         "name": "trycompai/crm",
         "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
         "url": "https://github.com/trycompai/crm",
-        "stars": 9022,
+        "stars": 9066,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/195194844?v=4"
       }
