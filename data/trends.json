@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-08-29T23:42:13Z"
+    "last_updated": "2026-08-31T00:01:17Z"
   },
   "trends": {
     "qiita": [
@@ -19,6 +19,19 @@
         "created_at": "2026-08-21T16:48:56+09:00"
       },
       {
+        "title": "個人開発をiOSアプリで半年やって「勝てない」と悟った話",
+        "url": "https://qiita.com/gts/items/8c94ac8b76d7caa1b530",
+        "likes": 102,
+        "author": "gts",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/613127/profile-images/1711894700",
+        "tags": [
+          "個人開発",
+          "iOSアプリ開発",
+          "ポエム"
+        ],
+        "created_at": "2026-08-22T17:28:15+09:00"
+      },
+      {
         "title": "元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル",
         "url": "https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a",
         "likes": 101,
@@ -32,22 +45,9 @@
         "created_at": "2026-08-24T16:31:36+09:00"
       },
       {
-        "title": "個人開発をiOSアプリで半年やって「勝てない」と悟った話",
-        "url": "https://qiita.com/gts/items/8c94ac8b76d7caa1b530",
-        "likes": 101,
-        "author": "gts",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/613127/profile-images/1711894700",
-        "tags": [
-          "個人開発",
-          "iOSアプリ開発",
-          "ポエム"
-        ],
-        "created_at": "2026-08-22T17:28:15+09:00"
-      },
-      {
         "title": "【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）",
         "url": "https://qiita.com/h-nabata/items/b80484406e839ee6507b",
-        "likes": 98,
+        "likes": 99,
         "author": "h-nabata",
         "avatar_url": "https://avatars2.githubusercontent.com/u/64454988?v=4",
         "tags": [
@@ -74,7 +74,7 @@
       {
         "title": "ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった",
         "url": "https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146",
-        "likes": 49,
+        "likes": 56,
         "author": "ktdatascience",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
         "tags": [
@@ -88,46 +88,46 @@
     ],
     "zenn": [
       {
-        "title": "Affinity で `xlink:href` で継承される色属性を含むSVG図形が適切に描画されない",
-        "url": "https://zenn.dev/sasakulari/articles/283c9012d83fbe",
-        "author": "Michiru Tsurumaru",
-        "date": "Fri, 28 Aug 2026 14:14:03 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3Bp5ywov--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Affinity%2520%25E3%2581%25A7%2520%2560xlink%253Ahref%2560%2520%25E3%2581%25A7%25E7%25B6%2599%25E6%2589%25BF%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E8%2589%25B2%25E5%25B1%259E%25E6%2580%25A7%25E3%2582%2592%25E5%2590%25AB%25E3%2582%2580SVG%25E5%259B%25B3%25E5%25BD%25A2%25E3%2581%258C%25E9%2581%25A9%25E5%2588%2587%25E3%2581%25AB%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2595%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Michiru%2520Tsurumaru%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EyYzk0ZGQ3YWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "TypeScript ライブラリとして動作する組版エンジン minitype を公開しました",
+        "url": "https://zenn.dev/inaniwaudon/articles/62f1def4bad627",
+        "author": "いなにわうどん",
+        "date": "Sun, 30 Aug 2026 12:21:31 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--wyqLYtnZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TypeScript%2520%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E5%258B%2595%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%25E7%25B5%2584%25E7%2589%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25B3%2520minitype%2520%25E3%2582%2592%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2584%25E3%2581%25AA%25E3%2581%25AB%25E3%2582%258F%25E3%2581%2586%25E3%2581%25A9%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU0YjlhYjgzNmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "GitHub Enterprise導入とTeams再設計で最小権限と俊敏性を両立。30人規模スタートアップの実践",
-        "url": "https://zenn.dev/unsoluble_sugar/articles/github-org-least-privilege",
-        "author": "星影",
-        "date": "Fri, 28 Aug 2026 12:08:53 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--qsctVgjd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Enterprise%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%25A8Teams%25E5%2586%258D%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A7%25E6%259C%2580%25E5%25B0%258F%25E6%25A8%25A9%25E9%2599%2590%25E3%2581%25A8%25E4%25BF%258A%25E6%2595%258F%25E6%2580%25A7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2580%258230%25E4%25BA%25BA%25E8%25A6%258F%25E6%25A8%25A1%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AE%25E5%25AE%259F%25E8%25B7%25B5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%2598%259F%25E5%25BD%25B1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEwZDE4YjgwZTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "OpenTelemetry Collectorでテレメトリーデータの欠損を防ぐためのいくつかの方法",
+        "url": "https://zenn.dev/taxin/articles/otel-resiliency",
+        "author": "taxin",
+        "date": "Sun, 30 Aug 2026 05:46:51 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--K9B1J7R5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenTelemetry%2520Collector%25E3%2581%25A7%25E3%2583%2586%25E3%2583%25AC%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E6%25AC%25A0%25E6%2590%258D%25E3%2582%2592%25E9%2598%25B2%25E3%2581%2590%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2581%2584%25E3%2581%258F%25E3%2581%25A4%25E3%2581%258B%25E3%2581%25AE%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:taxin%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I0MjBkMzhjNGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AIプロダクトの新規事業、立ち上げから1年の振り返り",
-        "url": "https://zenn.dev/loglass/articles/3f8a2c91d4e7b5",
-        "author": "hc0208",
-        "date": "Fri, 28 Aug 2026 07:39:23 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--OA2dQ5jF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AE%25E6%2596%25B0%25E8%25A6%258F%25E4%25BA%258B%25E6%25A5%25AD%25E3%2580%2581%25E7%25AB%258B%25E3%2581%25A1%25E4%25B8%258A%25E3%2581%2592%25E3%2581%258B%25E3%2582%25891%25E5%25B9%25B4%25E3%2581%25AE%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hc0208%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dRa3IxMUk5U3laRFJSUEUyYk5qQ05FcEVSclVrS1ZVSmRBUWhKYkE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "自作npmパッケージにマルウェアを公開されたときにやったこと",
+        "url": "https://zenn.dev/7nohe/articles/npm-malware-incident-response",
+        "author": "Daiki Urata",
+        "date": "Sat, 29 Aug 2026 15:49:58 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--skC9MNFP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E4%25BD%259Cnpm%25E3%2583%2591%25E3%2583%2583%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B8%25E3%2581%25AB%25E3%2583%259E%25E3%2583%25AB%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2582%2592%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AB%25E3%2582%2584%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Daiki%2520Urata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2luUk9ncUNFbm9DQ2NnZ0NVR0k0b1k4R3ByYUVNdE1XRF9qR1plWXc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
-        "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
-        "author": "keitakn",
-        "date": "Fri, 28 Aug 2026 05:55:30 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--MxwGY3_9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E4%25B8%25B8%25E6%258A%2595%25E3%2581%2592%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AEAI%25E9%2596%258B%25E7%2599%25BA%25E6%2589%258B%25E6%25B3%2595%25EF%25BC%25882026%25E5%25B9%25B48%25E6%259C%2588%25E7%258F%25BE%25E5%259C%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:keitakn%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EzODU4NDlkY2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AVA%2520Intelligence%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I4YWRiOTY3ZDIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "SPFとDKIMとDMARCの役割の違いを整理する",
+        "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
+        "author": "Riki",
+        "date": "Sat, 29 Aug 2026 14:36:39 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zZaaj4Yh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SPF%25E3%2581%25A8DKIM%25E3%2581%25A8DMARC%25E3%2581%25AE%25E5%25BD%25B9%25E5%2589%25B2%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Riki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEJZUTBlMkZ2Z0NhMGFLR1VXTGxUQTRmWUYwcjdheFYtVF84Y0ZzX21pX1ZQM1h0Smo9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "「Enterで送信」は滅びよ ~ IME誤爆に疲れたので、チャットの送信に修飾キーを必須にした ~",
-        "url": "https://zenn.dev/safie_inc/articles/ee72b837e4a5f1",
-        "author": "naoto",
-        "date": "Fri, 28 Aug 2026 04:23:26 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Q4xRX5CR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CEnter%25E3%2581%25A7%25E9%2580%2581%25E4%25BF%25A1%25E3%2580%258D%25E3%2581%25AF%25E6%25BB%2585%25E3%2581%25B3%25E3%2582%2588%2520%7E%2520IME%25E8%25AA%25A4%25E7%2588%2586%25E3%2581%25AB%25E7%2596%25B2%25E3%2582%258C%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AE%25E9%2580%2581%25E4%25BF%25A1%25E3%2581%25AB%25E4%25BF%25AE%25E9%25A3%25BE%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2592%25E5%25BF%2585%25E9%25A0%2588%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2520%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:naoto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FiNDcxZDczYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25BC%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTENxTXVPdkk4LXA5Tm9WWHNwNEtzeVhfYXdvYkZVU005ZV9LQWNXSm5NcGRDcz1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
+        "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
+        "author": "ychof",
+        "date": "Sat, 29 Aug 2026 14:29:27 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--qzcNkGWq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2581%25A0%25E3%2581%258B%25E3%2582%2589%25E3%2580%258D%25E3%2581%258C%25E9%2580%259A%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2581%25E5%25A4%25A7%25E6%2589%258B%25E8%25A3%25BD%25E9%2580%25A0%25E6%25A5%25AD%25E5%2590%2591%25E3%2581%2591SaaS%25E3%2581%25AEAWS%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ychof%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1NTc2MGNjZGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:FAcraft%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdmZTg5OWIwNGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "ICFPC 2026における人間とAIの共闘",
-        "url": "https://zenn.dev/estie/articles/a6d1e78e8e41d5",
-        "author": "Fumiya Suto",
-        "date": "Fri, 28 Aug 2026 03:11:50 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--KIY7OMHz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ICFPC%25202026%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25A8AI%25E3%2581%25AE%25E5%2585%25B1%25E9%2597%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Fumiya%2520Suto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwYzZlODUxOGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:estie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGV1WHpyOWduSFR0czhNNFMxUFFlSDJPYktxTFVzMThDS0ExQlNMeW5YSzhJY1RBMD1zMjUwLWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "GPUを燃やさないために - RTX 5090にパワーリミットをかけると、性能はどれだけ落ち、どれだけ冷えるのか -",
+        "url": "https://zenn.dev/holy_fox/articles/572083c130ce46",
+        "author": "ほーりーふぉっくす",
+        "date": "Sat, 29 Aug 2026 03:52:52 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FxA1G9UH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPU%25E3%2582%2592%25E7%2587%2583%25E3%2582%2584%25E3%2581%2595%25E3%2581%25AA%25E3%2581%2584%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%2520-%2520RTX%25205090%25E3%2581%25AB%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%25AA%25E3%2583%259F%25E3%2583%2583%25E3%2583%2588%25E3%2582%2592%25E3%2581%258B%25E3%2581%2591%25E3%2582%258B%25E3%2581%25A8%25E3%2580%2581%25E6%2580%25A7%25E8%2583%25BD%25E3%2581%25AF%25E3%2581%25A9%25E3%2582%258C%25E3%2581%25A0%25E3%2581%2591%25E8%2590%25BD%25E3%2581%25A1%25E3%2580%2581%25E3%2581%25A9%25E3%2582%258C%25E3%2581%25A0%25E3%2581%2591%25E5%2586%25B7%25E3%2581%2588%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2520-%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BB%25E3%2583%25BC%25E3%2582%258A%25E3%2583%25BC%25E3%2581%25B5%25E3%2581%2589%25E3%2581%25A3%25E3%2581%258F%25E3%2581%2599%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZlMmM2MjU5ZmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +135,7 @@
         "name": "deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 203378,
+        "stars": 204680,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -143,7 +143,7 @@
         "name": "anywhere-labs/dsh-desktop",
         "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
         "url": "https://github.com/anywhere-labs/dsh-desktop",
-        "stars": 21842,
+        "stars": 22082,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/286827603?v=4"
       },
@@ -151,7 +151,7 @@
         "name": "guillaumemeyer/watermarks-remover",
         "description": "A privacy-first app that strips AI watermarks from content you own.",
         "url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "stars": 19244,
+        "stars": 19473,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
       },
@@ -159,7 +159,7 @@
         "name": "firecrawl/anydoc",
         "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
         "url": "https://github.com/firecrawl/anydoc",
-        "stars": 19198,
+        "stars": 19407,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4"
       },
@@ -167,17 +167,17 @@
         "name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
         "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-        "stars": 13540,
+        "stars": 13710,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/316603077?v=4"
       },
       {
-        "name": "trycompai/crm",
-        "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-        "url": "https://github.com/trycompai/crm",
-        "stars": 9099,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/195194844?v=4"
+        "name": "pathwaycom/arc-task-gen",
+        "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+        "url": "https://github.com/pathwaycom/arc-task-gen",
+        "stars": 9055,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/25750857?v=4"
       }
     ]
   }
