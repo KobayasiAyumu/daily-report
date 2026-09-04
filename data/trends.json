@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-09-03T23:40:47Z"
+    "last_updated": "2026-09-04T23:33:35Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "個人開発をiOSアプリで半年やって「勝てない」と悟った話",
         "url": "https://qiita.com/gts/items/8c94ac8b76d7caa1b530",
-        "likes": 195,
+        "likes": 201,
         "author": "gts",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/613127/profile-images/1711894700",
         "tags": [
@@ -20,7 +20,7 @@
       {
         "title": "元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル",
         "url": "https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a",
-        "likes": 142,
+        "likes": 143,
         "author": "ryoheiiwamoto",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/668950/ec914c43f52fa8ef2c5d63ef6d266ce2011322c5/x_large.png?1738549714",
         "tags": [
@@ -33,7 +33,7 @@
       {
         "title": "※この記事は人の手で書かれています",
         "url": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449",
-        "likes": 113,
+        "likes": 115,
         "author": "kyuko",
         "avatar_url": "https://avatars1.githubusercontent.com/u/54434978?v=4",
         "tags": [
@@ -46,7 +46,7 @@
       {
         "title": "【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）",
         "url": "https://qiita.com/h-nabata/items/b80484406e839ee6507b",
-        "likes": 108,
+        "likes": 109,
         "author": "h-nabata",
         "avatar_url": "https://avatars2.githubusercontent.com/u/64454988?v=4",
         "tags": [
@@ -60,7 +60,7 @@
       {
         "title": "ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった",
         "url": "https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146",
-        "likes": 95,
+        "likes": 98,
         "author": "ktdatascience",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
         "tags": [
@@ -74,7 +74,7 @@
       {
         "title": "Antigravity for VS Code in GitHub Codespacesが便利すぎる件【サンドボックス / 脱GitHub Copilot】",
         "url": "https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276",
-        "likes": 65,
+        "likes": 66,
         "author": "yangguofu",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4295362/1344949b1b340acca104fa486faa3f98e14102a0/large.png?1765366127",
         "tags": [
@@ -88,46 +88,46 @@
     ],
     "zenn": [
       {
-        "title": "Kaggle Pokémon TCG AI Battle Challenge ポケカコンペ振り返りーメダルなし",
-        "url": "https://zenn.dev/fusic/articles/4b6e8eb23c0363",
+        "title": "AIでチーム感が薄れたSREチームで始めた、AIによる週次チーム評価",
+        "url": "https://zenn.dev/hubble/articles/ee2f962e0a69f1",
+        "author": "Mitsuhashi",
+        "date": "Fri, 04 Sep 2026 03:57:56 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--kM4SnJDz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E6%2584%259F%25E3%2581%258C%25E8%2596%2584%25E3%2582%258C%25E3%2581%259FSRE%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%25E3%2580%2581AI%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%2580%25B1%25E6%25AC%25A1%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E8%25A9%2595%25E4%25BE%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Mitsuhashi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3ZjM3MmJiODUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Hubble%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3MDM4MDgyNzQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "AgentCore Memory connector と FGAC でメモリーアクセスを統制する",
+        "url": "https://zenn.dev/aws_japan/articles/agentcore-memory-connector-fgac",
+        "author": "Hikotty / Hikoto Iseda",
+        "date": "Fri, 04 Sep 2026 00:37:58 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--I1_YzTKm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AgentCore%2520Memory%2520connector%2520%25E3%2581%25A8%2520FGAC%2520%25E3%2581%25A7%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E3%2582%2592%25E7%25B5%25B1%25E5%2588%25B6%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hikotty%2520%252F%2520Hikoto%2520I...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q5ZTY0MmNkYTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "TanStack Virtual を使ってみた話",
+        "url": "https://zenn.dev/geekplus/articles/b5f1757e2869ef",
+        "author": "おすぎ",
+        "date": "Fri, 04 Sep 2026 00:03:26 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--TtOyqYAY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TanStack%2520Virtual%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258A%25E3%2581%2599%25E3%2581%258E%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk5YzFhOGMxY2UuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Geekplus%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3FBby1ZUFpaVkx0UHJiekd4cGlzXzlzU3U2UUNlZlQwZ1dQNHlQdFYyR3pLZVF3PXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Next.js 使いが React Native + Expo でモバイルアプリ開発に入門するだけ",
+        "url": "https://zenn.dev/livetoon/articles/react-native-expo-for-nextjs-users",
+        "author": "さか",
+        "date": "Thu, 03 Sep 2026 10:35:53 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--8P0pXGK0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%2520%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%258C%2520React%2520Native%2520%252B%2520Expo%2520%25E3%2581%25A7%25E3%2583%25A2%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A0%25E3%2581%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2595%25E3%2581%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM2NjI1NGZkZGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Livetoon%2520Inc.%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzljZjA0MWUxZjIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Kaggle AI Agent Securityコンペ振り返り ー345th Place Solution",
+        "url": "https://zenn.dev/fusic/articles/61c4bcba3e4820",
         "author": "xthixsl_ml@レオナ",
-        "date": "Wed, 02 Sep 2026 11:59:49 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--CCKMqH5a--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%2520Pok%25C3%25A9mon%2520TCG%2520AI%2520Battle%2520Challenge%2520%25E3%2583%259D%25E3%2582%25B1%25E3%2582%25AB%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%25E3%2583%25BC%25E3%2583%25A1%25E3%2583%2580%25E3%2583%25AB%25E3%2581%25AA%25E3%2581%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:xthixsl_ml%2540%25E3%2583%25AC%25E3%2582%25AA%25E3%2583%258A%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzOGE3MzVjMDIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "date": "Thu, 03 Sep 2026 10:15:04 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_0ulCYrN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%2520AI%2520Agent%2520Security%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2520%25E3%2583%25BC345th%2520Place%2520Solution%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:xthixsl_ml%2540%25E3%2583%25AC%25E3%2582%25AA%25E3%2583%258A%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzOGE3MzVjMDIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました",
-        "url": "https://zenn.dev/mybest_dev/articles/2cd71bc64ad380",
-        "author": "rakiyoshi",
-        "date": "Wed, 02 Sep 2026 09:00:32 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ACxVqvP4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ECS%2520%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2583%2591%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A8%25E6%25A7%258B%25E6%2588%2590%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%2592%2520GitHub%2520Actions%25E3%2581%25A8%2520ecspresso%2520%25E3%2581%25AB%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:rakiyoshi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MxMmM4NTBlYTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%259E%25E3%2582%25A4%25E3%2583%2599%25E3%2582%25B9%25E3%2583%2588%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEwYmE3ZWI5MmQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "AIエージェント時代にデータサイエンティストは生き残れるのか",
-        "url": "https://zenn.dev/miogawa/articles/09bed306fc615a",
-        "author": "小川幹雄",
-        "date": "Wed, 02 Sep 2026 08:30:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--DMYDtgJI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AF%25E7%2594%259F%25E3%2581%258D%25E6%25AE%258B%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25B0%258F%25E5%25B7%259D%25E5%25B9%25B9%25E9%259B%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXdtS3dQM3dzMEtYM0l1V2hxT3Vwa1ZLOWtCcjVKWjJubWpBSEVtUEhsR25rUlFRTWY9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Chainguardに学ぶセキュアなコンテナイメージの作り方",
-        "url": "https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain",
-        "author": "Yoshi Yamaguchi",
-        "date": "Wed, 02 Sep 2026 05:25:32 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--lKfHi0Uo--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci83ZDQzYjJlMjA5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
-      },
-      {
-        "title": "Tauriのアプリケーションでダークモードを実装する",
-        "url": "https://zenn.dev/ayaextech_fill/articles/tauri-application-dark-mode",
-        "author": "泡沫京水",
-        "date": "Tue, 01 Sep 2026 17:33:07 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tCm36pSB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Tauri%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25A7%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25B3%25A1%25E6%25B2%25AB%25E4%25BA%25AC%25E6%25B0%25B4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzMDA2ZmJiNzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "社内限定サービスの認証を Google Workspace でサクッと作る",
-        "url": "https://zenn.dev/dress_code/articles/6134e6bd5e46c6",
-        "author": "cottpan",
-        "date": "Tue, 01 Sep 2026 10:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--j_Dws_MA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A4%25BE%25E5%2586%2585%25E9%2599%2590%25E5%25AE%259A%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25AE%25E8%25AA%258D%25E8%25A8%25BC%25E3%2582%2592%2520Google%2520Workspace%2520%25E3%2581%25A7%25E3%2582%25B5%25E3%2582%25AF%25E3%2583%2583%25E3%2581%25A8%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:cottpan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRiOGMxZmU1MDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DRESS%2520CODE%2520TECH%2520BLOG%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0OWI1Y2ZmODAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
+        "url": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
+        "author": "たけうちさんは縮退しました🌀",
+        "date": "Thu, 03 Sep 2026 06:02:10 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--t4ph97vb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E3%2580%258C%25E4%25B8%25AD%25E5%25AD%25A6%25E7%2594%259F%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB1%25E6%259E%259A%25E3%2581%25AEHTML%25E3%2581%25A7%25E5%259B%25B3%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2581%258C%25E3%2580%2581%25E8%25A4%2587%25E9%259B%2591%25E3%2581%25AA%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%25E5%2589%258D%25E3%2581%25AE%25E6%259C%2580%25E8%2589%25AF%25E3%2581%25AE%25E6%25BA%2596%25E5%2582%2599%25E9%2581%258B%25E5%258B%2595%25E3%2581%258B%25E3%2582%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%259F%25E3%2581%2591%25E3%2581%2586%25E3%2581%25A1%25E3%2581%2595%25E3%2582%2593%25E3%2581%25AF%25E7%25B8%25AE%25E9%2580%2580%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2520%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwNGQ0YzY1YWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A4%25E3%2582%25A8%25E3%2582%25BD%25E3%2583%2589%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxMDFmMGM1NzEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +135,7 @@
         "name": "deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 210980,
+        "stars": 212221,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -143,7 +143,7 @@
         "name": "anywhere-labs/dsh-desktop",
         "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
         "url": "https://github.com/anywhere-labs/dsh-desktop",
-        "stars": 23350,
+        "stars": 23593,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/286827603?v=4"
       },
@@ -151,7 +151,7 @@
         "name": "guillaumemeyer/watermarks-remover",
         "description": "A privacy-first app that strips AI watermarks from content you own.",
         "url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "stars": 20309,
+        "stars": 20591,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
       },
@@ -159,7 +159,7 @@
         "name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
         "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-        "stars": 14358,
+        "stars": 14466,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/316603077?v=4"
       },
@@ -167,17 +167,17 @@
         "name": "yjh051108/dsh-routing-suite",
         "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
         "url": "https://github.com/yjh051108/dsh-routing-suite",
-        "stars": 7051,
+        "stars": 7076,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/195255374?v=4"
       },
       {
-        "name": "sapientinc/PRAXIST",
-        "description": "Autonomous research system for measurable, computer-executable research.",
-        "url": "https://github.com/sapientinc/PRAXIST",
-        "stars": 6849,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/188930505?v=4"
+        "name": "zhu1090093659/dsh-web",
+        "description": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+        "url": "https://github.com/zhu1090093659/dsh-web",
+        "stars": 6865,
+        "language": "TypeScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/46916148?v=4"
       }
     ]
   }
