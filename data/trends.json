@@ -1,26 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-09-06T23:20:33Z"
+    "last_updated": "2026-09-07T23:51:11Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル",
-        "url": "https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a",
-        "likes": 147,
-        "author": "ryoheiiwamoto",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/668950/ec914c43f52fa8ef2c5d63ef6d266ce2011322c5/x_large.png?1738549714",
-        "tags": [
-          "AI",
-          "エンジニアの心得",
-          "マインドセット"
-        ],
-        "created_at": "2026-08-24T16:31:36+09:00"
-      },
-      {
         "title": "ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった",
         "url": "https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146",
-        "likes": 101,
+        "likes": 105,
         "author": "ktdatascience",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3937496/d01fd0404bf68676aae29f3a3f9a53dfe248bb2a/large.png?1745906036",
         "tags": [
@@ -34,7 +21,7 @@
       {
         "title": "Antigravity for VS Code in GitHub Codespacesが便利すぎる件【サンドボックス / 脱GitHub Copilot】",
         "url": "https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276",
-        "likes": 67,
+        "likes": 69,
         "author": "yangguofu",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4295362/1344949b1b340acca104fa486faa3f98e14102a0/large.png?1765366127",
         "tags": [
@@ -48,21 +35,21 @@
       {
         "title": "AIにテストを書かせると、決まって同じ場所が抜ける",
         "url": "https://qiita.com/suwa_nobu/items/a0fa9752528e2b3def71",
-        "likes": 67,
+        "likes": 69,
         "author": "suwa_nobu",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4430611/a4e4abd6c5cdfc9793196fe0d1cf620f5ef11694/x_large.png?1785289596",
         "tags": [
           "AI",
           "AIエージェント",
-          "ソフトウェアテスト",
-          "テスト自動化"
+          "ClaudeCode",
+          "ソフトウェアテスト"
         ],
         "created_at": "2026-08-25T11:13:11+09:00"
       },
       {
         "title": "10年分ぐらいのQiitaの自分の投稿を蒸留したら、自分っぽい記事を書いてくれるようになったww",
         "url": "https://qiita.com/moritalous/items/4a70f0bee16d5d690a73",
-        "likes": 65,
+        "likes": 66,
         "author": "moritalous",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/41574/8d1f3a36f25ffc106d1452cfe4f96279097ceb0a/x_large.png?1770637361",
         "tags": [
@@ -71,9 +58,23 @@
         "created_at": "2026-08-27T22:01:16+09:00"
       },
       {
+        "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
+        "url": "https://qiita.com/nogataka/items/d6a54f3694726b9141f3",
+        "likes": 59,
+        "author": "nogataka",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
+        "tags": [
+          "ClaudeCode",
+          "Claude",
+          "Anthropic",
+          "AI"
+        ],
+        "created_at": "2026-09-05T12:18:47+09:00"
+      },
+      {
         "title": "【2026年版】無料から使えるパブリックAPI 16選！定番からおもしろAPIまで",
         "url": "https://qiita.com/hashiryu_/items/0fa7c0d9ed83aaa1c914",
-        "likes": 52,
+        "likes": 55,
         "author": "hashiryu_",
         "avatar_url": "https://secure.gravatar.com/avatar/c8b8fa2c2afb05f1432a524087af4d99",
         "tags": [
@@ -87,46 +88,46 @@
     ],
     "zenn": [
       {
-        "title": "初学者がRustに触れて感じたこと",
-        "url": "https://zenn.dev/darkcat666/articles/c2a19b874900ab",
-        "author": "センシティブ先輩＠＜破壊者＞",
-        "date": "Sun, 06 Sep 2026 12:09:30 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--q3-Pt7pf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2588%259D%25E5%25AD%25A6%25E8%2580%2585%25E3%2581%258CRust%25E3%2581%25AB%25E8%25A7%25A6%25E3%2582%258C%25E3%2581%25A6%25E6%2584%259F%25E3%2581%2598%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E5%2585%2588%25E8%25BC%25A9%25EF%25BC%25A0%25EF%25BC%259C%25E7%25A0%25B4%25E5%25A3%258A%25E8%2580%2585%25EF%25BC%259E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyNWIxMTU4NDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Astra時代のコードファースト3Dモデリング",
+        "url": "https://zenn.dev/koher/articles/code-first-3d-modeling",
+        "author": "Yuta Koshizawa",
+        "date": "Mon, 07 Sep 2026 12:10:26 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--qVdPhUOW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Astra%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%25883D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuta%2520Koshizawa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkMjYwYmRkNzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "GitHub の権限管理を Terraform 化すると体験がよかった",
-        "url": "https://zenn.dev/dev_commune/articles/github-terraform-permission-management",
-        "author": "sikeda107",
-        "date": "Sun, 06 Sep 2026 11:50:58 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3Oe8pG4I--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520%25E3%2581%25AE%25E6%25A8%25A9%25E9%2599%2590%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%2592%2520Terraform%2520%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A8%25E4%25BD%2593%25E9%25A8%2593%25E3%2581%258C%25E3%2582%2588%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sikeda107%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y1MTE3MTI5NDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25B3%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dzTks2bXloOGVCTGFlVzVnazNjVzZSYXZOblZObzNkbnc1VEhpM1E9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Snowflake App RuntimeがGAになったので、Public Previewからの差分を追いかけてみた（＆簡単に触ってみた）",
+        "url": "https://zenn.dev/s_uema2/articles/03fdaa7ea13770",
+        "author": "Satoshi Uematsu",
+        "date": "Mon, 07 Sep 2026 11:54:14 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--pSvsUg5S--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Snowflake%2520App%2520Runtime%25E3%2581%258CGA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581Public%2520Preview%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E5%25B7%25AE%25E5%2588%2586%25E3%2582%2592%25E8%25BF%25BD%25E3%2581%2584%25E3%2581%258B%25E3%2581%2591%25E3%2581%25A6%25E3%2581%25BF...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Satoshi%2520Uematsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmpZN2ZwSTN1LVY5UmpLLVNCOGZuaUZ0WEdVMmlGTE1qNnBiUkdIdENRWTZkSkpnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "ルービックキューブを一撃で解く専用LLMを作った",
-        "url": "https://zenn.dev/issei_y/articles/4178a603322b8e",
-        "author": "issei_y",
-        "date": "Sun, 06 Sep 2026 10:48:04 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--KsbKV6Yy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2593%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2596%25E3%2582%2592%25E4%25B8%2580%25E6%2592%2583%25E3%2581%25A7%25E8%25A7%25A3%25E3%2581%258F%25E5%25B0%2582%25E7%2594%25A8LLM%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:issei_y%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q2ZmYyMzA4MjcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "DatabricksのServerlessで複数CPUアーキテクチャに対応して起動時間を遅くしない [2026年9月7日時点]",
+        "url": "https://zenn.dev/turing_motors/articles/71a4dd39e0654c",
+        "author": "colum2131",
+        "date": "Mon, 07 Sep 2026 09:00:08 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZECka40E--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Databricks%25E3%2581%25AEServerless%25E3%2581%25A7%25E8%25A4%2587%25E6%2595%25B0CPU%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25AB%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%2597%25E3%2581%25A6%25E8%25B5%25B7%25E5%258B%2595%25E6%2599%2582%25E9%2596%2593%25E3%2582%2592%25E9%2581%2585%25E3%2581%258F%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%2520%255B2026%25E5%25B9%25B49...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:colum2131%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhNmQ4MDk1OGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Tech%2520Blog%2520-%2520Turing%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RhZDZiMjhmMmEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "GPT-2-likeからQwen2-likeへの実験：第3回 絶対位置EmbeddingをRoPEに変える",
-        "url": "https://zenn.dev/yyamamot/articles/gpt2-to-qwen2-03-rope",
-        "author": "yyamamot",
-        "date": "Sun, 06 Sep 2026 06:45:34 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zIMIEAqE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT-2-like%25E3%2581%258B%25E3%2582%2589Qwen2-like%25E3%2581%25B8%25E3%2581%25AE%25E5%25AE%259F%25E9%25A8%2593%25EF%25BC%259A%25E7%25AC%25AC3%25E5%259B%259E%2520%25E7%25B5%25B6%25E5%25AF%25BE%25E4%25BD%258D%25E7%25BD%25AEEmbedding%25E3%2582%2592RoPE%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yyamamot%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0NRYm54cy1WMlNhTnY1LUV3dUFqX2k4NXRmOUNsMFlzRnZzeXktdXd5PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "ドメインモデル貧血症はなぜ生まれるのか — Decision パターンで DDD トリレンマを解く",
+        "url": "https://zenn.dev/tellernovel_inc/articles/0193eb68cabb6e",
+        "author": "typer",
+        "date": "Mon, 07 Sep 2026 03:03:17 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--NjR2JeuR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E8%25B2%25A7%25E8%25A1%2580%25E7%2597%2587%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E7%2594%259F%25E3%2581%25BE%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2594%2520Decision%2520%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25A7%2520DDD%2520%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%259E%25E3%2582%2592%25E8%25A7%25A3%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:typer%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y2ZDBjOWE0YTEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2586%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1M2VkaEZpWEpIR0w2WkNmMkxKVzlpeXBWZUx6QlA5aEV3VEplU3k9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "個人PCのClaude Codeの設定ファイルと、設定の動機を一部紹介します",
-        "url": "https://zenn.dev/yuki82511988/articles/45a5a464514ac1",
-        "author": "yuki",
-        "date": "Sun, 06 Sep 2026 01:32:12 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ejcLHEK5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BAPC%25E3%2581%25AEClaude%2520Code%25E3%2581%25AE%25E8%25A8%25AD%25E5%25AE%259A%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%25A8%25E3%2580%2581%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25AE%25E5%258B%2595%25E6%25A9%259F%25E3%2582%2592%25E4%25B8%2580%25E9%2583%25A8%25E7%25B4%25B9%25E4%25BB%258B%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yuki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZlZWI1NTQyZGMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【XP祭り2026】エンジニアにコミュ力を求めるな、と言われて頷いた",
+        "url": "https://zenn.dev/nexta_/articles/51fdb6f774d1ca",
+        "author": "Ayaka",
+        "date": "Mon, 07 Sep 2026 02:32:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--H6cMNPaR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590XP%25E7%25A5%25AD%25E3%2582%258A2026%25E3%2580%2591%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AB%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E5%258A%259B%25E3%2582%2592%25E6%25B1%2582%25E3%2582%2581%25E3%2582%258B%25E3%2581%25AA%25E3%2580%2581%25E3%2581%25A8%25E8%25A8%2580%25E3%2582%258F%25E3%2582%258C%25E3%2581%25A6%25E9%25A0%25B7%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Ayaka%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U0ZGE2N2U3OWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Nexta%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M4MGM4MWE2NzcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Claude Code の Rules が発火しないのは、Claude が Read ツールを使っていないから",
-        "url": "https://zenn.dev/odacchi/articles/claude-code-rules-read-tool",
-        "author": "odacchi",
-        "date": "Sat, 05 Sep 2026 20:36:54 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--fL1H44uP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%2520Rules%2520%25E3%2581%258C%25E7%2599%25BA%25E7%2581%25AB%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25AF%25E3%2580%2581Claude%2520%25E3%2581%258C%2520Read%2520%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25AA%25E3%2581%2584%25E3%2581%258B%25E3%2582%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:odacchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FDTlBFdV9yVUhyYjkteWFUd2JUaTBsS1lPZmd4c0ZfejlYbGZpWlloNU9sWnc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "WebエンジニアのためのReact Native + NativeWind v5事始め — Webの常識が通用しない18のポイント",
+        "url": "https://zenn.dev/my_vision/articles/2bbf47bb0db842",
+        "author": "オクムラダイキ",
+        "date": "Mon, 07 Sep 2026 01:17:48 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--P74OJ0w---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AEReact%2520Native%2520%252B%2520NativeWind%2520v5%25E4%25BA%258B%25E5%25A7%258B%25E3%2582%2581%2520%25E2%2580%2594%2520Web%25E3%2581%25AE%25E5%25B8%25B8%25E8%25AD%2598%25E3%2581%258C%25E9%2580%259A%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25AA...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25AA%25E3%2582%25AF%25E3%2583%25A0%25E3%2583%25A9%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YwNWJhY2I0OTQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:MyVision%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JhZDc4OTRiNTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -134,7 +135,7 @@
         "name": "deepseek-ai/deepseek-harness",
         "description": "DeepSeek Harness: Everything is a Plugin.",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 213979,
+        "stars": 215116,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -142,7 +143,7 @@
         "name": "anywhere-labs/dsh-desktop",
         "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
         "url": "https://github.com/anywhere-labs/dsh-desktop",
-        "stars": 23953,
+        "stars": 24233,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/286827603?v=4"
       },
@@ -150,7 +151,7 @@
         "name": "guillaumemeyer/watermarks-remover",
         "description": "A privacy-first app that strips AI watermarks from content you own.",
         "url": "https://github.com/guillaumemeyer/watermarks-remover",
-        "stars": 20986,
+        "stars": 21234,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1385518?v=4"
       },
@@ -158,7 +159,7 @@
         "name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
         "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-        "stars": 14664,
+        "stars": 14784,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/316603077?v=4"
       },
@@ -166,7 +167,7 @@
         "name": "yjh051108/dsh-routing-suite",
         "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
         "url": "https://github.com/yjh051108/dsh-routing-suite",
-        "stars": 7111,
+        "stars": 7125,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/195255374?v=4"
       },
@@ -174,7 +175,7 @@
         "name": "zhu1090093659/dsh-web",
         "description": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
         "url": "https://github.com/zhu1090093659/dsh-web",
-        "stars": 7015,
+        "stars": 7104,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/46916148?v=4"
       }
