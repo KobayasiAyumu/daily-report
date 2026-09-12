@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-09-11T23:41:07Z"
+    "last_updated": "2026-09-12T23:33:46Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "AIっぽくない画像を作る画風プロンプト38種類＋テンプレート",
         "url": "https://qiita.com/maeda-niku18/items/b633dda178c505461080",
-        "likes": 317,
+        "likes": 324,
         "author": "maeda-niku18",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4074489/15e607383dba8dfef618c61b5acebb1718e5eb3f/large.png?1781961525",
         "tags": [
@@ -19,7 +19,7 @@
       {
         "title": "うっかり世界最強のWasmコンパイラを作ってしまった件",
         "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
-        "likes": 163,
+        "likes": 212,
         "author": "kanryu",
         "avatar_url": "https://2.gravatar.com/avatar/da22c32576eb5fe47251c4e8643cc4af?d=https%3A%2F%2Fidenticons.github.com%2Fcd71fb4ec19ac7a4e25581b27053b728.png",
         "tags": [
@@ -33,7 +33,7 @@
       {
         "title": "Docker環境をガチで軽量化するための鉄板設定まとめ",
         "url": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069",
-        "likes": 120,
+        "likes": 122,
         "author": "nolanlover0527",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4133387/profile-images/1767762101",
         "tags": [
@@ -46,7 +46,7 @@
       {
         "title": "ジュニアの「AIが書いたコードが理解できない」問題の対応策",
         "url": "https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e",
-        "likes": 91,
+        "likes": 92,
         "author": "im_yoneda",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3487407/893b9a6ea578ccdea562610d571aa45a91a4eedf/x_large.png?1749014315",
         "tags": [
@@ -56,6 +56,20 @@
           "新卒エンジニア"
         ],
         "created_at": "2026-09-07T11:53:07+09:00"
+      },
+      {
+        "title": "最近取り入れたClaude Codeの個人的tips 4選",
+        "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
+        "likes": 86,
+        "author": "kuma_3838",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3579041/c7598f7302d5c6ffdf6f6e34f5251ec8e46c073f/large.png?1742046172",
+        "tags": [
+          "ClaudeCode",
+          "生成AI",
+          "Bash",
+          "ORCA"
+        ],
+        "created_at": "2026-09-07T06:48:30+09:00"
       },
       {
         "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
@@ -70,23 +84,23 @@
           "AI"
         ],
         "created_at": "2026-09-05T12:18:47+09:00"
-      },
-      {
-        "title": "最近取り入れたClaude Codeの個人的tips 4選",
-        "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
-        "likes": 83,
-        "author": "kuma_3838",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3579041/c7598f7302d5c6ffdf6f6e34f5251ec8e46c073f/large.png?1742046172",
-        "tags": [
-          "ClaudeCode",
-          "生成AI",
-          "Bash",
-          "ORCA"
-        ],
-        "created_at": "2026-09-07T06:48:30+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "クロスプラットフォーム開発が解決するコスト、解決しないコスト",
+        "url": "https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026",
+        "author": "Nkzn",
+        "date": "Sat, 12 Sep 2026 14:05:10 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--vu5O-xW0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E9%2596%258B%25E7%2599%25BA%25E3%2581%258C%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2580%2581%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nkzn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hpRkgxVktGMXZZOFk2eEtfZl9PVklHS2pEeWxkWG42MzVLU0VEZEE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "デカルト積問題って知っとるか〜？　気軽にJOINでメモリ爆発するアレのヤバさ実測すぞ！",
+        "url": "https://zenn.dev/levtech/articles/cartesian-product-doctrine-orm",
+        "author": "もりた",
+        "date": "Fri, 11 Sep 2026 02:45:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--g2Vuifz_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2588%25E7%25A9%258D%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25A3%25E3%2581%25A6%25E7%259F%25A5%25E3%2581%25A3%25E3%2581%25A8%25E3%2582%258B%25E3%2581%258B%25E3%2580%259C%25EF%25BC%259F%25E3%2580%2580%25E6%25B0%2597%25E8%25BB%25BD%25E3%2581%25ABJOIN%25E3%2581%25A7%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E7%2588%2586%25E7%2599%25BA%25E3%2581%2599%25E3%2582%258B%25E3%2582%25A2%25E3%2583%25AC%25E3%2581%25AE%25E3%2583%25A4%25E3%2583%2590%25E3%2581%2595%25E5%25AE%259F%25E6%25B8%25AC%25E3%2581%2599%25E3%2581%259E%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%2582%25E3%2582%258A%25E3%2581%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY1YzcxZDY5NDkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AC%25E3%2583%2590%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E9%2596%258B%25E7%2599%25BA%25E9%2583%25A8%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmduNmRjWi1heEt6c1JkLXQ4UmxGcmRJMi1VV0tnTUpiamZISmQ5T0hqdmI4PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
       {
         "title": "単体テストの実行時間を6割程度削減してみた",
         "url": "https://zenn.dev/dress_code/articles/5dd5de5020d9ef",
@@ -109,57 +123,19 @@
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9gI5_igv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590VRChat%252FUdon%25E3%2580%2591%25E4%25B8%2596%25E7%2595%258C%25E6%259C%2580%25E9%2580%259F%25E3%2581%25AEC%2523%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%2592%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:bea4dev%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2ZDVjZWFkMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "良いAIの行動、メモ",
-        "url": "https://zenn.dev/imaimai17468/articles/4fe1531b71929b",
-        "author": "いまいまい",
-        "date": "Thu, 10 Sep 2026 04:38:52 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--cKcn559_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2589%25AF%25E3%2581%2584AI%25E3%2581%25AE%25E8%25A1%258C%25E5%258B%2595%25E3%2580%2581%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3ZmZmMTI1ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
         "title": "GPT-6 Astraは何を待ち、いつ指示を取り込むのか — async tool callingとmid-turn steeringを実測",
         "url": "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
         "author": "joe_re",
         "date": "Thu, 10 Sep 2026 03:14:11 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gk0T2P8j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT-6%2520Astra%25E3%2581%25AF%25E4%25BD%2595%25E3%2582%2592%25E5%25BE%2585%25E3%2581%25A1%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E6%258C%2587%25E7%25A4%25BA%25E3%2582%2592%25E5%258F%2596%25E3%2582%258A%25E8%25BE%25BC%25E3%2582%2580%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2594%2520async%2520tool%2520calling%25E3%2581%25A8mid-tur...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:joe_re%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2YjYwNDBmMmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PeopleX%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UxZDcxODA5NzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "メモリに載らないGROUP BYをDuckDBはどう処理するのか",
-        "url": "https://zenn.dev/loglass/articles/7c140c6689d8c2",
-        "author": "Hiroto Ryushima",
-        "date": "Thu, 10 Sep 2026 01:42:07 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s---ylPwbA1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E3%2581%25AB%25E8%25BC%2589%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584GROUP%2520BY%25E3%2582%2592DuckDB%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E5%2587%25A6%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hiroto%2520Ryushima%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBjNzJlYjg4YTQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
       {
-        "name": "deepseek-ai/deepseek-harness",
-        "description": "DeepSeek Harness: Everything is a Plugin.",
-        "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "stars": 220526,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      },
-      {
-        "name": "anywhere-labs/dsh-desktop",
-        "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-        "url": "https://github.com/anywhere-labs/dsh-desktop",
-        "stars": 25707,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/286827603?v=4"
-      },
-      {
-        "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-        "stars": 15360,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/316603077?v=4"
-      },
-      {
         "name": "yjh051108/dsh-routing-suite",
         "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
         "url": "https://github.com/yjh051108/dsh-routing-suite",
-        "stars": 7170,
+        "stars": 7169,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/195255374?v=4"
       },
@@ -167,7 +143,7 @@
         "name": "sapientinc/PRAXIST",
         "description": "Autonomous research system for measurable, computer-executable research.",
         "url": "https://github.com/sapientinc/PRAXIST",
-        "stars": 6562,
+        "stars": 6672,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/188930505?v=4"
       },
@@ -175,9 +151,33 @@
         "name": "lnkiai/m3e-canvas",
         "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
         "url": "https://github.com/lnkiai/m3e-canvas",
-        "stars": 6133,
+        "stars": 6326,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/187016380?v=4"
+      },
+      {
+        "name": "MengTo/threeui",
+        "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+        "url": "https://github.com/MengTo/threeui",
+        "stars": 5671,
+        "language": "HTML",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/1065452?v=4"
+      },
+      {
+        "name": "s1dashu/ip-as-logo-skill",
+        "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+        "url": "https://github.com/s1dashu/ip-as-logo-skill",
+        "stars": 5179,
+        "language": "",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/129982137?v=4"
+      },
+      {
+        "name": "CopilotKit/OpenBot",
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "url": "https://github.com/CopilotKit/OpenBot",
+        "stars": 4815,
+        "language": "TypeScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/131273140?v=4"
       }
     ]
   }
