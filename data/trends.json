@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-09-12T23:33:46Z"
+    "last_updated": "2026-09-13T23:46:23Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "AIっぽくない画像を作る画風プロンプト38種類＋テンプレート",
         "url": "https://qiita.com/maeda-niku18/items/b633dda178c505461080",
-        "likes": 324,
+        "likes": 329,
         "author": "maeda-niku18",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4074489/15e607383dba8dfef618c61b5acebb1718e5eb3f/large.png?1781961525",
         "tags": [
@@ -19,7 +19,7 @@
       {
         "title": "うっかり世界最強のWasmコンパイラを作ってしまった件",
         "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
-        "likes": 212,
+        "likes": 224,
         "author": "kanryu",
         "avatar_url": "https://2.gravatar.com/avatar/da22c32576eb5fe47251c4e8643cc4af?d=https%3A%2F%2Fidenticons.github.com%2Fcd71fb4ec19ac7a4e25581b27053b728.png",
         "tags": [
@@ -33,7 +33,7 @@
       {
         "title": "Docker環境をガチで軽量化するための鉄板設定まとめ",
         "url": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069",
-        "likes": 122,
+        "likes": 128,
         "author": "nolanlover0527",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4133387/profile-images/1767762101",
         "tags": [
@@ -58,6 +58,20 @@
         "created_at": "2026-09-07T11:53:07+09:00"
       },
       {
+        "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
+        "url": "https://qiita.com/nogataka/items/d6a54f3694726b9141f3",
+        "likes": 87,
+        "author": "nogataka",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
+        "tags": [
+          "ClaudeCode",
+          "Claude",
+          "Anthropic",
+          "AI"
+        ],
+        "created_at": "2026-09-05T12:18:47+09:00"
+      },
+      {
         "title": "最近取り入れたClaude Codeの個人的tips 4選",
         "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
         "likes": 86,
@@ -70,23 +84,16 @@
           "ORCA"
         ],
         "created_at": "2026-09-07T06:48:30+09:00"
-      },
-      {
-        "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
-        "url": "https://qiita.com/nogataka/items/d6a54f3694726b9141f3",
-        "likes": 85,
-        "author": "nogataka",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
-        "tags": [
-          "ClaudeCode",
-          "Claude",
-          "Anthropic",
-          "AI"
-        ],
-        "created_at": "2026-09-05T12:18:47+09:00"
       }
     ],
     "zenn": [
+      {
+        "title": "2026年に多くのシストレの戦略のアルファが消えた件について",
+        "url": "https://zenn.dev/gamella/articles/6bd6e5ab9e88bc",
+        "author": "Tomoya Kitayama | AlpacaTech",
+        "date": "Sun, 13 Sep 2026 03:37:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--CBNi3dkF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2026%25E5%25B9%25B4%25E3%2581%25AB%25E5%25A4%259A%25E3%2581%258F%25E3%2581%25AE%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%2588%25A6%25E7%2595%25A5%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A1%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2581%259F%25E4%25BB%25B6%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tomoya%2520Kitayama%2520%257C%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0MTFiOWQ1NzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
       {
         "title": "クロスプラットフォーム開発が解決するコスト、解決しないコスト",
         "url": "https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026",
@@ -121,29 +128,14 @@
         "author": "bea4dev",
         "date": "Thu, 10 Sep 2026 10:19:23 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9gI5_igv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590VRChat%252FUdon%25E3%2580%2591%25E4%25B8%2596%25E7%2595%258C%25E6%259C%2580%25E9%2580%259F%25E3%2581%25AEC%2523%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%2592%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:bea4dev%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2ZDVjZWFkMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "GPT-6 Astraは何を待ち、いつ指示を取り込むのか — async tool callingとmid-turn steeringを実測",
-        "url": "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
-        "author": "joe_re",
-        "date": "Thu, 10 Sep 2026 03:14:11 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gk0T2P8j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT-6%2520Astra%25E3%2581%25AF%25E4%25BD%2595%25E3%2582%2592%25E5%25BE%2585%25E3%2581%25A1%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E6%258C%2587%25E7%25A4%25BA%25E3%2582%2592%25E5%258F%2596%25E3%2582%258A%25E8%25BE%25BC%25E3%2582%2580%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2594%2520async%2520tool%2520calling%25E3%2581%25A8mid-tur...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:joe_re%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2YjYwNDBmMmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PeopleX%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UxZDcxODA5NzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
       {
-        "name": "yjh051108/dsh-routing-suite",
-        "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-        "url": "https://github.com/yjh051108/dsh-routing-suite",
-        "stars": 7169,
-        "language": "JavaScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/195255374?v=4"
-      },
-      {
         "name": "sapientinc/PRAXIST",
         "description": "Autonomous research system for measurable, computer-executable research.",
         "url": "https://github.com/sapientinc/PRAXIST",
-        "stars": 6672,
+        "stars": 6712,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/188930505?v=4"
       },
@@ -151,7 +143,7 @@
         "name": "lnkiai/m3e-canvas",
         "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
         "url": "https://github.com/lnkiai/m3e-canvas",
-        "stars": 6326,
+        "stars": 6491,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/187016380?v=4"
       },
@@ -159,7 +151,7 @@
         "name": "MengTo/threeui",
         "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
         "url": "https://github.com/MengTo/threeui",
-        "stars": 5671,
+        "stars": 5715,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1065452?v=4"
       },
@@ -167,7 +159,7 @@
         "name": "s1dashu/ip-as-logo-skill",
         "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
         "url": "https://github.com/s1dashu/ip-as-logo-skill",
-        "stars": 5179,
+        "stars": 5209,
         "language": "",
         "owner_avatar": "https://avatars.githubusercontent.com/u/129982137?v=4"
       },
@@ -175,9 +167,17 @@
         "name": "CopilotKit/OpenBot",
         "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
         "url": "https://github.com/CopilotKit/OpenBot",
-        "stars": 4815,
+        "stars": 4853,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/131273140?v=4"
+      },
+      {
+        "name": "amagine-ai/Amagine3D",
+        "description": "Amagine3D: From hardware requirements to editable 3D designs",
+        "url": "https://github.com/amagine-ai/Amagine3D",
+        "stars": 4485,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/285729589?v=4"
       }
     ]
   }
