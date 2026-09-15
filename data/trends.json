@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-09-15T00:04:33Z"
+    "last_updated": "2026-09-15T23:49:15Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "AIっぽくない画像を作る画風プロンプト38種類＋テンプレート",
         "url": "https://qiita.com/maeda-niku18/items/b633dda178c505461080",
-        "likes": 344,
+        "likes": 367,
         "author": "maeda-niku18",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4074489/15e607383dba8dfef618c61b5acebb1718e5eb3f/large.png?1781961525",
         "tags": [
@@ -19,7 +19,7 @@
       {
         "title": "うっかり世界最強のWasmコンパイラを作ってしまった件",
         "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
-        "likes": 231,
+        "likes": 239,
         "author": "kanryu",
         "avatar_url": "https://2.gravatar.com/avatar/da22c32576eb5fe47251c4e8643cc4af?d=https%3A%2F%2Fidenticons.github.com%2Fcd71fb4ec19ac7a4e25581b27053b728.png",
         "tags": [
@@ -33,7 +33,7 @@
       {
         "title": "Docker環境をガチで軽量化するための鉄板設定まとめ",
         "url": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069",
-        "likes": 131,
+        "likes": 132,
         "author": "nolanlover0527",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4133387/profile-images/1767762101",
         "tags": [
@@ -46,7 +46,7 @@
       {
         "title": "ジュニアの「AIが書いたコードが理解できない」問題の対応策",
         "url": "https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e",
-        "likes": 94,
+        "likes": 96,
         "author": "im_yoneda",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3487407/893b9a6ea578ccdea562610d571aa45a91a4eedf/x_large.png?1749014315",
         "tags": [
@@ -58,23 +58,9 @@
         "created_at": "2026-09-07T11:53:07+09:00"
       },
       {
-        "title": "最近取り入れたClaude Codeの個人的tips 4選",
-        "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
-        "likes": 89,
-        "author": "kuma_3838",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3579041/c7598f7302d5c6ffdf6f6e34f5251ec8e46c073f/large.png?1742046172",
-        "tags": [
-          "ClaudeCode",
-          "生成AI",
-          "Bash",
-          "ORCA"
-        ],
-        "created_at": "2026-09-07T06:48:30+09:00"
-      },
-      {
         "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
         "url": "https://qiita.com/nogataka/items/d6a54f3694726b9141f3",
-        "likes": 88,
+        "likes": 96,
         "author": "nogataka",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/161298/c1e3ffd6eada1969ff3c44b14fde081bcde6f500/x_large.png?1584845584",
         "tags": [
@@ -84,50 +70,64 @@
           "AI"
         ],
         "created_at": "2026-09-05T12:18:47+09:00"
+      },
+      {
+        "title": "生成AIが書いたドキュメントを読みたくない",
+        "url": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
+        "likes": 95,
+        "author": "take-yoda",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3551450/43a76ab0d83ab9f0b77f7f1501c4e335ff0d4c11/x_large.png?1727760007",
+        "tags": [
+          "生成AI",
+          "ClaudeCode",
+          "プロンプトエンジニアリング",
+          "DesignDoc"
+        ],
+        "created_at": "2026-09-13T21:01:18+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "Fragment Refsのずるい使い方",
-        "url": "https://zenn.dev/uhyo/articles/react-fragment-refs-hack",
-        "author": "uhyo",
-        "date": "Mon, 14 Sep 2026 14:26:13 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--5vfOdjZ1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fragment%2520Refs%25E3%2581%25AE%25E3%2581%259A%25E3%2582%258B%25E3%2581%2584%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "1日の開発の流れをスキル化してみたら、想像以上に快適だった",
+        "url": "https://zenn.dev/tenkei/articles/9f8921926bb003",
+        "author": "Tenkei",
+        "date": "Tue, 15 Sep 2026 09:15:12 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tB1kmxxb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1%25E6%2597%25A5%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E6%25B5%2581%25E3%2582%258C%25E3%2582%2592%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E6%2583%25B3%25E5%2583%258F%25E4%25BB%25A5%25E4%25B8%258A%25E3%2581%25AB%25E5%25BF%25AB%25E9%2581%25A9%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tenkei%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FjOGQ2ZDA5MjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "【ベイズ推定】相手のことを答えると「本当に欲しそうなプレゼント」を当てにいく『欲しいもの.com』を作った",
-        "url": "https://zenn.dev/aucccchi/articles/hoshiimono-bayes-gift-diagnosis",
-        "author": "aucccchi",
-        "date": "Mon, 14 Sep 2026 14:13:58 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3jVzfEEw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E3%2583%2599%25E3%2582%25A4%25E3%2582%25BA%25E6%258E%25A8%25E5%25AE%259A%25E3%2580%2591%25E7%259B%25B8%25E6%2589%258B%25E3%2581%25AE%25E3%2581%2593%25E3%2581%25A8%25E3%2582%2592%25E7%25AD%2594%25E3%2581%2588%25E3%2582%258B%25E3%2581%25A8%25E3%2580%258C%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E6%25AC%25B2%25E3%2581%2597%25E3%2581%259D%25E3%2581%2586%25E3%2581%25AA%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25BC%25E3%2583%25B3%25E3%2583%2588%25E3%2580%258D%25E3%2582%2592%25E5%25BD%2593%25E3%2581%25A6%25E3%2581%25AB%25E3%2581%2584%25E3%2581%258F%25E3%2580%258E%25E6%25AC%25B2%25E3%2581%2597%25E3%2581%2584%25E3%2582%2582%25E3%2581%25AE.com%25E3%2580%258F%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:aucccchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhiNDJjZjdiZmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Claude Code Meetup Japan #7 参加レポート",
+        "url": "https://zenn.dev/flagxs/articles/7a9178c94cc27b",
+        "author": "aoi",
+        "date": "Tue, 15 Sep 2026 06:56:34 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--r6Uyd6uE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Meetup%2520Japan%2520%25237%2520%25E5%258F%2582%25E5%258A%25A0%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:aoi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAyNjQyMTAwNGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Flagxs%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvNC5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "ローカルLLMにレビューさせていた話の続報（前回の構成、実は動いていませんでした）",
-        "url": "https://zenn.dev/k_motoki/articles/ef60bbbc0ad7ec",
-        "author": "もとき",
-        "date": "Mon, 14 Sep 2026 05:16:45 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--hAJCVMrY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2595%25E3%2581%259B%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%25E3%2581%25AE%25E7%25B6%259A%25E5%25A0%25B1%25EF%25BC%2588%25E5%2589%258D%25E5%259B%259E%25E3%2581%25AE%25E6%25A7%258B%25E6%2588%2590%25E3%2580%2581%25E5%25AE%259F%25E3%2581%25AF%25E5%258B%2595%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2597%25E3%2581%259F%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2582%25E3%2581%25A8%25E3%2581%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTY3ZzV0WkQ0U2dONGFveWdpc3dPcHIzLWdpTHlEeDh3SDVFcWxXUkJ3U3ZMa2haYURDUT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【Kaggle】ポケカコンペ振り返り(455th/6807th)🥉",
+        "url": "https://zenn.dev/nwn/articles/a21aba4208e601",
+        "author": "ヨ",
+        "date": "Tue, 15 Sep 2026 06:23:44 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--t3mF8jxw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Kaggle%25E3%2580%2591%25E3%2583%259D%25E3%2582%25B1%25E3%2582%25AB%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2528455th%252F6807th%2529%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzllY2U3NmI3N2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AWS Lambda の90分タイムアウト検証",
-        "url": "https://zenn.dev/aws_japan/articles/lambda-90-minutes-timeout",
-        "author": "かとりょー",
-        "date": "Mon, 14 Sep 2026 04:25:24 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--5lq8XO1G--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%2520Lambda%2520%25E3%2581%25AE90%25E5%2588%2586%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E6%25A4%259C%25E8%25A8%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258B%25E3%2581%25A8%25E3%2582%258A%25E3%2582%2587%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU4ODk2YjA0Y2YuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Grafana BeylaとOpenTelemetry eBPF Instrumentation（OBI）の差分は何か",
+        "url": "https://zenn.dev/ymotongpoo/articles/20260916-beyla-obi-diff",
+        "author": "Yoshi Yamaguchi",
+        "date": "Tue, 15 Sep 2026 06:00:04 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--t-Rdvs94--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Grafana%2520Beyla%25E3%2581%25A8OpenTelemetry%2520eBPF%2520Instrumentation%25EF%25BC%2588OBI%25EF%25BC%2589%25E3%2581%25AE%25E5%25B7%25AE%25E5%2588%2586%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshi%2520Yamaguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dMOUN2MU9tRlBwUUcwY0pWOHZUeW1SZ3ViT3VaWnplQ01HUTJjMHRnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Go Conference 2026 行ってきました",
-        "url": "https://zenn.dev/kyash/articles/gocon-2026-participation-report",
-        "author": "あいやま",
-        "date": "Mon, 14 Sep 2026 04:14:53 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Mo7qMaPE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%2520Conference%25202026%2520%25E8%25A1%258C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258D%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2582%25E3%2581%2584%25E3%2582%2584%25E3%2581%25BE%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IxNzQyMDIyZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEKyash%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmNTU2NmMxYWYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【DDD】モノリスを分割するサブドメイン特定法",
+        "url": "https://zenn.dev/trefac/articles/97e79f3841bbb3",
+        "author": "hyo-maki",
+        "date": "Tue, 15 Sep 2026 01:29:55 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--7h9OSo_b--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590DDD%25E3%2580%2591%25E3%2583%25A2%25E3%2583%258E%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%2592%25E5%2588%2586%25E5%2589%25B2%25E3%2581%2599%25E3%2582%258B%25E3%2582%25B5%25E3%2583%2596%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E7%2589%25B9%25E5%25AE%259A%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hyo-maki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y2NjhhZjMzNzQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TREASURE%2520FACTORY%2520TECH...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKemstVERGWjNjR1IzbmxlOFVxa3pBZHhQUHpfQ0V5VTNjUm93SzU9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "「なんとなくノベルティ」を卒業する、技術カンファレンスブースの企画法",
-        "url": "https://zenn.dev/knowledgework/articles/f9a2aa046d8317",
-        "author": "munetoshi",
-        "date": "Mon, 14 Sep 2026 03:00:06 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tzOmSV9a--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%258F%25E3%2583%258E%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2580%258D%25E3%2582%2592%25E5%258D%2592%25E6%25A5%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2580%2581%25E6%258A%2580%25E8%25A1%2593%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%2596%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25AE%25E4%25BC%2581%25E7%2594%25BB%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:munetoshi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E4MWZhOWNhZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg0Y2YyMGQ1YTEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "かつて数学を学んでいたエンジニアがAIと数学について思うこと",
+        "url": "https://zenn.dev/339/articles/8efd1f1baec355",
+        "author": "さざんかぬふ",
+        "date": "Mon, 14 Sep 2026 23:51:17 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--sW7nvsub--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%258B%25E3%2581%25A4%25E3%2581%25A6%25E6%2595%25B0%25E5%25AD%25A6%25E3%2582%2592%25E5%25AD%25A6%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2584%25E3%2581%259F%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%258CAI%25E3%2581%25A8%25E6%2595%25B0%25E5%25AD%25A6%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E6%2580%259D%25E3%2581%2586%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%2596%25E3%2582%2593%25E3%2581%258B%25E3%2581%25AC%25E3%2581%25B5%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVkN2UyNjU4ZjcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +135,7 @@
         "name": "lnkiai/m3e-canvas",
         "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
         "url": "https://github.com/lnkiai/m3e-canvas",
-        "stars": 6772,
+        "stars": 6936,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/187016380?v=4"
       },
@@ -143,7 +143,7 @@
         "name": "sapientinc/PRAXIST",
         "description": "Autonomous research system for measurable, computer-executable research.",
         "url": "https://github.com/sapientinc/PRAXIST",
-        "stars": 6756,
+        "stars": 6348,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/188930505?v=4"
       },
@@ -151,7 +151,7 @@
         "name": "MengTo/threeui",
         "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
         "url": "https://github.com/MengTo/threeui",
-        "stars": 5770,
+        "stars": 5816,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1065452?v=4"
       },
@@ -159,25 +159,25 @@
         "name": "s1dashu/ip-as-logo-skill",
         "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
         "url": "https://github.com/s1dashu/ip-as-logo-skill",
-        "stars": 5237,
+        "stars": 5267,
         "language": "",
         "owner_avatar": "https://avatars.githubusercontent.com/u/129982137?v=4"
+      },
+      {
+        "name": "rakanki911/DLSS5-Swapper",
+        "description": "Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.",
+        "url": "https://github.com/rakanki911/DLSS5-Swapper",
+        "stars": 5017,
+        "language": "JavaScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/199753947?v=4"
       },
       {
         "name": "CopilotKit/OpenBot",
         "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
         "url": "https://github.com/CopilotKit/OpenBot",
-        "stars": 4890,
+        "stars": 4950,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/131273140?v=4"
-      },
-      {
-        "name": "amagine-ai/Amagine3D",
-        "description": "Amagine3D: From hardware requirements to editable 3D designs",
-        "url": "https://github.com/amagine-ai/Amagine3D",
-        "stars": 4685,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/285729589?v=4"
       }
     ]
   }
