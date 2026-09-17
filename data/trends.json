@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-09-16T23:58:05Z"
+    "last_updated": "2026-09-17T23:47:32Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "AIっぽくない画像を作る画風プロンプト38種類＋テンプレート",
         "url": "https://qiita.com/maeda-niku18/items/b633dda178c505461080",
-        "likes": 627,
+        "likes": 699,
         "author": "maeda-niku18",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4074489/15e607383dba8dfef618c61b5acebb1718e5eb3f/large.png?1781961525",
         "tags": [
@@ -19,7 +19,7 @@
       {
         "title": "うっかり世界最強のWasmコンパイラを作ってしまった件",
         "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
-        "likes": 257,
+        "likes": 263,
         "author": "kanryu",
         "avatar_url": "https://2.gravatar.com/avatar/da22c32576eb5fe47251c4e8643cc4af?d=https%3A%2F%2Fidenticons.github.com%2Fcd71fb4ec19ac7a4e25581b27053b728.png",
         "tags": [
@@ -33,7 +33,7 @@
       {
         "title": "生成AIが書いたドキュメントを読みたくない",
         "url": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
-        "likes": 189,
+        "likes": 236,
         "author": "take-yoda",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3551450/43a76ab0d83ab9f0b77f7f1501c4e335ff0d4c11/x_large.png?1727760007",
         "tags": [
@@ -47,7 +47,7 @@
       {
         "title": "Docker環境をガチで軽量化するための鉄板設定まとめ",
         "url": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069",
-        "likes": 154,
+        "likes": 160,
         "author": "nolanlover0527",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4133387/profile-images/1767762101",
         "tags": [
@@ -58,9 +58,23 @@
         "created_at": "2026-09-07T08:56:41+09:00"
       },
       {
+        "title": "「最近どう？」しか聞けなかった1on1で、メンバーが退職届を出してきた話",
+        "url": "https://qiita.com/fe1ix/items/5d733c267370e0e06661",
+        "likes": 132,
+        "author": "fe1ix",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4025790/ea098505b0e173679fefa40a378fd15152fc16ec/x_large.png?1772286239",
+        "tags": [
+          "新人プログラマ応援",
+          "エンジニア",
+          "マネジメント",
+          "プロジェクト管理"
+        ],
+        "created_at": "2026-09-15T09:38:28+09:00"
+      },
+      {
         "title": "ジュニアの「AIが書いたコードが理解できない」問題の対応策",
         "url": "https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e",
-        "likes": 116,
+        "likes": 121,
         "author": "im_yoneda",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3487407/893b9a6ea578ccdea562610d571aa45a91a4eedf/x_large.png?1749014315",
         "tags": [
@@ -70,64 +84,50 @@
           "新卒エンジニア"
         ],
         "created_at": "2026-09-07T11:53:07+09:00"
-      },
-      {
-        "title": "最近取り入れたClaude Codeの個人的tips 4選",
-        "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
-        "likes": 99,
-        "author": "kuma_3838",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3579041/c7598f7302d5c6ffdf6f6e34f5251ec8e46c073f/large.png?1742046172",
-        "tags": [
-          "ClaudeCode",
-          "生成AI",
-          "Bash",
-          "ORCA"
-        ],
-        "created_at": "2026-09-07T06:48:30+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "AI開発チームの作り方と育て方 — マルチエージェント開発組織の設計と運用",
-        "url": "https://zenn.dev/hampen2929/books/ai-dev-team-guide",
-        "author": "はんぺん",
-        "date": "Wed, 16 Sep 2026 09:54:07 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--u254OmAt--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9mMjE1ODM1NGViLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
+        "title": "jev 同士に五目並べで対戦させた",
+        "url": "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
+        "author": "mizchi",
+        "date": "Thu, 17 Sep 2026 12:28:36 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_AhvzV0r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:jev%2520%25E5%2590%258C%25E5%25A3%25AB%25E3%2581%25AB%25E4%25BA%2594%25E7%259B%25AE%25E4%25B8%25A6%25E3%2581%25B9%25E3%2581%25A7%25E5%25AF%25BE%25E6%2588%25A6%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "LLMにWikiを書かせて半年、一番役に立った画面はLLMの文章を使っていなかった",
-        "url": "https://zenn.dev/rescuenow/articles/5aa26aebd7ae78",
-        "author": "rsq_yota",
-        "date": "Wed, 16 Sep 2026 07:00:04 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--wv1IdajK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E3%2581%25ABWiki%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%25A6%25E5%258D%258A%25E5%25B9%25B4%25E3%2580%2581%25E4%25B8%2580%25E7%2595%25AA%25E5%25BD%25B9%25E3%2581%25AB%25E7%25AB%258B%25E3%2581%25A3%25E3%2581%259F%25E7%2594%25BB%25E9%259D%25A2%25E3%2581%25AFLLM%25E3%2581%25AE%25E6%2596%2587%25E7%25AB%25A0%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:rsq_yota%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E0NWI1N2NlZmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258A%25E3%2582%25A6%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAzZjkyNTg1MTQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "気軽にDGX Sparkでapt upgradeしたら壊れた話",
+        "url": "https://zenn.dev/alpha_omega/articles/3f3ea4d14a0234",
+        "author": "Stasshe",
+        "date": "Thu, 17 Sep 2026 07:19:25 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--GuE6SMDT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25B0%2597%25E8%25BB%25BD%25E3%2581%25ABDGX%2520Spark%25E3%2581%25A7apt%2520upgrade%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E5%25A3%258A%25E3%2582%258C%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Stasshe%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFlZmU5ZjcyMDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25AA%25E3%2583%25A1%25E3%2582%25AC%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXozUWJSMldGbXJIYUZiN0M1YkhKeDVWX3V3d0JwLVRBZUN3dWVXMXZVbUtQcFpDcz1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Expo SDK 58 Betaの変更点まとめ",
-        "url": "https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd",
-        "author": "kazutoyo@TellerNovel",
-        "date": "Wed, 16 Sep 2026 03:28:22 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zUD4ctWL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Expo%2520SDK%252058%2520Beta%25E3%2581%25AE%25E5%25A4%2589%25E6%259B%25B4%25E7%2582%25B9%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kazutoyo%2540TellerNovel%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y2ZDBjOWE0YTEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2586%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0OTFkZTE3MjUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
+        "url": "https://zenn.dev/nwn/articles/824026c76116e0",
+        "author": "ヨ",
+        "date": "Thu, 17 Sep 2026 06:56:15 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--nA63RXC3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TypeSafe%25E3%2581%25AEJev%25E3%2582%2592%25E6%25AD%25A3%25E3%2581%2597%25E3%2581%258F%25E9%25A9%259A%25E3%2581%258F%25E3%2580%2581%25E3%2581%259D%25E3%2582%258C%25E3%2581%25A3%25E3%2581%25A6LLM%25E3%2581%25A7%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzllY2U3NmI3N2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Next.js の Proxy(旧 Middleware) で redirect すると relative URL になる",
-        "url": "https://zenn.dev/chot/articles/nextjs-proxy-redirect",
-        "author": "すてぃん",
-        "date": "Wed, 16 Sep 2026 02:47:39 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--IGON276---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%2520%25E3%2581%25AE%2520Proxy%2528%25E6%2597%25A7%2520Middleware%2529%2520%25E3%2581%25A7%2520redirect%2520%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A8%2520relative%2520URL...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2599%25E3%2581%25A6%25E3%2581%2583%25E3%2582%2593%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAzODVjOWFlYzkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:chot%2520Inc.%2520tech%2520blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzMTEyZmJmM2MuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "dbt Charts触ってみた",
+        "url": "https://zenn.dev/churadata/articles/95b6008df65cff",
+        "author": "detaneeee",
+        "date": "Thu, 17 Sep 2026 05:25:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--dnlDwPqk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:dbt%2520Charts%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:detaneeee%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y2NTFmZDJlZWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2581%25A1%25E3%2582%2585%25E3%2582%2589%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAzZDQ5NzcwMTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "GitHub Copilot app を使いこなす",
-        "url": "https://zenn.dev/skmkzyk/books/github-copilot-app-guide",
-        "author": "skmkzyk",
-        "date": "Tue, 15 Sep 2026 14:16:56 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tsUB1Ofw--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci84MzE5OGQ2NTE5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
+        "title": "WebMCPを試してみた感想。フロントエンドの必須技術になりそうな予感。",
+        "url": "https://zenn.dev/chot/articles/268804cd6694ab",
+        "author": "hirayama",
+        "date": "Thu, 17 Sep 2026 04:12:12 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--vA_4zAfc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WebMCP%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E6%2584%259F%25E6%2583%25B3%25E3%2580%2582%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E5%25BF%2585%25E9%25A0%2588%25E6%258A%2580%25E8%25A1%2593%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2581%259D%25E3%2581%2586%25E3%2581%25AA%25E4%25BA%2588%25E6%2584%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hirayama%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAzODVjOWFlYzkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:chot%2520Inc.%2520tech%2520blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q4M2Y1NzM5MGIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
-        "url": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
-        "author": "nrs",
-        "date": "Tue, 15 Sep 2026 12:37:56 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--aWRet7Db--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2590%25E3%2582%25A4%25E3%2583%2596%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%2520GUI%2520%25E3%2581%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%258F%25E7%2590%2586%25E7%2594%25B1%25E3%2581%25A8%25E3%2581%259D%25E3%2581%25AE%25E5%25AF%25BE%25E7%25AD%2596%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "1年半かけて育ててきたAI開発フロー",
+        "url": "https://zenn.dev/sprix_it/articles/db685b8fd6bffe",
+        "author": "a.kobayashi",
+        "date": "Thu, 17 Sep 2026 03:42:55 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--GBT9sev6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1%25E5%25B9%25B4%25E5%258D%258A%25E3%2581%258B%25E3%2581%2591%25E3%2581%25A6%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%25A6%25E3%2581%258D%25E3%2581%259FAI%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:a.kobayashi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjYTAxMWFhZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520IT%25E6%2588%25A6%25E7%2595%25A5%25E9%2583%25A8%25E3%2583%25BBSPRI...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiYzBkZWQ5MGUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +135,7 @@
         "name": "lnkiai/m3e-canvas",
         "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
         "url": "https://github.com/lnkiai/m3e-canvas",
-        "stars": 7118,
+        "stars": 7307,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/187016380?v=4"
       },
@@ -143,41 +143,41 @@
         "name": "MengTo/threeui",
         "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
         "url": "https://github.com/MengTo/threeui",
-        "stars": 5868,
+        "stars": 5908,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1065452?v=4"
-      },
-      {
-        "name": "rakanki911/DLSS5-Swapper",
-        "description": "Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.",
-        "url": "https://github.com/rakanki911/DLSS5-Swapper",
-        "stars": 5311,
-        "language": "JavaScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/199753947?v=4"
-      },
-      {
-        "name": "s1dashu/ip-as-logo-skill",
-        "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-        "url": "https://github.com/s1dashu/ip-as-logo-skill",
-        "stars": 5293,
-        "language": "",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/129982137?v=4"
       },
       {
         "name": "sapientinc/PRAXIST",
         "description": "Autonomous research system for measurable, computer-executable research.",
         "url": "https://github.com/sapientinc/PRAXIST",
-        "stars": 5196,
+        "stars": 5719,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/188930505?v=4"
+      },
+      {
+        "name": "rakanki911/DLSS5-Swapper",
+        "description": "Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.",
+        "url": "https://github.com/rakanki911/DLSS5-Swapper",
+        "stars": 5548,
+        "language": "JavaScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/199753947?v=4"
       },
       {
         "name": "amagine-ai/Amagine3D",
         "description": "Amagine3D: From hardware requirements to editable 3D designs",
         "url": "https://github.com/amagine-ai/Amagine3D",
-        "stars": 5069,
+        "stars": 5220,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/285729589?v=4"
+      },
+      {
+        "name": "XiaoDuoYa/codex-with-chatgpt",
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "stars": 5194,
+        "language": "TypeScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/113528266?v=4"
       }
     ]
   }
