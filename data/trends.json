@@ -1,27 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-09-20T23:42:12Z"
+    "last_updated": "2026-09-22T00:23:16Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "うっかり世界最強のWasmコンパイラを作ってしまった件",
-        "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
-        "likes": 270,
-        "author": "kanryu",
-        "avatar_url": "https://2.gravatar.com/avatar/da22c32576eb5fe47251c4e8643cc4af?d=https%3A%2F%2Fidenticons.github.com%2Fcd71fb4ec19ac7a4e25581b27053b728.png",
-        "tags": [
-          "WebAssembly",
-          "wasm",
-          "Emscripten",
-          "Go"
-        ],
-        "created_at": "2026-09-09T16:52:55+09:00"
-      },
-      {
         "title": "生成AIが書いたドキュメントを読みたくない",
         "url": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
-        "likes": 260,
+        "likes": 264,
         "author": "take-yoda",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3551450/43a76ab0d83ab9f0b77f7f1501c4e335ff0d4c11/x_large.png?1727760007",
         "tags": [
@@ -35,7 +21,7 @@
       {
         "title": "Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する",
         "url": "https://qiita.com/nasuvitz/items/44f20ed515b9734afb26",
-        "likes": 202,
+        "likes": 212,
         "author": "nasuvitz",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/211986/03632973f77bb6ee7dbabb00e87bb806b42e2ab2/x_large.png?1773473351",
         "tags": [
@@ -61,23 +47,36 @@
         "created_at": "2026-09-15T09:38:28+09:00"
       },
       {
-        "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった",
-        "url": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
-        "likes": 85,
-        "author": "suwa_nobu",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4430611/a4e4abd6c5cdfc9793196fe0d1cf620f5ef11694/x_large.png?1785289596",
+        "title": "5分でJev入門（すぐ使う）",
+        "url": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a",
+        "likes": 112,
+        "author": "Ninagawa123",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/565043/fb6c005300d44fd52a66942bdc3295ea8e90316e/x_large.png?1578666979",
         "tags": [
-          "AI",
-          "ClaudeCode",
-          "AIエージェント",
-          "生成AI"
+          "Jev",
+          "入門",
+          "チュートリアル"
         ],
-        "created_at": "2026-09-09T13:19:58+09:00"
+        "created_at": "2026-09-19T23:29:27+09:00"
+      },
+      {
+        "title": "アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK)",
+        "url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6",
+        "likes": 66,
+        "author": "jiis-sasaki",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4443640/51e197194384b8eba7fa93bc8dae17f08efc3b3e/x_large.png?1780639664",
+        "tags": [
+          "Security",
+          "nginx",
+          "Apache",
+          "Linux"
+        ],
+        "created_at": "2026-09-11T07:30:00+09:00"
       },
       {
         "title": "2026年9月時点 Microsoft の AI 戦略について",
         "url": "https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1",
-        "likes": 66,
+        "likes": 65,
         "author": "yoshioterada",
         "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/58377/profile-images/1473761413",
         "tags": [
@@ -91,6 +90,34 @@
     ],
     "zenn": [
       {
+        "title": "C# Kaigi 2026 参加レポート!!",
+        "url": "https://zenn.dev/prozolic/articles/3bb3f91f7408cc",
+        "author": "prozolic",
+        "date": "Mon, 21 Sep 2026 10:24:08 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tsZ8I8be--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%2523%2520Kaigi%25202026%2520%25E5%258F%2582%25E5%258A%25A0%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%2521%2521%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:prozolic%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk1ZDA2YmFmOWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Re: Vercel に Go サーバーを無料でデプロイできるんです！",
+        "url": "https://zenn.dev/otakakot/articles/14d162ea65f67d",
+        "author": "おーたかこーたろー",
+        "date": "Mon, 21 Sep 2026 04:46:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--o3Ic-rbA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Re%253A%2520Vercel%2520%25E3%2581%25AB%2520Go%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%2592%25E7%2584%25A1%25E6%2596%2599%25E3%2581%25A7%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2599%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2583%25BC%25E3%2581%259F%25E3%2581%258B%25E3%2581%2593%25E3%2583%25BC%25E3%2581%259F%25E3%2582%258D%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlODRhZTM5M2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Ubieに入社していました",
+        "url": "https://zenn.dev/hagino3000/articles/b3278502b1f47b",
+        "author": "Takashi Nishibayashi",
+        "date": "Mon, 21 Sep 2026 03:22:01 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--JMnDyqJg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ubie%25E3%2581%25AB%25E5%2585%25A5%25E7%25A4%25BE%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Takashi%2520Nishibayashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lKSEZnVFNDVU9mSnA2Q0ctYXRaTEZkenB1Q0tBT05oZlFfbHdxPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "最近話題のJevはBigQueryのAI関数を安くできるのか？",
+        "url": "https://zenn.dev/jackojacko05/articles/08df79d47f4219",
+        "author": "じゃっこ",
+        "date": "Sun, 20 Sep 2026 12:52:36 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--u3efWEaM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%2580%25E8%25BF%2591%25E8%25A9%25B1%25E9%25A1%258C%25E3%2581%25AEJev%25E3%2581%25AFBigQuery%25E3%2581%25AEAI%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E5%25AE%2589%25E3%2581%258F%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2598%25E3%2582%2583%25E3%2581%25A3%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FkNmZkYjFmNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
         "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
         "url": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
         "author": "からあげ",
@@ -98,47 +125,19 @@
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9LKKT2iX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25AB%2598%25E9%2580%259F%25E5%2588%25A4%25E6%2596%25ADAI%2520Jev%25E3%2581%25AE%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A8%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E5%25AE%259F%25E8%25A3%2585%25E3%2582%2592%25E9%259B%2591%25E3%2581%25AB%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認",
-        "url": "https://zenn.dev/mizchi/articles/jev-lint-intro",
-        "author": "mizchi",
-        "date": "Sat, 19 Sep 2026 15:39:57 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--UDQ6NeTe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:jev-lint%253A%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E4%25B8%25AD%25E3%2581%25AE%25E5%2591%25BD%25E5%2590%258D%25E3%2582%2584%25E3%2582%25B3%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E5%2598%2598%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%2584%25E3%2581%258B%25E3%2582%2592%25E9%25AB%2598%25E9%2580%259F%25E3%2581%25AB%25E7%25A2%25BA%25E8%25AA%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
         "title": "Ternary Bonsai 2 27BをM1Pro・16GBで動かす",
         "url": "https://zenn.dev/okame_rara/articles/bonsai_2_27b_m1",
         "author": "はたけ",
         "date": "Sat, 19 Sep 2026 15:05:52 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Lubv6biV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ternary%2520Bonsai%25202%252027B%25E3%2582%2592M1Pro%25E3%2583%25BB16GB%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2581%259F%25E3%2581%2591%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YzMDcxNTQ2YTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "新しい Amazon Bedrock AgentCore Runtime が利用可能に!!",
-        "url": "https://zenn.dev/aws_japan/articles/agentcore-runtime-v2-platform-version",
-        "author": "Kaito Narimoto",
-        "date": "Sat, 19 Sep 2026 14:55:28 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--S3Rc99sl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584%2520Amazon%2520Bedrock%2520AgentCore%2520Runtime%2520%25E3%2581%258C%25E5%2588%25A9%25E7%2594%25A8%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AB%2521%2521%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kaito%2520Narimoto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRkYzk2MDc2OGMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Jevを、自然言語で分類基準を渡せる識別モデルとして使う",
-        "url": "https://zenn.dev/cybernetics/articles/4f3762bd470fc4",
-        "author": "HELLO_CYBERNETICS",
-        "date": "Sat, 19 Sep 2026 04:29:37 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--DeYHg9Um--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%25E3%2582%2592%25E3%2580%2581%25E8%2587%25AA%25E7%2584%25B6%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25A7%25E5%2588%2586%25E9%25A1%259E%25E5%259F%25BA%25E6%25BA%2596%25E3%2582%2592%25E6%25B8%25A1%25E3%2581%259B%25E3%2582%258B%25E8%25AD%2598%25E5%2588%25A5%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E4%25BD%25BF%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:HELLO_CYBERNETICS%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZmMTc5MDZiMmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "MCP × Claude Code × BedrockでPlaywrightの自動化フローを構築",
-        "url": "https://zenn.dev/hirata_infosys/articles/598068e56ae342",
-        "author": "中野",
-        "date": "Fri, 18 Sep 2026 21:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZgMxujAc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MCP%2520%25C3%2597%2520Claude%2520Code%2520%25C3%2597%2520Bedrock%25E3%2581%25A7Playwright%25E3%2581%25AE%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E4%25B8%25AD%25E9%2587%258E%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdlMDlmNDgwZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E5%25B9%25B3%25E7%2594%25B0%25E6%25A9%259F%25E5%25B7%25A5%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2520%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYS5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
       {
         "name": "browser-use/jev-ultrafast",
-        "description": "i. am. speed.",
+        "description": "Fastest and cheapest web agent",
         "url": "https://github.com/browser-use/jev-ultrafast",
-        "stars": 11763,
+        "stars": 15668,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
@@ -146,15 +145,23 @@
         "name": "eternity4719/HowToLiveBetter",
         "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
         "url": "https://github.com/eternity4719/HowToLiveBetter",
-        "stars": 8526,
+        "stars": 11134,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/230156667?v=4"
+      },
+      {
+        "name": "NandhaKishorM/laya",
+        "description": null,
+        "url": "https://github.com/NandhaKishorM/laya",
+        "stars": 10180,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/48623612?v=4"
       },
       {
         "name": "lnkiai/m3e-canvas",
         "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
         "url": "https://github.com/lnkiai/m3e-canvas",
-        "stars": 7775,
+        "stars": 7926,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/187016380?v=4"
       },
@@ -162,7 +169,7 @@
         "name": "sapientinc/PRAXIST",
         "description": "Autonomous research system for measurable, computer-executable research.",
         "url": "https://github.com/sapientinc/PRAXIST",
-        "stars": 6367,
+        "stars": 6554,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/188930505?v=4"
       },
@@ -170,17 +177,9 @@
         "name": "rakanki911/DLSS5-Swapper",
         "description": "Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.",
         "url": "https://github.com/rakanki911/DLSS5-Swapper",
-        "stars": 6060,
+        "stars": 6209,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/199753947?v=4"
-      },
-      {
-        "name": "XiaoDuoYa/codex-with-chatgpt",
-        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-        "stars": 5694,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/113528266?v=4"
       }
     ]
   }
