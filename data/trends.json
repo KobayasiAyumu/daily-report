@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-10-04T00:13:43Z"
+    "last_updated": "2026-10-05T00:19:01Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "AI生成そのままのスライドを使った登壇が多すぎてちょっと食傷気味なんだよォーーーッ！！！",
         "url": "https://qiita.com/shimagaji/items/8acd9b94dfe56fefc0dc",
-        "likes": 226,
+        "likes": 227,
         "author": "shimagaji",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3815817/profile-images/1752513408",
         "tags": [
@@ -17,22 +17,23 @@
         "created_at": "2026-09-24T23:40:45+09:00"
       },
       {
-        "title": "50代プログラミング未経験者が7年かけてAtCoderで入緑した話",
-        "url": "https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9",
-        "likes": 179,
-        "author": "rinrion",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1557862900974628864/I3UMroWu_bigger.jpg",
+        "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた",
+        "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
+        "likes": 151,
+        "author": "inoyu-qiita",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4475351/cee181fffe72b3ceab51f6ee83169806b99c329d/x_large.png?1786970435",
         "tags": [
-          "AtCoder",
-          "競技プログラミング",
-          "色変記事"
+          "ClaudeCode",
+          "生成AI",
+          "SKILLS",
+          "AI活用"
         ],
-        "created_at": "2026-09-21T23:40:51+09:00"
+        "created_at": "2026-10-01T22:03:12+09:00"
       },
       {
         "title": "高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜",
         "url": "https://qiita.com/ast-24/items/454fc975b095230565c7",
-        "likes": 147,
+        "likes": 148,
         "author": "ast-24",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3886914/profile-images/1751645285",
         "tags": [
@@ -46,7 +47,7 @@
       {
         "title": "自分の頭で考えることって重要だよなと改めて思わされた話",
         "url": "https://qiita.com/ike_s_muramatsu/items/44664e57e2738614fccf",
-        "likes": 127,
+        "likes": 129,
         "author": "ike_s_muramatsu",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3425323/93c2faf8910943a19b4859bf466c0e6e2720e247/x_large.png?1686044325",
         "tags": [
@@ -58,23 +59,9 @@
         "created_at": "2026-09-26T12:37:47+09:00"
       },
       {
-        "title": "みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！",
-        "url": "https://qiita.com/minorun365/items/ed4c760f616cf3c0a958",
-        "likes": 127,
-        "author": "minorun365",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1633856/c226bc34ac6c45a21f5e512d1c72a6f097494578/x_large.png?1699954976",
-        "tags": [
-          "Marp",
-          "ClaudeCode",
-          "AI",
-          "SKILLS"
-        ],
-        "created_at": "2026-09-21T11:29:12+09:00"
-      },
-      {
         "title": "AI感のないAWS構成図をAIエージェントに描かせたい！",
         "url": "https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c",
-        "likes": 111,
+        "likes": 113,
         "author": "sagochiko",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2743663/profile-images/1782697060",
         "tags": [
@@ -84,50 +71,61 @@
           "MCP"
         ],
         "created_at": "2026-09-25T21:57:18+09:00"
+      },
+      {
+        "title": "どこかで聞いた「アウトプットしないことは知的な便秘である」って素晴らしい言葉だよなぁ！",
+        "url": "https://qiita.com/PDC-Kurashinak/items/bde0e380eeb04fa28f40",
+        "likes": 72,
+        "author": "PDC-Kurashinak",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2711491/b479cddc71fc153f6c011695a19ac02e3565c6da/large.png?1696581508",
+        "tags": [
+          "ポエム"
+        ],
+        "created_at": "2026-09-28T13:00:52+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？",
-        "url": "https://zenn.dev/sc30gsw/books/080faba713547b",
-        "author": "kaito",
-        "date": "Fri, 02 Oct 2026 13:19:46 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--XurFM321--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8yZTdiNGE2MTg1LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
+        "title": "Claude Codeの「Claude Mods」とは？ 入れてみた3つのmodと、安全に入れる手順",
+        "url": "https://zenn.dev/yoshihiko555/articles/ea2db6070058b3",
+        "author": "yoshihiko",
+        "date": "Sun, 04 Oct 2026 17:22:57 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--EywhUIAV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E3%2580%258CClaude%2520Mods%25E3%2580%258D%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%2520%25E5%2585%25A5%25E3%2582%258C%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F3%25E3%2581%25A4%25E3%2581%25AEmod%25E3%2581%25A8%25E3%2580%2581%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AB%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25E6%2589%258B%25E9%25A0%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yoshihiko%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg3ZDQ4ZGE5MzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "glibc の strlen は文字列範囲外を読むことで高速に計算する",
-        "url": "https://zenn.dev/peloeil/articles/glibc-strlen-2023",
-        "author": "ぷる",
-        "date": "Thu, 01 Oct 2026 17:56:12 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--qE46h-Y7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:glibc%2520%25E3%2581%25AE%2520strlen%2520%25E3%2581%25AF%25E6%2596%2587%25E5%25AD%2597%25E5%2588%2597%25E7%25AF%2584%25E5%259B%25B2%25E5%25A4%2596%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%25E3%2581%2593%25E3%2581%25A8%25E3%2581%25A7%25E9%25AB%2598%25E9%2580%259F%25E3%2581%25AB%25E8%25A8%2588%25E7%25AE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B7%25E3%2582%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEyZmIxM2NiZWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Cloudflare の判定モデル Clef を Workers AI で触ってみた",
+        "url": "https://zenn.dev/akari1106/articles/b6d3180cc50dfe",
+        "author": "灯里(akari)",
+        "date": "Sun, 04 Oct 2026 14:36:56 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--d5zwhyzw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%2520%25E3%2581%25AE%25E5%2588%25A4%25E5%25AE%259A%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%2520Clef%2520%25E3%2582%2592%2520Workers%2520AI%2520%25E3%2581%25A7%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%2581%25AF%25E9%2587%258C%2528akari%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZTcxYTI4M2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "実務において敵対的レビューはどの程度有効なのか",
-        "url": "https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef",
-        "author": "jellyfish1129",
-        "date": "Thu, 01 Oct 2026 10:48:47 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--a5iWXFAC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E5%258B%2599%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2584%25E3%2581%25A6%25E6%2595%25B5%25E5%25AF%25BE%25E7%259A%2584%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%25AE%25E7%25A8%258B%25E5%25BA%25A6%25E6%259C%2589%25E5%258A%25B9%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:jellyfish1129%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkZWM5ZjExNTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:e-dash%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVkMTYyYTQ4OTguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "既存OSSのnginxをOpenRestyへ差し替え、Entra IDとアプリ内ユーザーを追跡できるログを作った話",
+        "url": "https://zenn.dev/gritio28tech/articles/7b48f4db2d2bfa",
+        "author": "しゃま",
+        "date": "Sun, 04 Oct 2026 12:34:49 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--DWn9dsqQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A2%25E5%25AD%2598OSS%25E3%2581%25AEnginx%25E3%2582%2592OpenResty%25E3%2581%25B8%25E5%25B7%25AE%25E3%2581%2597%25E6%259B%25BF%25E3%2581%2588%25E3%2580%2581Entra%2520ID%25E3%2581%25A8%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E5%2586%2585%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2582%2592%25E8%25BF%25BD%25E8%25B7%25A1%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2583%25E3%2581%25BE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgwNmU3OTQwMWQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "オブザーバビリティのAIエージェントをどう評価するか",
-        "url": "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
-        "author": "Yoshi Yamaguchi",
-        "date": "Thu, 01 Oct 2026 00:00:00 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--s2BPhy_r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2593%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AEAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E8%25A9%2595%25E4%25BE%25A1%25E3%2581%2599%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshi%2520Yamaguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dMOUN2MU9tRlBwUUcwY0pWOHZUeW1SZ3ViT3VaWnplQ01HUTJjMHRnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "PythonとCasADiで学ぶLie群上の最適化",
+        "url": "https://zenn.dev/takuya_fukatsu/articles/069f5b78d7597f",
+        "author": "株式会社 Proxima Technology",
+        "date": "Sun, 04 Oct 2026 08:35:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--LnrZaYJC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E3%2581%25A8CasADi%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6Lie%25E7%25BE%25A4%25E4%25B8%258A%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2520Proxima%2520Techn...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5MGIwMWE5OTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "terraform applyしたら、1ヶ月半前のコードが本番に出ていた",
-        "url": "https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef",
-        "author": "gonta",
-        "date": "Wed, 30 Sep 2026 23:45:42 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--R0-911cf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:terraform%2520apply%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%25811%25E3%2583%25B6%25E6%259C%2588%25E5%258D%258A%25E5%2589%258D%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%258C%25E6%259C%25AC%25E7%2595%25AA%25E3%2581%25AB%25E5%2587%25BA%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:gonta%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE5NzFlNzc0NzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通",
+        "url": "https://zenn.dev/qnighy/articles/json-ambiguity",
+        "author": "Masaki Hara",
+        "date": "Sun, 04 Oct 2026 08:18:23 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--5WbyTLwI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:JSON%25E3%2581%25AF%25E3%2582%25B7%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E3%2581%25A7%25E6%2598%258E%25E5%25BF%25AB%25E3%2581%25AA%25E4%25BB%2595%25E6%25A7%2598%25E3%2581%258C%25E9%25AD%2585%25E5%258A%259B%25E3%2581%25A7%25E3%2581%2599%25E3%2581%258C%25E3%2580%2581%25E3%2581%259D%25E3%2582%2593%25E3%2581%25AAJSON%25E3%2581%25A7%25E3%2582%2582%25E5%25BE%25AE%25E5%25A6%2599%25E3%2581%25AA%25E5%25AE%259F%25E8%25A3%2585%25E5%25B7%25AE%25E7%2595%25B0%25E3%2581%258C%25E7%2594%259F%25E3%2581%2598%25E3%2582%258B%25E7%25BD%25A0%25E3%2581%258C%25E3%2581%2584%25E3%2581%258F%25E3%2581%25A4%25E3%2581%258B%25E3%2581%2582%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2599%25E3%2580%2582%25E6%259C%25AC%25E7%25A8%25BF%25E3%2581%25AF%25E3%2581%2593...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Masaki%2520Hara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l3aEI4dTM5cFZyM09sWVFLcUU5Z1ozV2d3MHlsMS03cUZad0huYWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "【最新v1.0.5公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
-        "url": "https://zenn.dev/algoartis/articles/0b1c731881b25c",
-        "author": "大賀愛一郎（oga_aiichiro）",
-        "date": "Wed, 30 Sep 2026 18:28:20 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--KUEyLBiC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E6%259C%2580%25E6%2596%25B0v1.0.5%25E5%2585%25AC%25E9%2596%258B%25E3%2580%2591AI-Slop%25E3%2581%25AA%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2582%2592%25E6%25A7%258B%25E9%2580%25A0%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25E3%2581%25A7%25E8%25AA%25AD%25E3%2581%25BF%25E3%2582%2584%25E3%2581%2599%25E3%2581%258F%25E3%2581%2599%25E3%2582%258BSkill%25E3%2580%258Eyomiyasu%25EF%25BC%2588%25E3%2582%2588%25E3%2581%25BF%25E3%2582%2584%25E3%2581%2599%25EF%25BC%2589...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A4%25A7%25E8%25B3%2580%25E6%2584%259B%25E4%25B8%2580%25E9%2583%258E%25EF%25BC%2588oga_aiichiro%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I1M2Y5MDFhMWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:ALGO%2520ARTIS%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhMDEwODY1NzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "VueUseのIssue対応記録: v-element-sizeの修正から見るResizeObserverの値をwatchする際の注意点",
+        "url": "https://zenn.dev/metasyntax/articles/vueuse-v-element-size-border-box",
+        "author": "souta",
+        "date": "Sun, 04 Oct 2026 08:04:33 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--owKEhuT5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:VueUse%25E3%2581%25AEIssue%25E5%25AF%25BE%25E5%25BF%259C%25E8%25A8%2598%25E9%258C%25B2%253A%2520v-element-size%25E3%2581%25AE%25E4%25BF%25AE%25E6%25AD%25A3%25E3%2581%258B%25E3%2582%2589%25E8%25A6%258B%25E3%2582%258BResizeObserver%25E3%2581%25AE%25E5%2580%25A4%25E3%2582%2592w...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:souta%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxMzdlNDUxN2UuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +133,7 @@
         "name": "eternity4719/HowToLiveBetter",
         "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
         "url": "https://github.com/eternity4719/HowToLiveBetter",
-        "stars": 37261,
+        "stars": 40407,
         "language": "HTML",
         "owner_avatar": "https://avatars.githubusercontent.com/u/230156667?v=4"
       },
@@ -143,7 +141,7 @@
         "name": "NandhaKishorM/laya",
         "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
         "url": "https://github.com/NandhaKishorM/laya",
-        "stars": 30482,
+        "stars": 30707,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/48623612?v=4"
       },
@@ -151,7 +149,7 @@
         "name": "browser-use/jev-ultrafast",
         "description": "Fastest and cheapest web agent",
         "url": "https://github.com/browser-use/jev-ultrafast",
-        "stars": 21897,
+        "stars": 21992,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
@@ -159,7 +157,7 @@
         "name": "Niko1221/Strata",
         "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
         "url": "https://github.com/Niko1221/Strata",
-        "stars": 8499,
+        "stars": 10999,
         "language": "C++",
         "owner_avatar": "https://avatars.githubusercontent.com/u/86886444?v=4"
       },
@@ -167,17 +165,17 @@
         "name": "jaredpalmer/kev",
         "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
         "url": "https://github.com/jaredpalmer/kev",
-        "stars": 8369,
+        "stars": 8437,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/4060187?v=4"
       },
       {
-        "name": "zai-org/ZCode",
-        "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-        "url": "https://github.com/zai-org/ZCode",
-        "stars": 7374,
-        "language": "TypeScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/223098841?v=4"
+        "name": "robbietilton/Compositor",
+        "description": "The Photoshop alternative for Mac",
+        "url": "https://github.com/robbietilton/Compositor",
+        "stars": 7568,
+        "language": "Swift",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/1269226?v=4"
       }
     ]
   }
