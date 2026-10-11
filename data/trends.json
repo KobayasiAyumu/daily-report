@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-10-10T01:23:37Z"
+    "last_updated": "2026-10-11T00:34:23Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた",
         "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
-        "likes": 269,
+        "likes": 273,
         "author": "inoyu-qiita",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4475351/cee181fffe72b3ceab51f6ee83169806b99c329d/x_large.png?1786970435",
         "tags": [
@@ -35,7 +35,7 @@
       {
         "title": "2026年の情報漏洩を手口で分類してみた",
         "url": "https://qiita.com/yama3133/items/071119dfea9ed24d0948",
-        "likes": 114,
+        "likes": 117,
         "author": "yama3133",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4223081/133766ff1852bcb8e4ae07f568918fcb378cfa88/large.png?1785807274",
         "tags": [
@@ -45,6 +45,17 @@
           "不正アクセス"
         ],
         "created_at": "2026-10-06T14:19:43+09:00"
+      },
+      {
+        "title": "すでにWEBデザイナーの8割は不要である",
+        "url": "https://qiita.com/kotowazaman/items/74621592ace2ff968670",
+        "likes": 115,
+        "author": "kotowazaman",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2653361/7cf24d7adb84adfd024883cdde391442d5c517d0/large.png?1791250261",
+        "tags": [
+          "#AI"
+        ],
+        "created_at": "2026-10-07T23:19:19+09:00"
       },
       {
         "title": "どこかで聞いた「アウトプットしないことは知的な便秘である」って素晴らしい言葉だよなぁ！",
@@ -58,70 +69,62 @@
         "created_at": "2026-09-28T13:00:52+09:00"
       },
       {
-        "title": "すでにWEBデザイナーの8割は不要である",
-        "url": "https://qiita.com/kotowazaman/items/74621592ace2ff968670",
-        "likes": 90,
-        "author": "kotowazaman",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2653361/7cf24d7adb84adfd024883cdde391442d5c517d0/large.png?1791250261",
+        "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか",
+        "url": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
+        "likes": 87,
+        "author": "shinkai_",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1203022/0b1100225e69fe7c5def1c1e45e7993c72541583/x_large.png?1670996932",
         "tags": [
-          "#AI"
+          "AI",
+          "初心者",
+          "キャリア",
+          "Security"
         ],
-        "created_at": "2026-10-07T23:19:19+09:00"
-      },
-      {
-        "title": "最近プロジェクトマネジメントで感じたこと",
-        "url": "https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb",
-        "likes": 82,
-        "author": "shirakurak",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/638702/profile-images/1686135599",
-        "tags": [
-          "プロジェクトマネジメント"
-        ],
-        "created_at": "2026-10-04T13:05:42+09:00"
+        "created_at": "2026-10-07T08:02:40+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "約 0.5 GiB のダウンロードで SSD に 6 GiB 書いていた — Steam のゲーム更新 1 件を実測し、減らせる場所を探した",
-        "url": "https://zenn.dev/berobero/articles/steam-update-ssd-writes",
-        "author": "beroru",
-        "date": "Fri, 09 Oct 2026 03:32:28 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--bn9VZhUJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B4%2584%25200.5%2520GiB%2520%25E3%2581%25AE%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%2520SSD%2520%25E3%2581%25AB%25206%2520GiB%2520%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2520%25E2%2580%2594%2520Steam%2520%25E3%2581%25AE%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E6%259B%25B4%25E6%2596%25B0%25201%2520%25E4%25BB%25B6%25E3%2582%2592%25E5%25AE%259F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:beroru%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVVTS3MwWkhhT3B4anA4dHVJWGtETXNHRTV2V29KZ2FSYk51RVUwS04tT19lWHhPTEk9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "「マニピュレータ動的制御のための新しいフィードバック制御」竹垣，有本",
+        "url": "https://zenn.dev/zhidao/articles/e5982e81b6dbbf",
+        "author": "Zhidao",
+        "date": "Sat, 10 Oct 2026 09:41:00 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9nvKUy-c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2583%259E%25E3%2583%258B%25E3%2583%2594%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E5%258B%2595%25E7%259A%2584%25E5%2588%25B6%25E5%25BE%25A1%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%25E5%2588%25B6%25E5%25BE%25A1%25E3%2580%258D%25E7%25AB%25B9%25E5%259E%25A3%25EF%25BC%258C%25E6%259C%2589%25E6%259C%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Zhidao%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDlmODA2cVhZVEVKNmlzTHFZaW05MC1zSmVpSktPeWJKTTNDakFYTUtDV0Iyb0lPTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Notion や Slack から AI に仕事を依頼できる仕組みを Claude Code Routines で作った",
-        "url": "https://zenn.dev/terass_dev/articles/6e6562d54d5505",
-        "author": "homu_konamilk",
-        "date": "Fri, 09 Oct 2026 02:47:29 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--_XSAPMG0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Notion%2520%25E3%2582%2584%2520Slack%2520%25E3%2581%258B%25E3%2582%2589%2520AI%2520%25E3%2581%25AB%25E4%25BB%2595%25E4%25BA%258B%25E3%2582%2592%25E4%25BE%259D%25E9%25A0%25BC%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%2520Claude%2520Code%2520Routines%2520%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:homu_konamilk%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiZjJkODQzYTQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Terass%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlNzcxM2M5YTUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "寄りの巻き戻しと、横に並べている14本の参考記録を図で整理した（振り返り第6回）",
+        "url": "https://zenn.dev/denny/articles/open-revert-reference-records",
+        "author": "SAYUKI",
+        "date": "Sat, 10 Oct 2026 00:00:16 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--g1Mq7dUq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AF%2584%25E3%2582%258A%25E3%2581%25AE%25E5%25B7%25BB%25E3%2581%258D%25E6%2588%25BB%25E3%2581%2597%25E3%2581%25A8%25E3%2580%2581%25E6%25A8%25AA%25E3%2581%25AB%25E4%25B8%25A6%25E3%2581%25B9%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B14%25E6%259C%25AC%25E3%2581%25AE%25E5%258F%2582%25E8%2580%2583%25E8%25A8%2598%25E9%258C%25B2%25E3%2582%2592%25E5%259B%25B3%25E3%2581%25A7%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2597%25E3%2581%259F%25EF%25BC%2588%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%25E7%25AC%25AC6%25E5%259B%259E%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:SAYUKI%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JhODUzYTFmNDQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AIエージェントにMicrosoft Fabricを操作させる ― Fabric CLIとSkills for Fabric",
-        "url": "https://zenn.dev/headwaters/articles/12175106cd8c79",
-        "author": "ササヤンマ",
-        "date": "Thu, 08 Oct 2026 23:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--TKGsm_b1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25ABMicrosoft%2520Fabric%25E3%2582%2592%25E6%2593%258D%25E4%25BD%259C%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%2520%25E2%2580%2595%2520Fabric%2520CLI%25E3%2581%25A8Skills%2520for%2520F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25B5%25E3%2582%25B5%25E3%2583%25A4%25E3%2583%25B3%25E3%2583%259E%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "社外の人はPower BIのゲートウェイを立てられなかった話",
+        "url": "https://zenn.dev/tomojoz/articles/dac7b46967c993",
+        "author": "tomojoz",
+        "date": "Fri, 09 Oct 2026 13:08:24 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--irMMhod4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A4%25BE%25E5%25A4%2596%25E3%2581%25AE%25E4%25BA%25BA%25E3%2581%25AFPower%2520BI%25E3%2581%25AE%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%2592%25E7%25AB%258B%25E3%2581%25A6%25E3%2582%2589%25E3%2582%258C%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tomojoz%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y3YmYyMmQ3NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Renovate の更新 PR を AI エージェントにレビューさせ、自動マージまでつなげる",
-        "url": "https://zenn.dev/greendrop/articles/2026-10-09-4664c51706f346",
-        "author": "greendrop",
-        "date": "Thu, 08 Oct 2026 22:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--NQFJuLZA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Renovate%2520%25E3%2581%25AE%25E6%259B%25B4%25E6%2596%25B0%2520PR%2520%25E3%2582%2592%2520AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2595%25E3%2581%259B%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25B8%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2592%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:greendrop%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q5ODg5OGFhNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "昔書いたRSpecのand_invokeの記事を最新のrspec-mocksで検証し直した",
+        "url": "https://zenn.dev/kyto64/articles/rspec-and-invoke-revisited",
+        "author": "kyto64",
+        "date": "Fri, 09 Oct 2026 12:00:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--1hgIs4GW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2598%2594%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259FRSpec%25E3%2581%25AEand_invoke%25E3%2581%25AE%25E8%25A8%2598%25E4%25BA%258B%25E3%2582%2592%25E6%259C%2580%25E6%2596%25B0%25E3%2581%25AErspec-mocks%25E3%2581%25A7%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kyto64%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUyNjcyMWU0ODUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
-        "url": "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
-        "author": "okkun0524",
-        "date": "Thu, 08 Oct 2026 11:42:21 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--5VpA2CPR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Haiku%25205.5%2520%25E3%2582%2592%25E6%25A9%259F%25E3%2581%25AB%2520Sonnet%2520%25E4%25BB%25A5%25E4%25B8%258B%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E8%25A6%258B%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:okkun0524%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk3MWE5ZDFmMzcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AIで浮いた時間を「もっと作る」に使っていませんか",
+        "url": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
+        "author": "アイデアログ開発チーム",
+        "date": "Fri, 09 Oct 2026 10:40:07 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--EoTNqKoi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E6%25B5%25AE%25E3%2581%2584%25E3%2581%259F%25E6%2599%2582%25E9%2596%2593%25E3%2582%2592%25E3%2580%258C%25E3%2582%2582%25E3%2581%25A3%25E3%2581%25A8%25E4%25BD%259C%25E3%2582%258B%25E3%2580%258D%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%2587%25E3%2582%25A2%25E3%2583%25AD%25E3%2582%25B0%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyY2ZlMWNlZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "若手エンジニアに必要だと感じた「AIを使う力」",
-        "url": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
-        "author": "Goto",
-        "date": "Thu, 08 Oct 2026 08:29:40 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--skPAiA9t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%258B%25A5%25E6%2589%258B%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AB%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25A0%25E3%2581%25A8%25E6%2584%259F%25E3%2581%2598%25E3%2581%259F%25E3%2580%258CAI%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E5%258A%259B%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Goto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIxZGYyYTRkNjIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E4%25B8%2589%25E8%258F%25B1UFJ%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258E%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%2586...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlYmJmNDUzOGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "初AIコーディング記録：Brain第1世代でLinuxを動くようにした話",
+        "url": "https://zenn.dev/tnishinaga/articles/ee0b6cf4f8683d",
+        "author": "tnishinaga",
+        "date": "Fri, 09 Oct 2026 10:29:52 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--mq95GQdu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2588%259DAI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E8%25A8%2598%25E9%258C%25B2%25EF%25BC%259ABrain%25E7%25AC%25AC1%25E4%25B8%2596%25E4%25BB%25A3%25E3%2581%25A7Linux%25E3%2582%2592%25E5%258B%2595%25E3%2581%258F%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tnishinaga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlNldGhVR0hmQXoxSkV4WDZ2MGVwQ0VFQ0xHallwRm1kVlhIT3Z4cWVoZ2pUWGhTUEU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -129,7 +132,7 @@
         "name": "storytold/photocraft",
         "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
         "url": "https://github.com/storytold/photocraft",
-        "stars": 35471,
+        "stars": 42085,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
@@ -137,7 +140,7 @@
         "name": "NandhaKishorM/laya",
         "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
         "url": "https://github.com/NandhaKishorM/laya",
-        "stars": 31980,
+        "stars": 32159,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/48623612?v=4"
       },
@@ -145,7 +148,7 @@
         "name": "browser-use/jev-ultrafast",
         "description": "Fastest and cheapest web agent",
         "url": "https://github.com/browser-use/jev-ultrafast",
-        "stars": 22479,
+        "stars": 22560,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
@@ -153,7 +156,7 @@
         "name": "Niko1221/Strata",
         "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
         "url": "https://github.com/Niko1221/Strata",
-        "stars": 19569,
+        "stars": 20679,
         "language": "C++",
         "owner_avatar": "https://avatars.githubusercontent.com/u/86886444?v=4"
       },
@@ -161,7 +164,7 @@
         "name": "robbietilton/Compositor",
         "description": "The Photoshop alternative for Mac",
         "url": "https://github.com/robbietilton/Compositor",
-        "stars": 14820,
+        "stars": 15460,
         "language": "Swift",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1269226?v=4"
       },
@@ -169,7 +172,7 @@
         "name": "openai/math",
         "description": null,
         "url": "https://github.com/openai/math",
-        "stars": 13088,
+        "stars": 13675,
         "language": "Lean",
         "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4"
       }
