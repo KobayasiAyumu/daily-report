@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-10-12T00:49:21Z"
+    "last_updated": "2026-10-13T02:45:58Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた",
         "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
-        "likes": 276,
+        "likes": 280,
         "author": "inoyu-qiita",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4475351/cee181fffe72b3ceab51f6ee83169806b99c329d/x_large.png?1786970435",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった",
         "url": "https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080",
-        "likes": 151,
+        "likes": 155,
         "author": "kazuki_ogawa",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2590850/profile-images/1769400087",
         "tags": [
@@ -35,7 +35,7 @@
       {
         "title": "すでにWEBデザイナーの8割は不要である",
         "url": "https://qiita.com/kotowazaman/items/74621592ace2ff968670",
-        "likes": 122,
+        "likes": 125,
         "author": "kotowazaman",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2653361/7cf24d7adb84adfd024883cdde391442d5c517d0/large.png?1791250261",
         "tags": [
@@ -46,7 +46,7 @@
       {
         "title": "2026年の情報漏洩を手口で分類してみた",
         "url": "https://qiita.com/yama3133/items/071119dfea9ed24d0948",
-        "likes": 119,
+        "likes": 121,
         "author": "yama3133",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4223081/133766ff1852bcb8e4ae07f568918fcb378cfa88/large.png?1785807274",
         "tags": [
@@ -60,7 +60,7 @@
       {
         "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか",
         "url": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
-        "likes": 91,
+        "likes": 95,
         "author": "shinkai_",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1203022/0b1100225e69fe7c5def1c1e45e7993c72541583/x_large.png?1670996932",
         "tags": [
@@ -74,7 +74,7 @@
       {
         "title": "最近プロジェクトマネジメントで感じたこと",
         "url": "https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb",
-        "likes": 84,
+        "likes": 85,
         "author": "shirakurak",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/638702/profile-images/1686135599",
         "tags": [
@@ -85,46 +85,46 @@
     ],
     "zenn": [
       {
-        "title": "Besu ローカル環境構築ハンズオン",
-        "url": "https://zenn.dev/komlock_lab/articles/besu-local-network-handson",
+        "title": "dbt Docs v2で何ができるか、実際に触ってみた【dbt v2】",
+        "url": "https://zenn.dev/ryatora/articles/dbt-docs-v2-guide",
+        "author": "rnm",
+        "date": "Mon, 12 Oct 2026 14:45:24 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--YIgLJs6J--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:dbt%2520Docs%2520v2%25E3%2581%25A7%25E4%25BD%2595%25E3%2581%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2581%258B%25E3%2580%2581%25E5%25AE%259F%25E9%259A%259B%25E3%2581%25AB%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2580%2590dbt%2520v2%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rnm%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhkNGRlMzZjYmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "PRコメントからKubernetesに訊く ~GitHub ActionsからA2Aエージェントをシークレットレスで繋ぐ~",
+        "url": "https://zenn.dev/hyeonjae/articles/secretless-a2a-github-actions-ja",
+        "author": "らん",
+        "date": "Mon, 12 Oct 2026 14:31:57 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Rx9pgLaD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PR%25E3%2582%25B3%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589Kubernetes%25E3%2581%25AB%25E8%25A8%258A%25E3%2581%258F%2520%7EGitHub%2520Actions%25E3%2581%258B%25E3%2582%2589A2A%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AC%25E3%2582%25B9...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2589%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZiMDRmZjM0YTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Canton Network ローカル環境構築ハンズオン",
+        "url": "https://zenn.dev/komlock_lab/articles/canton-localnet-handson",
         "author": "Natsuki Yamaguchi",
-        "date": "Sun, 11 Oct 2026 14:28:19 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--P-BMoi1D--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Besu%2520%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E7%2592%25B0%25E5%25A2%2583%25E6%25A7%258B%25E7%25AF%2589%25E3%2583%258F%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25AA%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Natsuki%2520Yamaguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE1MDIwNzIxNzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "date": "Mon, 12 Oct 2026 14:29:03 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6dXfxphX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Canton%2520Network%2520%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E7%2592%25B0%25E5%25A2%2583%25E6%25A7%258B%25E7%25AF%2589%25E3%2583%258F%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25AA%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Natsuki%2520Yamaguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE1MDIwNzIxNzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AIの文章を読みやすくするskillを作る（文の難しさの点数化＋構造化）",
-        "url": "https://zenn.dev/netetahito/articles/a3539e541b179c",
-        "author": "おなさい",
-        "date": "Sun, 11 Oct 2026 00:56:36 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--osdc1dgK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AE%25E6%2596%2587%25E7%25AB%25A0%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BF%25E3%2582%2584%25E3%2581%2599%25E3%2581%258F%25E3%2581%2599%25E3%2582%258Bskill%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25EF%25BC%2588%25E6%2596%2587%25E3%2581%25AE%25E9%259B%25A3%25E3%2581%2597%25E3%2581%2595%25E3%2581%25AE%25E7%2582%25B9%25E6%2595%25B0%25E5%258C%2596%25EF%25BC%258B%25E6%25A7%258B%25E9%2580%25A0%25E5%258C%2596%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%25AA%25E3%2581%2595%25E3%2581%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvbi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【2026年版】Fateで理解するローカルLLMの選び方",
+        "url": "https://zenn.dev/akari1106/articles/3a050fde72159d",
+        "author": "灯里(akari)",
+        "date": "Mon, 12 Oct 2026 13:17:13 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--8O3aeI7_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902026%25E5%25B9%25B4%25E7%2589%2588%25E3%2580%2591Fate%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25AE%25E9%2581%25B8%25E3%2581%25B3%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%2581%25AF%25E9%2587%258C%2528akari%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZTcxYTI4M2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "SQLite 本体にベクトル検索拡張 vec1 がやってきた",
-        "url": "https://zenn.dev/mattn/articles/6e9996319ac099",
-        "author": "mattn",
-        "date": "Sat, 10 Oct 2026 17:16:42 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--PnneRXdm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQLite%2520%25E6%259C%25AC%25E4%25BD%2593%25E3%2581%25AB%25E3%2583%2599%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AB%25E6%25A4%259C%25E7%25B4%25A2%25E6%258B%25A1%25E5%25BC%25B5%2520vec1%2520%25E3%2581%258C%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mattn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwYjA3ZWIzODAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "WSL Containerのsettings.yaml他、基本的な挙動をみていく",
+        "url": "https://zenn.dev/eien_syogakusya/articles/a34040c33e63d2",
+        "author": "永遠ノ初学者",
+        "date": "Mon, 12 Oct 2026 11:19:34 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--MK_4VNl9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WSL%2520Container%25E3%2581%25AEsettings.yaml%25E4%25BB%2596%25E3%2580%2581%25E5%259F%25BA%25E6%259C%25AC%25E7%259A%2584%25E3%2581%25AA%25E6%258C%2599%25E5%258B%2595%25E3%2582%2592%25E3%2581%25BF%25E3%2581%25A6%25E3%2581%2584%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25B0%25B8%25E9%2581%25A0%25E3%2583%258E%25E5%2588%259D%25E5%25AD%25A6%25E8%2580%2585%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvZS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "React習熟度ベンチマークでHaiku 5.5が見せた底力",
-        "url": "https://zenn.dev/uhyo/articles/react-profession-bench-20",
-        "author": "uhyo",
-        "date": "Sat, 10 Oct 2026 14:35:53 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--BMLeYjbK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25A7Haiku%25205.5%25E3%2581%258C%25E8%25A6%258B%25E3%2581%259B%25E3%2581%259F%25E5%25BA%2595%25E5%258A%259B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "2025 年 10 月から 2026 年 10 月までの Mozc に対する主な変更",
-        "url": "https://zenn.dev/komatsuh/articles/komatsuh_mozc_updates_from_2025_10",
-        "author": "Hiroyuki Komatsu",
-        "date": "Sat, 10 Oct 2026 14:30:00 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--oX16SINT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2025%2520%25E5%25B9%25B4%252010%2520%25E6%259C%2588%25E3%2581%258B%25E3%2582%2589%25202026%2520%25E5%25B9%25B4%252010%2520%25E6%259C%2588%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%2520Mozc%2520%25E3%2581%25AB%25E5%25AF%25BE%25E3%2581%2599%25E3%2582%258B%25E4%25B8%25BB%25E3%2581%25AA%25E5%25A4%2589%25E6%259B%25B4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiroyuki%2520Komatsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RjYTQ4NTllODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "【速報】Claude の新機能 Claude Motion 早速使ってみた",
-        "url": "https://zenn.dev/branbran/articles/047821d64590f0",
-        "author": "Atsuki02",
-        "date": "Sat, 10 Oct 2026 04:13:09 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--BtfM6RvA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E9%2580%259F%25E5%25A0%25B1%25E3%2580%2591Claude%2520%25E3%2581%25AE%25E6%2596%25B0%25E6%25A9%259F%25E8%2583%25BD%2520Claude%2520Motion%2520%25E6%2597%25A9%25E9%2580%259F%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsuki02%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxZjg2ZTA4ZDIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "whisperの文字起こしにJevで話者ラベルを付けようとしたら、Jevは要らなかった",
+        "url": "https://zenn.dev/ik11235/articles/whisper-jev-speaker-label",
+        "author": "ik-fib",
+        "date": "Mon, 12 Oct 2026 10:30:01 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9Lnq-JT3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:whisper%25E3%2581%25AE%25E6%2596%2587%25E5%25AD%2597%25E8%25B5%25B7%25E3%2581%2593%25E3%2581%2597%25E3%2581%25ABJev%25E3%2581%25A7%25E8%25A9%25B1%25E8%2580%2585%25E3%2583%25A9%25E3%2583%2599%25E3%2583%25AB%25E3%2582%2592%25E4%25BB%2598%25E3%2581%2591%25E3%2582%2588%25E3%2581%2586%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Jev%25E3%2581%25AF%25E8%25A6%2581%25E3%2582%2589%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ik-fib%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBlZTQ1MDhjYTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -132,7 +132,7 @@
         "name": "storytold/photocraft",
         "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
         "url": "https://github.com/storytold/photocraft",
-        "stars": 47669,
+        "stars": 53863,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
@@ -140,31 +140,31 @@
         "name": "NandhaKishorM/laya",
         "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
         "url": "https://github.com/NandhaKishorM/laya",
-        "stars": 32349,
+        "stars": 32588,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/48623612?v=4"
-      },
-      {
-        "name": "browser-use/jev-ultrafast",
-        "description": "Fastest and cheapest web agent",
-        "url": "https://github.com/browser-use/jev-ultrafast",
-        "stars": 22629,
-        "language": "Python",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
       {
         "name": "Niko1221/Strata",
         "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
         "url": "https://github.com/Niko1221/Strata",
-        "stars": 21608,
+        "stars": 22806,
         "language": "C++",
         "owner_avatar": "https://avatars.githubusercontent.com/u/86886444?v=4"
+      },
+      {
+        "name": "browser-use/jev-ultrafast",
+        "description": "Fastest and cheapest web agent",
+        "url": "https://github.com/browser-use/jev-ultrafast",
+        "stars": 22755,
+        "language": "Python",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
       {
         "name": "robbietilton/Compositor",
         "description": "The Photoshop alternative for Mac",
         "url": "https://github.com/robbietilton/Compositor",
-        "stars": 15897,
+        "stars": 16429,
         "language": "Swift",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1269226?v=4"
       },
@@ -172,7 +172,7 @@
         "name": "openai/math",
         "description": null,
         "url": "https://github.com/openai/math",
-        "stars": 14082,
+        "stars": 14451,
         "language": "Lean",
         "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4"
       }
