@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-10-13T02:45:58Z"
+    "last_updated": "2026-10-14T00:44:08Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた",
         "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
-        "likes": 280,
+        "likes": 288,
         "author": "inoyu-qiita",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4475351/cee181fffe72b3ceab51f6ee83169806b99c329d/x_large.png?1786970435",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった",
         "url": "https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080",
-        "likes": 155,
+        "likes": 177,
         "author": "kazuki_ogawa",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2590850/profile-images/1769400087",
         "tags": [
@@ -33,20 +33,9 @@
         "created_at": "2026-10-01T12:46:07+09:00"
       },
       {
-        "title": "すでにWEBデザイナーの8割は不要である",
-        "url": "https://qiita.com/kotowazaman/items/74621592ace2ff968670",
-        "likes": 125,
-        "author": "kotowazaman",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2653361/7cf24d7adb84adfd024883cdde391442d5c517d0/large.png?1791250261",
-        "tags": [
-          "#AI"
-        ],
-        "created_at": "2026-10-07T23:19:19+09:00"
-      },
-      {
         "title": "2026年の情報漏洩を手口で分類してみた",
         "url": "https://qiita.com/yama3133/items/071119dfea9ed24d0948",
-        "likes": 121,
+        "likes": 146,
         "author": "yama3133",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4223081/133766ff1852bcb8e4ae07f568918fcb378cfa88/large.png?1785807274",
         "tags": [
@@ -58,9 +47,34 @@
         "created_at": "2026-10-06T14:19:43+09:00"
       },
       {
+        "title": "すでにWEBデザイナーの8割は不要である",
+        "url": "https://qiita.com/kotowazaman/items/74621592ace2ff968670",
+        "likes": 134,
+        "author": "kotowazaman",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2653361/7cf24d7adb84adfd024883cdde391442d5c517d0/large.png?1791250261",
+        "tags": [
+          "#AI"
+        ],
+        "created_at": "2026-10-07T23:19:19+09:00"
+      },
+      {
+        "title": "サイバーセキュリティを勉強するなら今？おすすめリソース紹介",
+        "url": "https://qiita.com/leolui2004/items/226062f17e55202e8c47",
+        "likes": 126,
+        "author": "leolui2004",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/893830/8db4a984f4fe03701aba64538bed1286f4199a36/x_large.png?1754735268",
+        "tags": [
+          "Security",
+          "サイバーセキュリティ",
+          "AI",
+          "リソース"
+        ],
+        "created_at": "2026-10-11T15:13:37+09:00"
+      },
+      {
         "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか",
         "url": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
-        "likes": 95,
+        "likes": 104,
         "author": "shinkai_",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1203022/0b1100225e69fe7c5def1c1e45e7993c72541583/x_large.png?1670996932",
         "tags": [
@@ -70,61 +84,50 @@
           "Security"
         ],
         "created_at": "2026-10-07T08:02:40+09:00"
-      },
-      {
-        "title": "最近プロジェクトマネジメントで感じたこと",
-        "url": "https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb",
-        "likes": 85,
-        "author": "shirakurak",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/638702/profile-images/1686135599",
-        "tags": [
-          "プロジェクトマネジメント"
-        ],
-        "created_at": "2026-10-04T13:05:42+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "dbt Docs v2で何ができるか、実際に触ってみた【dbt v2】",
-        "url": "https://zenn.dev/ryatora/articles/dbt-docs-v2-guide",
-        "author": "rnm",
-        "date": "Mon, 12 Oct 2026 14:45:24 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--YIgLJs6J--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:dbt%2520Docs%2520v2%25E3%2581%25A7%25E4%25BD%2595%25E3%2581%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2581%258B%25E3%2580%2581%25E5%25AE%259F%25E9%259A%259B%25E3%2581%25AB%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2580%2590dbt%2520v2%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rnm%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhkNGRlMzZjYmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "画像は「言葉だけ」でどこまで送れるか――中間特徴とプロンプト再生成を比較した小規模検証",
+        "url": "https://zenn.dev/lube8163/articles/594bea1c0f8397",
+        "author": "アジサシ",
+        "date": "Tue, 13 Oct 2026 17:58:32 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6QM8vz3z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%25BB%25E5%2583%258F%25E3%2581%25AF%25E3%2580%258C%25E8%25A8%2580%25E8%2591%2589%25E3%2581%25A0%25E3%2581%2591%25E3%2580%258D%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25BE%25E3%2581%25A7%25E9%2580%2581%25E3%2582%258C%25E3%2582%258B%25E3%2581%258B%25E2%2580%2595%25E2%2580%2595%25E4%25B8%25AD%25E9%2596%2593%25E7%2589%25B9%25E5%25BE%25B4%25E3%2581%25A8%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E5%2586%258D%25E7%2594%259F%25E6%2588%2590%25E3%2582%2592%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2597%25E3%2581%259F%25E5%25B0%258F%25E8%25A6%258F%25E6%25A8%25A1%25E6%25A4%259C%25E8%25A8%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2582%25B8%25E3%2582%25B5%25E3%2582%25B7%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmM5Q3ZnTk85a3o1VFRyUnFSY0pNU2FKVXpDbmN0cVBCUjBSME1SLUtMdk5uZl9jUEY9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "PRコメントからKubernetesに訊く ~GitHub ActionsからA2Aエージェントをシークレットレスで繋ぐ~",
-        "url": "https://zenn.dev/hyeonjae/articles/secretless-a2a-github-actions-ja",
-        "author": "らん",
-        "date": "Mon, 12 Oct 2026 14:31:57 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Rx9pgLaD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PR%25E3%2582%25B3%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589Kubernetes%25E3%2581%25AB%25E8%25A8%258A%25E3%2581%258F%2520%7EGitHub%2520Actions%25E3%2581%258B%25E3%2582%2589A2A%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AC%25E3%2582%25B9...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2589%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZiMDRmZjM0YTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "話題の逆解析 MCP「REA」を Claude Code に隔離してつないだ——静的解析の A/B 試験と安全設計",
+        "url": "https://zenn.dev/keigoly/articles/8738d8d241b5a1",
+        "author": "keigoly",
+        "date": "Tue, 13 Oct 2026 17:54:44 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--SZcHWPn3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A9%25B1%25E9%25A1%258C%25E3%2581%25AE%25E9%2580%2586%25E8%25A7%25A3%25E6%259E%2590%2520MCP%25E3%2580%258CREA%25E3%2580%258D%25E3%2582%2592%2520Claude%2520Code%2520%25E3%2581%25AB%25E9%259A%2594%25E9%259B%25A2%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A0%25E2%2580%2594%25E2%2580%2594%25E9%259D%2599%25E7%259A%2584%25E8%25A7%25A3%25E6%259E%2590%25E3%2581%25AE%2520A%252FB%2520%25E8%25A9%25A6%25E9%25A8%2593%25E3%2581%25A8%25E5%25AE%2589%25E5%2585%25A8%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:keigoly%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlBuQWFudnFPMkU5aG5Oa2dSLW1vTnpiVTR3WVVDNUMtMEctOVc2dFZ3LWJqMXRkWk89czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Canton Network ローカル環境構築ハンズオン",
-        "url": "https://zenn.dev/komlock_lab/articles/canton-localnet-handson",
-        "author": "Natsuki Yamaguchi",
-        "date": "Mon, 12 Oct 2026 14:29:03 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6dXfxphX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Canton%2520Network%2520%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E7%2592%25B0%25E5%25A2%2583%25E6%25A7%258B%25E7%25AF%2589%25E3%2583%258F%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25AA%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Natsuki%2520Yamaguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE1MDIwNzIxNzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【Crackmes.one】x64dbgでパスワード解析",
+        "url": "https://zenn.dev/otinpan/articles/8557e9c3930540",
+        "author": "otinpan",
+        "date": "Tue, 13 Oct 2026 15:58:13 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--vzAudYQa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Crackmes.one%25E3%2580%2591x64dbg%25E3%2581%25A7%25E3%2583%2591%25E3%2582%25B9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E6%259E%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:otinpan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKendodjZDelFlQWhOc0ZjNzc5am11MnZGdlFkS19rd3BwWkcyRlk9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "【2026年版】Fateで理解するローカルLLMの選び方",
-        "url": "https://zenn.dev/akari1106/articles/3a050fde72159d",
-        "author": "灯里(akari)",
-        "date": "Mon, 12 Oct 2026 13:17:13 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--8O3aeI7_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902026%25E5%25B9%25B4%25E7%2589%2588%25E3%2580%2591Fate%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25AE%25E9%2581%25B8%25E3%2581%25B3%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%2581%25AF%25E9%2587%258C%2528akari%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZTcxYTI4M2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "EmDash を pnpm の 7 日ルールで入れ直したら、つまずいたところ",
+        "url": "https://zenn.dev/n_tong/articles/5ea0a290d8923d",
+        "author": "海老のしっぽ",
+        "date": "Tue, 13 Oct 2026 14:56:02 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--iDkqdxvD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:EmDash%2520%25E3%2582%2592%2520pnpm%2520%25E3%2581%25AE%25207%2520%25E6%2597%25A5%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25A7%25E5%2585%25A5%25E3%2582%258C%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E3%2581%25A4%25E3%2581%25BE%25E3%2581%259A%25E3%2581%2584%25E3%2581%259F%25E3%2581%25A8%25E3%2581%2593%25E3%2582%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25B5%25B7%25E8%2580%2581%25E3%2581%25AE%25E3%2581%2597%25E3%2581%25A3%25E3%2581%25BD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M0YjQ1N2I2MWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "WSL Containerのsettings.yaml他、基本的な挙動をみていく",
-        "url": "https://zenn.dev/eien_syogakusya/articles/a34040c33e63d2",
-        "author": "永遠ノ初学者",
-        "date": "Mon, 12 Oct 2026 11:19:34 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--MK_4VNl9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WSL%2520Container%25E3%2581%25AEsettings.yaml%25E4%25BB%2596%25E3%2580%2581%25E5%259F%25BA%25E6%259C%25AC%25E7%259A%2584%25E3%2581%25AA%25E6%258C%2599%25E5%258B%2595%25E3%2582%2592%25E3%2581%25BF%25E3%2581%25A6%25E3%2581%2584%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25B0%25B8%25E9%2581%25A0%25E3%2583%258E%25E5%2588%259D%25E5%25AD%25A6%25E8%2580%2585%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvZS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "SwiftDataのrollback()、iOS 27で黙って挙動が変わっていた",
+        "url": "https://zenn.dev/kzq/articles/swiftdata-rollback-ios27",
+        "author": "kzq",
+        "date": "Tue, 13 Oct 2026 14:09:49 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--K_8rKQ-l--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SwiftData%25E3%2581%25AErollback%2528%2529%25E3%2580%2581iOS%252027%25E3%2581%25A7%25E9%25BB%2599%25E3%2581%25A3%25E3%2581%25A6%25E6%258C%2599%25E5%258B%2595%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kzq%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIyYTk0MzJkMzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "whisperの文字起こしにJevで話者ラベルを付けようとしたら、Jevは要らなかった",
-        "url": "https://zenn.dev/ik11235/articles/whisper-jev-speaker-label",
-        "author": "ik-fib",
-        "date": "Mon, 12 Oct 2026 10:30:01 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--9Lnq-JT3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:whisper%25E3%2581%25AE%25E6%2596%2587%25E5%25AD%2597%25E8%25B5%25B7%25E3%2581%2593%25E3%2581%2597%25E3%2581%25ABJev%25E3%2581%25A7%25E8%25A9%25B1%25E8%2580%2585%25E3%2583%25A9%25E3%2583%2599%25E3%2583%25AB%25E3%2582%2592%25E4%25BB%2598%25E3%2581%2591%25E3%2582%2588%25E3%2581%2586%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Jev%25E3%2581%25AF%25E8%25A6%2581%25E3%2582%2589%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ik-fib%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBlZTQ1MDhjYTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AI-DLC富山合宿に参加してみた",
+        "url": "https://zenn.dev/nuance/articles/ai-dlc-toyama-camp-2026",
+        "author": "ルサンチマン",
+        "date": "Tue, 13 Oct 2026 09:32:44 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--wwtaH6DR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI-DLC%25E5%25AF%258C%25E5%25B1%25B1%25E5%2590%2588%25E5%25AE%25BF%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%25AB%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0tkajJ1VUlzemw2MnVvSjVHSG9sZ1luSDgxVVVod3dCZG15RktIenZEQTZ3dDVpbl83Zz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -132,7 +135,7 @@
         "name": "storytold/photocraft",
         "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
         "url": "https://github.com/storytold/photocraft",
-        "stars": 53863,
+        "stars": 57913,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
@@ -140,7 +143,7 @@
         "name": "NandhaKishorM/laya",
         "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
         "url": "https://github.com/NandhaKishorM/laya",
-        "stars": 32588,
+        "stars": 32774,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/48623612?v=4"
       },
@@ -148,7 +151,7 @@
         "name": "Niko1221/Strata",
         "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
         "url": "https://github.com/Niko1221/Strata",
-        "stars": 22806,
+        "stars": 23717,
         "language": "C++",
         "owner_avatar": "https://avatars.githubusercontent.com/u/86886444?v=4"
       },
@@ -156,7 +159,7 @@
         "name": "browser-use/jev-ultrafast",
         "description": "Fastest and cheapest web agent",
         "url": "https://github.com/browser-use/jev-ultrafast",
-        "stars": 22755,
+        "stars": 22828,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
@@ -164,7 +167,7 @@
         "name": "robbietilton/Compositor",
         "description": "The Photoshop alternative for Mac",
         "url": "https://github.com/robbietilton/Compositor",
-        "stars": 16429,
+        "stars": 16715,
         "language": "Swift",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1269226?v=4"
       },
@@ -172,7 +175,7 @@
         "name": "openai/math",
         "description": null,
         "url": "https://github.com/openai/math",
-        "stars": 14451,
+        "stars": 14677,
         "language": "Lean",
         "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4"
       }
