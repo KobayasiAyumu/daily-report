@@ -1,41 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-10-14T00:44:08Z"
+    "last_updated": "2026-10-15T00:10:44Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた",
-        "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
-        "likes": 288,
-        "author": "inoyu-qiita",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4475351/cee181fffe72b3ceab51f6ee83169806b99c329d/x_large.png?1786970435",
-        "tags": [
-          "ClaudeCode",
-          "生成AI",
-          "SKILLS",
-          "AI活用"
-        ],
-        "created_at": "2026-10-01T22:03:12+09:00"
-      },
-      {
-        "title": "文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった",
-        "url": "https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080",
-        "likes": 177,
-        "author": "kazuki_ogawa",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2590850/profile-images/1769400087",
-        "tags": [
-          "要件定義",
-          "AI駆動開発",
-          "ClaudeCode",
-          "開発プロセス"
-        ],
-        "created_at": "2026-10-01T12:46:07+09:00"
-      },
-      {
         "title": "2026年の情報漏洩を手口で分類してみた",
         "url": "https://qiita.com/yama3133/items/071119dfea9ed24d0948",
-        "likes": 146,
+        "likes": 206,
         "author": "yama3133",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4223081/133766ff1852bcb8e4ae07f568918fcb378cfa88/large.png?1785807274",
         "tags": [
@@ -49,7 +21,7 @@
       {
         "title": "すでにWEBデザイナーの8割は不要である",
         "url": "https://qiita.com/kotowazaman/items/74621592ace2ff968670",
-        "likes": 134,
+        "likes": 152,
         "author": "kotowazaman",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2653361/7cf24d7adb84adfd024883cdde391442d5c517d0/large.png?1791250261",
         "tags": [
@@ -60,7 +32,7 @@
       {
         "title": "サイバーセキュリティを勉強するなら今？おすすめリソース紹介",
         "url": "https://qiita.com/leolui2004/items/226062f17e55202e8c47",
-        "likes": 126,
+        "likes": 151,
         "author": "leolui2004",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/893830/8db4a984f4fe03701aba64538bed1286f4199a36/x_large.png?1754735268",
         "tags": [
@@ -74,7 +46,7 @@
       {
         "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか",
         "url": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
-        "likes": 104,
+        "likes": 124,
         "author": "shinkai_",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1203022/0b1100225e69fe7c5def1c1e45e7993c72541583/x_large.png?1670996932",
         "tags": [
@@ -84,50 +56,75 @@
           "Security"
         ],
         "created_at": "2026-10-07T08:02:40+09:00"
+      },
+      {
+        "title": "最近サイバー攻撃多いから、基本対策を見直そう",
+        "url": "https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5",
+        "likes": 95,
+        "author": "HIsui0921",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/186902/profile-images/1711895967",
+        "tags": [
+          "セキュリティ対策",
+          "サイバー攻撃",
+          "不正アクセス",
+          "情報漏洩"
+        ],
+        "created_at": "2026-10-05T23:28:32+09:00"
+      },
+      {
+        "title": "最近プロジェクトマネジメントで感じたこと",
+        "url": "https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb",
+        "likes": 94,
+        "author": "shirakurak",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/638702/profile-images/1686135599",
+        "tags": [
+          "プロジェクトマネジメント"
+        ],
+        "created_at": "2026-10-04T13:05:42+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "画像は「言葉だけ」でどこまで送れるか――中間特徴とプロンプト再生成を比較した小規模検証",
-        "url": "https://zenn.dev/lube8163/articles/594bea1c0f8397",
-        "author": "アジサシ",
-        "date": "Tue, 13 Oct 2026 17:58:32 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6QM8vz3z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%25BB%25E5%2583%258F%25E3%2581%25AF%25E3%2580%258C%25E8%25A8%2580%25E8%2591%2589%25E3%2581%25A0%25E3%2581%2591%25E3%2580%258D%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25BE%25E3%2581%25A7%25E9%2580%2581%25E3%2582%258C%25E3%2582%258B%25E3%2581%258B%25E2%2580%2595%25E2%2580%2595%25E4%25B8%25AD%25E9%2596%2593%25E7%2589%25B9%25E5%25BE%25B4%25E3%2581%25A8%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E5%2586%258D%25E7%2594%259F%25E6%2588%2590%25E3%2582%2592%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2597%25E3%2581%259F%25E5%25B0%258F%25E8%25A6%258F%25E6%25A8%25A1%25E6%25A4%259C%25E8%25A8%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2582%25B8%25E3%2582%25B5%25E3%2582%25B7%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmM5Q3ZnTk85a3o1VFRyUnFSY0pNU2FKVXpDbmN0cVBCUjBSME1SLUtMdk5uZl9jUEY9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【SWTT 2026】Snowflake Well-Architected Frameworkで実現する実践的なデータマネジメント",
+        "url": "https://zenn.dev/finatext/articles/swtt2026-snow-waf-datamanagement",
+        "author": "Takaki Ihara",
+        "date": "Wed, 14 Oct 2026 08:51:39 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--qEOlxV-3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590SWTT%25202026%25E3%2580%2591Snowflake%2520Well-Architected%2520Framework%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584%25E3%2581%25AA%25E3%2583%2587...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Takaki%2520Ihara%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIyNTJiNzM2OTguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "話題の逆解析 MCP「REA」を Claude Code に隔離してつないだ——静的解析の A/B 試験と安全設計",
-        "url": "https://zenn.dev/keigoly/articles/8738d8d241b5a1",
-        "author": "keigoly",
-        "date": "Tue, 13 Oct 2026 17:54:44 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--SZcHWPn3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A9%25B1%25E9%25A1%258C%25E3%2581%25AE%25E9%2580%2586%25E8%25A7%25A3%25E6%259E%2590%2520MCP%25E3%2580%258CREA%25E3%2580%258D%25E3%2582%2592%2520Claude%2520Code%2520%25E3%2581%25AB%25E9%259A%2594%25E9%259B%25A2%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A0%25E2%2580%2594%25E2%2580%2594%25E9%259D%2599%25E7%259A%2584%25E8%25A7%25A3%25E6%259E%2590%25E3%2581%25AE%2520A%252FB%2520%25E8%25A9%25A6%25E9%25A8%2593%25E3%2581%25A8%25E5%25AE%2589%25E5%2585%25A8%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:keigoly%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlBuQWFudnFPMkU5aG5Oa2dSLW1vTnpiVTR3WVVDNUMtMEctOVc2dFZ3LWJqMXRkWk89czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Next.jsの公開ページで、1回遊ぶ間に読むchunkを48本から16本にした",
+        "url": "https://zenn.dev/onthebakery/articles/5a27024f61405f",
+        "author": "soeda",
+        "date": "Wed, 14 Oct 2026 08:48:54 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--XPmreA6C--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%25E3%2581%25AE%25E5%2585%25AC%25E9%2596%258B%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2581%25A7%25E3%2580%25811%25E5%259B%259E%25E9%2581%258A%25E3%2581%25B6%25E9%2596%2593%25E3%2581%25AB%25E8%25AA%25AD%25E3%2582%2580chunk%25E3%2582%259248%25E6%259C%25AC%25E3%2581%258B%25E3%2582%258916%25E6%259C%25AC%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:soeda%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRhODdhMmEzYzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:on%2520the%2520bakery%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFczUWtWSWRtQ0pYbElPUUtYeEZoNk5XSFJZRm5RMFFSdVRreXFRUU1XNGJpTlM4bz1zMjUwLWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "【Crackmes.one】x64dbgでパスワード解析",
-        "url": "https://zenn.dev/otinpan/articles/8557e9c3930540",
-        "author": "otinpan",
-        "date": "Tue, 13 Oct 2026 15:58:13 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--vzAudYQa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Crackmes.one%25E3%2580%2591x64dbg%25E3%2581%25A7%25E3%2583%2591%25E3%2582%25B9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E6%259E%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:otinpan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKendodjZDelFlQWhOc0ZjNzc5am11MnZGdlFkS19rd3BwWkcyRlk9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "就活用DirectX12アクションゲーム作成 第三十三回",
+        "url": "https://zenn.dev/seisei89628/articles/cd976e4c7d78c7",
+        "author": "しまだせいや＠プログラマ",
+        "date": "Wed, 14 Oct 2026 06:06:40 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--dWhYb4Ep--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25B0%25B1%25E6%25B4%25BB%25E7%2594%25A8DirectX12%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E4%25BD%259C%25E6%2588%2590%2520%25E7%25AC%25AC%25E4%25B8%2589%25E5%258D%2581%25E4%25B8%2589%25E5%259B%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2581%25BE%25E3%2581%25A0%25E3%2581%259B%25E3%2581%2584%25E3%2582%2584%25EF%25BC%25A0%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhY2I1ZjE3OTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "EmDash を pnpm の 7 日ルールで入れ直したら、つまずいたところ",
-        "url": "https://zenn.dev/n_tong/articles/5ea0a290d8923d",
-        "author": "海老のしっぽ",
-        "date": "Tue, 13 Oct 2026 14:56:02 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--iDkqdxvD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:EmDash%2520%25E3%2582%2592%2520pnpm%2520%25E3%2581%25AE%25207%2520%25E6%2597%25A5%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25A7%25E5%2585%25A5%25E3%2582%258C%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E3%2581%25A4%25E3%2581%25BE%25E3%2581%259A%25E3%2581%2584%25E3%2581%259F%25E3%2581%25A8%25E3%2581%2593%25E3%2582%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25B5%25B7%25E8%2580%2581%25E3%2581%25AE%25E3%2581%2597%25E3%2581%25A3%25E3%2581%25BD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M0YjQ1N2I2MWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "'${widget._value}'の{}を忘れたら自分の常識に疑義が生じた",
+        "url": "https://zenn.dev/baleenstudio/articles/b80253e5dde615",
+        "author": "tyoshida",
+        "date": "Wed, 14 Oct 2026 05:23:56 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ANaBNQuZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2527%2524%257Bwidget._value%257D%2527%25E3%2581%25AE%257B%257D%25E3%2582%2592%25E5%25BF%2598%25E3%2582%258C%25E3%2581%259F%25E3%2582%2589%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%25E5%25B8%25B8%25E8%25AD%2598%25E3%2581%25AB%25E7%2596%2591%25E7%25BE%25A9%25E3%2581%258C%25E7%2594%259F%25E3%2581%2598%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tyoshida%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY0YjNjOTgwYTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEBALEEN%2520STUDIO%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlRDNjFkZHZ6eENwaWVQMXZLS015WlhEMEFXQVNXQnUtTFhXX3ZPdENPRmZ6cFNBPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "SwiftDataのrollback()、iOS 27で黙って挙動が変わっていた",
-        "url": "https://zenn.dev/kzq/articles/swiftdata-rollback-ios27",
-        "author": "kzq",
-        "date": "Tue, 13 Oct 2026 14:09:49 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--K_8rKQ-l--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SwiftData%25E3%2581%25AErollback%2528%2529%25E3%2580%2581iOS%252027%25E3%2581%25A7%25E9%25BB%2599%25E3%2581%25A3%25E3%2581%25A6%25E6%258C%2599%25E5%258B%2595%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kzq%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIyYTk0MzJkMzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "新卒エンジニア3人でAWS Summit Japan 2026へ！ 現地で見つけた「気になる技術」を紹介します",
+        "url": "https://zenn.dev/softbank/articles/22c8e3f9ab8945",
+        "author": "戸崎友輔",
+        "date": "Wed, 14 Oct 2026 02:06:16 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--HhLRD92v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%25B0%25E5%258D%2592%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A23%25E4%25BA%25BA%25E3%2581%25A7AWS%2520Summit%2520Japan%25202026%25E3%2581%25B8%25EF%25BC%2581%2520%25E7%258F%25BE%25E5%259C%25B0%25E3%2581%25A7%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2581%259F%25E3%2580%258C%25E6%25B0%2597%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E6%258A%2580%25E8%25A1%2593%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B9%25E4%25BB%258B%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%2588%25B8%25E5%25B4%258E%25E5%258F%258B%25E8%25BC%2594%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg5M2YzODNlZDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2583%2590%25E3%2583%25B3%25E3%2582%25AF%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%25EF%25BC%2588%25E5%2585%25AC%25E5%25BC%258F%25EF%25BC%2589%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUVDRTVrM3lpN1NfSzZwODRjUm4xLTE3YWhpY1loSmROR2JDSDdlelRXM2laMEtRPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AI-DLC富山合宿に参加してみた",
-        "url": "https://zenn.dev/nuance/articles/ai-dlc-toyama-camp-2026",
-        "author": "ルサンチマン",
-        "date": "Tue, 13 Oct 2026 09:32:44 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--wwtaH6DR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI-DLC%25E5%25AF%258C%25E5%25B1%25B1%25E5%2590%2588%25E5%25AE%25BF%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%25AB%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0tkajJ1VUlzemw2MnVvSjVHSG9sZ1luSDgxVVVod3dCZG15RktIenZEQTZ3dDVpbl83Zz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "mobile_scanner で本の ISBN を読む。裏表紙の2段バーコードは両方 EAN-13 だった",
+        "url": "https://zenn.dev/hk_work/articles/mobile-scanner-isbn-barcode",
+        "author": "HIROKI KUROGI",
+        "date": "Wed, 14 Oct 2026 02:00:21 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--P90DCOHY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:mobile_scanner%2520%25E3%2581%25A7%25E6%259C%25AC%25E3%2581%25AE%2520ISBN%2520%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%25E3%2580%2582%25E8%25A3%258F%25E8%25A1%25A8%25E7%25B4%2599%25E3%2581%25AE2%25E6%25AE%25B5%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AF%25E4%25B8%25A1%25E6%2596%25B9%2520EAN-13%2520%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:HIROKI%2520KUROGI%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +132,7 @@
         "name": "storytold/photocraft",
         "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
         "url": "https://github.com/storytold/photocraft",
-        "stars": 57913,
+        "stars": 61061,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
@@ -143,7 +140,7 @@
         "name": "NandhaKishorM/laya",
         "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
         "url": "https://github.com/NandhaKishorM/laya",
-        "stars": 32774,
+        "stars": 32909,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/48623612?v=4"
       },
@@ -151,7 +148,7 @@
         "name": "Niko1221/Strata",
         "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
         "url": "https://github.com/Niko1221/Strata",
-        "stars": 23717,
+        "stars": 24590,
         "language": "C++",
         "owner_avatar": "https://avatars.githubusercontent.com/u/86886444?v=4"
       },
@@ -159,7 +156,7 @@
         "name": "browser-use/jev-ultrafast",
         "description": "Fastest and cheapest web agent",
         "url": "https://github.com/browser-use/jev-ultrafast",
-        "stars": 22828,
+        "stars": 22917,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4"
       },
@@ -167,17 +164,17 @@
         "name": "robbietilton/Compositor",
         "description": "The Photoshop alternative for Mac",
         "url": "https://github.com/robbietilton/Compositor",
-        "stars": 16715,
+        "stars": 16905,
         "language": "Swift",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1269226?v=4"
       },
       {
-        "name": "openai/math",
-        "description": null,
-        "url": "https://github.com/openai/math",
-        "stars": 14677,
-        "language": "Lean",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4"
+        "name": "Ebony-Vinyl/dsh-our-free-model",
+        "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+        "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+        "stars": 16143,
+        "language": "JavaScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/245557608?v=4"
       }
     ]
   }
