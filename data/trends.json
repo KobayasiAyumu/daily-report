@@ -1,27 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-10-18T23:47:32Z"
+    "last_updated": "2026-10-20T00:48:27Z"
   },
   "trends": {
     "qiita": [
       {
-        "title": "2026年の情報漏洩を手口で分類してみた",
-        "url": "https://qiita.com/yama3133/items/071119dfea9ed24d0948",
-        "likes": 236,
-        "author": "yama3133",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4223081/133766ff1852bcb8e4ae07f568918fcb378cfa88/large.png?1785807274",
-        "tags": [
-          "AWS",
-          "情報漏洩",
-          "情報漏洩対策",
-          "不正アクセス"
-        ],
-        "created_at": "2026-10-06T14:19:43+09:00"
-      },
-      {
         "title": "すでにWEBデザイナーの8割は不要である",
         "url": "https://qiita.com/kotowazaman/items/74621592ace2ff968670",
-        "likes": 168,
+        "likes": 171,
         "author": "kotowazaman",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2653361/7cf24d7adb84adfd024883cdde391442d5c517d0/large.png?1791250261",
         "tags": [
@@ -32,7 +18,7 @@
       {
         "title": "サイバーセキュリティを勉強するなら今？おすすめリソース紹介",
         "url": "https://qiita.com/leolui2004/items/226062f17e55202e8c47",
-        "likes": 154,
+        "likes": 158,
         "author": "leolui2004",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/893830/8db4a984f4fe03701aba64538bed1286f4199a36/x_large.png?1754735268",
         "tags": [
@@ -46,7 +32,7 @@
       {
         "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか",
         "url": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
-        "likes": 146,
+        "likes": 147,
         "author": "shinkai_",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1203022/0b1100225e69fe7c5def1c1e45e7993c72541583/x_large.png?1670996932",
         "tags": [
@@ -58,23 +44,9 @@
         "created_at": "2026-10-07T08:02:40+09:00"
       },
       {
-        "title": "最近サイバー攻撃多いから、基本対策を見直そう",
-        "url": "https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5",
-        "likes": 105,
-        "author": "HIsui0921",
-        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/186902/profile-images/1711895967",
-        "tags": [
-          "セキュリティ対策",
-          "サイバー攻撃",
-          "不正アクセス",
-          "情報漏洩"
-        ],
-        "created_at": "2026-10-05T23:28:32+09:00"
-      },
-      {
         "title": "Jevにウォーリーを探させたら0.4秒で見つけやがった!!",
         "url": "https://qiita.com/kikuziro/items/c1b47d4bfaa64960ca18",
-        "likes": 81,
+        "likes": 89,
         "author": "kikuziro",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2933489/25a65fce5edbd595e1d63d3cdb887c96f1a6678f/x_large.png?1782917473",
         "tags": [
@@ -82,50 +54,78 @@
           "AI"
         ],
         "created_at": "2026-10-15T18:13:53+09:00"
+      },
+      {
+        "title": "攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト",
+        "url": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b",
+        "likes": 80,
+        "author": "Koukyosyumei",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2959953/36c4ee113027133d31a42234afa81815a5172109/x_large.png?1782688765",
+        "tags": [
+          "Security",
+          "Webアプリケーション",
+          "初心者",
+          "セキュリティ対策"
+        ],
+        "created_at": "2026-10-09T07:11:35+09:00"
+      },
+      {
+        "title": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性",
+        "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
+        "likes": 59,
+        "author": "k2_naka",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1775500392534810624/ZSEnRBWi_bigger.jpg",
+        "tags": [
+          "PwnEscape",
+          "CVE-2026-99999",
+          "AWS",
+          "さくらのクラウド"
+        ],
+        "created_at": "2026-10-16T21:48:39+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "ClaudeにiOSシミュレーターのスクリーンショットを読ませるのをやめて、操作で増えるコンテキストを43%削減した",
-        "url": "https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen",
-        "author": "y.takahashi",
-        "date": "Sun, 18 Oct 2026 02:56:18 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--LCj8Dy99--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2581%25ABiOS%25E3%2582%25B7%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BE%25E3%2581%259B%25E3%2582%258B%25E3%2581%25AE%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2581%25A6%25E3%2580%2581%25E6%2593%258D%25E4%25BD%259C%25E3%2581%25A7%25E5%25A2%2597%25E3%2581%2588%25E3%2582%258B%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E3%2582%259243%2525%25E5%2589%258A%25E6%25B8%259B%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:y.takahashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk0YjdiYzA2YTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AWS Lambda Web FunctionsでImpossible Location検知の課題をまとめて解決！ + 昨今の攻撃への有効性",
+        "url": "https://zenn.dev/cscloud_blog/articles/f4ce99ffeb8ee3",
+        "author": "nishikawa",
+        "date": "Mon, 19 Oct 2026 04:08:01 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--fg-Cf-I0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%2520Lambda%2520Web%2520Functions%25E3%2581%25A7Impossible%2520Location%25E6%25A4%259C%25E7%259F%25A5%25E3%2581%25AE%25E8%25AA%25B2%25E9%25A1%258C%25E3%2582%2592%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2581%25A6%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nishikawa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q0ZTRhMzgzMmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2580%2580%25E3%2583%2586...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q2YjE0NzI3ZTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AFM（Apple Foundation Models）を活用したテキストアドベンチャーゲームの開発【第2回】自由入力を台本の選択肢につなぐ",
-        "url": "https://zenn.dev/gritchbreed/articles/ced633f449178f",
-        "author": "Hiroshi Arakane",
-        "date": "Sun, 18 Oct 2026 02:35:56 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FOLD6DuP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AFM%25EF%25BC%2588Apple%2520Foundation%2520Models%25EF%25BC%2589%25E3%2582%2592%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2589%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2580%2590%25E7%25AC%25AC2%25E5%259B%259E%25E3%2580%2591%25E8%2587%25AA%25E7%2594%25B1...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiroshi%2520Arakane%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU0NWRhNzhlM2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸",
+        "url": "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
+        "author": "山本隼輔",
+        "date": "Mon, 19 Oct 2026 03:19:32 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--GRjEBnIk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2580%2581%25E9%2585%258D%25E5%25B8%2583%25E3%2581%2599%25E3%2582%258BPython%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E5%25AE%2588%25E3%2582%258B%25E3%2581%258B%253A%2520%25E9%259B%25A3%25E8%25AA%25AD%25E5%258C%2596%25E3%2581%25AE%25E5%25AE%259F%25E9%25A8%2593%25E3%2581%25A8%25E5%2588%25A4%25E6%2596%25AD%25E8%25BB%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25B1%25B1%25E6%259C%25AC%25E9%259A%25BC%25E8%25BC%2594%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNEhZd0tpekNLRGJCaTJtWEJEVXAtekJWNnRsZ3BsVHBiblRDWEU9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "PyODで時系列データの異常検知を試す",
-        "url": "https://zenn.dev/drbobt1122/articles/blog26101701",
-        "author": "Dr. BobT",
-        "date": "Sun, 18 Oct 2026 01:36:39 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--G-Vv51Tp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PyOD%25E3%2581%25A7%25E6%2599%2582%25E7%25B3%25BB%25E5%2588%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E7%2595%25B0%25E5%25B8%25B8%25E6%25A4%259C%25E7%259F%25A5%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Dr.%2520BobT%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0YmE3Yzc0OGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "クエリキーも型安全に変換するユーティリティを作った",
+        "url": "https://zenn.dev/castingone_dev/articles/typesafe_query_key_converter",
+        "author": "ぬまさん",
+        "date": "Mon, 19 Oct 2026 00:59:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--CSwvjp9t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25AA%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2582%25E5%259E%258B%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AB%25E5%25A4%2589%25E6%258F%259B%25E3%2581%2599%25E3%2582%258B%25E3%2583%25A6%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25AC%25E3%2581%25BE%25E3%2581%2595%25E3%2582%2593%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NiOTg1ODI2NjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:CastingONE%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI5MWZjYWE2NDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "日本語の個人情報を Bedrock Guardrails, SDP, Presidio でマスキングして比較する",
-        "url": "https://zenn.dev/fusic/articles/a77ba348115364",
-        "author": "omiya",
-        "date": "Sat, 17 Oct 2026 23:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZiCMOc7B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2581%25AE%25E5%2580%258B%25E4%25BA%25BA%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%2520Bedrock%2520Guardrails%252C%2520SDP%252C%2520Presidio%2520%25E3%2581%25A7%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2597%25E3%2581%25A6%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:omiya%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQxYzk1NTliMWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Claude Codeのステップごとのレビューを既定から外した理由",
+        "url": "https://zenn.dev/ara_jlu/articles/per-task-review-dropped",
+        "author": "Ara;",
+        "date": "Mon, 19 Oct 2026 00:30:14 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--CEgFThUB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2583%2597%25E3%2581%2594%25E3%2581%25A8%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2592%25E6%2597%25A2%25E5%25AE%259A%25E3%2581%258B%25E3%2582%2589%25E5%25A4%2596%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ara%253B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3NGNlYTdiNzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "生産計画を手を動かして学ぶ ― OSS の frePPLe で MRP・需要予測・CP-SAT まで",
-        "url": "https://zenn.dev/rkawajiri/books/frepple-tutorial-ja",
-        "author": "Ryoma Kawajiri",
-        "date": "Sat, 17 Oct 2026 21:06:40 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--2cUsIRqv--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8xZGYxMzAxOTYzLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
+        "title": "ドメインの境界を引くだけでは、業務はつながらない",
+        "url": "https://zenn.dev/dress_code/articles/4a76f1b88e360d",
+        "author": "かわうそ",
+        "date": "Mon, 19 Oct 2026 00:00:00 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--KaYyyerp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%25E3%2582%2592%25E5%25BC%2595%25E3%2581%258F%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2581%25AF%25E3%2580%2581%25E6%25A5%25AD%25E5%258B%2599%25E3%2581%25AF%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258B%25E3%2582%258F%25E3%2581%2586%25E3%2581%259D%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRiOGMxZmU1MDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_40%2Cl_default:og-publication-connect-mark-v1_hx1oxd%2Cw_40%2Cx_214%2Cy_155/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DRESS%2520CODE%2520TECH%2520BLOG%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg5OThmMTk2YzAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "論文サマリ「随意運動の制御と学習のための階層的ニューラルネットワークモデル」川人ら",
-        "url": "https://zenn.dev/zhidao/articles/63db6db6abe9c4",
-        "author": "Zhidao",
-        "date": "Sat, 17 Oct 2026 11:22:21 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--w6AUPUTy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25AB%2596%25E6%2596%2587%25E3%2582%25B5%25E3%2583%259E%25E3%2583%25AA%25E3%2580%258C%25E9%259A%258F%25E6%2584%258F%25E9%2581%258B%25E5%258B%2595%25E3%2581%25AE%25E5%2588%25B6%25E5%25BE%25A1%25E3%2581%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E9%259A%258E%25E5%25B1%25A4%25E7%259A%2584%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2580%258D%25E5%25B7%259D%25E4%25BA%25BA%25E3%2582%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Zhidao%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDlmODA2cVhZVEVKNmlzTHFZaW05MC1zSmVpSktPeWJKTTNDakFYTUtDV0Iyb0lPTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "個人で使うClaude Codeの権限設定についてざっくり見直してみた",
+        "url": "https://zenn.dev/takyshu98/articles/915702cf8c84f3",
+        "author": "takyshu98",
+        "date": "Sun, 18 Oct 2026 23:00:08 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ofsYAJsn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586Claude%2520Code%25E3%2581%25AE%25E6%25A8%25A9%25E9%2599%2590%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2596%25E3%2581%25A3%25E3%2581%258F%25E3%2582%258A%25E8%25A6%258B%25E7%259B%25B4%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:takyshu98%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU0NjIwYWNmNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -133,7 +133,7 @@
         "name": "storytold/photocraft",
         "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
         "url": "https://github.com/storytold/photocraft",
-        "stars": 67447,
+        "stars": 68574,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
@@ -141,7 +141,7 @@
         "name": "Niko1221/Strata",
         "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
         "url": "https://github.com/Niko1221/Strata",
-        "stars": 27446,
+        "stars": 28290,
         "language": "C++",
         "owner_avatar": "https://avatars.githubusercontent.com/u/86886444?v=4"
       },
@@ -149,31 +149,31 @@
         "name": "Ebony-Vinyl/dsh-our-free-model",
         "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
         "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-        "stars": 24723,
+        "stars": 27730,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/245557608?v=4"
-      },
-      {
-        "name": "wheresryan22/anatomy",
-        "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-        "url": "https://github.com/wheresryan22/anatomy",
-        "stars": 15982,
-        "language": "JavaScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/96392276?v=4"
       },
       {
         "name": "yetone/magpie",
         "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
         "url": "https://github.com/yetone/magpie",
-        "stars": 15917,
+        "stars": 17004,
         "language": "Go",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1206493?v=4"
+      },
+      {
+        "name": "wheresryan22/anatomy",
+        "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+        "url": "https://github.com/wheresryan22/anatomy",
+        "stars": 16855,
+        "language": "JavaScript",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/96392276?v=4"
       },
       {
         "name": "storytold/pdfcraft",
         "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
         "url": "https://github.com/storytold/pdfcraft",
-        "stars": 15884,
+        "stars": 16300,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       }
