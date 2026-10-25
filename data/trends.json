@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-10-24T23:51:36Z"
+    "last_updated": "2026-10-25T23:40:20Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "「ドパ資料」の作り方",
         "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d",
-        "likes": 296,
+        "likes": 353,
         "author": "kikuziro",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2933489/25a65fce5edbd595e1d63d3cdb887c96f1a6678f/x_large.png?1782917473",
         "tags": [
@@ -17,20 +17,6 @@
           "資料作成"
         ],
         "created_at": "2026-10-21T18:04:32+09:00"
-      },
-      {
-        "title": "サイバーセキュリティを勉強するなら今？おすすめリソース紹介",
-        "url": "https://qiita.com/leolui2004/items/226062f17e55202e8c47",
-        "likes": 230,
-        "author": "leolui2004",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/893830/8db4a984f4fe03701aba64538bed1286f4199a36/x_large.png?1754735268",
-        "tags": [
-          "Security",
-          "サイバーセキュリティ",
-          "AI",
-          "リソース"
-        ],
-        "created_at": "2026-10-11T15:13:37+09:00"
       },
       {
         "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃",
@@ -75,7 +61,7 @@
       {
         "title": "個人開発で月17万稼いでみたので生々しいスクショとともに振り返る",
         "url": "https://qiita.com/fuga-if/items/9fed3e53191b2b2604a5",
-        "likes": 99,
+        "likes": 104,
         "author": "fuga-if",
         "avatar_url": "https://avatars.githubusercontent.com/u/47773591?v=4",
         "tags": [
@@ -85,50 +71,64 @@
           "iOS"
         ],
         "created_at": "2026-10-14T04:41:55+09:00"
+      },
+      {
+        "title": "AIで作ったらオリジナルじゃないらしい。んなわけあるか。",
+        "url": "https://qiita.com/kentawata/items/c78381bfe83e93e75893",
+        "likes": 80,
+        "author": "kentawata",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3982301/43b18b9023e3654a179228af38cfbb6935ca8914/x_large.png?1740617368",
+        "tags": [
+          "AI",
+          "生成AI",
+          "ポエム",
+          "個人開発"
+        ],
+        "created_at": "2026-10-13T14:22:13+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "ros_gzの終了時クラッシュとRange変換の不具合を修正した話",
-        "url": "https://zenn.dev/yuu7/articles/ros2-gazebo-teardown-range-fixes",
-        "author": "Yuu",
-        "date": "Sat, 24 Oct 2026 18:15:57 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--dPPan_1z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ros_gz%25E3%2581%25AE%25E7%25B5%2582%25E4%25BA%2586%25E6%2599%2582%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2581%25A8Range%25E5%25A4%2589%25E6%258F%259B%25E3%2581%25AE%25E4%25B8%258D%25E5%2585%25B7%25E5%2590%2588%25E3%2582%2592%25E4%25BF%25AE%25E6%25AD%25A3%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiN2E2MDYzZTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装",
+        "url": "https://zenn.dev/hotaka_noda/articles/74a3b28185af5c",
+        "author": "Hotaka Noda",
+        "date": "Sun, 25 Oct 2026 13:58:04 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZNc0yyRI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PHP%25E3%2582%2592%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A4%25E3%2582%2582%25E3%2582%258A%25E3%2581%258C%25E7%2592%25B0%25E5%25A2%2583%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%25AB%25E3%2580%2590%25E5%25BE%258C%25E7%25B7%25A8%25E3%2580%2591WordPress%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%25AE%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25A8Slack%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hotaka%2520Noda%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2MTRkZTVhMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Flutter アプリを iPhone Duo の「縦帯」に対応させる",
-        "url": "https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar",
-        "author": "ゆう",
-        "date": "Sat, 24 Oct 2026 16:59:46 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--zV2Y1VAX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Flutter%2520%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%2520iPhone%2520Duo%2520%25E3%2581%25AE%25E3%2580%258C%25E7%25B8%25A6%25E5%25B8%25AF%25E3%2580%258D%25E3%2581%25AB%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2586%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E5N2NjMTQzYWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "PHPを更新するつもりが環境移行に【前編】Lightsailの配信構成と運用を見直す",
+        "url": "https://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d",
+        "author": "Hotaka Noda",
+        "date": "Sun, 25 Oct 2026 13:52:37 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Ognh1QES--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PHP%25E3%2582%2592%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A4%25E3%2582%2582%25E3%2582%258A%25E3%2581%258C%25E7%2592%25B0%25E5%25A2%2583%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%25AB%25E3%2580%2590%25E5%2589%258D%25E7%25B7%25A8%25E3%2580%2591Lightsail%25E3%2581%25AE%25E9%2585%258D%25E4%25BF%25A1%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25A8%25E9%2581%258B%25E7%2594%25A8%25E3%2582%2592%25E8%25A6%258B%25E7%259B%25B4%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hotaka%2520Noda%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2MTRkZTVhMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AWSにデプロイせず、FastAPI製Lambdaのarm64実行をCIで検証する",
-        "url": "https://zenn.dev/shingokumon/articles/4da5acb9697d56",
-        "author": "shingokumon",
-        "date": "Sat, 24 Oct 2026 16:07:43 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--kwGgTgvJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%25E3%2581%25AB%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2581%259B%25E3%2581%259A%25E3%2580%2581FastAPI%25E8%25A3%25BDLambda%25E3%2581%25AEarm64%25E5%25AE%259F%25E8%25A1%258C%25E3%2582%2592CI%25E3%2581%25A7%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shingokumon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlmYjg2MWJkOGIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "POPOPO と AI 開発 - 03. AI を活かす心構え・ノウハウ -AI という新人をチームに迎えるために-",
+        "url": "https://zenn.dev/rikachiii/articles/03c7f77393a772",
+        "author": "rikachiii",
+        "date": "Sun, 25 Oct 2026 10:00:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tMtOtD3e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:POPOPO%2520%25E3%2581%25A8%2520AI%2520%25E9%2596%258B%25E7%2599%25BA%2520-%252003.%2520AI%2520%25E3%2582%2592%25E6%25B4%25BB%25E3%2581%258B%25E3%2581%2599%25E5%25BF%2583%25E6%25A7%258B%25E3%2581%2588%25E3%2583%25BB%25E3%2583%258E%25E3%2582%25A6%25E3%2583%258F%25E3%2582%25A6%2520-AI%2520%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E6%2596%25B0%25E4%25BA%25BA%25E3%2582%2592%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AB%25E8%25BF%258E%25E3%2581%2588%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB-%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rikachiii%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QzOTQ5NmZmOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "@napi-rs/canvas v1.0.12 で実質的な破壊的変更が入った話",
-        "url": "https://zenn.dev/devuloper/articles/napi_rs_canvas_1_0_12_font_tofu",
-        "author": "otoneko.",
-        "date": "Sat, 24 Oct 2026 15:28:06 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--dkyA8EN6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2540napi-rs%252Fcanvas%2520v1.0.12%2520%25E3%2581%25A7%25E5%25AE%259F%25E8%25B3%25AA%25E7%259A%2584%25E3%2581%25AA%25E7%25A0%25B4%25E5%25A3%258A%25E7%259A%2584%25E5%25A4%2589%25E6%259B%25B4%25E3%2581%258C%25E5%2585%25A5%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:otoneko.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXlpSGhSQzk3cTgwdlNoc0JnSGFPZHk3RWJFNFdFeXJKdkZkRFZWTFo4d0tIT2l5OF89czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "中古ラックサーバを買って、Proxmox VEを入れるまで【ホームラボ構築記 #1】",
+        "url": "https://zenn.dev/mana1001/articles/homelab-01-install",
+        "author": "MANATO",
+        "date": "Sun, 25 Oct 2026 09:47:50 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--eq3li6NT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%25AD%25E5%258F%25A4%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2582%2592%25E8%25B2%25B7%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581Proxmox%2520VE%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2580%2590%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25A9%25E3%2583%259C%25E6%25A7%258B%25E7%25AF%2589%25E8%25A8%2598%2520%25231%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:MANATO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q4ZGE2ZGM5OWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "リンクで確認した SNS のメール購読に、作り直さずに「解除の保護」を付ける",
-        "url": "https://zenn.dev/sk8jp/articles/260e3c0fa07ed9",
-        "author": "YAZ",
-        "date": "Sat, 24 Oct 2026 08:24:15 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--xdqxm4l9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25AF%25E3%2581%25A7%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%2597%25E3%2581%259F%2520SNS%2520%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E8%25B3%25BC%25E8%25AA%25AD%25E3%2581%25AB%25E3%2580%2581%25E4%25BD%259C%25E3%2582%258A%25E7%259B%25B4%25E3%2581%2595%25E3%2581%259A%25E3%2581%25AB%25E3%2580%258C%25E8%25A7%25A3%25E9%2599%25A4%25E3%2581%25AE%25E4%25BF%259D%25E8%25AD%25B7%25E3%2580%258D%25E3%2582%2592%25E4%25BB%2598%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:YAZ%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSThuekJzVGpOdUdqdXplU0tYcDc0c0F2WTFQS3JNQWp4ekJyQzZPQmtUNFEyT2F0Sm09czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "自動売買システムの全体像を1枚の図で:価格の取得・記録・バックテスト・判断(Python・PAD)",
+        "url": "https://zenn.dev/yoru_build/articles/b5569fce05651a",
+        "author": "よるビルド",
+        "date": "Sun, 25 Oct 2026 09:43:44 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZyNxLOnQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%258B%2595%25E5%25A3%25B2%25E8%25B2%25B7%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25AE%25E5%2585%25A8%25E4%25BD%2593%25E5%2583%258F%25E3%2582%25921%25E6%259E%259A%25E3%2581%25AE%25E5%259B%25B3%25E3%2581%25A7%253A%25E4%25BE%25A1%25E6%25A0%25BC%25E3%2581%25AE%25E5%258F%2596%25E5%25BE%2597%25E3%2583%25BB%25E8%25A8%2598%25E9%258C%25B2%25E3%2583%25BB%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BB%25E5%2588%25A4%25E6%2596%25AD%2528Python%25E3%2583%25BBPAD%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2582%258B%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NiZTFmNTU5NmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
-        "url": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
-        "author": "Hideyuki Tanaka",
-        "date": "Sat, 24 Oct 2026 06:57:58 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--yJu-s0jy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:prpr%253A%2520Rust%2520%25E5%2590%2591%25E3%2581%2591%25E3%2581%25AE%25E3%2582%25B7%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E3%2581%25A7%25E9%25AB%2598%25E9%2580%259F%25E3%2581%25AA%2520Parser%2520generator%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hideyuki%2520Tanaka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NmYWI2ZWUzNDguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Pythonの基礎学習が終わったら、Pythonでスクレイピングを始めよう！",
+        "url": "https://zenn.dev/momiji_ai/articles/67c7ce4c54fad3",
+        "author": "meihao550",
+        "date": "Sun, 25 Oct 2026 07:46:55 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--WBn06Xld--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%258C%25E7%25B5%2582%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Python%25E3%2581%25A7%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%2594%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E5%25A7%258B%25E3%2582%2581%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:meihao550%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk1YjdhOWIyMTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%2582%25E3%2581%25BF%25E3%2581%2598AI%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY3MGI5NGQxNzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -136,7 +136,7 @@
         "name": "storytold/photocraft",
         "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
         "url": "https://github.com/storytold/photocraft",
-        "stars": 72391,
+        "stars": 72818,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
@@ -144,7 +144,7 @@
         "name": "Gathin23/cleanyourtv",
         "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
         "url": "https://github.com/Gathin23/cleanyourtv",
-        "stars": 31698,
+        "stars": 34919,
         "language": "Java",
         "owner_avatar": "https://avatars.githubusercontent.com/u/94786511?v=4"
       },
@@ -152,7 +152,7 @@
         "name": "deepseek-ai/DeepInfer",
         "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
         "url": "https://github.com/deepseek-ai/DeepInfer",
-        "stars": 21835,
+        "stars": 22380,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -160,7 +160,7 @@
         "name": "wheresryan22/anatomy",
         "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
         "url": "https://github.com/wheresryan22/anatomy",
-        "stars": 20151,
+        "stars": 20579,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/96392276?v=4"
       },
@@ -168,7 +168,7 @@
         "name": "google-research/harness2",
         "description": null,
         "url": "https://github.com/google-research/harness2",
-        "stars": 19107,
+        "stars": 19596,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/43830688?v=4"
       },
@@ -176,7 +176,7 @@
         "name": "storytold/pdfcraft",
         "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
         "url": "https://github.com/storytold/pdfcraft",
-        "stars": 17632,
+        "stars": 17835,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       }
