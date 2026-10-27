@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "last_updated": "2026-10-25T23:40:20Z"
+    "last_updated": "2026-10-27T00:59:21Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "「ドパ資料」の作り方",
         "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d",
-        "likes": 353,
+        "likes": 376,
         "author": "kikuziro",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2933489/25a65fce5edbd595e1d63d3cdb887c96f1a6678f/x_large.png?1782917473",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2933489/profile-images/1792993567",
         "tags": [
           "AI",
           "ドパガキ",
@@ -21,7 +21,7 @@
       {
         "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃",
         "url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3",
-        "likes": 144,
+        "likes": 160,
         "author": "kenimo49",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4360021/0ba1880054061d81b9af6fab7aaca6bdfc3d5f24/x_large.png?1771288362",
         "tags": [
@@ -35,9 +35,9 @@
       {
         "title": "Jevにウォーリーを探させたら0.4秒で見つけやがった!!",
         "url": "https://qiita.com/kikuziro/items/c1b47d4bfaa64960ca18",
-        "likes": 142,
+        "likes": 144,
         "author": "kikuziro",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2933489/25a65fce5edbd595e1d63d3cdb887c96f1a6678f/x_large.png?1782917473",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2933489/profile-images/1792993567",
         "tags": [
           "Jev",
           "AI"
@@ -47,7 +47,7 @@
       {
         "title": "AWS初心者がエンジニアを辞めた話",
         "url": "https://qiita.com/tks_1128/items/e4cde327a910b5beba11",
-        "likes": 111,
+        "likes": 116,
         "author": "tks_1128",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2478024/39631e2107f652f181825e9af9526064d6a1246a/x_large.png?1743304937",
         "tags": [
@@ -61,7 +61,7 @@
       {
         "title": "個人開発で月17万稼いでみたので生々しいスクショとともに振り返る",
         "url": "https://qiita.com/fuga-if/items/9fed3e53191b2b2604a5",
-        "likes": 104,
+        "likes": 113,
         "author": "fuga-if",
         "avatar_url": "https://avatars.githubusercontent.com/u/47773591?v=4",
         "tags": [
@@ -73,62 +73,62 @@
         "created_at": "2026-10-14T04:41:55+09:00"
       },
       {
-        "title": "AIで作ったらオリジナルじゃないらしい。んなわけあるか。",
-        "url": "https://qiita.com/kentawata/items/c78381bfe83e93e75893",
-        "likes": 80,
-        "author": "kentawata",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/3982301/43b18b9023e3654a179228af38cfbb6935ca8914/x_large.png?1740617368",
+        "title": "eMudhra事件でWebアプリ開発者が点検すべきこと",
+        "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
+        "likes": 91,
+        "author": "autotaker1984",
+        "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/67228/profile-images/1473697456",
         "tags": [
-          "AI",
-          "生成AI",
-          "ポエム",
-          "個人開発"
+          "証明書",
+          "暗号技術",
+          "HTTPS",
+          "eMudhra"
         ],
-        "created_at": "2026-10-13T14:22:13+09:00"
+        "created_at": "2026-10-25T01:45:38+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装",
-        "url": "https://zenn.dev/hotaka_noda/articles/74a3b28185af5c",
-        "author": "Hotaka Noda",
-        "date": "Sun, 25 Oct 2026 13:58:04 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZNc0yyRI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PHP%25E3%2582%2592%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A4%25E3%2582%2582%25E3%2582%258A%25E3%2581%258C%25E7%2592%25B0%25E5%25A2%2583%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%25AB%25E3%2580%2590%25E5%25BE%258C%25E7%25B7%25A8%25E3%2580%2591WordPress%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%25AE%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25A8Slack%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hotaka%2520Noda%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2MTRkZTVhMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AI の謎な説明文を直すスキル",
+        "url": "https://zenn.dev/microsoft/articles/explain-before-shorten",
+        "author": "Kazuki Ota",
+        "date": "Mon, 26 Oct 2026 04:32:54 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--iOof7jMa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2581%25AE%25E8%25AC%258E%25E3%2581%25AA%25E8%25AA%25AC%25E6%2598%258E%25E6%2596%2587%25E3%2582%2592%25E7%259B%25B4%25E3%2581%2599%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kazuki%2520Ota%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmNzg3NDJjNDQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "PHPを更新するつもりが環境移行に【前編】Lightsailの配信構成と運用を見直す",
-        "url": "https://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d",
-        "author": "Hotaka Noda",
-        "date": "Sun, 25 Oct 2026 13:52:37 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Ognh1QES--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PHP%25E3%2582%2592%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A4%25E3%2582%2582%25E3%2582%258A%25E3%2581%258C%25E7%2592%25B0%25E5%25A2%2583%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%25AB%25E3%2580%2590%25E5%2589%258D%25E7%25B7%25A8%25E3%2580%2591Lightsail%25E3%2581%25AE%25E9%2585%258D%25E4%25BF%25A1%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25A8%25E9%2581%258B%25E7%2594%25A8%25E3%2582%2592%25E8%25A6%258B%25E7%259B%25B4%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hotaka%2520Noda%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2MTRkZTVhMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Node.js の Brotli 脆弱性 CVE-2026-111497 を読む",
+        "url": "https://zenn.dev/chot/articles/79e6c94e27782d",
+        "author": "k1350",
+        "date": "Mon, 26 Oct 2026 02:29:36 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--PUGs4heB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Node.js%2520%25E3%2581%25AE%2520Brotli%2520%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%2520CVE-2026-111497%2520%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:k1350%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAzODVjOWFlYzkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:chot%2520Inc.%2520tech%2520blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmYWNlZTQzODQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "POPOPO と AI 開発 - 03. AI を活かす心構え・ノウハウ -AI という新人をチームに迎えるために-",
-        "url": "https://zenn.dev/rikachiii/articles/03c7f77393a772",
-        "author": "rikachiii",
-        "date": "Sun, 25 Oct 2026 10:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--tMtOtD3e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:POPOPO%2520%25E3%2581%25A8%2520AI%2520%25E9%2596%258B%25E7%2599%25BA%2520-%252003.%2520AI%2520%25E3%2582%2592%25E6%25B4%25BB%25E3%2581%258B%25E3%2581%2599%25E5%25BF%2583%25E6%25A7%258B%25E3%2581%2588%25E3%2583%25BB%25E3%2583%258E%25E3%2582%25A6%25E3%2583%258F%25E3%2582%25A6%2520-AI%2520%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E6%2596%25B0%25E4%25BA%25BA%25E3%2582%2592%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AB%25E8%25BF%258E%25E3%2581%2588%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB-%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rikachiii%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QzOTQ5NmZmOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "最近の E2E 戦略（2026 年 10 月現在）",
+        "url": "https://zenn.dev/polyco/articles/26624b38c951b5",
+        "author": "Tatsunori Nakano",
+        "date": "Mon, 26 Oct 2026 01:18:03 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--JdU3WL7H--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%2580%25E8%25BF%2591%25E3%2581%25AE%2520E2E%2520%25E6%2588%25A6%25E7%2595%25A5%25EF%25BC%25882026%2520%25E5%25B9%25B4%252010%2520%25E6%259C%2588%25E7%258F%25BE%25E5%259C%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Tatsunori%2520Nakano%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkY2VhNDgwYWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDg0ZDExOTguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "中古ラックサーバを買って、Proxmox VEを入れるまで【ホームラボ構築記 #1】",
-        "url": "https://zenn.dev/mana1001/articles/homelab-01-install",
-        "author": "MANATO",
-        "date": "Sun, 25 Oct 2026 09:47:50 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--eq3li6NT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%25AD%25E5%258F%25A4%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2582%2592%25E8%25B2%25B7%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581Proxmox%2520VE%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2580%2590%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25A9%25E3%2583%259C%25E6%25A7%258B%25E7%25AF%2589%25E8%25A8%2598%2520%25231%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:MANATO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q4ZGE2ZGM5OWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AIネイティブなインターン生を受け入れて考えた、これからの開発エンジニア",
+        "url": "https://zenn.dev/tokium_dev/articles/internship-mentoring-2026",
+        "author": "おかもり",
+        "date": "Mon, 26 Oct 2026 01:00:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FDS_eRqs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2583%258D%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2581%25AA%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E7%2594%259F%25E3%2582%2592%25E5%258F%2597%25E3%2581%2591%25E5%2585%25A5%25E3%2582%258C%25E3%2581%25A6%25E8%2580%2583%25E3%2581%2588%25E3%2581%259F%25E3%2580%2581%25E3%2581%2593%25E3%2582%258C%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258A%25E3%2581%258B%25E3%2582%2582%25E3%2582%258A%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg0OWU4N2I3MmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "自動売買システムの全体像を1枚の図で:価格の取得・記録・バックテスト・判断(Python・PAD)",
-        "url": "https://zenn.dev/yoru_build/articles/b5569fce05651a",
-        "author": "よるビルド",
-        "date": "Sun, 25 Oct 2026 09:43:44 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZyNxLOnQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%258B%2595%25E5%25A3%25B2%25E8%25B2%25B7%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25AE%25E5%2585%25A8%25E4%25BD%2593%25E5%2583%258F%25E3%2582%25921%25E6%259E%259A%25E3%2581%25AE%25E5%259B%25B3%25E3%2581%25A7%253A%25E4%25BE%25A1%25E6%25A0%25BC%25E3%2581%25AE%25E5%258F%2596%25E5%25BE%2597%25E3%2583%25BB%25E8%25A8%2598%25E9%258C%25B2%25E3%2583%25BB%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BB%25E5%2588%25A4%25E6%2596%25AD%2528Python%25E3%2583%25BBPAD%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2582%258B%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NiZTFmNTU5NmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "スタックトレースを読むとヒープが約1,470 MB増えていた話",
+        "url": "https://zenn.dev/dress_code/articles/f2a51226c9ec6f",
+        "author": "かわうそ",
+        "date": "Mon, 26 Oct 2026 00:00:13 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZOAG6fvs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%25E3%2581%25A8%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2597%25E3%2581%258C%25E7%25B4%25841%252C470%2520MB%25E5%25A2%2597%25E3%2581%2588%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258B%25E3%2582%258F%25E3%2581%2586%25E3%2581%259D%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRiOGMxZmU1MDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_40%2Cl_default:og-publication-connect-mark-v1_hx1oxd%2Cw_40%2Cx_214%2Cy_155/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DRESS%2520CODE%2520TECH%2520BLOG%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg5OThmMTk2YzAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Pythonの基礎学習が終わったら、Pythonでスクレイピングを始めよう！",
-        "url": "https://zenn.dev/momiji_ai/articles/67c7ce4c54fad3",
-        "author": "meihao550",
-        "date": "Sun, 25 Oct 2026 07:46:55 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--WBn06Xld--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%258C%25E7%25B5%2582%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Python%25E3%2581%25A7%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%2594%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E5%25A7%258B%25E3%2582%2581%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:meihao550%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk1YjdhOWIyMTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%2582%25E3%2581%25BF%25E3%2581%2598AI%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY3MGI5NGQxNzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "私が5種類のコーディングエージェントを使い分ける理由",
+        "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
+        "author": "ミモ  フォワードCTO・CPO",
+        "date": "Sun, 25 Oct 2026 22:44:03 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--EFERL7ev--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A7%2581%25E3%2581%258C5%25E7%25A8%25AE%25E9%25A1%259E%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E5%2588%2586%25E3%2581%2591%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%259F%25E3%2583%25A2%2520%2520%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589CTO%25E3%2583%25BBCPO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZmZjQwODdjMmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -136,7 +136,7 @@
         "name": "storytold/photocraft",
         "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
         "url": "https://github.com/storytold/photocraft",
-        "stars": 72818,
+        "stars": 73375,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
@@ -144,15 +144,15 @@
         "name": "Gathin23/cleanyourtv",
         "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
         "url": "https://github.com/Gathin23/cleanyourtv",
-        "stars": 34919,
-        "language": "Java",
+        "stars": 39294,
+        "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/94786511?v=4"
       },
       {
         "name": "deepseek-ai/DeepInfer",
         "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
         "url": "https://github.com/deepseek-ai/DeepInfer",
-        "stars": 22380,
+        "stars": 23022,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -160,7 +160,7 @@
         "name": "wheresryan22/anatomy",
         "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
         "url": "https://github.com/wheresryan22/anatomy",
-        "stars": 20579,
+        "stars": 21075,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/96392276?v=4"
       },
@@ -168,7 +168,7 @@
         "name": "google-research/harness2",
         "description": null,
         "url": "https://github.com/google-research/harness2",
-        "stars": 19596,
+        "stars": 20162,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/43830688?v=4"
       },
@@ -176,7 +176,7 @@
         "name": "storytold/pdfcraft",
         "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
         "url": "https://github.com/storytold/pdfcraft",
-        "stars": 17835,
+        "stars": 18050,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       }
