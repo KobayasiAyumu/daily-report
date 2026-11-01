@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-10-31T01:13:57Z"
+    "last_updated": "2026-11-01T00:32:00Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "「ドパ資料」の作り方",
         "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d",
-        "likes": 678,
+        "likes": 683,
         "author": "kikuziro",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2933489/profile-images/1792993567",
         "tags": [
@@ -21,7 +21,7 @@
       {
         "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃",
         "url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3",
-        "likes": 244,
+        "likes": 247,
         "author": "kenimo49",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4360021/0ba1880054061d81b9af6fab7aaca6bdfc3d5f24/x_large.png?1771288362",
         "tags": [
@@ -35,7 +35,7 @@
       {
         "title": "AWS初心者がエンジニアを辞めた話",
         "url": "https://qiita.com/tks_1128/items/e4cde327a910b5beba11",
-        "likes": 142,
+        "likes": 143,
         "author": "tks_1128",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2478024/39631e2107f652f181825e9af9526064d6a1246a/x_large.png?1743304937",
         "tags": [
@@ -49,7 +49,7 @@
       {
         "title": "エンジニア歴数か月の私「理論上、理解できない物事はない」",
         "url": "https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063",
-        "likes": 117,
+        "likes": 118,
         "author": "Minotaurasu",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4445490/5d512331fde7d060b9bb791232dd9a289777d80f/large.png?1780985730",
         "tags": [
@@ -62,7 +62,7 @@
       {
         "title": "古くさいと思っていた報連相を、PMになってから今一度考えた話",
         "url": "https://qiita.com/fe1ix/items/d78130c065835a6343a5",
-        "likes": 113,
+        "likes": 114,
         "author": "fe1ix",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4025790/ea098505b0e173679fefa40a378fd15152fc16ec/x_large.png?1772286239",
         "tags": [
@@ -76,7 +76,7 @@
       {
         "title": "eMudhra事件でWebアプリ開発者が点検すべきこと",
         "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
-        "likes": 108,
+        "likes": 109,
         "author": "autotaker1984",
         "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/67228/profile-images/1473697456",
         "tags": [
@@ -90,6 +90,34 @@
     ],
     "zenn": [
       {
+        "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
+        "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
+        "author": "a-thug",
+        "date": "Sat, 31 Oct 2026 12:31:11 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--PaM6TDTu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:3%2520%25E4%25BA%25BA%25E3%2581%259D%25E3%2582%258C%25E3%2581%259E%25E3%2582%258C%25E3%2581%25AE%2520Claude%2520Code%2520%25E3%2582%2592%2520Slack%2520%25E3%2581%25A7%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A7%2520ISUCON2026%2520%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%259F%25EF%25BC%2588207%252C0...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:a-thug%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA0YzgwYTVkNzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2582%25A6%25E3%2582%25B7%25E3%2582%25A7%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzFVRGI0Z0M4bGM5Q3lVSWJsdmhKTm1rUHJtamdMQk11elJ1d0l3TndMPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "ISUCONに初めて出たら、直すたびに次のボトルネックが出てきて、超面白かった",
+        "url": "https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal",
+        "author": "船長（せんちょう）",
+        "date": "Sat, 31 Oct 2026 12:17:24 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--iPef2f0S--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ISUCON%25E3%2581%25AB%25E5%2588%259D%25E3%2582%2581%25E3%2581%25A6%25E5%2587%25BA%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E7%259B%25B4%25E3%2581%2599%25E3%2581%259F%25E3%2581%25B3%25E3%2581%25AB%25E6%25AC%25A1%25E3%2581%25AE%25E3%2583%259C%25E3%2583%2588%25E3%2583%25AB%25E3%2583%258D%25E3%2583%2583%25E3%2582%25AF%25E3%2581%258C%25E5%2587%25BA%25E3%2581%25A6%25E3%2581%258D%25E3%2581%25A6%25E3%2580%2581%25E8%25B6%2585%25E9%259D%25A2%25E7%2599%25BD%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E8%2588%25B9%25E9%2595%25B7%25EF%25BC%2588%25E3%2581%259B%25E3%2582%2593%25E3%2581%25A1%25E3%2582%2587%25E3%2581%2586%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlZjI5NGM1MjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "16GB RAM・6GB VRAM のノート PC で gpt-oss-20b とチャットする",
+        "url": "https://zenn.dev/shozotanaka/articles/01877d688dfc65",
+        "author": "ShozoTanaka",
+        "date": "Sat, 31 Oct 2026 08:47:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--KDkgeXyo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:16GB%2520RAM%25E3%2583%25BB6GB%2520VRAM%2520%25E3%2581%25AE%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%2520PC%2520%25E3%2581%25A7%2520gpt-oss-20b%2520%25E3%2581%25A8%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ShozoTanaka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEJjbDJCNl9iZnNSd3BfVTRhUmZBeXZ3RnVsWFlHeGhvX0Q3WTFlcUxnMXpTYnJnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "【最速解説】goda.vimでHello, worldする",
+        "url": "https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim",
+        "author": "こまもか🦊",
+        "date": "Sat, 31 Oct 2026 01:57:43 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3ojpU80F--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E6%259C%2580%25E9%2580%259F%25E8%25A7%25A3%25E8%25AA%25AC%25E3%2580%2591goda.vim%25E3%2581%25A7Hello%252C%2520world%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2593%25E3%2581%25BE%25E3%2582%2582%25E3%2581%258B%2520%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U3NGU0NmZkYzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
         "title": "今後のセキュリティの考え方",
         "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
         "author": "nishikawa",
@@ -97,39 +125,11 @@
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--T589hAKm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BB%258A%25E5%25BE%258C%25E3%2581%25AE%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AE%25E8%2580%2583%25E3%2581%2588%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nishikawa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q0ZTRhMzgzMmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2580%2580%25E3%2583%2586...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q2YjE0NzI3ZTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "フロントエンドカンファレンス関西2026に参加しました！",
-        "url": "https://zenn.dev/flagxs/articles/931d7d45292717",
-        "author": "aoi",
-        "date": "Fri, 30 Oct 2026 07:50:29 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--MRpj1kOG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B9%25E9%2596%25A2%25E8%25A5%25BF2026%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:aoi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAyNjQyMTAwNGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Flagxs%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E1N2ExYzkyNzAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
         "title": "IVRyのSREの取り組み 2026冬",
         "url": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
         "author": "ryuichi1208",
         "date": "Fri, 30 Oct 2026 07:50:00 GMT",
         "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gEHTOYKL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:IVRy%25E3%2581%25AESRE%25E3%2581%25AE%25E5%258F%2596%25E3%2582%258A%25E7%25B5%2584%25E3%2581%25BF%25202026%25E5%2586%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ryuichi1208%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2ZWM1ZTE0ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:IVRy%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y5NWRhMDQ4MmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
-        "url": "https://zenn.dev/layerx/articles/a277f83a93d300",
-        "author": "ishiken",
-        "date": "Fri, 30 Oct 2026 02:11:36 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--rZa906r6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:yoro%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258D%25E3%2581%2597%25E3%2581%258F%25E3%2581%2585%25EF%25BC%2581Ai%2520Workforce%2520%25E4%25BA%258B%25E6%25A5%25AD%25E9%2583%25A8%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E7%2592%25B0%25E5%25A2%2583%2520yoro%2520%25E3%2581%25AE%25E3%2581%2594%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ishiken%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2OTFlNjE4YzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:LayerX%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDlvODJfSXNnU29QZlFtMUxnVU9rLWdKNjBGbjhNMVplZzNDMEV2MFU0OTVST3NrND1zMjUwLWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "2026年自分流AIエージェント環境構築の秋",
-        "url": "https://zenn.dev/rescuenow/articles/49826fc6cc2713",
-        "author": "しもち",
-        "date": "Fri, 30 Oct 2026 00:55:31 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3wERpD8v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2026%25E5%25B9%25B4%25E8%2587%25AA%25E5%2588%2586%25E6%25B5%2581AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E7%2592%25B0%25E5%25A2%2583%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%25AE%25E7%25A7%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2597%25E3%2582%2582%25E3%2581%25A1%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E0NWI1N2NlZmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258A%25E3%2582%25A6%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM2YWQyYWI1OTUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
-        "url": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-        "author": "Godai Hori",
-        "date": "Fri, 30 Oct 2026 00:45:50 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Ebgot-Du--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WASI%25E3%2581%2598%25E3%2582%2583%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2581%25E3%2582%2582%25E3%2581%2586%25E4%25B8%2580%25E3%2581%25A4%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A7%25E3%2583%25BC%25E3%2582%25B9%25E3%2580%258CWALI%25E3%2580%258D%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E6%258F%2590%25E6%25A1%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Godai%2520Hori%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzOTZjNjhlM2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Progate%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU2MzlkZTY4MGYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -137,7 +137,7 @@
         "name": "Gathin23/cleanyourtv",
         "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
         "url": "https://github.com/Gathin23/cleanyourtv",
-        "stars": 46768,
+        "stars": 47936,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/94786511?v=4"
       },
@@ -145,7 +145,7 @@
         "name": "deepseek-ai/DeepInfer",
         "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
         "url": "https://github.com/deepseek-ai/DeepInfer",
-        "stars": 24502,
+        "stars": 24654,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -153,7 +153,7 @@
         "name": "wheresryan22/anatomy",
         "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
         "url": "https://github.com/wheresryan22/anatomy",
-        "stars": 23033,
+        "stars": 23356,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/96392276?v=4"
       },
@@ -161,7 +161,7 @@
         "name": "google-research/harness2",
         "description": null,
         "url": "https://github.com/google-research/harness2",
-        "stars": 21511,
+        "stars": 21671,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/43830688?v=4"
       },
@@ -169,7 +169,7 @@
         "name": "openai/math",
         "description": null,
         "url": "https://github.com/openai/math",
-        "stars": 17137,
+        "stars": 17197,
         "language": "Lean",
         "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4"
       },
@@ -177,7 +177,7 @@
         "name": "storytold/wordcraft",
         "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
         "url": "https://github.com/storytold/wordcraft",
-        "stars": 16746,
+        "stars": 16863,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       }
