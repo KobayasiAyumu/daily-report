@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06T01:54:42Z"
+    "last_updated": "2026-11-07T01:26:19Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "エンジニア歴数か月の私「理論上、理解できない物事はない」",
         "url": "https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063",
-        "likes": 151,
+        "likes": 152,
         "author": "Minotaurasu",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4445490/5d512331fde7d060b9bb791232dd9a289777d80f/large.png?1780985730",
         "tags": [
@@ -20,7 +20,7 @@
       {
         "title": "eMudhra事件でWebアプリ開発者が点検すべきこと",
         "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
-        "likes": 149,
+        "likes": 150,
         "author": "autotaker1984",
         "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/67228/profile-images/1473697456",
         "tags": [
@@ -34,7 +34,7 @@
       {
         "title": "目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します",
         "url": "https://qiita.com/minorun365/items/59783841e48f5467594f",
-        "likes": 138,
+        "likes": 141,
         "author": "minorun365",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/1633856/c226bc34ac6c45a21f5e512d1c72a6f097494578/x_large.png?1699954976",
         "tags": [
@@ -48,7 +48,7 @@
       {
         "title": "AIにありがちな「イマイチなコードコメント」9パターン",
         "url": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7",
-        "likes": 90,
+        "likes": 91,
         "author": "jnchito",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/7465/profile-images/1791804996",
         "tags": [
@@ -60,9 +60,23 @@
         "created_at": "2026-10-31T16:17:19+09:00"
       },
       {
+        "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
+        "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
+        "likes": 73,
+        "author": "Syoitu",
+        "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/320164/profile-images/1543311752",
+        "tags": [
+          "AI駆動開発",
+          "AWS",
+          "GitHub",
+          "ループエンジニアリング"
+        ],
+        "created_at": "2026-11-04T20:38:50+09:00"
+      },
+      {
         "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
         "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
-        "likes": 70,
+        "likes": 73,
         "author": "kikuziro",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2933489/profile-images/1792993567",
         "tags": [
@@ -71,64 +85,50 @@
           "Jev"
         ],
         "created_at": "2026-11-01T23:05:25+09:00"
-      },
-      {
-        "title": "Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた",
-        "url": "https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e",
-        "likes": 62,
-        "author": "inoyu-qiita",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/4475351/cee181fffe72b3ceab51f6ee83169806b99c329d/x_large.png?1786970435",
-        "tags": [
-          "ClaudeCode",
-          "codex",
-          "生成AI",
-          "AI"
-        ],
-        "created_at": "2026-10-27T19:06:53+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "AWSでデータレイクハウスを構築してApache Icebergの更新・履歴管理を検証した",
-        "url": "https://zenn.dev/kkoch5t2/articles/aws-iceberg-lakehouse-lab",
-        "author": "kota",
-        "date": "Thu, 05 Nov 2026 17:56:30 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--saiXiAww--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%25E3%2581%25A7%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25AC%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%258F%25E3%2582%25A6%25E3%2582%25B9%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%25A6Apache%2520Iceberg%25E3%2581%25AE%25E6%259B%25B4%25E6%2596%25B0%25E3%2583%25BB%25E5%25B1%25A5%25E6%25AD%25B4%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kota%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRhYWUxNGZkOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+        "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
+        "author": "xin9le",
+        "date": "Fri, 06 Nov 2026 14:39:45 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--j0ayzMEA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255B%25E7%25A0%25B4%25E5%25A3%258A%25E7%259A%2584%25E5%25A4%2589%25E6%259B%25B4%255D%2520%25E6%2598%258E%25E6%25B2%25BB%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E9%2596%258B%25E5%25A7%258B%25E6%2597%25A5%25E3%2581%258C%25E5%25A4%2589%25E6%259B%25B4%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E5%258D%2598%25E4%25BD%2593%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%258C%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%259F%25E4%25BB%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:xin9le%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU2YWIzNmRlZWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AI駆動文章作成において俺が意識しているテクニック集",
-        "url": "https://zenn.dev/ntk221/articles/34ad88a9225364",
-        "author": "ntk",
-        "date": "Thu, 05 Nov 2026 14:35:31 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gj1DJtQ3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E9%25A7%2586%25E5%258B%2595%25E6%2596%2587%25E7%25AB%25A0%25E4%25BD%259C%25E6%2588%2590%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2584%25E3%2581%25A6%25E4%25BF%25BA%25E3%2581%258C%25E6%2584%258F%25E8%25AD%2598%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E9%259B%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ntk%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I0MmZiYzVlOTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Web 標準動向 2026年10月版",
+        "url": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202610",
+        "author": "kuracchi",
+        "date": "Fri, 06 Nov 2026 09:08:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--C8uhca3C--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%2520%25E6%25A8%2599%25E6%25BA%2596%25E5%258B%2595%25E5%2590%2591%25202026%25E5%25B9%25B410%25E6%259C%2588%25E7%2589%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kuracchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VjOTA1OThlNjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%259C%25E3%2582%25A6%25E3%2582%25BA%2520%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZlYTBhOTEzNjYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Slurm は Kaggle で役に立つ",
-        "url": "https://zenn.dev/pomcho555/articles/c455d086ec47af",
-        "author": "pomcho555",
-        "date": "Thu, 05 Nov 2026 11:54:56 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--0E_8Yf9q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Slurm%2520%25E3%2581%25AF%2520Kaggle%2520%25E3%2581%25A7%25E5%25BD%25B9%25E3%2581%25AB%25E7%25AB%258B%25E3%2581%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pomcho555%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVmNTUwZWFlY2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
+        "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
+        "author": "しもち",
+        "date": "Fri, 06 Nov 2026 08:59:24 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gpxk3FXp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%25BE%25E3%2581%25A7AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AB%25E4%25BB%25BB%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E7%25A2%25BA%25E8%25AA%258D%25E5%25BE%2585%25E3%2581%25A1%25E3%2581%25AB%25E7%25AD%2594%25E3%2581%2588%25E3%2582%258B%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2597%25E3%2582%2582%25E3%2581%25A1%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E0NWI1N2NlZmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258A%25E3%2582%25A6%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM2YWQyYWI1OTUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
-        "url": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
-        "author": "Phung Dinh Son",
-        "date": "Thu, 05 Nov 2026 09:00:55 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--YHH9hFMG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E7%2594%259F%25E6%2588%2590%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%259C%25AC%25E7%2595%25AA%25E5%2593%2581%25E8%25B3%25AA%25E3%2581%25AB%25E4%25BF%259D%25E3%2581%25A4%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Phung%2520Dinh%2520Son%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M1YTU0ZjZiM2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Sun%252A%2520Developers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1ZvTHFDTWN0cUhIc05WUkdzVGVFRmUzeVhTQ21jSmpRa0pRLTFNTG9tcFYyQkdBPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Claudeを使いこなす人に、MagicPodは要るのか。知らないアプリでPlaywrightと比べた記録",
+        "url": "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
+        "author": "ikenyal",
+        "date": "Fri, 06 Nov 2026 05:13:04 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--GD0APm80--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%2593%25E3%2581%25AA%25E3%2581%2599%25E4%25BA%25BA%25E3%2581%25AB%25E3%2580%2581MagicPod%25E3%2581%25AF%25E8%25A6%2581%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E3%2580%2582%25E7%259F%25A5%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25A7Playwright%25E3%2581%25A8%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ikenyal%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I5MzI2NGQ4NzcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "手書き Provider 261 件を @riverpod へ全面移行した進め方",
-        "url": "https://zenn.dev/jtcc/articles/riverpod-generator-migration",
-        "author": "シンタク",
-        "date": "Thu, 05 Nov 2026 08:07:39 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--AvnW1l4u--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2589%258B%25E6%259B%25B8%25E3%2581%258D%2520Provider%2520261%2520%25E4%25BB%25B6%25E3%2582%2592%2520%2540riverpod%2520%25E3%2581%25B8%25E5%2585%25A8%25E9%259D%25A2%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2597%25E3%2581%259F%25E9%2580%25B2%25E3%2582%2581%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25AF%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVmYjJlMjVjOTYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%2597%25A5%25E6%259C%25AC%25E3%2583%2588%25E3%2583%25AC%25E3%2582%25AB%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ExYTIxNzlmN2EuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【.NET/Unity】C# の型制約とボックス化をハックする — IL と手動スタック配置",
+        "url": "https://zenn.dev/aakei/articles/csharp-stack-box",
+        "author": "akeit0",
+        "date": "Fri, 06 Nov 2026 03:01:26 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s---yLPG1Vr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590.NET%252FUnity%25E3%2580%2591C%2523%2520%25E3%2581%25AE%25E5%259E%258B%25E5%2588%25B6%25E7%25B4%2584%25E3%2581%25A8%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E5%258C%2596%25E3%2582%2592%25E3%2583%258F%25E3%2583%2583%25E3%2582%25AF%25E3%2581%2599%25E3%2582%258B%2520%25E2%2580%2594%2520IL%2520%25E3%2581%25A8%25E6%2589%258B%25E5%258B%2595%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2583%25E3%2582%25AF%25E9%2585%258D%25E7%25BD%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:akeit0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYzZWQ3M2RmOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "CS業務カイゼン・ジャーニー",
-        "url": "https://zenn.dev/appleworld/articles/8acf5474644f7e",
-        "author": "petanko",
-        "date": "Thu, 05 Nov 2026 05:42:04 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3wwmUjzi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CS%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%25AB%25E3%2582%25A4%25E3%2582%25BC%25E3%2583%25B3%25E3%2583%25BB%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:petanko%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQwZGMyYTQ1NTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%25AB%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg2ZGUwNGY0ZjIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた",
+        "url": "https://zenn.dev/cscloud_blog/articles/securityhub-sbom-inventory",
+        "author": "平木 佳介",
+        "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--y7L81mUm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Security%2520Hub%2520%25E3%2581%25AE%2520SBOM%2520%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AA%25E3%2581%25A7%25E3%2580%2581Athena%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2582%258F%25E3%2581%259A%25E3%2581%25AB%25E7%25B5%2584%25E7%25B9%2594%25E5%2585%25A8%25E4%25BD%2593%25E3%2581%25AE%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25B9%25B3%25E6%259C%25A8%2520%25E4%25BD%25B3%25E4%25BB%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q0ZTRhMzgzMmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2580%2580%25E3%2583%2586...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjZDVjMGY0MTIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -136,7 +136,7 @@
         "name": "Gathin23/cleanyourtv",
         "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
         "url": "https://github.com/Gathin23/cleanyourtv",
-        "stars": 52678,
+        "stars": 53328,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/94786511?v=4"
       },
@@ -144,41 +144,41 @@
         "name": "deepseek-ai/DeepInfer",
         "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
         "url": "https://github.com/deepseek-ai/DeepInfer",
-        "stars": 25477,
+        "stars": 25555,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      },
-      {
-        "name": "wheresryan22/anatomy",
-        "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-        "url": "https://github.com/wheresryan22/anatomy",
-        "stars": 25260,
-        "language": "JavaScript",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/96392276?v=4"
       },
       {
         "name": "deepseek-ai/dsh-superagent-prototype",
         "description": "Towards a More Autonomous Agent System",
         "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-        "stars": 19541,
+        "stars": 20259,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      },
-      {
-        "name": "Zagitta/gpu-unlock",
-        "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
-        "url": "https://github.com/Zagitta/gpu-unlock",
-        "stars": 17271,
-        "language": "C",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/865977?v=4"
       },
       {
         "name": "storytold/craft-anything",
         "description": "Craft Anything: understand how any software works, and craft your own.",
         "url": "https://github.com/storytold/craft-anything",
-        "stars": 15177,
+        "stars": 18145,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
+      },
+      {
+        "name": "Zagitta/gpu-unlock",
+        "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+        "url": "https://github.com/Zagitta/gpu-unlock",
+        "stars": 17617,
+        "language": "C",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/865977?v=4"
+      },
+      {
+        "name": "ccch1mneyyy/dsh-Go",
+        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "url": "https://github.com/ccch1mneyyy/dsh-Go",
+        "stars": 12967,
+        "language": "Dart",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/268149062?v=4"
       }
     ]
   }
