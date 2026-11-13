@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-11-12T02:35:22Z"
+    "last_updated": "2026-11-13T02:16:59Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
         "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
-        "likes": 135,
+        "likes": 140,
         "author": "kikuziro",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2933489/profile-images/1792993567",
         "tags": [
@@ -20,7 +20,7 @@
       {
         "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
         "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
-        "likes": 117,
+        "likes": 121,
         "author": "Syoitu",
         "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/320164/profile-images/1543311752",
         "tags": [
@@ -34,7 +34,7 @@
       {
         "title": "AIにありがちな「イマイチなコードコメント」9パターン",
         "url": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7",
-        "likes": 112,
+        "likes": 118,
         "author": "jnchito",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/7465/profile-images/1791804996",
         "tags": [
@@ -48,7 +48,7 @@
       {
         "title": "集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方",
         "url": "https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787",
-        "likes": 86,
+        "likes": 98,
         "author": "kohYoung_I",
         "avatar_url": "https://secure.gravatar.com/avatar/e712b9d157df0720fc60cac826b3ed5a",
         "tags": [
@@ -62,7 +62,7 @@
       {
         "title": "AI「テスト通りました」← これ､本当？  Stryker でテストの穴を塞いだ話",
         "url": "https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a",
-        "likes": 66,
+        "likes": 74,
         "author": "Dingu-suke",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3694349/profile-images/1776351319",
         "tags": [
@@ -90,46 +90,46 @@
     ],
     "zenn": [
       {
-        "title": "OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った",
-        "url": "https://zenn.dev/theoj/articles/opencode-development-log",
-        "author": "theoj",
-        "date": "Wed, 11 Nov 2026 12:38:35 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ScSVg0nI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenCode%25E3%2582%2592%25E6%258B%25A1%25E5%25BC%25B5%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E8%25A4%2587%25E6%2595%25B0%25E3%2581%25AE%25E6%258B%2585%25E5%25BD%2593%25E3%2581%25A8%25E5%25AE%259A%25E6%259C%259F%25E5%25AE%259F%25E8%25A1%258C%25E3%2582%2592%25E3%2581%25B2%25E3%2581%25A8%25E3%2581%25A4%25E3%2581%25AE%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AB%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2582%258B%25E3%2580%258C%25E3%2581%2584%25E3%2581%25A1%25E3%2582%2587%25E3%2581%25BE%25E3%2582%258B%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:theoj%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnlqdVZqUjZDWUMwYWVMX0NUTGZUMWhOSEVtWDVjb2VwdXg3NXNpVVVzX0VETUxaTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（②Backward Propagation編）",
+        "url": "https://zenn.dev/matsu8/articles/a01ba3fc713e03",
+        "author": "やくも",
+        "date": "Thu, 12 Nov 2026 13:30:40 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--LrQLakBy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%25E3%2580%2591Transformer%25E3%2582%2592%25E6%2595%25B0%25E5%25BC%258F%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25E3%2581%258B%25E3%2582%2589numpy%25E3%2581%25AE%25E3%2581%25BF%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2588%25E2%2591%25A1Backward%2520Propag...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2584%25E3%2581%258F%25E3%2582%2582%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ4ZDYzNTk4YWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Real2Sim2Realの現在地：現場スキャンからロボット検証環境へ",
-        "url": "https://zenn.dev/kudan_jp/articles/a0cb75384f4a83",
-        "author": "Hiro Horii",
-        "date": "Wed, 11 Nov 2026 09:46:24 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--M8gxfz8Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Real2Sim2Real%25E3%2581%25AE%25E7%258F%25BE%25E5%259C%25A8%25E5%259C%25B0%25EF%25BC%259A%25E7%258F%25BE%25E5%25A0%25B4%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25B3%25E3%2581%258B%25E3%2582%2589%25E3%2583%25AD%25E3%2583%259C%25E3%2583%2583%25E3%2583%2588%25E6%25A4%259C%25E8%25A8%25BC%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hiro%2520Horii%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzliZTc3NGY1MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kudan%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkZDRkNGM4MmEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Tauri の MSI インストーラーが更新のたびに削除済みデスクトップショートカットを復活させる問題を直した話",
+        "url": "https://zenn.dev/takahiro_nago/articles/article-tauri-msi-desktop-shortcut",
+        "author": "TakahiroNago",
+        "date": "Thu, 12 Nov 2026 09:34:34 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--ZTNMsio2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Tauri%2520%25E3%2581%25AE%2520MSI%2520%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%258C%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%25AE%25E3%2581%259F%25E3%2581%25B3%25E3%2581%25AB%25E5%2589%258A%25E9%2599%25A4%25E6%25B8%2588%25E3%2581%25BF%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25AB%25E3%2583%2583%25E3%2583%2588%25E3%2582%2592%25E5%25BE%25A9%25E6%25B4%25BB%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C%25E3%2582%2592%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TakahiroNago%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVZJamJzY0ZZbTJzT3Fha0Z6SmN0UzUzN3gyM3Nxa2dPNUNLRlNkaHRBVUN2LTdGYmo9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "ISUCON2026 で優勝しました（準備編）",
-        "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-        "author": "Yoshinori Kawasaki",
-        "date": "Wed, 11 Nov 2026 05:05:46 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--FlBezkdp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ISUCON2026%2520%25E3%2581%25A7%25E5%2584%25AA%25E5%258B%259D%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25EF%25BC%2588%25E6%25BA%2596%25E5%2582%2599%25E7%25B7%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshinori%2520Kawasaki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEpMVlQ2WjlNQlhlcndlbDZoY1JYUDVLSjAxYWNITUdNcmUwVThZTG5EaDY4PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "セキュリティ・キャンプ 2026 応募課題晒し",
+        "url": "https://zenn.dev/uvu/articles/758ee227a614ea",
+        "author": "?Sw()m%kLc$VfD!!",
+        "date": "Thu, 12 Nov 2026 06:45:01 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--uDGnz5cN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BB%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25202026%2520%25E5%25BF%259C%25E5%258B%259F%25E8%25AA%25B2%25E9%25A1%258C%25E6%2599%2592%25E3%2581%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%253FSw%2528%2529m%2525kLc%2524VfD%2521%2521%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M2MjZmNzZiYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "個人的な推し、Raycastの音声入力「Dictation」",
-        "url": "https://zenn.dev/miive/articles/aa272cc544ddf3",
-        "author": "Seiji",
-        "date": "Wed, 11 Nov 2026 04:26:44 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--q_2ryOKs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E7%259A%2584%25E3%2581%25AA%25E6%258E%25A8%25E3%2581%2597%25E3%2580%2581Raycast%25E3%2581%25AE%25E9%259F%25B3%25E5%25A3%25B0%25E5%2585%25A5%25E5%258A%259B%25E3%2580%258CDictation%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Seiji%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0NmEwNDYxNzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Tech%2520Blog%2520-%2520miive%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZGM5ZGIzODIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」",
+        "url": "https://zenn.dev/genda_jp/articles/18d1f780f6b41f",
+        "author": "ikenyal",
+        "date": "Thu, 12 Nov 2026 05:20:41 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--IMp5HKw3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%2520Emulator%25E3%2581%25AFAWS%2520Blocks%25E3%2581%25AE%25E3%2583%25A2%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592%25E7%25BD%25AE%25E3%2581%258D%25E6%258F%259B%25E3%2581%2588%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E5%25AE%259F%25E9%259A%259B%25E3%2581%25AB%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F%25E3%2580%258C%25E4%25B8%2589%25E3%2581%25A4%25E7%259B%25AE%25E3%2581%25AE%25E5%25B1%25A4%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ikenyal%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I5MzI2NGQ4NzcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "AIに書かせた、が全然AIが書いてない件",
-        "url": "https://zenn.dev/appleworld/articles/65aed6c725af71",
-        "author": "petanko",
-        "date": "Wed, 11 Nov 2026 02:11:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--spLdc09Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%259F%25E3%2580%2581%25E3%2581%258C%25E5%2585%25A8%25E7%2584%25B6AI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%2584%25E4%25BB%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:petanko%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQwZGMyYTQ1NTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%25AB%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg2ZGUwNGY0ZjIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "週刊Cloudflare - 2026/11/08週",
+        "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1101-1107",
+        "author": "あさひ",
+        "date": "Thu, 12 Nov 2026 04:54:55 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--pFae4Xvu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2580%25B1%25E5%2588%258ACloudflare%2520-%25202026%252F11%252F08%25E9%2580%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2582%25E3%2581%2595%25E3%2581%25B2%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQyYzJiNzVlZTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Gemcook%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhMDQyOWUwODUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
-        "url": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
-        "author": "ぺい(pei0804)",
-        "date": "Wed, 11 Nov 2026 00:21:10 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Ziv0Stau--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Snowflake%2520Dashboards%25202.0%25E3%2581%258C%25E6%259C%2580%25E9%25AB%2598%25E3%2581%25AA%25E7%2590%2586%25E7%2594%25B1%25E3%2581%25A8%25E3%2580%2581%25E3%2581%2593%25E3%2582%258C%25E3%2581%258B%25E3%2582%2589BI%25E3%2581%25AB%25E6%25B1%2582%25E3%2582%2581%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BA%25E3%2581%2584%2528pei0804%2529%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxNDFkYTVlNTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Snowflake%2520Data%2520Heroes%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViZTM2ZTM2MTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
+        "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
+        "author": "いっしー",
+        "date": "Thu, 12 Nov 2026 03:00:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--UQdRqE-I--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E6%25B1%25BA%25E5%25AE%259A%25E3%2582%2592%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2581%25A6%25E3%2581%2597%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F5%25E3%2581%25A4%25E3%2581%25AE%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25A8%25E5%25B7%25A5%25E5%25A4%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2584%25E3%2581%25A3%25E3%2581%2597%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRiOGMxZmU1MDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_40%2Cl_default:og-publication-connect-mark-v1_hx1oxd%2Cw_40%2Cx_214%2Cy_155/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DRESS%2520CODE%2520TECH%2520BLOG%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdiZjU2MDZlYjMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -137,7 +137,7 @@
         "name": "Gathin23/cleanyourtv",
         "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
         "url": "https://github.com/Gathin23/cleanyourtv",
-        "stars": 56582,
+        "stars": 57044,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/94786511?v=4"
       },
@@ -145,7 +145,7 @@
         "name": "storytold/craft-anything",
         "description": "Craft Anything: understand how any software works, and craft your own.",
         "url": "https://github.com/storytold/craft-anything",
-        "stars": 28573,
+        "stars": 30003,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
@@ -153,7 +153,7 @@
         "name": "deepseek-ai/DeepInfer",
         "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
         "url": "https://github.com/deepseek-ai/DeepInfer",
-        "stars": 25872,
+        "stars": 25910,
         "language": "Python",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -161,7 +161,7 @@
         "name": "deepseek-ai/dsh-superagent-prototype",
         "description": "Towards a More Autonomous Agent System",
         "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-        "stars": 22518,
+        "stars": 22759,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -169,7 +169,7 @@
         "name": "ccch1mneyyy/dsh-Go",
         "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
         "url": "https://github.com/ccch1mneyyy/dsh-Go",
-        "stars": 19810,
+        "stars": 20848,
         "language": "Dart",
         "owner_avatar": "https://avatars.githubusercontent.com/u/268149062?v=4"
       },
@@ -177,7 +177,7 @@
         "name": "Zagitta/gpu-unlock",
         "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
         "url": "https://github.com/Zagitta/gpu-unlock",
-        "stars": 18771,
+        "stars": 18972,
         "language": "C",
         "owner_avatar": "https://avatars.githubusercontent.com/u/865977?v=4"
       }
