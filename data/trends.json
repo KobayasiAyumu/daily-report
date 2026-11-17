@@ -1,13 +1,24 @@
 {
   "metadata": {
-    "last_updated": "2026-11-16T01:28:11Z"
+    "last_updated": "2026-11-17T04:14:48Z"
   },
   "trends": {
     "qiita": [
       {
+        "title": "もういい加減\"技術勉強会\"やめませんか？",
+        "url": "https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e",
+        "likes": 345,
+        "author": "kotowazaman",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2653361/7cf24d7adb84adfd024883cdde391442d5c517d0/large.png?1791250261",
+        "tags": [
+          "ポエム"
+        ],
+        "created_at": "2026-11-16T15:26:17+09:00"
+      },
+      {
         "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
         "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
-        "likes": 126,
+        "likes": 132,
         "author": "Syoitu",
         "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/320164/profile-images/1543311752",
         "tags": [
@@ -21,7 +32,7 @@
       {
         "title": "集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方",
         "url": "https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787",
-        "likes": 104,
+        "likes": 109,
         "author": "kohYoung_I",
         "avatar_url": "https://secure.gravatar.com/avatar/e712b9d157df0720fc60cac826b3ed5a",
         "tags": [
@@ -35,7 +46,7 @@
       {
         "title": "AI「テスト通りました」← これ､本当？  Stryker でテストの穴を塞いだ話",
         "url": "https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a",
-        "likes": 75,
+        "likes": 77,
         "author": "Dingu-suke",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3694349/profile-images/1776351319",
         "tags": [
@@ -47,23 +58,9 @@
         "created_at": "2026-11-09T16:45:09+09:00"
       },
       {
-        "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
-        "url": "https://qiita.com/kitao/items/af92619297d5563f2a0e",
-        "likes": 62,
-        "author": "kitao",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/13948/6fa9b7eb9fcc2f6993f78f4c25f8662a108c86e2/large.png?1730713203",
-        "tags": [
-          "Python",
-          "Pyxel",
-          "ゲーム制作",
-          "3D"
-        ],
-        "created_at": "2026-11-07T18:11:57+09:00"
-      },
-      {
         "title": "「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない",
         "url": "https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77",
-        "likes": 61,
+        "likes": 71,
         "author": "tsutorm",
         "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/76630/profile-images/1538798020",
         "tags": [
@@ -75,62 +72,62 @@
         "created_at": "2026-11-13T11:03:33+09:00"
       },
       {
-        "title": "Fable 5.2でGTA 6 Osaka Cityを作ってみた",
-        "url": "https://qiita.com/7mpy/items/5710fef43ba0e59204c6",
-        "likes": 50,
-        "author": "7mpy",
-        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/435735/7114fc555047d471192b44e6fd4d8287a6f2245a/x_large.png?1684110046",
+        "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
+        "url": "https://qiita.com/kitao/items/af92619297d5563f2a0e",
+        "likes": 63,
+        "author": "kitao",
+        "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/13948/6fa9b7eb9fcc2f6993f78f4c25f8662a108c86e2/large.png?1730713203",
         "tags": [
-          "AI",
-          "ClaudeCode",
-          "生成AI",
-          "AIエージェント"
+          "Python",
+          "Pyxel",
+          "ゲーム制作",
+          "3D"
         ],
-        "created_at": "2026-11-10T22:38:25+09:00"
+        "created_at": "2026-11-07T18:11:57+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "Lightdashで作れるグラフを試してみた【dbt v2】",
-        "url": "https://zenn.dev/ryatora/articles/lightdash-chart-catalog",
-        "author": "rnm",
-        "date": "Sun, 15 Nov 2026 15:07:26 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--YvRcWYJ4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Lightdash%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258C%25E3%2582%258B%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2595%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2580%2590dbt%2520v2%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rnm%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhkNGRlMzZjYmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "FTDで実装するTLS Decryption",
-        "url": "https://zenn.dev/5x4x7/articles/92a962f3cd6cb6",
-        "author": "5x4x7",
-        "date": "Sun, 15 Nov 2026 13:49:46 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--5wP0Ge9R--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:FTD%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258BTLS%2520Decryption%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:5x4x7%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiNjM2M2NjYmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "Canton Networkとは何か――金融機関が「見せる相手を選べる」ブロックチェーンに集まる理由",
-        "url": "https://zenn.dev/komlock_lab/articles/canton-network-evm-comparison-2026",
-        "author": "Kobara Toi",
-        "date": "Sun, 15 Nov 2026 09:06:22 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--lF_G1Fuc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Canton%2520Network%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25E2%2580%2595%25E2%2580%2595%25E9%2587%2591%25E8%259E%258D%25E6%25A9%259F%25E9%2596%25A2%25E3%2581%258C%25E3%2580%258C%25E8%25A6%258B%25E3%2581%259B%25E3%2582%258B%25E7%259B%25B8%25E6%2589%258B%25E3%2582%2592%25E9%2581%25B8%25E3%2581%25B9%25E3%2582%258B%25E3%2580%258D%25E3%2583%2596%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25AB%25E9%259B%2586%25E3%2581%25BE%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kobara%2520Toi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U4MjYwMWZiMGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": ".NET 11 の ASP.NET Core Blazor の新機能のスケールイン対応機能！",
-        "url": "https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale",
-        "author": "Kazuki Ota",
-        "date": "Sun, 15 Nov 2026 07:58:03 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--K-fauidN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:.NET%252011%2520%25E3%2581%25AE%2520ASP.NET%2520Core%2520Blazor%2520%25E3%2581%25AE%25E6%2596%25B0%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25A4%25E3%2583%25B3%25E5%25AF%25BE%25E5%25BF%259C%25E6%25A9%259F%25E8%2583%25BD%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kazuki%2520Ota%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmNzg3NDJjNDQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-      },
-      {
-        "title": "フロントエンドのフレームワークを、安全に段階的に入れ替える",
-        "url": "https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928",
+        "title": "実践パスキー認証設計",
+        "url": "https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9",
         "author": "Yasuaki Omokawa",
-        "date": "Sat, 14 Nov 2026 07:12:52 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--bQ16cFEB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%2592%25E3%2580%2581%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AB%25E6%25AE%25B5%25E9%259A%258E%25E7%259A%2584%25E3%2581%25AB%25E5%2585%25A5%25E3%2582%258C%25E6%259B%25BF%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yasuaki%2520Omokawa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNmOTUyODI3YjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "date": "Mon, 16 Nov 2026 12:53:34 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--oBYKEM6c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%25E3%2583%2591%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25BC%25E8%25AA%258D%25E8%25A8%25BC%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yasuaki%2520Omokawa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNmOTUyODI3YjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "【2026/11/13時点】Claude Duet を Team プランで触ってみた（組織で使うときの注意点つき）",
-        "url": "https://zenn.dev/canly/articles/e2bd67c9a4c18b",
-        "author": "ふくだ（fukuda ryu）",
-        "date": "Fri, 13 Nov 2026 23:45:16 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--6yr60NmA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902026%252F11%252F13%25E6%2599%2582%25E7%2582%25B9%25E3%2580%2591Claude%2520Duet%2520%25E3%2582%2592%2520Team%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25B3%25E3%2581%25A7%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2588%25E7%25B5%2584%25E7%25B9%2594%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E6%25B3%25A8%25E6%2584%258F%25E7%2582%25B9%25E3%2581%25A4%25E3%2581%258D%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B5%25E3%2581%258F%25E3%2581%25A0%25EF%25BC%2588fukuda%2520ryu%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEyMjRmMTIyZTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Kotlin Fest 2026 参加記",
+        "url": "https://zenn.dev/0st_ts/articles/d55862e1a134c2",
+        "author": "わかと",
+        "date": "Mon, 16 Nov 2026 10:00:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--PWWNN2HR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:Kotlin%2520Fest%25202026%2520%25E5%258F%2582%25E5%258A%25A0%25E8%25A8%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiZTFiNmUzZTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+        "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+        "author": "akki",
+        "date": "Mon, 16 Nov 2026 09:12:44 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--p05LMGQN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:QA%25E7%2594%259F%25E7%2594%25A3%25E6%2580%25A7%25E3%2582%2592%25E7%2588%2586%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AEQA%2520AI%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:akki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA1OTcyZGY4ODAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEGA%2520technologies%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwNmEwY2EyM2YuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+        "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+        "author": "ymg_aq",
+        "date": "Mon, 16 Nov 2026 08:00:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--sFf7CeA3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2589%25A9%25E7%2590%2586%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25A8AI%25E3%2582%2592%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2590%25EF%25BC%259A%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E3%2583%25BB%25E5%25BA%25A7%25E6%25A8%2599%25E7%25B3%25BB%25E3%2583%25BB%25E9%2581%258B%25E5%258B%2595%25E5%2588%25B6%25E5%25BE%25A1%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ymg_aq%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhNmQ4MDk1OGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Tech%2520Blog%2520-%2520Turing%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JlYTNlZmM1ZjYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "中編　LLM推論エンジンを作る",
+        "url": "https://zenn.dev/shozotanaka/articles/632191056c62f4",
+        "author": "ShozoTanaka",
+        "date": "Mon, 16 Nov 2026 07:46:05 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--kq91W7jN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%25AD%25E7%25B7%25A8%25E3%2580%2580LLM%25E6%258E%25A8%25E8%25AB%2596%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25B3%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ShozoTanaka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEJjbDJCNl9iZnNSd3BfVTRhUmZBeXZ3RnVsWFlHeGhvX0Q3WTFlcUxnMXpTYnJnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+      },
+      {
+        "title": "Claudeで試験項目の自動消化を試す",
+        "url": "https://zenn.dev/sre_holdings/articles/29458d1ff4cc39",
+        "author": "giya",
+        "date": "Mon, 16 Nov 2026 07:24:54 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3os7PkmG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2581%25A7%25E8%25A9%25A6%25E9%25A8%2593%25E9%25A0%2585%25E7%259B%25AE%25E3%2581%25AE%25E8%2587%25AA%25E5%258B%2595%25E6%25B6%2588%25E5%258C%2596%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:giya%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZlYWJhYWQ3ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SRE%2520Holdings%2520%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYS5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -138,7 +135,7 @@
         "name": "storytold/craft-anything",
         "description": "Craft Anything: understand how any software works, and craft your own.",
         "url": "https://github.com/storytold/craft-anything",
-        "stars": 33783,
+        "stars": 34944,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
@@ -146,7 +143,7 @@
         "name": "ccch1mneyyy/dsh-Go",
         "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
         "url": "https://github.com/ccch1mneyyy/dsh-Go",
-        "stars": 23795,
+        "stars": 24992,
         "language": "Dart",
         "owner_avatar": "https://avatars.githubusercontent.com/u/268149062?v=4"
       },
@@ -154,23 +151,15 @@
         "name": "deepseek-ai/dsh-superagent-prototype",
         "description": "Towards a More Autonomous Agent System",
         "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-        "stars": 23298,
+        "stars": 23534,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
-      },
-      {
-        "name": "Zagitta/gpu-unlock",
-        "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
-        "url": "https://github.com/Zagitta/gpu-unlock",
-        "stars": 19723,
-        "language": "C",
-        "owner_avatar": "https://avatars.githubusercontent.com/u/865977?v=4"
       },
       {
         "name": "heydamir/unslop",
         "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
         "url": "https://github.com/heydamir/unslop",
-        "stars": 16769,
+        "stars": 17328,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/97800728?v=4"
       },
@@ -178,9 +167,17 @@
         "name": "pengchujin/aerial-tv",
         "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
         "url": "https://github.com/pengchujin/aerial-tv",
-        "stars": 12028,
+        "stars": 12215,
         "language": "Kotlin",
         "owner_avatar": "https://avatars.githubusercontent.com/u/16513318?v=4"
+      },
+      {
+        "name": "anefzaoui/misterdownloadmanager",
+        "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+        "url": "https://github.com/anefzaoui/misterdownloadmanager",
+        "stars": 11253,
+        "language": "Rust",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/1832078?v=4"
       }
     ]
   }
