@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "last_updated": "2026-11-17T04:14:48Z"
+    "last_updated": "2026-11-18T03:13:37Z"
   },
   "trends": {
     "qiita": [
       {
         "title": "もういい加減\"技術勉強会\"やめませんか？",
         "url": "https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e",
-        "likes": 345,
+        "likes": 501,
         "author": "kotowazaman",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/2653361/7cf24d7adb84adfd024883cdde391442d5c517d0/large.png?1791250261",
         "tags": [
@@ -16,37 +16,9 @@
         "created_at": "2026-11-16T15:26:17+09:00"
       },
       {
-        "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
-        "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
-        "likes": 132,
-        "author": "Syoitu",
-        "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/320164/profile-images/1543311752",
-        "tags": [
-          "AI駆動開発",
-          "AWS",
-          "GitHub",
-          "ループエンジニアリング"
-        ],
-        "created_at": "2026-11-04T20:38:50+09:00"
-      },
-      {
-        "title": "集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方",
-        "url": "https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787",
-        "likes": 109,
-        "author": "kohYoung_I",
-        "avatar_url": "https://secure.gravatar.com/avatar/e712b9d157df0720fc60cac826b3ed5a",
-        "tags": [
-          "AWS",
-          "DEA",
-          "勉強法",
-          "AI"
-        ],
-        "created_at": "2026-11-04T15:13:29+09:00"
-      },
-      {
         "title": "AI「テスト通りました」← これ､本当？  Stryker でテストの穴を塞いだ話",
         "url": "https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a",
-        "likes": 77,
+        "likes": 110,
         "author": "Dingu-suke",
         "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3694349/profile-images/1776351319",
         "tags": [
@@ -60,7 +32,7 @@
       {
         "title": "「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない",
         "url": "https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77",
-        "likes": 71,
+        "likes": 86,
         "author": "tsutorm",
         "avatar_url": "https://qiita-image-store.s3.amazonaws.com/0/76630/profile-images/1538798020",
         "tags": [
@@ -74,7 +46,7 @@
       {
         "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
         "url": "https://qiita.com/kitao/items/af92619297d5563f2a0e",
-        "likes": 63,
+        "likes": 68,
         "author": "kitao",
         "avatar_url": "https://s3-ap-northeast-1.amazonaws.com/qiita-image-store/0/13948/6fa9b7eb9fcc2f6993f78f4c25f8662a108c86e2/large.png?1730713203",
         "tags": [
@@ -84,50 +56,77 @@
           "3D"
         ],
         "created_at": "2026-11-07T18:11:57+09:00"
+      },
+      {
+        "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい",
+        "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd",
+        "likes": 56,
+        "author": "nuco_d",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3893490/profile-images/1734314245",
+        "tags": [
+          "AI",
+          "生成AI",
+          "ClaudeCode",
+          "AIエージェント"
+        ],
+        "created_at": "2026-11-17T09:58:19+09:00"
+      },
+      {
+        "title": "AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説",
+        "url": "https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5",
+        "likes": 54,
+        "author": "Sicut_study",
+        "avatar_url": "https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/810513/profile-images/1714917423",
+        "tags": [
+          "AI",
+          "Security",
+          "設計"
+        ],
+        "created_at": "2026-11-15T17:03:34+09:00"
       }
     ],
     "zenn": [
       {
-        "title": "実践パスキー認証設計",
-        "url": "https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9",
-        "author": "Yasuaki Omokawa",
-        "date": "Mon, 16 Nov 2026 12:53:34 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--oBYKEM6c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E8%25B7%25B5%25E3%2583%2591%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25BC%25E8%25AA%258D%25E8%25A8%25BC%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yasuaki%2520Omokawa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNmOTUyODI3YjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "L40S 1台で社内RAGは何人まで使えるか",
+        "url": "https://zenn.dev/epicai_techblog/articles/29b509117755af",
+        "author": "a_shinohara",
+        "date": "Tue, 17 Nov 2026 10:00:06 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--JHO5WPsO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:L40S%25201%25E5%258F%25B0%25E3%2581%25A7%25E7%25A4%25BE%25E5%2586%2585RAG%25E3%2581%25AF%25E4%25BD%2595%25E4%25BA%25BA%25E3%2581%25BE%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:a_shinohara%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I5NTQzMjA5ODkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:EpicAI%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y1NjUyZTRiMTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Kotlin Fest 2026 参加記",
-        "url": "https://zenn.dev/0st_ts/articles/d55862e1a134c2",
-        "author": "わかと",
-        "date": "Mon, 16 Nov 2026 10:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--PWWNN2HR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:Kotlin%2520Fest%25202026%2520%25E5%258F%2582%25E5%258A%25A0%25E8%25A8%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiZTFiNmUzZTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
+        "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
+        "author": "mizchi",
+        "date": "Tue, 17 Nov 2026 09:53:47 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--gIzUz2IG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%258A%25E3%2581%2584%25E3%2580%2581%2520Mutation%2520Test%2520%25E3%2582%2592%25E3%2582%2584%25E3%2582%258C%25E3%2580%2582%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%2593%2581%25E8%25B3%25AA%25E3%2582%2592%25E3%2580%2581%25E6%25B8%25AC%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-        "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-        "author": "akki",
-        "date": "Mon, 16 Nov 2026 09:12:44 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--p05LMGQN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:QA%25E7%2594%259F%25E7%2594%25A3%25E6%2580%25A7%25E3%2582%2592%25E7%2588%2586%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AEQA%2520AI%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:akki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA1OTcyZGY4ODAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEGA%2520technologies%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwNmEwY2EyM2YuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Go Conference 2026実行委員を終えて",
+        "url": "https://zenn.dev/mire0726/articles/1f3f118662a0f5",
+        "author": "Suu",
+        "date": "Tue, 17 Nov 2026 07:21:52 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--2O-b2Cit--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%2520Conference%25202026%25E5%25AE%259F%25E8%25A1%258C%25E5%25A7%2594%25E5%2593%25A1%25E3%2582%2592%25E7%25B5%2582%25E3%2581%2588%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Suu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEzMDJlODdlMzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
-        "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-        "author": "ymg_aq",
-        "date": "Mon, 16 Nov 2026 08:00:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--sFf7CeA3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2589%25A9%25E7%2590%2586%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25A8AI%25E3%2582%2592%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2590%25EF%25BC%259A%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E3%2583%25BB%25E5%25BA%25A7%25E6%25A8%2599%25E7%25B3%25BB%25E3%2583%25BB%25E9%2581%258B%25E5%258B%2595%25E5%2588%25B6%25E5%25BE%25A1%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ymg_aq%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhNmQ4MDk1OGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Tech%2520Blog%2520-%2520Turing%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JlYTNlZmM1ZjYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "ローカルLLM入門",
+        "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+        "author": "tesla",
+        "date": "Tue, 17 Nov 2026 07:17:24 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s---mGpp2UG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tesla%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcyNzc0NTRhOWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2520%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q3MmIzODI1NzEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "中編　LLM推論エンジンを作る",
-        "url": "https://zenn.dev/shozotanaka/articles/632191056c62f4",
-        "author": "ShozoTanaka",
-        "date": "Mon, 16 Nov 2026 07:46:05 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--kq91W7jN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%25AD%25E7%25B7%25A8%25E3%2580%2580LLM%25E6%258E%25A8%25E8%25AB%2596%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25B3%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ShozoTanaka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEJjbDJCNl9iZnNSd3BfVTRhUmZBeXZ3RnVsWFlHeGhvX0Q3WTFlcUxnMXpTYnJnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "LTを盛り上げよう！AWSサービス応援うちわ制作裏話",
+        "url": "https://zenn.dev/namiki64/articles/7aab23e02d1dc4",
+        "author": "なみき",
+        "date": "Tue, 17 Nov 2026 03:55:17 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--kc9iiNwk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LT%25E3%2582%2592%25E7%259B%259B%25E3%2582%258A%25E4%25B8%258A%25E3%2581%2592%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581AWS%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E5%25BF%259C%25E6%258F%25B4%25E3%2581%2586%25E3%2581%25A1%25E3%2582%258F%25E5%2588%25B6%25E4%25BD%259C%25E8%25A3%258F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AA%25E3%2581%25BF%25E3%2581%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIxNTM5Y2NmMzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       },
       {
-        "title": "Claudeで試験項目の自動消化を試す",
-        "url": "https://zenn.dev/sre_holdings/articles/29458d1ff4cc39",
-        "author": "giya",
-        "date": "Mon, 16 Nov 2026 07:24:54 GMT",
-        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--3os7PkmG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2581%25A7%25E8%25A9%25A6%25E9%25A8%2593%25E9%25A0%2585%25E7%259B%25AE%25E3%2581%25AE%25E8%2587%25AA%25E5%258B%2595%25E6%25B6%2588%25E5%258C%2596%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:giya%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZlYWJhYWQ3ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SRE%2520Holdings%2520%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYS5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        "title": "Claude Desktop 開発のすゝめ",
+        "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
+        "author": "Aki 🚀 Product Engineer @ PeopleX",
+        "date": "Tue, 17 Nov 2026 03:41:36 GMT",
+        "image_url": "https://res.cloudinary.com/zenn/image/upload/s--jSYwetAk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Desktop%2520%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E3%2581%2599%25E3%2582%259D%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Aki%2520%2520%2520Product%2520Engi...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2YjYwNDBmMmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PeopleX%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg2ZGEwZmE3MzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
       }
     ],
     "github": [
@@ -135,7 +134,7 @@
         "name": "storytold/craft-anything",
         "description": "Craft Anything: understand how any software works, and craft your own.",
         "url": "https://github.com/storytold/craft-anything",
-        "stars": 34944,
+        "stars": 35878,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
       },
@@ -143,7 +142,7 @@
         "name": "ccch1mneyyy/dsh-Go",
         "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
         "url": "https://github.com/ccch1mneyyy/dsh-Go",
-        "stars": 24992,
+        "stars": 26183,
         "language": "Dart",
         "owner_avatar": "https://avatars.githubusercontent.com/u/268149062?v=4"
       },
@@ -151,7 +150,7 @@
         "name": "deepseek-ai/dsh-superagent-prototype",
         "description": "Towards a More Autonomous Agent System",
         "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-        "stars": 23534,
+        "stars": 23694,
         "language": "TypeScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4"
       },
@@ -159,7 +158,7 @@
         "name": "heydamir/unslop",
         "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
         "url": "https://github.com/heydamir/unslop",
-        "stars": 17328,
+        "stars": 17835,
         "language": "JavaScript",
         "owner_avatar": "https://avatars.githubusercontent.com/u/97800728?v=4"
       },
@@ -167,7 +166,7 @@
         "name": "pengchujin/aerial-tv",
         "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
         "url": "https://github.com/pengchujin/aerial-tv",
-        "stars": 12215,
+        "stars": 12349,
         "language": "Kotlin",
         "owner_avatar": "https://avatars.githubusercontent.com/u/16513318?v=4"
       },
@@ -175,7 +174,7 @@
         "name": "anefzaoui/misterdownloadmanager",
         "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
         "url": "https://github.com/anefzaoui/misterdownloadmanager",
-        "stars": 11253,
+        "stars": 12197,
         "language": "Rust",
         "owner_avatar": "https://avatars.githubusercontent.com/u/1832078?v=4"
       }
